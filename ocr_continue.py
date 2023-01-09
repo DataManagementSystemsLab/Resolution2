@@ -34,17 +34,19 @@ with open('empty.json') as f:
                     # Construct the full path to the destination location
                     dst_path = os.path.join(dst_dir, filename)
                     # Create the destination directory if it doesn't exist
-                    f=ocr(src_path,dst_dir,False)
+                    f,txt=ocr(src_path,dst_dir,False)
+                    txtfilename="txts/"+base+".txt"
                     if f==False:
                         f,txt=ocr(src_path,dst_dir,True)
                         if f:
-                            txtfilename="txts/"+base+".txt"
                             with open(txtfilename, 'w') as tmpf:
-                                    tmpf.write(txt)
-
+                                tmpf.write(txt)
                         else:    
                             empty2.append(filename)
+                    else: 
+                        with open(txtfilename, 'w') as tmpf:
+                            tmpf.write(txt)
 
-
+        print(empty2)
         print('Finished OCR files!')
 
