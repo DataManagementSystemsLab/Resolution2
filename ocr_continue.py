@@ -7,8 +7,11 @@ import common as c
 
 def ocr(input, output, ocring):
     if (ocring):
-            print("OCR "+ input)
-            ocrmypdf.ocr(input, output, deskew=True)
+            try:
+                print("OCR "+ input)
+                ocrmypdf.ocr(input, output, deskew=True)
+            except:
+                return False, ""    
     if (os.path.exists(output)):
             txt=c.convert(output)
             txt=txt.strip()
@@ -50,5 +53,9 @@ with open('empty.json') as f:
                             tmpf.write(txt)
 
         print(empty2)
+        # Open a file for writing
+        with open('empty2.json', 'w') as f2:
+            # Write the list to the file in JSON format
+            json.dump(empty2, f2)
         print('Finished OCR files!')
 
