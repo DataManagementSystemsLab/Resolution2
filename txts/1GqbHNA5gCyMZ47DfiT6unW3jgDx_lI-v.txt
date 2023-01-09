@@ -1,0 +1,264 @@
+Proctorio Faculty Guide
+INSTRUCTIONS
+Requirements must be on Syllabus: computer with mic, webcam, Chrome Browser
+Fellow faculty willing to help you
+Gary Levanti, Eric Schwartz, Jennie D'Ambroise
+Enable It
+•
+•
+•
+•
+•
+•
+
+Go to the course on Blackboard and select Customization -> Tool Availability.
+Scroll down, select the checkmarks for Secure Exam Proctor, click submit.
+Recommended: Make a new content area called “Take Exam HERE”.
+Go to the new content area and select Build Content -> Secure Exam Proctor, and
+when the tool options display name it “Secure Exam Proctor” and click Submit.
+The Secure Exam Proctor helmet link should now appear in your content area.
+Students will mostly not interact with this link except to initially install the
+Proctorio Chrome Browser Extension.
+
+Use It
+•
+•
+•
+•
+•
+•
+
+Create a new test in Blackboard. Name your exam something helpful like “Exam 2,
+click here to start exam”.
+Insert the new test into your “Take Exam HERE” content area.
+Go to Edit Test Options and turn on the Remote Proctoring option towards the
+bottom; click the Remote Proctoring checkbox then the options will be available.
+Select test options as desired: record video, verify desktop, etc..
+Your exam will now have the “(Remotely Proctored)” indicator in the test name.
+If you have any trouble, try restarting the Proctorio Chrome Browser Extension and
+use the Proctorio Support Chat if needed.
+NOTE: The live chat feature is the #1 problem solver for students!
+
+Please refer students to the live chat at https://proctorio.com/support for any
+problems during the exam session. Chat will help quickly and efficiently.
+Instruct Students
+•
+•
+•
+
+Students need to install the Proctorio Chrome Browser Extension.
+Students can ask for help before or during exams using the Proctorio Support Chat.
+Give students options for exam times when the instructor will be responsive and
+ready to reply via email. Effective and efficient communication during exam
+times reduces student anxiety; be available for incoming questions in real
+time during the exam timeslots.
+
+Common Student Problems
+•
+•
+•
+
+If the exam does not appear, restart the Proctorio Chrome Extension.
+If the student tries to click the “share” screen button, they must first click the screen
+picture to select their screen and then they can click the “share” button.
+If connection issues are persistent for a student, work with them to find an
+appropriate solution such as rescheduling their exam on campus or granting a few
+extra minutes using Blackboard settings. After the first proctored assignment,
+issues are usually identified and resolved.
+
+Faculty Recommendations
+•
+
+•
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+Create a 5 minute length “test exam” so students have experience starting
+Proctorio before the real exam period begins. Proctorio is easy to use, but
+familiarizing students with the software in advance does reduce anxiety.
+Use the “random block” feature when building exams in Blackboard, so that each
+student has a slightly different version of a problem.
+Write “authentic problems” that refer to your unique class structure, making it
+harder for students to obtain the answer from an outside source. A resource
+regarding course design is available, see handout: “Discouraging Plagiarism through
+Assignment Design: Some Strategies” from the Writing Center.
+Remember that setting the stage for academic honesty goes far beyond just the exam
+environment. Emphasize unique contributions that students must make to your class
+every week and outline expectations for honesty on all assignments. The exam should
+not be the first time the student is acclimated to honesty expectations.
+Create an environment of trust with students. Do not use eye movements or dogs barking
+in the background as a basis to question student’s exam work. Evaluate the work
+submitted by students on their own merits. Assess the originality and honesty of
+submitted work in accordance with best practices within your discipline.
+Emphasize fairness for all when administering exams. Insist that all students take
+the exam under the same conditions in the spirit of equity.
+When students encounter problems, suggest an immediate and reasonable solution
+for them. Examples include helping students to make an appointment on campus,
+using Blackboard settings to allow reentry into the exam when appropriate, and
+being responsive in real time to ease student’s questions and pr oblems.
+Require on-camera activities during regular class and learn the faces/names of your
+students. The exam session should not be the first on-camera activity. Build screen
+sharing into group work in class so students are acclimated to appropriate classrelated usage of their devices including being present, accountable, responsive.
+
+BENEFITS OF PROCTORIO
+•
+
+Flexible and equitable exam scheduling. Instructors have the option of providing
+multiple exam time windows to help accommodate student schedules. Students can
+choose their exam time from the slots provided by the instructor. All time slots
+offered will still have the same level of proctoring required so that the exam
+environment is fair and equitable for all students.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Distraction-free environment. Students are uninterrupted during the exam
+period. For example, students can talk out loud to themselves to work out a
+problem without disturbing other students.
+Privacy. The instructor is the only person who can see students’ exam session.
+Students cannot see other students during an exam session. Proctorio staff also
+cannot see students’ exam sessions. Using Proctorio, the level of access to a
+student’s exam session is more restricted when compared to both an in-person
+exam or a zoom session. Remember that FERPA guidelines protect student info that
+is gathered by instructors for the purposes of course administration.
+Fairness. In a zoom environment, if multiple students are not following exam
+protocols simultaneously then the exam environment is going to be skewed and
+unfair for those students who are indeed following the exam rules honestly.
+Proctorio helps the instructor to manage dozens of students simultaneously
+resulting in a more equitable environment that is applied equally to all students.
+Ease of use. The technical requirements are very minimal. Students who cannot
+satisfy the requirements of the Chrome browser extension can borrow a computer
+just for the exam period, make an arrangement at a local library just for the exam
+period, or they can go to a campus computer lab for the exam period. Note: most
+students prefer the former two options rather than going to campus. To arrange a
+campus appointment for an exam, email servicedesk@oldwestbury.edu, your
+Dean, and the Provost. The Dean and Provost will “ok” the visit and
+servicedesk@oldwestbury.edu will arrange the room and set up the technical
+accommodations. Be sure to include in your message: using Proctorio, which
+devices required (webcam, mic, Chrome), and exam duration. Advance notice
+of 5 business days is appreciated when possible.
+Special accommodations & proctoring time. For example, suppose one student
+gets extra time and a second student cannot take the exam until after they get home
+from work. Under these conditions, only 2 students needing perfectly reasonable
+accommodations would require the instructor to personally zoom proctor up to 2 or
+3 times a regular class session in a single day. Most classes have more variation
+than just 2 students needing special accommodations. Using Proctorio the
+instructor can better manage dozens of students so that they all have the same exam
+environment regardless of any/all special accommodations needed.
+
+DOWNSIDES OF PROCTORIO
+The downsides are very similar to an in-person exam. Students still have the ability to
+access their phones or secondary devices away from the view of the exam session.
+Students and instructors must also plan in advance for the exam and anticipate using
+Proctorio during the exam session. Instructors looking to simulate an in-person exam as
+closely as possible in a remote setting may view these “downsides” as somewhat of a benefit
+since similar or analogous downsides are true in-person.
+
+MYTHS ABOUT PROCTORIO
+•
+
+•
+
+•
+
+•
+
+Proctorio does not prevent cheating. In-person exams also have their fair share
+of academic dishonesty. However, having a “presence in the room” with Proctorio is
+the closest thing to an in-person exam remotely. Preventing academic dishonesty
+should be a holistic affair above and beyond the exam period: communicate well,
+establish great rapport with students, design authentic assignments, get to know
+your students individually, etc.. These strategies matter just as much as creating an
+equitable exam environment. Don’t wait until the exam time to set honesty
+standards. Refer to handout entitled “Discouraging Plagiarism through Assignment
+Design: Some Strategies” from the Writing Center for additional assignment design
+strategies.
+Proctorio does not catch cheating. Academic dishonesty is not determined by
+where a student looks or how they act. Just like an in-person exam, academic
+dishonesty is determined by the materials the student hands in for the exam.
+Proctorio does not flag or determine cheating. Proctorio has flagging features
+that the instructor can choose to ignore or use at their discretion. The instructor
+(not Proctorio) has full control over whether and in what manner any/all flags are
+used. Flags are not activated during the exam session, only after the exam session is
+finished. Flags can be changed at any time, even after the exam, if the instructor
+chooses to use them at all. If an instructor does not find any flags to be important
+they can make all flags “low priority” and also ignore them. Academic dishonesty is
+determined by the materials the student hands in for the assignment.
+Proctorio does not access the exam session video. The instructor is the only
+person who can access the exam session video. Not even Proctorio staff has access.
+
+REASSURING STUDENTS, EXAMPLE SCENARIOS
+•
+
+STUDENT CONCERN: “I’m afraid my pet or family will alert a flag in Proctorio and I
+will be falsely accused of cheating.”
+o INSTRUCTOR RESPONSE: “No need to worry. As the instructor, I am the
+only person who has access to the session. Rest assured I will ignore any
+accidental noises like this!” Make sure the student understands that you, the
+instructor, has full authority regarding the exam session and you are the only
+person who can see the exam session details. Ask the student if they will be
+able to arrange a distraction-free environment, offer the student different
+time slots for the exam that may help them, and encourage the student to set
+up a good environment so they can focus during the exam. Make sure the
+student understands that you want to help them do their absolute best on the
+exam!
+
+•
+
+•
+
+•
+
+STUDENT CONCERN: “I’m afraid I will look the wrong way or talk to myself and be
+falsely accused of cheating.”
+o INSTRUCTOR RESPONSE: “No need to worry. As the instructor I have sole
+and complete control over the exam sessions. Actually one of the benefits of
+Proctorio is you can talk about a problem out loud to yourself and never
+worry about disturbing other students. Rest assured talking to yourself or
+looking anywhere will have no effect on your exam grading. Your exam will
+only be graded based on the work you hand in for the exam.”. Make sure the
+student understands that you support them having their own mental space to
+work.
+STUDENT CONCERN: “My computer is broken.” or “Can I do the exam on an ipad?”
+o INSTRUCTOR RESPONSE: “In order to effectively access class material, live
+office hours, and live class sessions, it is expected that students have a
+working computer. Let’s discuss how you will be accessing all the
+assignments in this class given your available devices. As far as the exam is
+concerned you should make special arrangements such as borrowing a
+computer for the exam session or reserving a space at your local library in
+advance of the exam. If none of these are possible, I as the instructor can
+help you to make an appointment on campus – let me know and I will make
+the arrangements for you!” Make sure students understand that using a
+computer for college material is not about “monitoring them” for exams!
+Using a computer is essential and the best practice for college level material,
+and it is expected that they will find a way to meet course requirements.
+Using a computer will help the student contact help, get tutoring, meet with
+the instructor, view assignments, work with their peers, and more.
+STUDENT CONCERN: “I’m concerned that Proctorio is taking personal browsing
+data from my computer.”
+o INSTRUCTOR RESPONSE: “Proctorio is passive and just captures the screen
+during the exam session. Make sure you have all other applications and tabs
+closed before starting the exam session. It's very similar to clearing your
+desk for an in-person exam, and similar when the instructor can see your
+desk when you take an exam in person. “. Part of the reason the campus
+chose Proctorio rather than another proctoring solution is because Proctorio
+has no power to control students‘ computers and Proctorio staff never sees
+the exam session (nor anyone besides the instructor). Rest assured no
+browsing history is accessed. Instructors can also suggest that students
+install Proctorio just for the exam session only, and then uninstall it after the
+exam is finished, if the student prefers.

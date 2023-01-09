@@ -1,0 +1,98 @@
+Suggestions related to holding a Zoom Meeting (some of this is good for any virtual
+meeting)
+1. Before you start, especially if you’re not used to conducting a virtual meeting,
+admit there is going to be a learning curve and ask everyone to please be patient.
+2. If you are using Zoom, encourage everyone to open the “participants” and
+“chat” dialogues as these can be helpful during the course of the
+meeting. Note: Hosts will have different options than participants. For
+example, participants will have a “raise hand” button in the participants area
+which can, no pun intended, come in handy – hosts will not see this option.
+3. Unless someone is addressing the body, or participating in an active
+conversation, ask everyone to please keep their microphone and video off –
+video in particular can impact the software and if everyone has their camera on it
+can slow things down.
+4. If it becomes clear that you can’t address an agenda item as a result of the
+meeting format, let folks know, and suggest that you come back to it in the future
+when you have the ability to do so.
+5. If you can, have an assistant manage the flow of the meeting. In Zoom, you want
+to designate this person as a host to improve their ability support you. The
+parliamentarian is a great option for this if they are willing and able to fill this
+role.
+6. If you do not already have established rules for how many questions and or time
+each person called on can utilize, consider establishing them so you have an
+understood practice to be followed.
+7. If documents are going to be reviewed during the course of the meeting, unless
+you need to have the actual document up, distribute the documents prior to the
+meeting so everyone has them locally and can reference them if needed.
+8. If you are going to review documents “live” in the meeting, have them open and
+ready to go before you start the meeting so you can use the “share screen” option
+to switch between items you want the participants to see. You can always open
+documents as you go, but it’s easier if they are all ready to go.
+9. During the meeting, if you use Zoom, participants will be able to “raise their
+hand” to be included in the conversation. Hosts will see who put their hand up
+in order and can call on them in sequence. Note: Participants will see hands go
+up, but not the sequence.
+
+10. The Chat section can be used for individuals to ask to be included in the
+conversation as well. The order of requests will be clear, but if many “chats” are
+sent, it will be necessary to scroll back up through the list to get the right
+order. Using private chats, to a designated individual who is not hosting, can
+help to solve this, but will required the designated individual to be able to
+recognize speakers.
+11. To second a motion, if you are a voting member of the Purchase College Senate,
+please use the chat feature.
+
+Some Voting Options that can be used (if you don’t have the “polling” option in
+Zoom):
+1. Use the “raise hand” feature under participants to have everyone vote as you go
+along. This allows you to count who raises their hands as if you were inperson. Hosts can/should clear all raised hands once a vote is counted.
+2. Use chat to register each persons vote. This option allows for a record of who
+voted how by saving the chat dialogue at the end of the meeting. Chat votes can
+either be done “publicly” where everyone sees all votes, or “privately” where
+votes are “chatted” privately to the person designated to count them.
+3. Add links to preconfigured surveys that can be pasted into the chat section for
+folks to follow and cast their vote. If your campus has a history of using online
+voting, this will allow you to use the same process.
+
+Other tips:
+1. Ask everyone attending the meeting to log in and/or set their user-name to their
+actual/preferred name so you know who is included and can call on participants
+by the right name. Participants that call in will not have this option.
+2. If groups of individuals join the meeting through a common device it will be
+harder to track individual participants. If quorum requires a specific cohort be
+met, this may require more than just tracking who has logged in to the meeting
+to establish quorum. This practice may also compromise the ability to conduct
+representational voting.
+3. While you can use Zoom from a phone, using your desktop is likely much more
+functional.
+
+4. Using headsets with a mic is helpful, though it may make the meeting look more
+like a call center.
+5. Proximity between individuals attending the meeting only matters if they are
+physically next to each other and have their speakers and mics open which can
+cause a feedback loop.
+6. You can press and hold the space bar down to temporarily unmute your mic if
+you want to say something. When you release the space bar our mic will be
+muted again. Be advised that depending on your keyboard, this can be a bit
+inconsistent.
+7. If you haven’t previewed what you and your background will look like when
+your camera is on, don’t be surprised if its not what you want folks to see.
+8. If you are the host, it is possible to share your desktop if you choose to or
+accidently make the wrong selection under “share screen” so:
+a. Host from a non-personal computer that does not have any sensitive items
+on the desktop and/or open.
+b. Move any/all personal items off of your desktop so they can’t be seen.
+c. Be mindful of how desktop items are named.
+d. Be aware of your desktop background – it might make sense to you, but
+not to others (especially if you are using a personal picture)
+e. Pay attention to what you are doing and don’t share your desktop.
+9. At the end of the meeting, end the meeting through the software and hang up
+any open speaker phones that may be open for the meeting.
+
+Prepared and shared by:
+Daniel Hanessian
+Campus Governance Leader
+Faculty Presiding Officer
+Chair, Purchase College Senate
+Chancellor’s Award for Excellence in Faculty Service
+Purchase College, State University of New York

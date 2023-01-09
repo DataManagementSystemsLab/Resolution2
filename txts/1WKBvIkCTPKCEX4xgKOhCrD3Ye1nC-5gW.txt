@@ -1,0 +1,105 @@
+With the SUNY/D2L Contract Approved,
+Planning Shifts into High Gear
+Contract Approval Opens Lines of
+Communication
+As soon as the SUNY/D2L contract was
+approved, one of the most immediate tasks
+at hand was to align the internal planning
+that SUNY had been doing independently,
+with D2L’s approach to implementation
+planning. “We had both established a project
+plan and project teams, but prior to contract
+approval, we couldn’t share that work with
+one another,” said Kim Scalzo, Interim
+Executive Director of Academic Technologies
+and Information Services and project lead.
+“The lines of communication were opened
+when the contract received final approval.
+We began meeting with D2L immediately to
+understand our respective approaches and to
+ensure a fully aligned plan that would
+support successful implementation.”
+
+There is Still Time to Register for an “Introduction
+to D2L’s Brightspace” Webinar
+Our initial webinar, scheduled for October 28, filled
+up quickly. A second webinar was scheduled for
+November 5, from 10 a.m. – 11:15 a.m. and seats
+are still available! Register here:
+https://sunycpd.eventsair.com/sunyd2l/reg.
+This session brings SUNY and D2L project leads
+together to talk about project status and to
+preview the features of Brightspace that led to its
+selection as the LMS in SUNY’s unified Digital
+Learning Environment.
+All registrants will receive a survey providing an
+opportunity to submit questions in advance that
+presenters will work to address in the webinar.
+Questions not addressed will be responded to and
+posted in the FAQ section of the project website,
+DLE.suny.edu. Recordings of both sessions will also
+be posted to the website.
+
+From the start, SUNY has relied on a
+collaborative approach to this transition—
+from faculty engagement in the development
+of the RFP to faculty and staff involvement in the review of RFP responses, and most recently, to the
+creation of implementation teams with broad campus and System representation. That commitment
+to a collaborative approach will ultimately make the unified DLE better and more responsive to
+campus, faculty, and student needs. At the same time, our collaborative approach does mean that
+there is some waiting period to finalize plans as we work together with planning teams and work
+groups—now informed by communications with D2L—to research, make and/or review final
+recommendations, which inform final decisions.
+Identification of Tools and Tool Integrations
+Part of the research effort underway is the survey distributed to all campuses to help collect critical
+information around current tools and tool integrations that campuses deem essential. An accurate
+snapshot of the landscape today is needed so that recommendations and decisions made around
+tools and tool integration for the new unified environment meet faculty needs and support
+students, while reducing redundancies that will achieve cost savings.
+To that end, some campuses have asked whether or not they should move forward with plans for
+campus-wide use of new tools or contract renewals. There will no doubt be some immediate faculty
+Page 1 of 2
+
+needs campuses will have to meet; however, it is true that there may be some tools, integrations,
+initiatives that may not make sense to pursue or renew based on the timing of the transition and
+determination of tools and integrations that will be built into the unified environment and available
+to campuses. This is another reason why complete survey responses are so important. The survey
+was sent to CIOs, Directors of Online Learning, and LMS Administrators on each campus with a
+request for the campus to coordinate on their response. Each campus was also asked to identify a
+primary contact for survey completion with responses due on 10/27.
+Questions and a New Schedule for Website FAQs
+“I wish we could answer every question we receive immediately, but I assure you we are making
+important progress every day to ensure everyone has the information they need,” said Harry Cargile,
+Manager of Application Services for SUNY Online and a DLE transition project lead. “With the
+contract now approved, we are working tirelessly to finalize priority actions that will support a first
+cohort in January.”
+This work includes the staffing of the final two teams: the Technical Implementation Work Group
+(technical architecture, network, security, and campus technical migration); and the Campus
+Implementation Planning Work Group (campus level configuration, templates, and support for
+change management at the campus level). Both groups are comprised of campus and System
+representatives and will likely stay engaged through the first cohort.
+Beginning in November, the FAQ page on the DLE.suny.edu website will be updated every Friday,
+with new additions/updates noted. A new page will also be added to the website with information
+on upcoming informational webinars and training news; the recordings of the 10/28 and 11/5
+Introduction to D2L’s Brightspace sessions will be posted there (see box on page 1 for information on
+how to register).
+Training
+Jamie Heron, SUNY Online Program Manager at the SUNY Center for Professional Development, will
+coordinate, along with a cadre of campus partner volunteers, a unified approach to training. Plans
+include options for both asynchronous and synchronous training modules and reference materials,
+developed at no charge to campuses, that each institution will be able to adapt as needed. Training
+will roll-out to System Administrators, Help Desk professionals, instructional designers, faculty, and
+students. Importantly, training will address the needs of faculty teaching in all delivery modes,
+including faculty who will use the LMS to teach online as well as faculty who utilize the LMS as a
+resource in their in-person classes and those who teach in hybrid and HyFlex instructional models.
+“The broader program will include guided online training, asynchronous modules with LMS expert
+check-ins and assistance, synchronous live training, and online self-paced training for students,”
+said Jamie. She said her goal is that any campus-led training will be able to utilize already developed
+resources so that campus staff can focus on responding to individual faculty and student needs
+rather than building training materials.
+We all understand how critically important the training program is, not only to ensure basic
+usability, but to support faculty innovation and to promote both faculty to student, and student to
+student, engagement.
+We hope to see everyone at one of the upcoming webinars!
+Thank you for reading and for your engagement in this important process.
+Page 2 of 2

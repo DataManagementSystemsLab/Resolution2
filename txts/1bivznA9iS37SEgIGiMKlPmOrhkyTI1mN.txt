@@ -1,0 +1,107 @@
+_ ie
+
+|
+
+SUNY OLD WESTBURY
+
+SERVICES
+
+Ally Report October 2021
+This report reflects a steady increase in score and overall improvement for accessibility from Winter 2021 through Fall
+
+2021 (YTD).
+
+Overall Ally Score 2021-2022 Academic Year
+68.8%
+
+on
+‘673
+
+\
+
+me
+
+15.510
+
+y
+
+68.8%
+
+m:
+
+Overall Ally Score 2021 Per Semester
+
+SEMESTER
+
+ACCESSIBILITY SOORE
+
+COURSES
+
+CREATED
+
+WINTER 2021
+
+58.0%
+
+41
+
+3,704
+
+SPRING 2021
+
+62.6%
+
+695
+
+43,572
+
+SUMMER 2021
+
+63.1%
+
+176
+
+11,409
+
+FALL 2021
+
+63.4%
+
+699
+
+31,309
+
+QA PFoON>
+
+TOP 5 COMMON
+Document
+Document
+Document
+Document
+Document
+
+Te
+
+mace
+
+ISSUES:
+
+contains has contrast issues is untagged
+contains images without a description
+does not have any headings
+does not have any headings
+
+MOST COMMON
+1.
+
+MAJOR
+
+SEVERE
+
+ISSUE:
+
+Document Scanned not OCRed
+
+mUal
+
+(+)

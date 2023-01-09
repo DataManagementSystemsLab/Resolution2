@@ -1,0 +1,73 @@
+Resolution on Migration from Google Apps to Microsoft Office 365
+Whereas, in the Google Apps vs. Microsoft Office 365 Information & Discussion Forum (“the
+Forum”) on October 9, 2015, faculty members, along with student representatives and staff members,
+explicitly expressed their concerns with the possible transition from a Google-based system to Microsoft
+Office 365 and strong interest in being involved in the decision-making process; and
+Whereas, in the same meeting, the Chief Information Officer publicly and unambiguously assured that:
+1) A decision to switch to Microsoft Office 365, if it ever happens, would not take place for at least
+another year; and
+2) Such a decision would never be made without consultation with faculty members; and
+3) The IT department would keep the faculty informed of every development on this issue; and
+Whereas, the results of the Forum participant survey indicated that the lack of transparency in the
+decision-making process and possible disruptions in the transition from Google to Microsoft Office 365
+are major concerns; and
+Whereas, in the Faculty Senate meeting on March 11th, 2016, the Chief Information Officer revealed
+that the College had already decided to switch from the Google-based system to the MSO system as
+soon as August 2016; and
+Whereas, despite the stated assurance from the Chief Information Officer at the Forum, this decision
+was made in the absence of communication or consultation with stakeholders, including the faculty; and
+Whereas, information technology is a critical infrastructure for scholarship, pedagogy, and
+communication; and
+Whereas, the changes in the cloud platform may have a strong impact on teaching tools, research
+activities, and communication practices; and
+Whereas, all constituencies of the College should strive to foster a culture of effective communication
+and cooperation,
+Now, Therefore, Be It Resolved That, the Chief Information Officer shall provide explicit answers for
+each item on “The Questions Concerning Google Apps - Microsoft Office 365 Migration at SUNY Old
+Westbury” to the Faculty Senate and Student Government Association within two weeks from the
+delivery of this resolution.
+
+Drafted by the Teaching and Learning Resource Committee (TLRC) and submitted to the Faculty Senate on April 1 st, 2016
+
+The Questions Concerning
+Google Apps - Microsoft Office 365 (MSO365) Migration at SUNY Old Westbury
+A. Decision-Making Process
+A1. When was the decision to switch to MSO365 made?
+A2. Who was involved in the decision-making process?
+A3. Who among the faculty were consulted in this decision?
+A4. Who among students were consulted in this decision?
+A5. Who among professional and administrative staff were consulted in this decision?
+A6. Other than direct consultation with the faculty and students, how did the IT Department assess the needs
+and concerns of users?
+A7. How does the IT Department plan to get feedback from faculty, students and staff on their needs and
+incorporate them in future decision-making regarding 1) the transition to and use of the cloud platform,
+and 2) other IT resources concerning teaching, learning and communicating? Please provide concrete
+plans.
+B. Transition Process
+B1. When will the transition from Google Apps to MSO365 begin? When will it be completed? Please
+describe the schedule or incremental process, if any.
+B2. Can users continue to use their Google account as a school account if they prefer? If yes, how could
+users make a request to do so (if necessary)?
+B3. Will the IT Department provide targeted training/workshops on MSO365? If so, when, and how often?
+B4. What other plans does the IT Department have to assist users in this transition?
+C. Compatibility – General
+Please provide a detailed spec of MSO365 as it will be implemented at the College, and make a side-by-side
+comparison of the supported features with the Google Apps we currently have.
+D. Email
+D1. Will all existing emails migrate to MSO365?
+D2. Will the complete contact list (including all listservs/groups) migrate to MSO365?
+D3. Are there any known issues regarding Google – MSO365 email migration? If so, what are they, and
+how are we addressing the issues?
+D4. How shall users prepare for email migration?
+E. Cloud Storage & Other Apps
+E1. Will all existing content of Google Drive migrate to MSO365?
+E2. What will happen to Google App data that are not compatible to MSO365 in the process of migration?
+E3. Users have linked many Google Docs to Blackboard as teaching resources. Do they have to manually
+re-link all of them?
+E4. How will Google Forms and data migrate to MSO365? What will be used in place of Google Forms?
+E5. Many users write papers in Google Docs and work from different locations. Can users access
+MSO365 from any computer with an Internet Connection, or will they be limited by the five MS
+licenses that will be provided?
+E6. Users collaborate with scholars outside of the US using Google Drive. How will this transition affect
+the ability to collaborate with research partners?
+Drafted by the Teaching and Learning Resource Committee (TLRC) and submitted to the Faculty Senate on April 1 st, 2016

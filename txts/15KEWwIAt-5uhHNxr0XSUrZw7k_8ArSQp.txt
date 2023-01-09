@@ -1,0 +1,346 @@
+F20 MID-SEMESTER
+REMOTE INSTRUCTION
+FACULTY SURVEY
+REPORT
+
+November 2020
+
+Office of Institutional Research and Assessment
+Jacob Heller, AVP of Institutional Effectiveness & Administration
+Ashlee Lien, Co-Director of Academic Assessment
+Ryoko Yamamoto, Co-Director of Academic Assessment
+
+KEY TAKEAWAYS
+ The survey captured a broad range of remote instruction experiences among OW
+faculty. Some find remote instruction to be highly effective, while others continue to find
+it hard to adapt. Most faculty seem to consider remote teaching to be a workable and
+preferable option under the circumstance, while increased workload, reduced student
+engagement, and students’ technology issues pose challenges.
+ Most faculty feel offering courses on campus in a “COVID-safe” mode would not
+necessarily make teaching more effective, considering safety concerns, added anxiety,
+and the burden of following safety protocols and dual-mode instruction.
+ Effective interpersonal communication is harder in remote settings. Respondents
+indicated that keeping students engaged, assessing the level of learning, maintaining
+academic honesty and offering individualized support to students are more challenging
+in the remote setting.
+ Faculty feel that enhanced IT support and a space on campus for students to study with
+computers and reliable internet will improve remote instruction experience, by providing
+stability to instruction and curtailing students’ technology issues. Clear guidelines from the
+College, peer-mentoring/exchange, and training in remote pedagogy may also help.
+However, faculty also identify e-communication/training overload as issues.
+
+WHO RESPONDED TO THE SURVEY
+Data were collected using an e-survey during October 22-30, 2020. All SUNY OW faculty
+teaching at least one remote course in Fall 2020 were invited to participate in the survey.
+
+Total Number of Valid Responses
+School Affiliation
+
+Faculty Status
+Online Teaching Experience
+before March 2020
+% of Synchronous Teaching in F20
+Remote Courses
+
+1
+
+1481
+SAS = 58%, SOE = 11%, SOB = 9%, SPS = 1%
+Other = 7%
+Prefer not to say = 14%
+Tenured = 31%
+Tenure-streamed, yet to be tenured = 24%
+Full-time, not tenure-streamed = 10%
+Part-time, not tenure-streamed = 25%
+Other = 9%
+Yes = 57%, No = 43%
+Over 75% = 66%
+50-74% = 23%
+25-49% = 3%
+24% or below = 8%
+
+Of 148 respondents, 80 are tenure-streamed faculty. The response rate among tenure-stream faculty is approx. 56% (as of
+Jan 2020, the total number of tenure-stream faculty was 144).
+F20 Mid Semester Remote Instruction Faculty Survey -2
+
+I.
+
+REMOTE TEACHING EXPERIENCE
+
+While survey respondents express a range of experiences in and sentiments toward remote
+instruction, overall, they appear to be adapting well to the remote instruction experience.
+Respondents rated their remote instruction experiences in Fall 2020 on the scale of 1(Extremely
+Unsatisfactory) to 5 (Extremely Satisfactory). The average rating is 3.68.
+Narrative comments indicate that, in general, respondents consider remote instruction to be
+the most workable or desirable option under the circumstances, despite some challenges. They
+note technical problems and the low level of student engagement as areas of dissatisfaction.
+Some specifically note frequent problems with the Portal and students not turning on their video
+cameras. Those who are more satisfied with remote instruction tend to report a high level of
+student engagement in their courses, the assurance of safety during the pandemic, and the
+lack of a commute. Effectiveness of synchronous meeting platforms (Zoom, Blackboard Ultra) is
+also noted. See Q3OA in F20 Mid Semester Remote Instruction Faculty Survey: Open-Ended
+Responses for more narrative comments.
+
+FIGURE 1. OVERALL SATISFACTION WITH REMOTE INSTRUCTION EXPERIENCE
+45%
+
+42%
+
+40%
+
+35%
+
+35%
+30%
+25%
+20%
+
+17%
+
+15%
+10%
+5%
+
+5%
+1%
+
+0%
+1 (Extremely
+Unsatisfactory)
+
+2
+
+3
+
+4
+
+5 (Extremely
+Satisfactory)
+
+Q2. On a scale of 1-5 (1 = extremely unsatisfactory; 5= extremely satisfactory), how would you rate your
+remote instruction experience in this semester so far?
+
+F20 Mid Semester Remote Instruction Faculty Survey -3
+
+II.
+
+AREAS OF CHALLENGE
+
+Most respondents identify that “keeping students engaged” became more challenging after
+the transition to remote instruction. A majority of respondents also feel that assessing students’
+understanding, preparing for classes, ensuring academic honesty, and providing individualized
+support also became more challenging.
+
+FIGURE 2. THE IMPACT OF THE TRANSITION TO REMOTE INSTRUCTION
+
+Keeping students engaged
+
+Assessing students' understanding
+
+Preparing for classes
+
+Ensuring academic honesty
+Providing individualized
+support/remediation to students
+Keeping up with grading
+Consulting with colleagues about
+teaching and/or assignments
+Communicating with students outside of
+the class
+
+83%
+3%
+67%
+7%
+63%
+
+3%
+62%
+4%
+59%
+10%
+45%
+10%
+
+37%
+7%
+35%
+16%
+
+% More
+Challanging
+% Less
+Challanging
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%
+Q4. How has the transition to remote instruction impacted your teaching? For each of the following areas, please
+indicate whether the transition made it more challenging, less challenging, or had no impact.
+
+F20 Mid Semester Remote Instruction Faculty Survey -4
+
+III.
+
+AREAS OF CONCERN
+
+Respondents identify the increased amount of work, low levels of student engagement, and
+students’ technology problems as major areas of concern in remote instruction.
+Other concerns include Blackboard problems, the increased non-academic responsibilities of
+students, and the burdens of increased amounts of communication, service, and training on
+faculty. For more, see Q6OA in F20 Mid Semester Remote Instruction Faculty Survey: OpenEnded Responses.
+
+FIGURE 3. CONCERNS WITH REMOTE INSTRUCTION
+82%
+
+Amount of work has increased.
+
+70%
+
+It is difficult to keep students engaged.
+
+67%
+
+My students' Internet connection is not reliable.
+It is difficult to help my students with their
+technical problems.
+My students do not have sufficient computing
+equipment.
+The level of my psychological stress has
+increased.
+It is hard to shift the class content to a remote
+environment.
+Learning online/remote pedagogy has been
+challenging.
+It is difficult to troubleshoot my own technical
+problems.
+
+61%
+55%
+53%
+43%
+40%
+32%
+
+My computing equipment is not sufficient.
+
+17%
+
+My Internet connection is not reliable.
+
+16%
+
+It is difficult for me to work from home.
+
+15%
+
+Learning how to use Blackboard has been
+challenging.
+
+14%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%
+
+Q5. Which of the following concerns apply to your remote instruction experience in this semester?
+F20 Mid Semester Remote Instruction Faculty Survey -5
+
+IV.
+
+RESOURCES NEEDED
+
+Faculty feel that the strongest needs are for enhanced IT support and the availability of a study
+space on campus for students, with computers and Internet connection. Guidelines from the
+College that clarify expectations for remote instruction, opportunities for pedagogical
+discussions with other faculty, and training in remote/online pedagogies may also help to
+enhance the quality of remote instruction. However, narrative comments indicate that the
+increased amount of work makes it difficult to spend time on training. See Q8OA in F20 Mid
+Semester Remote Instruction Faculty Survey: Open-Ended Responses for additional resource
+suggestions.
+
+FIGURE 4. RESOURCES THAT WILL HELP REMOTE INSTRUCTION
+
+52%
+
+Enhanced IT support
+A study space on campus for students
+with a computer and Internet
+connection
+Opportunities to discuss pedagogy with
+other faculty
+
+Training in remote/online pedagogy
+
+37%
+
+56%
+
+32%
+
+27%
+
+52%
+
+23%
+
+Guidelines from the College that clarify
+expectations for remote instruction
+
+54%
+
+32%
+
+More Blackboard training 10%
+
+44%
+
+48%
+Help Very Much
+
+A space on campus where you can
+safely meet with a small group of
+students
+
+25%
+
+33%
+
+Help Somewhat
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Q7. In your opinion, how would each of the following resources impact your remote instruction
+experience?
+F20 Mid Semester Remote Instruction Faculty Survey -6
+
+V. WOULD “COVID-SAFE” CLASSROOMS BE MORE EFFECTIVE?
+Most respondents indicate that their remote courses would not necessarily be more effective if
+they were taught on campus.
+Those who believe that on-campus instruction would make their courses more effective (“Yes”
+in Figure 5) note that face-to-face interactions would help with engaging students, working on
+hands-on activities, and assessing students’ learning.
+Skeptics (“Maybe”/ “No”) tend to express safety concerns. For example, one faculty notes “I
+don't believe our college has the resources to properly ensure Covid [sic] safety. Hubris could
+cost lives. I want to return -- but not without knowing we have the resources and the will to
+carry out safety.” Others indicate that safety protocols would offset the benefit of face-to-face
+meeting (e.g., “I feel that the social distancing and mask wearing will have a similar level of
+negative impact on the learning experience as teaching remotely does”) and expect low
+levels of face-to-face student attendance (e.g., “Even if precautions are taken, it is unlikely
+students will show up in large numbers as long as the pandemic persists“). Faculty are also
+concerned about the challenge of dual-mode teaching (e.g., “I feel like combining remote
+and live will be even more work and adaptation”; “Simultaneously teaching a combo of virtual
+and live students is impossible in an active classroom learning/ teaching style. The teaching
+strategies are so different“). Effectiveness of remote instruction is also noted (e.g., “I actually
+think that remote is better if done the right way”). See F20 Mid Semester Remote Instruction
+Faculty Survey: Open-Ended Responses for more narrative comments.
+
+FIGURE 5. MY REMOTE COURSES WOULD BE MORE EFFECTIVE IF TAUGHT ON
+CAMPUS UNDER A “COVID-SAFE” CONDITION
+
+Yes
+16%
+No
+45%
+
+Maybe
+39%
+
+Q9. Do you think your remote courses would be more effective if they could be taught on campus under
+a "COVID-safe" condition? This condition would include social distancing, mask wearing guidelines, and
+the combination of on-campus and virtual meetings.
+F20 Mid Semester Remote Instruction Faculty Survey -7

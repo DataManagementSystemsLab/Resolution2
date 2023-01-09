@@ -1,0 +1,1361 @@
+Owning Our Future
+The Fall 2020 Re-Start
+A Framework for Instruction and Operations
+during the COVID-19 Pandemic
+
+Submitted by:
+Calvin O. Butts, III
+President
+
+1
+
+Table of Contents
+
+Executive Summary ........................................................................................................................... 3
+I.
+
+Reducing Density for Fall 2020 ................................................................................................. 5
+1.1 Instructional Methods .............................................................................................................. 5
+1.2 Researchers on Campus .......................................................................................................... 6
+1.3 Residence Hall Operations ...................................................................................................... 6
+1.4 Administrative and Campus Operations ................................................................................ 7
+1.5 Campus Visitors ....................................................................................................................... 7
+
+II.
+
+Health & Safety ....................................................................................................................... 8
+
+2.1 Screening & Testing.................................................................................................................. 8
+2.2 Contact Tracing & Containment ............................................................................................. 9
+2.3 Personal Protective Equipment .............................................................................................. 11
+2.4 Social Distancing Protocols ................................................................................................... 11
+2.5 Hygiene Protocols .................................................................................................................. 13
+III. Cleaning .................................................................................................................................... 15
+3.1 Priority Cleaning .................................................................................................................... 15
+3.2 Routine Cleaning ................................................................................................................... 15
+3.3 Cleaning When Infection is Reported .................................................................................. 16
+3.4 Cleaning Products and Supplies ........................................................................................... 16
+IV. Support and Development Activities ........................................................................................17
+4.1 Campus-wide Support ............................................................................................................17
+4.2 For Students ...........................................................................................................................17
+4.3 Faculty & Staff ....................................................................................................................... 19
+V. Preparedness in the Event of Re-Emergence ............................................................................ 21
+5.1 Academic Transition.............................................................................................................. 21
+5.2 Campus Life Transition ........................................................................................................ 21
+5.3 Administrative Transition..................................................................................................... 22
+VI. Communications and Education .............................................................................................. 23
+6.1 Communicating the Re-Start ................................................................................................ 23
+6.2 Communicating in the Event of Infection ............................................................................. 24
+6.3 Ongoing Education ................................................................................................................ 24
+6.4 Emergency Shutdown Communications .............................................................................. 25
+VII. Financial Implications ............................................................................................................. 26
+Appendix ..........................................................................................................................................28
+
+2
+
+Executive Summary
+All associated with SUNY Old Westbury can safely say the spring 2020 semester was like none
+ever experienced before. Of course, our campus is not alone in that sentiment as colleges and
+universities across SUNY, the state and nation had to make unprecedented adjustments as a
+result of the Coronavirus pandemic.
+
+Guiding Principles
+Every planning meeting and discussion for fall 2020 centered on the following guiding
+principles:
+1. Ensure Safety: Protect the health and safety of students, faculty and staff
+2. Sustain Academic and Learning Excellence: Enable students to achieve learning
+goals in each course and make progress toward their larger educational objectives
+3. Promote Access and Equity: Minimize inequity in learning opportunities among
+students in different social, health, and economic circumstances
+4. Achieve Academic and Operational Synergies
+5. Provide Stability: Allow for educational and operational functions to be conducted
+with minimal disruptions for students, faculty and staff.
+6. Prepare for the Long-term: Create an academic and operational model that may be
+sustainable beyond one semester if the situation requires
+
+Plan Development
+The College's plan was developed through the strengths of its faculty and staff. Leading the
+effort is the College's Coronavirus Leadership Team, which is chaired by the college president
+and includes leaders from academic affairs, business and finance, student affairs, human
+resources/legal, student health, information technology services, advancement, public and
+media relations, maintenance and facilities and University Police.
+Critical in this plan's development were the efforts of more than 50 members of the College's
+faculty and staff who painstakingly reviewed all aspects of the College's academic, campus life,
+and administrative functions and then applied the guiding principles to make recommendations
+for how the college should proceed.
+These professionals acted primarily through three work groups:
+•
+
+•
+
+•
+
+Academic Contingency: Developed in coordination with the Old Westbury Faculty
+Senate, this group explored instructional modalities, faculty preparation, technological
+solutions and policy impacts before making its recommendation.
+Student Life: Comprised chiefly of professionals from the Division of Student Affairs,
+this group reviewed spring 2020 experiences and impacts, reviewed potential operating
+models for housing, athletics, student development and more, and developed plans and
+potential programs to support student engagement for fall 2020.
+Enrollment/Retention: This group featured professionals from a wide spectrum of
+campus offices and services and focused on policies, procedures and practices related to
+3
+
+the engagement and retention of current students through the registration process and
+the recruitment and solidification of new student enrollee pools at both the
+undergraduate and graduate level.
+While our region, state and nation pull slowly into what we hope will be a recovery, the work to
+restart instruction and operations for fall 2020 now takes precedence. Using the insights and
+experiences of a spring like no other, SUNY Old Westbury remains committed to giving its
+students a fall to remember.
+
+4
+
+I.
+
+Reducing Density for Fall 2020
+
+1.1 Instructional Methods
+Social distancing requirements (approx. 24 square foot per person) will require SUNY Old
+Westbury to offer predominantly distant methods of instruction for fall. In this model,
+approximately 90% of course sections will be offered via distance learning with the remaining
+10% identified as facilities-dependent courses with limited face-to-face instruction.
+Distance Learning courses will be offered in two varieties:
+•
+•
+
+NET Courses: Traditional online courses with asynchronous instruction
+Remote Courses: Online courses offered with synchronous instruction scheduled in the
+same manner as a face-to-face course might be structured.
+
+Facilities-dependent courses will also feature a significant amount of synchronous or
+asynchronous distance instruction with campus visitation geared towards critical laboratory
+experiences, studio sessions, proctored exams, and similar high-value, high-contact activities.
+Student learning assessments will be conducted in a manner suited to the remote, traditional
+online and facility-dependent course modalities. A combination of proctoring options will be
+employed for examination periods, which include online proctoring software service solutions,
+videoconferencing tools and limited on-campus exam rooms.
+Expected Impact on Student In-person Attendance
+The College will open all classes via distance learning for at least the first two weeks of the fall
+semester before allowing participants in Facilities-dependent courses to visit campus. Once that
+limited schedule of campus visits commences, it is expected that no more than 10 percent of the
+College’s student body (approximately 500) would visit campus per week, with those visits
+distributed across the College’s five-day, eight class period schedule. This schedule is expected to
+provide for visits no more frequently than once every week per student. All other students would
+not attend classes on campus for the duration of the semester.
+Expected Impact on Faculty Attendance
+The College employs 185 full-time faculty and approximately 225 adjunct faculty in a traditional
+semester. Of these, approximately 40 will be engaged in facilities-dependent instruction and will
+be the only faculty expected to visit campus to uphold their instructional responsibilities.
+Expected Impact on Academic Calendar
+There are no tangible changes to the College’s Academic Calendar, but one requirement is being
+added for Facilities-dependent courses related to COVID -19. SUNY Old Westbury will begin
+classes as previously planned on August 31 with final examination week scheduled to commence
+on December 16. Schedules for facilities-dependent classes will be coordinated so that no oncampus instructional sessions occur in these courses after November 25, resulting in no oncampus instruction after the Thanksgiving Break.
+5
+
+1.2 Researchers on Campus
+Research and scholarly activities are a vital component of the evolution of a faculty member's
+expertise and, therefore, their ability to educate and serve their students.
+Scientific Research
+Scientific research will continue, as the research labs in the Natural Science Building are
+enclosed and assigned to two faculty members per academic year. In total, the College has 15
+faculty conducting research in these lab spaces. Lab time will be rotated to ensure no more than
+one faculty researcher and one assistant is present in the space at a time.
+Non-Scientific Research
+Much of the research, scholarly and creative works of the faculty in many disciplines will
+continue remotely. Some of the creative works in the areas of studio and media arts may require
+on-campus activities. This work will be facilitated following reduced density and social
+distancing protocols. Should the need arise for faculty in other disciplines to periodically return
+to the campus, such will be permitted in accordance with campus wide efforts to maintain low
+population density presence within academic departments.
+
+1.3 Residence Hall Operations
+SUNY Old Westbury will offer no residential opportunities on its campus for fall
+2020, reducing the approximate population of 1,100 resident students to zero. In addition to
+not housing its own students, this includes the absence for the fall of students from New York
+Institute of Technology, which rents halls on campus.
+This difficult decision was made in the interest of ensuring the health and safety of our own
+students, NYIT students and our community at large with the likelihood of a second wave of
+COVID-19 in the fall.
+The State of New York, with the assistance of the Army Corps of Engineers, constructed a 1,024bed Alternate Care Facility on the College’s campus in spring 2020 to assist with regional
+healthcare needs during the pandemic. While the facility has not been used to date, New York
+State Governor Andrew Cuomo has required it to be left available through the fall flu season as a
+precautionary preparation against a second wave of COVID-19.
+In the development of the facility, the expectation was made clear that the College would need to
+keep up to three of its Woodlands Residence Halls available to house medical personnel in the
+event the Alternate Care Facility on campus must be activated.
+By foregoing student housing for the semester, the College will:
+•
+•
+
+Ensure the ability to rapidly open the Alternate Care Facility for the good of the region.
+Be able to commit to students that their experience will be safe from the impacts of
+Alternate Care Facility
+6
+
+•
+
+Eliminate potential disruptions for students who might otherwise experience a hasty
+"move-out."
+
+1.4 Administrative and Campus Operations
+The College expects to continue to limit the number of employees on campus each day to
+contribute to a reduced overall density. SUNY Old Westbury traditionally employs
+approximately 325 non-instructional employees during a fall semester.
+An essential personnel pool of approximately 80 will arrive on campus each day. This pool will
+include:
+•
+
+•
+•
+•
+•
+•
+•
+•
+
+Directors and/or managers of key operational areas (business & finance, academic
+affairs, student affairs, maintenance/facilities, human resources, purchasing, business
+compliance, financial aid, bursar, registrar)
+Custodial workers and grounds crew members
+Technology service providers
+Mailroom staff
+Campus Bus Drivers
+Auxiliary Services personnel
+University Police Officers
+Others as assigned
+
+At the divisional and departmental level, schedule rotations will be created to allow for both oncampus and work-from-home activities among the remaining 245 personnel as conditions and
+college needs warrant.
+Schedules for on-campus attendance will be coordinated with the respective building
+coordinators on campus to ensure reduced density is achieved on a daily basis and that arrival
+and departure schedules are staggered to avoid crowding conditions at points of entry and exit.
+To ensure social distancing can be maintained, no more than 50% of staff in a
+given area will be on campus on a given day in most functional areas of the
+campus.
+
+1.5 Campus Visitors
+In general, the College will seek to allow only invited guests to campus, and those guests will
+undergo healthcare screening upon arrival via an emailed survey. Please see section 2.1 for
+details.
+The College will consider providing campus space for external events subject to an
+exception/review process for mission-critical events that can meet physical distancing and other
+applicable safety standards as specified with reference to federal, state and local guidelines and
+directives.
+
+7
+
+II. Health & Safety
+2.1 Screening & Testing
+Daily Screening
+Students and Employees
+All employees and students who have been instructed to return to campus must self-monitor
+their health and symptoms every day before arriving.
+Employees and students will be expected to login to the College’s ConnectOW Portal and
+complete a daily COVID-19 screening form prior to reporting to campus. The form will ask:
+•
+•
+•
+•
+•
+•
+
+Name
+Email address
+Department
+Supervisor (for employees)
+Instructor: (for students)
+Four health-related questions:
+o Do you currently have a fever?
+o Have you had any known close contact with a person confirmed or suspected to
+have COVID-19 in the past 14 days?
+o Do you currently have any of the following symptoms?
+ Cough (new or worsening)
+ Shortness of breath (new or worsening)
+ Troubled breathing (new or worsening)
+ Chills
+ Muscle pains (new or worsening)
+ Headache (new or worsening)
+ Sore throat (new or worsening)
+ New loss of taste or smell
+o Have you tested positive for COVID-19 through a diagnostic test in the past 14
+days?
+
+If all answers are “no,” the user may come to campus and a record of the survey will be available
+to Human Resources (for employees) or the Student Health Center (for students) for use in
+tracking health and safety conditions on campus.
+If the answer to any of the above questions is “yes,” a message will appear stating that the user
+should not visit campus. An email announcing the result will be sent to Human Resources (for
+employees), the user's supervisor (for employees) and/ or the Student Health Center (for
+students) so that precautionary actions can be taken if necessary and for use in tracking health
+and safety conditions on campus. Also:
+•
+
+Employees will be instructed to call their primary health care provider or the local health
+system COVID-19 hotline.
+8
+
+•
+
+Students will be required to inform their professors and call either their primary health
+care provider or the local health system COVID-19 hotline.
+
+Visitors & Contractors
+In general, the College will seek to allow only invited, scheduled visitors and vendors to campus.
+For guests of administrative and/or academic departments, the department responsible for the
+invitation must email a healthcare screening survey to the guest, which must be returned via
+email to the inviting department in the morning before the guest is scheduled to arrive. If all
+answers are “no,” the guest may come to campus. If any response is "yes," the guest will be
+advised not to visit campus. The inviting department must send all completed healthcare
+screenings to Human Resources upon receipt.
+Contractors working on health or safety mission-critical projects must comply with the State
+University of New York Directive 1C-14 COVID-19 Procedures for Consultants and Contractors
+before they are allowed on campus. The Office of Capital Planning and the Facilities Department
+are responsible for monitoring the work of these contractors.
+Testing
+SUNY Old Westbury does not plan to run a COVID-19 diagnostic test on members of its campus
+community. Testing in this way is not feasible because:
+•
+•
+
+•
+
+Currently all COVID-19 tests available for use in our Student Health Center are
+unreliable and not worth the investment.
+A better option is to refer students to area labs or urgent care centers (City MD, Lab
+Corp, ProHealth) for reliable, accurate COVID-19 testing. Fortunately, our surrounding
+area has many healthcare facilities and labs offering free COVID-19 testing to individuals
+with symptoms or exposure.
+The commuting nature of the student body in what is primarily a distance setting means
+constituents, when symptomatic, would likely seek testing in their communities and the
+college would not be privy to the results of those tests.
+
+Testing will only be requested when symptoms are present or reported or the party involved has
+reported recent proximity to a person who has tested positive for COVID-19.
+
+2.2 Contact Tracing & Containment
+Communications and Contact Tracing
+In the event a student or employee reports symptoms during daily healthcare screening or the
+onset of symptoms while on the campus, that party will be told to go home immediately and
+asked to contact their personal healthcare provider.
+All events of this nature are to be reported to the Student Health Center. The
+Student Health Center director has an ongoing relationship with the Nassau County
+Department of Health and is designated as the College's liaison with the agency for the COVID19 emergency. The Student Health Center director will also maintain contact with the State
+9
+
+University of New York to assist in ensuring accurate reporting and record-keeping of cases
+system-wide.
+The College has been informed by leaders of Nassau County that the Nassau County Department
+of Health will be conducting contact tracing for cases involving the college. In addition, five staff
+members of the Student Health Center have completed training via Johns Hopkins University to
+serve as contact tracers. This number of tracers exceeds the number recommended by the
+Commission on Independent Colleges & Universities, which suggests 3 tracers for every 10,000
+students.
+Containment & Instructional Continuance
+Upon a positive test, students and faculty/staff would be expected to self-isolate in their homes.
+As the College is not offering a housing option for fall, no areas for isolation will be required on
+campus.
+In addition to reporting a case to the county health department, the Student Health Center will
+maintain contact with those who have reported a positive COVID-19 diagnosis to gauge progress
+and needs so that assistance can be arranged if necessary.
+During the spring semester deans and department chairs were asked to anticipate that other
+fulltime and adjunct faculty might be called upon to substitute for faculty who are unable to
+continue teaching. Department chairs will continue to include such contingency planning in
+their department meetings and communications.
+Caring for Vulnerable Populations
+As always, students with pre-existing conditions and/or weakened autoimmune systems are
+encouraged to contact the Student Health Center and the Office of Services for Students with
+Disabilities (OSSD) so the necessary accommodations can be made to ensure accessibility and
+inclusivity. The health and safety of our students is the College's utmost priority.
+Employees with weakened immune systems or pre-existing conditions will be encouraged to
+work from home if that is practical or accommodations will be investigated to enable them to
+work on campus safely.
+Trends and Benchmarks for Action
+Central in keeping the campus safe will be the ongoing review and analysis of data gained
+through the healthcare screening process.
+The Student Health Center staff and the Office of Human Resources will continuously monitor
+students’ and staffs’ daily COVID-19 screening responses to detect changes in the health status
+of the college community. The New York State Department of Health Regional Metrics
+Dashboard and local alerts from the Nassau County Department of Health will be used to track
+the prevalence of COVID-19 in the community and inform the College's future decision making.
+
+10
+
+2.3 Personal Protective Equipment
+Campus Requirement
+Appropriate use of cloth face coverings/disposable masks is critical in minimizing risks to
+others.
+All who come to SUNY Old Westbury will be required to wear masks or other face coverings if
+they can medically tolerate doing so. Masks/face coverings will be required in all common areas
+including elevators, lobbies, hallways, restrooms, when traveling around offices, etc., and in any
+instance indoors or outdoors where social distancing of 6-feet between parties cannot be
+achieved (including classrooms and laboratories).
+Acceptable face coverings include but are not limited to cloth (e.g. homemade sewn, quick cut,
+bandana), disposable masks, medical grade surgical masks, and face shields.
+Employees and students will be provided disposable masks (if they don’t already have one) daily
+that must be worn as noted above. Visitors to campus will be required to bring and wear a mask
+of their own.
+Equipment Availability
+The College currently has 60,000 disposable masks at the ready for fall 2020. These masks will
+be distributed at the division and departmental level, in quantities commensurate with expected
+campus population for each area, in August 2020. Additionally, supplies of masks will be placed
+in all instructional locations that are scheduled to house Facilities-dependent courses.
+Reordering of disposable masks will be triggered when the College's supply diminishes to 10% of
+the current quantity.
+Additionally, the College has 2500 medical grade surgical masks and 250 N95 respirators
+reserved for healthcare workers, University Police and other approved personnel with taskspecific hazards as determined by SUNY Old Westbury’s Office of Environmental Health and
+Safety. Reordering of these materials will be triggered when the College's supply diminishes to
+10% of current quantities.
+
+2.4 Social Distancing Protocols
+Public Spaces
+All members of the campus community must make every effort to maintain the six-foot social
+distancing standard. Signage is in preparation and floor and/or walk markings will be in place to
+provide visual cues.
+The following public spaces will be closed:
+•
+
+Campus Library reading/study/computer areas
+
+The following public event spaces are being converted to support academic instruction:
+11
+
+•
+•
+•
+
+Student Union Multipurpose Room A
+Student Union Multipurpose Room B
+Student Union Multipurpose Room C
+
+Instructional Spaces and Functions
+While the method of instruction will dramatically lessen the population of faculty and students
+on campus on a given day, the College will implement a variety of protocols to ensure social
+distancing.
+Facilities-dependent courses will be taught in classrooms and laboratory spaces whose physical
+layouts have been modified to ensure social distancing. Examples of the spaces that will be used
+for such courses include:
+•
+
+•
+
+•
+
+The Natural Science Building: The NSB currently has a large instructional lab with a
+maximum capacity of approximately 150 students. Through staggered scheduling of
+critical high-touch activities, no more than 40 students are expected to be scheduled to
+use this space at a given time.
+Media Production Facilities: The Media Innovation Center in the Campus Center
+includes among its facilities a large television studio and individual, enclosed production
+bays. These sites can accommodate small group instruction and time for individual
+student work. The College's radio/audio production studios in the Student Union can
+also be used for limited small group instruction.
+Visual Arts Studios: The F-Wing of the Campus Center houses a large, open
+studio/classroom for the Visual Arts Department. Slight modifications, including the
+removal of furniture, will make the space more conducive to required social distancing
+practices.
+
+The uses and procedures for additional academic spaces include:
+•
+
+•
+
+•
+
+Classrooms: The preponderance of classrooms on campus cannot adequately house
+full class attendance while maintaining the suggested six-foot spacing. Large spaces
+including the multipurpose rooms in the Student Union, the multipurpose room in the
+New Academic Building, the Natural Science Building lecture hall and the two campus
+theaters are considered to serve as instructional space.
+The Campus Library: The physical library space will be closed. Services will be
+provided online which will include virtual desk hours, video-conferenced instructional
+workshop periods and online chat messaging. The limited face-to-face operations will be
+conducted by appointment to assist technology insecure students who participate in the
+College’s laptop and tablet loan program.
+Faculty Offices: Most faculty offices on campus are not conducive to social distancing.
+For this reason, office hours will be conducted virtually for the fall semester. If a faculty
+member must meet a student on campus, masks must be worn and meetings should take
+place within a space where social distancing can be achieved.
+
+Administrative Spaces and Functions
+
+12
+
+The College expects to continue to maintain a reduced density by limiting the number of
+employees on campus each day. As stated earlier, no more than 50% of staff in a given area will
+be on campus on a given day in most functional areas of the campus.
+Campus Offices
+In administrative offices, the college will adhere to the six-feet spacing standard for social
+distancing and require that masks be worn at “forward-facing” functions where interaction with
+the public takes place. Where they do not exist already, protective barriers (Plexiglas, etc.) will
+be installed.
+Where the six-foot standard cannot be maintained or where departments function with less than
+10 staff members, schedules may be staggered to provide for employees to work both from
+campus and remotely on alternating bases or to work completely remotely if needed.
+Conference and Meeting Rooms
+Virtual tools will be used for meetings to the greatest extent possible to reduce the number of
+face-to-face interactions occurring. When face-to-face meetings are required, they will be
+conducted in spaces that allow for social distancing and masks are to be worn.
+Occupancy caps for all conference and meeting rooms will be reduced to allow for 24-squarefeet per participant, with new occupancy caps posted at the entry of each facility.
+Communal Areas
+Shared kitchens and employee lounges will be limited in capacity to allow for social distancing.
+Student lounges in the Student Union will be reorganized, with furniture removed where
+necessary, to achieve social distancing.
+Dining Facilities
+With no residential students on campus and a very limited number of commuter students and
+faculty visiting campus, Chartwells will operate only the College's Atrium Cafe, providing
+takeout options and Starbucks products. Line queues will be marked via floor and wallmounted signs to provide for 6-foot intervals. Protective barriers (Plexiglas, etc.) will be
+installed where not already present. Tables will be rearranged or removed to allow for proper
+social distancing.
+University Police Department
+Common areas within the headquarters building, including locker rooms and kitchenette, are to
+be used by one person at a time. No more than two people at a time will populate the arrest
+processing room.
+
+2.5 Hygiene Protocols
+Hand Hygiene
+Signage will be present at prominent locations across campus promoting hand hygiene
+procedures. Those procedures include:
+•
+
+Regular hand washing with soap and water for at least 20 seconds should be done
+o Before and after eating.
+
+13
+
+o
+o
+o
+o
+o
+
+After sneezing, coughing, or nose blowing.
+After using the restroom.
+Before handling food.
+After touching or cleaning surfaces that may be contaminated.
+After using shared equipment and supplies like electronic equipment such as
+keyboards, mice and phones.
+
+Alcohol-based hand sanitizer dispensers are already located in most public spaces on campus.
+This supply is being augmented by the installation of more dispensers during the summer. Each
+unit will dispense New York State Clean sanitizer. Such areas will include:
+•
+•
+
+Building entrances/exits
+Points of reception
+
+Said dispensers will contain sanitizer that is at least 60% alcohol. Signage accompanying the
+dispensers will note that visibly soiled hands should be washed with soap and water as hand
+sanitizer is not effective on visibly soiled hands. Signage will also remind users that alcoholbased hand sanitizers can be flammable and may not be suitable for certain areas on campus.
+Respiratory Hygiene
+Similar to hand hygiene, signage will be placed in high traffic areas to remind the campus
+community of proper respiratory hygiene practices, including:
+•
+•
+
+Covering coughs and sneezes with tissues or the corner of elbow
+Disposing of soiled tissues immediately after use.
+
+14
+
+III. Cleaning
+The College is committed to meeting the guidelines of the Center for Disease Control and the
+New York State Department of Health.
+
+3.1 Priority Cleaning
+Priority cleaning on campus is defined as cleaning that takes place multiple times in the
+workday. Custodial supervisors will maintain logs that include the date, time and scope of
+cleaning/disinfecting that took place.
+The locations identified for priority cleaning and the planned number of daily cleanings are:
+Restrooms
+As per CDC guidelines, bathrooms will be cleaned three or more times daily in those areas where
+facilities-dependent courses are taking place and in areas where essential staff members
+regularly report.
+Building entryways and high traffic public areas
+Vacuuming/damp-mopping of floors and cleaning of high-touch surfaces in entryways to each
+building and in high traffic public areas such as the hallways of the New Academic Building,
+Natural Science Building and the Campus Center Atrium will take place at least twice daily.
+Classrooms/Labs
+Spaces used for facilities-dependent courses will be thoroughly cleaned after each use.
+Scheduling of the spaces will be staggered so that no concurrent use of such facilities takes place
+to allow time for cleaning.
+Dining Areas
+While the number of dining outlets in operation will be minimized, counters, tables, and chairs
+will be cleaned and disinfected multiple times a day.
+
+3.2 Routine Cleaning
+As part of standard infection control practices, routine cleaning will be rigorous and ongoing.
+Routine cleaning is defined as cleaning that occurs daily whenever possible and no less than
+once every 72 hours. Custodial supervisors will maintain logs that include the date, time and
+scope of cleaning/disinfecting that took place.
+Surfaces touched most frequently will be prioritized for routine cleaning because these surfaces
+can be reservoirs for germs and an exposure pathway for transmission to people through contact
+with these surfaces.
+Examples of priority areas for routine cleaning on campus include:
+15
+
+•
+•
+•
+•
+•
+•
+•
+
+Door handles and push plates
+Handrails
+Kitchen and bathroom faucets
+Desks and chairs
+Counters
+Appliance surfaces
+Light switches
+
+•
+•
+•
+•
+
+Handles on equipment (e.g., carts)
+Remote controls
+Shared computers, keyboards and
+mice
+Shared electronics and phones
+
+Low traffic areas, due to reduced or no on-site staffing presence, will receive less frequent
+attention than regularly staffed areas.
+The College will also encourage employees to clean their own workspaces and devices and will
+provide disinfectant wipes. Currently, the College has 60,000 disinfectant wipes on hand, which
+will be distributed to campus offices upon request.
+
+3.3 Cleaning When Infection is Reported
+In the event an individual who has visited campus is confirmed to have COVID-19, cleaning and
+disinfection, at a minimum, will take place in all heavy transit areas and on high-touch surfaces.
+In addition, the College will:
+•
+
+•
+•
+•
+•
+
+Close off areas used by the person who is suspected or confirmed to have COVID-19.
+Operations in areas in close proximity to the affected area may not be altered if the
+affected area can be suitably confined.
+Open outside doors and windows to increase air circulation in the area.
+Wait 24 hours before you clean and disinfect. If 24 hours is not feasible, wait as long as
+possible.
+Clean and disinfect all areas used by the person suspected or confirmed to have COVID19, such as offices, classrooms, bathrooms, and common areas.
+Once the area has been appropriately cleaned and disinfected, it can be reopened for use.
+
+If more than seven days have passed since the person who is suspected or confirmed to have
+COVID-19 visited or used the facility, additional cleaning and disinfection is not necessary, but
+routine cleaning and disinfection should continue.
+
+3.4 Cleaning Products and Supplies
+Cleaning supplies are procured by the Maintenance and Facilities Department, which requires
+its supplies to meet current guidance of the New York State Health Department and the CDC.
+Agents currently in use include:
+•
+•
+
+Virex II 256 – One step Disinfectant Cleaner & Deodorant
+Mediclean – Germicidal Cleaner Concentrate
+16
+
+IV. Support and Development Activities
+4.1 Campus-wide Support
+Campus Transportation
+Transportation at SUNY Old Westbury is utilized principally by student-residents but
+significantly by commuters as well. As student housing is not expected for the fall, the campus
+bus service schedule will be reduced and aligned with the schedule for facilities-dependent
+courses, once finalized by the Office of Academic Affairs. Drivers will be required to wear masks
+as will passengers and social distancing signage will be placed prominently. Drivers will
+encourage masks and distancing but are not able to enforce. Obviously, if face-to-face
+instructional opportunities were to increase in any way, the transportation schedule would be
+increased to conform.
+Panther Pantry
+The Panther Food Pantry is available for students, faculty and staff on our campus. The food
+pantry provides access to food and other necessities for those in need. The pantry is located in
+the Student Union, Room 301b. The pantry is open Tuesday 12 p.m. to 3:30 p.m. and
+Wednesday 12 p.m. to 3:30 p.m. Access to the food pantry is available outside those hours in
+case of emergency.
+
+4.2 For Students
+Academic Services
+Academic Offices
+The college will schedule the on-campus work of secretaries for academic departments and
+schools so that no more than 25% (and often less) of the staff visits campus daily. When not on
+campus, department staff will continue to work remotely using virtual technologies.
+Academic Advising
+Will interact as much as possible through virtual means. No more than two staff members per
+department will be on campus daily.
+Tutoring Services
+The majority of services will be conducted by appointment virtually or will be provided directly
+in the remote instruction classrooms.
+Educational Opportunity Program
+Will be prepared to interact as much as possible through virtual means. As face-to-face services
+are often important, EOP will be available by appointment to accommodate students. The EOP
+campus offices will be staffed in keeping with reduced density guidelines and available to
+provide services on a limited schedule. Updates on that schedule will be posted on the College
+website.
+17
+
+Services for Students with Disabilities
+The Office of Services for Students with Disabilities will provide accommodations, access and
+advocacy remotely, including the provisions of accessibility hardware and software, note taking,
+reader, interpreter and scribe services. Proctoring of students with disabilities will take place
+with the rest of the class unless special circumstances necessitate individualized proctoring.
+Specialty Programs (First-Year, Honors College, etc.)
+Will interact as much as possible through virtual means. No more than two staff members per
+department will be on campus daily. Face-to-face services, if required, will be conducted by
+appointment only.
+Information Technology Services
+The College's ITS Service Desk will provide remote tech support to all registered students.
+Additionally, remote support will be available for students as they engage with Blackboard
+Collaborate.
+Technology Insecure Students
+Students faced with technology insecurity can access assistance as follows:
+1.
+
+2.
+
+The College will make devices and other resources available for students who qualify
+under the requirements of the CARES Act. Funding from this source will be used to
+provide these resources.
+The EOP Program will be providing its students with laptop devices. Service for the
+devices will be provided by Information Technology Services (ITS).
+
+Campus Life/Student Organizations
+Center for Student Leadership and Involvement/Campus Activities
+The campus will not host in-person events that are open to the public during the fall 2020
+semester. Instead, we will encourage departments and programs to host virtual events. The
+College will work with its Student Government Association, which organizes, funds and
+coordinates more than 350 student clubs on campus, to develop meaningful ways for all clubs to
+meet virtually and continue their club activities online.
+The Division of Student Affairs is establishing a working group to develop virtual student life
+events with particular emphasis upon cultivating a sense of belonging for new students.
+The College is also investigating the creation of a virtual Student Union by collaborating with the
+Campus Activities Board for late night and day programs, as well as office hours and services.
+Student Development Offices
+Offices related to Career Planning & Development, Residential Life, Student Affairs, Dean of
+Students, Student Conduct, and Orientation will function as much as possible through virtual
+means. Meeting with individual or small groups of students, whether in-person or virtually, will
+be done by appointment. Any in-person exchange will require the use of masks and a meeting
+space that provides for socially distant spacing. Meetings and programs will be conducted
+remotely and individual assistance will be provided either in response to inquiries (telephone,
+email, etc.) or by appointment.
+18
+
+Intercollegiate Athletics and Campus Recreation
+The development of the Alternative Care Facility on campus required the use of all athletic
+amenities on campus. Currently, the F. Ambrose Clark Recreational Center fieldhouse, locker
+rooms, and meeting space house facilities that were renovated to meet the specific needs of the
+Alternate Care Facility. In addition, the Panther Park soccer field, practice field and the baseball
+and softball fields that comprise the Jackie Robinson Athletic Complex now house tents and
+supportive infrastructure for the Alternate Care Facility.
+Administrative aspects of the intercollegiate athletics program will function from the Clark
+Center as long as the Alternate Care Facility is not in use. Activities related to practice, sports
+medicine, and intercollegiate contests will occur off campus as no facilities are available on
+campus due to the care facility. Students and coaches will be bound by the health and safety
+requirements of those facilities where practices and games will be held. SUNY Old Westbury
+has an agreement in place with Farmingdale State College, whose facilities will be used for
+practices and home contest dates.
+Recreational sports programs are suspended for the foreseeable future due the presence of the
+Alternate Care Facility.
+Bookstore
+Under low-density the bookstore may be open 1-2 days each week depending on the number of
+students on campus. If no students are on campus, the Bookstore will operate fully online.
+Psychological and Physical Health
+Student Health Center
+The Student Health Center will operate on an appointment only basis and use tele-health
+practices to triage and screen students. Staffing schedules will be staggered to allow both for
+lower density and to limit exposure among colleagues in the event a staff member is afflicted
+with COVID-19. Preventative care services will be offered to students.
+Counseling & Psychological Wellness
+The Office of Counseling and Psychological Wellness Services will operate on an appointment
+basis and will provide treatment, both psychological and psychiatric, via tele-health, utilizing a
+combination of video-chats (Microsoft Teams) and phone appointments. CaPWS staff will
+continue to coordinate refill services to clients who are prescribed psychotropic medication.
+
+4.3 Faculty & Staff
+Instructional Support
+The Instructional Design Unit and the Center for Excellence in Teaching and Learning (CETL)
+will provide instructional resources for faculty. The faculty development resources will
+incorporate available SUNY based supports (e.g., SUNY Workplace Groups for Remote Teaching
+in the Disciplines, SUNY Remote Teaching Institute, Checklist for Remote
+Teaching). Instructional Design will provide training activities during the summer and fall
+semester.
+
+19
+
+Those lab activities taking place in a NET or Remote instruction modality will be virtualized,
+with the following tools available:
+•
+•
+
+Windows Virtual Desktops available to Faculty and Students remotely
+Remote access Gateway for on campus labs that cannot be virtualized (i.e. - Adobe
+Creative Suite, Scientific and Computer Science applications)
+
+Instructional Design – Training and Support
+The College's instructional designers will offer ongoing support through the summer and fall,
+including:
+•
+•
+•
+•
+
+Blackboard Learn training – Sessions on Ally, Collaborate, Basic and Intermediate Level
+courses on how to use Blackboard Synchronously or Asynchronously
+Remote Instruction Mode – Synchronous Training Modules available to Faculty
+One to one support sessions available to faculty
+Assistance with video platforms – Panopto, Collaborate, MS Teams
+
+Remote Instruction for Facilities Dependent Classes
+For High Touch Courses that are Facilities dependent the classroom, lab or studios have been
+equipped with
+•
+•
+
+Remote Access Capabilities (Web Cameras, Microphones) to allow participation and
+interaction between remotely attending students and students present in class
+Course lectures, Lab experiments, in class course content can be live streamed
+synchronously and/or captured, edited and stored in Panopto for asynchronous use by
+the student.
+
+Employee Assistance Program (EAP)
+The New York State Employee Assistance Program (EAP) was established in 1983 to help state
+employees balance the demands of work, home, and life. EAP is a Work-Life Services benefit
+sponsored jointly by labor and management. As an employer, the state recognizes that
+employees are subject to stress and pressures that can affect their ability to be effective at work.
+The EAP Coordinator & Wellness Ambassador understands the unique culture of their agencies
+and can recommend appropriate resources for state employees.
+
+20
+
+V. Preparedness in the Event of ReEmergence
+Should a second wave of COVID-19 in fall 2020 force closures in the Long Island region as the
+first wave did in the spring, SUNY Old Westbury will be in a strong position to smoothly
+transition to completely remote operations. Our expectation is that movement to reduce further
+our density will be made in reaction to publicly declared requirements at either the county or
+state level.
+Listed here are how such a transition would be made for academics, campus life, and
+administrative operations.
+
+5.1 Academic Transition
+SUNY Old Westbury will be well-positioned in the event that we experience another disruption
+to our academic course delivery in fall 2020. Virtually every course delivered this fall will
+already be either fully online or online with limited face-to-face interactions for facility
+dependent courses. The model puts a heavy emphasis on the availability of NET and Remote
+courses which have no in-person elements on campus. Courses that begin the semester in a
+distance learning format will remain in a distance learning format throughout the semester.
+Instructors of facility dependent courses will prepare contingency plans in case the public health
+situation requires the closure of campus. The contingency plan should be clearly articulated in
+the syllabus and explained to students in the beginning of the semester. All courses that start
+with on-site components will be prepared to pivot to a remote status if circumstances require.
+The College is also in a position of strength in offering student support for academic success.
+Tutoring services have adapted well, and we will continue with tutoring support to both virtual
+and limited in-person interactions in the fall.
+
+5.2 Campus Life Transition
+Due to the absence of students living on campus and the use of virtual technologies for the
+delivery of most services for fall, the transition of campus life should public health requirements
+shift is expected to be smooth as well.
+Areas that will be most impacted would include:
+•
+
+•
+
+Dining Facilities: Without students on campus the main dining facilities will be closed
+with one retail outlet open to serve “grab & go” selections to those on campus. If even
+less activity, employees and visitors may be required to bring their own lunches from
+home. If the Alternate Care Facility is activated, our main dining facility may be used to
+serve and support their personnel.
+Intercollegiate Athletics: Intercollegiate athletic practices and contests, which are
+already scheduled to occur off-site, will follow guidelines and directives issued by the
+NCAA and the Skyline Conference.
+21
+
+5.3 Administrative Transition
+Here also the planned widespread use of virtual technologies and "work-from-home"
+opportunities in fall 2020 would be expected to smooth the transition should it be required.
+With the College seeking to return employees to campus in a slow, phased and methodical way
+in order to reduce density on campus, administrative units that will already be conducting a
+majority of their functions remotely would be in a position to continue to do so if public health
+restrictions must be enhanced.
+
+22
+
+VI. Communications and Education
+Communicating with its constituents and local community and educating both on the practices
+and procedures in place for fall 2020 will be of vital importance for SUNY Old Westbury.
+
+6.1 Communicating the Re-Start
+Leadership Messaging
+Leadership Messaging relates to messages conveyed via email from campus leaders on the
+overall re-start effort and on specific operational or policy adjustments required in advance of,
+and during, the restart process. The first Leadership Message concerning the restart will be sent
+by the College President to the entire campus community announcing the approved plan and
+key next steps. In general, Leadership Messages will be distributed by the following officials:
+•
+•
+•
+•
+•
+•
+•
+
+College President
+Acting Provost/Senior Vice President, Academic Affairs
+Senior Vice President, Business & Finance, and CFO
+Vice President for Student Affairs
+Assistant to the President for Administration
+Student Health Center Director
+University Police Chief
+
+College Website
+An "Owning Our Future: Fall 2020" section of the College website is in development to provide
+information on COVID-19, safety and hygiene recommendations, and information to specific
+operations and areas of the campus. The intent is for the "Owning Our Future: Fall 2020"
+portion of the website to serve as a hub of operational and academic information throughout the
+semester.
+Constituent-Specific E-Letters
+•
+
+•
+
+•
+
+•
+
+Students: The existing Student Connections e-letter, distributed weekly, will offer
+updates and information as the restart commences and throughout the semester. In
+most instances, Student Connections will seek to drive users to the College website for
+more detailed information.
+Employees: The existing faculty/staff e-letter, The Current, runs twice weekly on
+campus traditionally, For fall 2020, each edition will feature an "Owning Our Future:
+Fall 2020" section with pertinent news and updates. Like the student e-letter, The
+Current will seek to drive users to the College website for more detailed information.
+Town/Gown : The Office of the President leads the College's government relations
+efforts and maintains regular contact with elected officials at the local, state and federal
+levels of government. A focused e-letter for governmental officials is being developed.
+Alumni/Parents/Friends: The Office of Institutional Advancement will use its "Old
+Westbury Update" quarterly e-letter to inform these constituencies of ongoing
+developments of the campus and key information in response to COVID-19.
+23
+
+Social Media
+Social media will be used to support and extend the reach of Leadership Messaging by posting
+summaries and vignettes from key messages with the intent of driving traffic to the message
+itself. The college posts appear on Instagram, Twitter, and Facebook.
+Posts on social media will also be used to provide reminders of key deadlines and other
+actionable content.
+Town/Gown Relations
+College leaders have presented the framework of its restart plan to the representatives who
+comprise the Long Island Regional "Control Room." The same framework was shared with the
+institution's College Council. As no meeting of the council is scheduled for summer 2020, the
+council members will receive updates via email with a more formal report at the group's first
+meeting of fall 2020.
+
+6.2 Communicating in the Event of Infection
+Should a member of the campus community test positive for COVID-19, the following actions
+will occur:
+•
+•
+•
+
+The Student Health Center will report the case immediately to the Nassau County
+Department of Health for contact tracing.
+The Office of Public & Media Relations will coordinate a Leadership Message to be sent
+to all students, faculty and staff.
+The Office of Public & Media Relations will post the announcement to the "Owning Our
+Future: Fall 2020" website.
+
+Requirements of the Family Educational Rights and Privacy Act and the Health Insurance
+Portability and Accountability Act will be adhered to in all such announcements.
+
+6.3 Ongoing Education
+Video Training
+All employees have been required to view the SUNY-developed video regarding COVID-19,
+safety and hygiene recommendations, etc. Approximately 50% of current employees have
+completed the viewing, as noted in tracking by the Office of Human Resources. Follow up
+campaigns to capture all other employees will take place throughout the summer.
+Signage and Printed Collaterals
+Temporary signage related to social distancing and mask requirements have been posted in all
+high traffic areas of the campus.
+More formal signage is being created by the Maintenance and Facilities Department in
+collaboration with the Office of Public and Media Relations related to:
+
+24
+
+•
+•
+•
+•
+•
+
+Mask wearing
+• Social distancing
+Hand hygiene
+• Hand sanitizer use and precautions
+Respiratory hygiene
+Revised Capacities/Social Distancing Instructions for public areas and meeting rooms
+Cleaning and Facility Use Expectations
+
+6.4 Emergency Shutdown Communications
+Leadership Messaging via campus email will be used to report on changes that would be
+required if public health requirements grow more stringent. These messages would be
+supported with text messages and social media posts.
+The college posts appear on Instagram, Twitter, and Facebook.
+
+25
+
+VII. Financial Implications
+SUNY Old Westbury is faced with a financially challenging 2020-21 academic year.
+The New York state budget could have a shortfall of up to 25%, which will affect all SUNY
+campuses. A commensurate reduction in state aid would equate to more than $2.2 million for
+our campus. The state budget also did not include an offset payment as it had in the previous
+year to pay for $1.4 million in collectively bargained costs which will be paid this year out of the
+college budget unless relief is provided by the state.
+Additionally, we expect to lose approximately $525,000 in the coming year from cancelled
+events due to unavailability of campus facilities because of the presence of the Alternate Care
+Facility. An additional $200,000 in rental revenue will not be available due to the recent exit of
+Empire State College from the Trainor House on campus.
+We are also uncertain of whether the College will meet its enrollment targets and we must plan
+for the absence of roughly $5 million in fees related to room and board for the fall semester with
+no student housing being offered. Also, we will experience a loss of approximately $1.25 million
+in revenue from NYIT from the absence of their residential students from campus. With no
+students on campus this fall, we will also forego more than $1.4 million in fee revenue since
+there will be significantly reduced or no transportation services, athletic events or on campus
+student activities for students. In addition to the above revenue losses, Old Westbury may incur
+costs ranging from $975,500 to $1,665,500 in implementing our Re-Starting Plan. Such costs
+include purchases of PPE, cleaning materials, technology software and equipment, training for
+remote instruction and facility enhancements.
+We will receive approximately $5.5 million from the CARES Act (of which half is to be directed
+solely to students) to offset costs associated with impacts from COVID-19. In addition, we expect
+to receive $419,000 in CARES Act funding for our role as a minority service institution. There is
+the hope that more aid may come as the federal government considers other forms of support to
+state governments.
+The outcome of these circumstances is that SUNY Old Westbury has a very difficult year ahead.
+As a result, the College has developed a SUNY-approved Spending Constraint Plan containing
+several measures to help mitigate the financial impact the pandemic is having on our campus.
+This plan includes:
+•
+
+•
+•
+•
+•
+
+Implementing a hiring freeze and developing a hiring plan that reviews open positions in
+concert with the next twelve months of planned hires and replacements. Open positions,
+planned hires, and replacements should be prioritized based on health and safety,
+essential instruction and research, critical student facing needs and revenue generation;
+Restricting the use of overtime to health, safety and emergency matters;
+Reviewing faculty workloads and eliminate or defer non-essential extra service and
+course releases;
+Reducing energy consumption and costs by closely monitoring usage and costs and
+employing energy-efficient energy measures recommended by prior audits;
+Restricting travel to trips that are critical to the College’s mission, academic standing and
+accreditation purposes;
+26
+
+•
+•
+•
+•
+
+Using technology for online training, seminars and meetings;
+Instituting emergency purchasing procedures (see OTPS restrictions below) for routine
+purchases requiring review by both the Purchasing and Budget offices before approval;
+Using University-wide contracts or regional contracts where available and continue our
+managed print services program designed to reduce print and paper costs; and
+Temporarily suspending campus cash funded capital projects unless directly related to
+health and safety or revenue generating activities.
+
+Savings from implementing any of the above actions are to be held centrally and utilized to fund
+operational reserves and to redirect available resources to areas that may need funding. The
+College’s Offices of Human Resources and Budget are jointly reviewing all requests to recruit,
+appoint or change status of personnel to determine if they meet newly enacted New York State
+Division of Budget's requirements.
+In addition, the following restriction of OTPS will be instituted:
+•
+
+•
+
+•
+
+•
+
+Each division will receive an initial 15% reduction in their OTPS budget for the
+remainder of this fiscal year. Additional reductions may be required by DOB throughout
+the year.
+Purchases will be restricted to essential items (health and safety/mission critical). No
+invoice will be paid without an approved Purchase Order. Essential purchases and single
+purchases of $15,000 or more must have documented justification and approved by the
+Divisional VP or administrative Department Head (includes academic Deans). Payment
+will not be made on proposed purchases that fail to meet these requirements.
+No P-Card, T-Card or NET Card purchases will be allowed without prior justification and
+approval by the Divisional VP, Administrative Department Head or designee and the P, T
+or NET Card Administrator.
+Discretionary Spending – All discretionary spending, including the hiring of outside
+consultants, must be critically reviewed and suspended immediately if not mission
+critical. This includes memberships, food/meals, events, recognition banquets and other
+expenditures that are not critical to the operation of the College. Essential expenditures
+that directly support the College’s mission must be approved by the Divisional VP or
+Administrative Department Head and the Chief Financial Officer.
+
+While unfortunate, these austere measures are necessary for SUNY Old Westbury to continue to
+provide quality educational services to our students for fall 2020 and beyond.
+
+27
+
+Appendix
+Checklist – Adherence with State Guidance
+1. Repopulation of Campus
+Capacity to Maintain Social Distancing
+•
+•
+•
+
+90 percent of instruction via distance learning.
+The college will offer no on-campus housing opportunities for fall 2020 for its own
+students or for tenant institutions.
+Large public gathering spaces closed or repurposed for instructional purposes with social
+distancing parameters in place.
+
+PPE
+•
+•
+
+•
+•
+•
+
+Masks required for all on campus in public spaces (hallway, elevators, classrooms, labs,
+reception areas, etc.).
+Disposable masks available to all employees and students who visit campus. Masks being
+made available via the main unit office for each division, key forward-facing offices
+(admissions, financial aid, bursar, registrar) and in school offices for academic units.
+Employees and students welcome to use personal face coverings.
+60,000 disposable masks on hand for distribution to students and faculty.
+250 N95 masks on hand for use by healthcare workers, University Police, and others for
+whom they are deemed necessary.
+
+Screening /Testing
+•
+•
+•
+•
+
+Daily online healthcare screening required for all employees and students who are
+expected to report to campus. Screening to be completed before leaving home.
+Screening of visitors to campus to be conducted manually through an emailed survey by
+the office which made the invitation prior to the arrival of the guest on campus.
+All results of screening surveys to be reported to Human Resources (for employees and
+visitors) and Student Health Center (for students) daily for review and record-keeping.
+Testing will not be conducted by the campus for any of its constituents.
+
+Residential Living
+•
+
+The college will offer no on-campus housing opportunities for fall 2020 for its own
+students or for tenant institutions.
+
+Operational Activity
+•
+•
+
+The college's course schedule is undergoing revision to accommodate the move to NET,
+Remote and Facilities-Dependent courses.
+No more than 10 percent of the College’s student body (approximately 500) is expected
+to visit campus per week, with those visits staggered across the College’s five-day, eight
+class period schedule.
+28
+
+•
+
+Meetings for the campus will be conducted in virtual settings in almost every instance.
+When face-to-face meetings are required, they will be conducted in spaces that allow for
+six-foot spacing and masks are to be worn.
+
+Restart operations
+•
+•
+
+The College has remained open throughout the pandemic with cleaning taking place on a
+reduced schedule.
+All campus utilities are in place and operational.
+
+Extracurricular Activities including intramurals and student performances
+•
+•
+•
+
+The campus will not host in-person events that are open to the public during the fall
+2020 semester.
+Co-curricular activities will be conducted in a virtual environment for the semester to
+minimize physical interaction.
+Intramurals and other recreational activities will not be conducted as no facilities are
+available due to the presence of the Alternate Care Facility.
+
+Vulnerable Populations
+•
+
+•
+
+As always, students with pre-existing conditions and/or weakened autoimmune systems
+are encouraged to contact the Student Health Center and the Office of Services for
+Students with Disabilities (OSSD) so the necessary accommodations can be made to
+ensure accessibility and inclusivity. The health and safety of our students is the College's
+utmost priority.
+Employees with weakened immune systems or pre-existing conditions will be
+encouraged to work from home if that is practical or accommodations will be
+investigated to enable them to work on campus safely.
+
+Hygiene, cleaning and disinfection protocols
+•
+
+•
+•
+•
+
+Priority cleaning (multiple times daily) will be in place for the following locations:
+restrooms, building entryways and high traffic public areas, classrooms/labs, dining
+areas.
+Routine cleaning (at least once every 72 hours) will be enacted for all other spaces.
+Employees will be encouraged to clean/disinfect their own spaces, with disinfectant
+wipes provided by the college.
+Hand and respiratory hygiene will be the focus on postings and
+communication/education messages throughout the semester.
+
+2. Monitoring
+Testing responsibility
+•
+•
+
+The College will not test its community.
+Students and employees who report or exhibit symptoms will be advised to seek testing
+that is widely available in their communities at private and public healthcare and
+laboratory providers.
+29
+
+Testing Frequency and Protocols
+•
+
+Testing will only be requested when symptoms are present or reported or the party
+involved has reported recent proximity to a person who has tested positive for COVID19.
+
+Early Warning Signs
+•
+
+The Student Health Center staff and the Office of Human Resources will continuously
+monitor students’ and staffs’ daily COVID-19 screening responses to detect changes in
+the health status of the college community. The New York State Department of Health
+Regional Metrics Dashboard and local alerts from the Nassau County Department of
+Health will be used to track the prevalence of COVID-19 in the community and inform
+the College's future decision making.
+
+Tracing
+•
+•
+
+College has relationship with Nassau County Department of Health which has stated it
+will conduct contact tracing for cases related to SUNY Old Westbury.
+Student Health Center has 5 staff members trained for this purpose if needed
+
+Screening
+•
+•
+•
+
+Daily online healthcare screening required for all employees and students who are
+expected to report to campus. Screening to be completed before leaving home.
+Screening of visitors to campus to be conducted manually through an emailed survey by
+the office which made the invitation prior to the arrival of the guest on campus.
+All results of screening surveys to be reported to Human Resources (for employees and
+visitors) and Student Health Center (for students) daily for review and record-keeping.
+
+3. Containment
+Isolation
+•
+
+With no housing being offered in fall 2020, students will be expected to isolate
+themselves at home upon a positive diagnosis for COVID-19.
+
+Quarantine
+•
+•
+
+No quarantine spaces are required on campus as no residential students will be in place
+for fall 2020.
+Student Health Center will maintain contact with those self-isolating/quarantining off
+campus or at home to gauge progress and needs so that assistance can be arranged if
+necessary.
+
+Students confirmed or suspected to have COVID-19
+•
+
+With no housing being offered in fall 2020, any student suspected or confirmed of
+having COVID-19 will already be living at home or independently.
+
+30
+
+Hygiene, cleaning and disinfection
+•
+
+•
+
+When a case is reported, areas used by the person will be closed for a period of 24 hours
+before cleaning and disinfecting is conducted. If 24 hours is not feasible, wait as long as
+possible.
+Outside doors and windows will be opened to increase air circulation in the area.
+
+Communication
+•
+•
+•
+
+Student Health Center director is assigned liaison with county health department and
+responsible for communicating when positive results are known.
+Leadership Messages to the community will be sent via email, supported by text
+messages, will be used to report new cases and to provide updates as necessary.
+All Leadership Messages will be posted to the "Owning Our Future: Fall 2020" website.
+
+4. Return to Remote Operations
+Operational Activity
+•
+
+•
+
+•
+
+Virtually every course delivered this fall will already be either fully online or online with
+limited face-to-face interactions for facility dependent courses, easing any transition that
+might be required to fully remote learning.
+Similarly, academic support services, campus life and student development activities will
+be taking place virtually in most instances, with limited opportunities for face-to-face
+gatherings by appointment. Those face-to-face gatherings will be moved seamlessly to
+virtual environments if necessary.
+With the College seeking to return employees to campus in a slow, phased and
+methodical way in order to reduce density on campus, administrative units that will
+already be conducting a majority of their functions remotely would be in a position to
+continue to do so if public health restrictions must be enhanced.
+
+Move-out
+•
+
+No student housing is planned for fall 2020 resulting in no requirements for "move-out"
+experiences.
+
+Communication
+•
+•
+
+Leadership Messages sent via email, supported by text messages, will be used to report
+new conditions and to provide updates as necessary.
+All Leadership Messages will be posted to the "Owning Our Future: Fall 2020" website.
+
+31

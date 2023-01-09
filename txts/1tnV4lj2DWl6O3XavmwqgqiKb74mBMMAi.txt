@@ -1,0 +1,723 @@
+State University of New York
+College at Old Westbury
+Distance Learning Policies
+4/8/16
+
+I. Rationale
+The goal of SUNY Old Westbury’s Distance Learning Program is to promote the
+seamless integration of online modes of content delivery and instructional interaction
+into the academic offerings of the College. Formats for such integration will include fully
+online classes, hybrid and blended classes in which some but not all classroom time is
+offset by online instruction, and the use of online resources to supplement classroom
+activities and out-of-class assignments in otherwise traditional classes.
+II. Definitions
+A. Distance Course: Any course in which classroom time is offset by online instruction.
+1) In all cases, the combination of classroom time and online activities should, per the
+Middle States Commission on Higher Education’s Credit Hour Policy, “reasonably
+approximate” 180 minutes of “classroom or direct faculty instruction” per week plus an
+additional 420 minutes on out of class work per week during the 15 week semester, for
+a total of 600 minutes, the same as traditional-format (two 90 minute meeting per week)
+classes.1
+2) Time commitments in Summer and Winter sessions will be adjusted to achieve the
+same totals accordingly, as will time commitments for courses worth other than 4
+credits.
+B. Online Course: A Distance course that is conducted entirely online, with no
+classroom usage scheduled. Note that online courses are given a .NET, .NE#, or
+similar section designator with an “N” in it (exact designators are assigned by the
+Registrar and may include other special designations like Honors (H) and Writing
+
+1
+
+Middle State Commission on Higher Education, “Credit Hour Policy: Effective August 23, 2012, Rev.
+October 30, 2012”, downloaded from www.msche.org/documents/CreditHourPolicyRev112012.pdf, April
+8, 2016.
+
+SUNY College at Old Westbury - Distance Learning Policies
+Intensive (W)). Since these classes involve no classroom time, students’ time
+commitment to them is expected to be 600 minutes per week.
+C. Hybrid/Blended Courses: A Distance course in which some but not all classroom
+time is offset by online instruction. There are two designations for these courses,
+depending on their meeting schedule.
+1) Hybrid Course: A Distance course that meets in the classroom for one class period
+a week.
+a) Hybrid courses are expected to meet no less than once a week, and will have a
+classroom scheduled for that one class period.
+b) Since Hybrid classes meet for 90 rather than 180 minutes per week in the classroom,
+student’s time commitment to them outside of class is expected to be 510 minutes per
+week.
+c) Hybrid courses are given a .HYB, .HY#, or similar section designator with a “Y” in it
+by the Registrar.
+2) Blended Course: A Distance course that meets on any schedule other than that of
+an Online or Hybrid course.
+a) If a Blended course will meet more than once a week for at least part of the
+semester, programs need to schedule it for two meeting days a week.
+b) If a Blended course will meet less than once a week, programs need to schedule it
+for one class period per week.
+c) Blended classes can also be scheduled to meet for less than a full class period, with
+the reduced class time offset by online activities.
+b) Since Blended classes meeting schedules can be variable, the total time commitment
+of students outside of class is expected to be 600 minutes minus the amount of time in
+class each week.
+d) Blended courses are given a .BLN, .BL#, or similar section designator with a “B” in it
+by the Registrar.
+E. Traditional Course: A course with all instruction in the classroom, supplemented by
+traditional “homework,” with no use of online resources. Traditional classes meet for
+180 minutes per week, and students are expected to spend an additional 420 minutes
+on work for the course outside of class.
+
+2
+
+SUNY College at Old Westbury - Distance Learning Policies
+F. Web-enhanced Course: A traditional course that makes use of online resources
+without reducing class time.
+G. Distance Program: a course of study leading to a Degree or Certificate in which a
+student can earn 50% or more of the required credits through Distance Courses.
+H. Online Program: a course of study leading to a Degree or Certificate in which a
+student can earn 100% of the credits necessary through Online Courses.
+III. Policies
+A. Faculty Training and Qualifications
+1) Proposals
+a) Faculty members must submit a proposal to the Director of Distance Learning by the
+time that their program submits its schedule for the term in which they desire to teach
+their first Online class at Old Westbury.
+b) Faculty members must submit a proposal to the Director of Distance Learning by the
+time that their program submits its schedule for the term in which they desire to teach
+their first Hybrid/Blended course at Old Westbury.
+Note that Faculty member must submit separate proposals for both their first Online
+course and for their first Hybrid/Blended course.
+2) Training for Distance Courses
+a) Before teaching their first Distance course in each modality (Online and
+Hybrid/Blended) faculty must complete the appropriate training offered by the Distance
+Learning Program.
+b) The training will include instruction in the modified Design and Accessibility OSCQR
+quality rubrics employed at SUNY Old Westbury (attached).
+3) Preparation for Initial Offerings
+a) Before conducting his or her first Distance course in each modality, a Faculty
+member must work with an Instructional Designer or Mentor to develop the course.
+b) This development process will begin during the semester prior to the one in which the
+course will be offered, and will conclude during the January intersession (for Spring
+offerings) or the Summer (for Fall offerings). Training for initial Distance courses that
+will be offered in the Summer or Winter terms will be concluded before the beginning of
+those terms.
+3
+
+SUNY College at Old Westbury - Distance Learning Policies
+Note that Faculty member must work with an Instructional Designer or Mentor before
+both their first Online and their first Hybrid/Blended course.
+4) Exemption from Training
+Faculty members who demonstrate prior training or experience equivalent to items 2
+and 3 above in their proposal can be exempted by the Director of Distance Learning
+from the requirements, or their training and supervision can be reduced.
+5) Approval
+a) At least one week prior to the beginning of the semester in which a faculty member’s
+first Distance course in a modality will be taught, the Instructional Designer or Mentor
+with whom he or she worked must certify to the Director of Distance Learning that the
+course has been designed satisfactorily in terms of online structures and interaction (not
+content).
+Note that both a Faculty member’s first Online course and his or her first Hybrid/
+Blended course must be certified as satisfactory by the Instructional Designer or
+Mentor.
+b) This certification will be based on the rubrics used in the training mentioned in III. A.
+2. b. above.
+i) Items in the Design Rubric marked “Required” must be included satisfactorily; items in
+it marked “Best Practice” should be included unless a compelling justification for
+deviating from them is given by the instructor.
+ii) All items in the Accessibility Rubric must be included satisfactorily.
+c) In cases of disagreement, the Director of Distance Learning will examine the course
+and discuss it with both the instructor and the ID/mentor and decide if it is satisfactory.
+If the course design is deemed unsatisfactory, the faculty member must correct it before
+the beginning of the semester.
+d) If a Faculty member is exempted from items 2 or 3 above, the Director of Distance
+Learning or an Instructional Designer serving as his or her designee must certify that
+the course has been designed satisfactorily as per item 5. In the event of a
+disagreement, the Instructional Designer or Director of Distance Learning, whichever
+did not do the initial review, will examine the course and discuss it with both the
+instructor and the initial reviewer. If the second reviewer also deems the course design
+unsatisfactory, the faculty member must correct it before the beginning of the semester.
+
+4
+
+SUNY College at Old Westbury - Distance Learning Policies
+6) Initial Observation
+a) Approximately one month after the beginning of the semester in which an instructor
+offers their first course in a new modality (or its equivalent in Summer and Winter
+terms), the Instructional Designer or Mentor with whom he or she worked will conduct
+an observation by accessing the course database.
+b) The instructor will be given at least 3 days notice before the course database is
+accessed.
+c) The Instructional Designer or Mentor will provide the instructor written feedback
+based on the observation and the rubric used in the training mentioned in III.A.2.B.
+above.
+d) If in the Instructional Designer’s judgment the observation reveals severe problems
+requiring immediate and substantial remediation, the Instructional Designer will inform
+the Director of Distance Learning, who will then conduct an observation and, if he or she
+concurs with the Instructional Designer, will then inform the appropriate Chair or Dean.
+e) If the instructor has been granted an exemption per item 4 above, the observation will
+be conducted as per item 5) d) above.
+7) Other Restrictions on Initial Offerings
+a) Faculty can only teach one Distance course in a new modality in the semester they
+first teach in that modality. They may not offer both their initial Online and their initial
+Hybrid/Blended courses in the same semester.
+b) If a Faculty member fails to follow the policies above in this section III. A., the
+scheduled course may be reassigned or canceled.
+8) Web-enhanced Courses
+No proposal or training is required for Faculty to incorporate online materials into a
+Traditional course to create a Web-enhanced course. However, participation in campus
+based training and workshops and consultation with an Instructional Designer is
+encouraged.
+9) Subsequent Offerings
+Once a Faculty member has completed training for and taught his or her first Distance
+course in a modality, he or she may offer it in future semesters, and may develop and
+offer additional courses in that modality, without submitting a proposal or undergoing
+further training, in accordance with the policies and practices of his or her Department
+
+5
+
+SUNY College at Old Westbury - Distance Learning Policies
+or School, subject to the College policies set forth below in this document, sections B
+through G.
+B. Course Load and Enrollment Limits
+1) Faculty Course Loads
+A Faculty member may offer at most one Online and two Hybrid/Blended courses or
+Two Online and one Traditional course per semester.
+2) Enrollment Limits
+a) The maximum enrollment in Online classes is 25 students.
+b) The maximum enrollment in Hybrid classes is 35 students.
+c) Lower or higher enrollment limits can be requested for specific courses by Faculty
+and set by Departments or Schools based on special instructional considerations.
+C. Scheduling
+1) Scheduling Restrictions and Guidelines
+a) If a full-time instructor offers two Hybrid courses during a term, they must be offered
+on different days, and if possible scheduled into the same room and time period on
+“alternate” days (for example, if one is on Monday 9:40 –11:10, the other will be on
+Wednesday 9:40 –11:10 in the same room).
+b) If a full-time instructor offers both a Hybrid and a Blended course, the majority of the
+Blended’s class sessions must be scheduled on a day other than the day the Hybrid
+meets. The same principle applies in the case of two Blended courses.
+c) Adjunct faculty teaching two Hybrid classes may schedule both to meet on the same
+day, and may schedule the majority of classes in Blended course to meet on the same
+day as a Hybrid or the majority of classes in another Blended course.
+d) Whenever possible, Hybrid courses offered by Faculty teaching just one such course
+will be “paired” for scheduling purposes with a Hybrid course offered by another Faculty
+member to optimize classroom usage (for example, if one Faculty member is scheduled
+to use a room on Mondays at 11:20; another will be scheduled to use the room at the
+same time on Wednesdays if possible).
+e) In cases in which a Blended course will involve only a few weeks in which there will
+be two meetings, a classroom may be scheduled only once a week, and alternative
+6
+
+SUNY College at Old Westbury - Distance Learning Policies
+arrangements for the “extra” sessions will be made (for example, scheduling them to be
+held in a computer lab).
+2) Review
+The Director of Distance Learning will review the schedule of Distance courses in
+consultation with the Office of Academic Affairs before schedules are finalized. Courses
+scheduled in violation of the policies set out in this document will have to be changed or
+will be canceled.
+D. Quality Assurance
+1) Faculty
+Faculty should include the “Required Features” and are expected to implement the
+“Best Practices” for Distance courses in the campus version of the OSCQR rubric
+employed in the training and instructional design or mentorship support outlined in
+section III.A, above, as appropriate for their specific course. This includes faculty
+exempted from training at Old Westbury due to prior training or experience per item
+III.A.4.
+2) Departments and Schools
+a) Departments and/or Schools are responsible for monitoring the quality of their
+Distance courses, just as they are for their Traditional course offerings. The quality of a
+course is understood to include appropriate amounts of work for the credits awarded as
+well as the accuracy and appropriateness of the content.
+b) The Director of Distance Learning will work with Chairs and/or Deans of Departments
+and Schools with Distance courses to ensure that they and their faculty are prepared to
+monitor the quality of their Distance courses.
+c) Department Chairs will have the right to access Distance course databases, just as
+they have the right to observe Traditional classroom activity.
+i) Observation of a faculty member’s first course in a modality should be done once the
+Instructional Designer has conducted the Initial Observation, per III. A. 6. above, and
+the faculty member has had reasonable time to make adjustments in response to that.
+ii) Chairs can gain access to the Distance course databases of full-time faculty by
+contacting the Director of Distance Learning. The terms of this access will be based on
+the policies that govern their supervision of traditional classes.
+
+7
+
+SUNY College at Old Westbury - Distance Learning Policies
+iii) Chairs will be automatically enrolled in the Learning Management System course
+shells of Online courses taught by adjuncts. Their use of this access should be based
+on the policies that govern their supervision of traditional classes.
+3) Student Evaluations
+The College student evaluation process will be used for Distance as well as Traditional
+courses so far as practical.
+4) Assessment
+a) Distance courses should be included in periodic assessments of Majors and General
+Education domains in proportion to their contribution to the total classes in the major or
+domain.
+b) Distance courses as a category will be assessed once every five years.
+E. Copyrights and Ownership
+1) Faculty are responsible to secure permission for any copyrighted material
+incorporated into their course.
+2) Faculty who develop a Distance course maintain ownership of their intellectual
+property incorporated into the course.
+F. Accessibility
+1) Faculty are responsible for implementing standard accessibility features as outlined
+in the Open SUNY OSCQR Accessibility rubric.
+2) The College is responsible to disseminate the OSCQR rubric to faculty and
+incorporate it into training of faculty preparing to offer their first course in a new Distance
+modality. It will also offer workshops on accessibility to faculty, including training in
+implementing the OSCQR rubric, and reasonable one-on-one support with making
+courses accessible.
+3) When items 1 and 2 here do not meet the specific needs of a student with disabilities,
+the College will be responsible for acting in a timely manner to make instructional
+materials and/or other resources used in a Distance course available to the student.
+a) An exception to this is when doing so would significantly alter the nature of the
+instructional activity.
+
+8
+
+SUNY College at Old Westbury - Distance Learning Policies
+G. Student Preparation
+1) The College will provide students with orientation materials for the instructional
+activities offered by its standard Learning Management System.
+2) Faculty will be responsible to provide sufficient training in any other online
+instructional resources they employ.
+
+9
+
+Distance Course Development Proposal
+
+I. Type of Course (X one):
+
+___ Fully Online
+
+___Hybrid or Blended
+
+II. Course to be First Offered:
+III. Instructor Information
+Name and Rank:
+Teaching Experience Overall and at Old Westbury:
+Experience with online and/or hybrid/blended courses:
+Experience with online supplements in classroom courses:
+Other relevant information (inc. if you’re a department Chair or adjunct):
+IV. Class information
+Department:
+Course ID:
+Course Name:
+Approved by Department/School? (yes, no, or in process):
+Special constituencies (ie, First Year linked, Honors, etc.):
+V. Classroom Schedule (Hybrid or Blended only; Hybrid = 1 day/week; if Blended,
+describe planned meeting pattern):
+VI. Equivalence (How do you envision distance elements will be used to deliver an
+educational experience equivalent to or better than traditional classroom format?)
+
+SUNY College at Old Westbury – OSCQR Design Rubric
+SUNY OSCQR Rubric
+QUALITY INDICATOR
+
+1
+
+2
+
+a
+
+a
+b
+
+a
+3
+
+b
+c
+
+4
+
+a
+
+a
+5
+b
+
+a
+6
+b
+
+a
+7
+
+b
+
+Course provides contact information for instructor, department,
+and program. R
+Course information states whether the course is fully online,
+blended, or web-enhanced. R
+Appropriate methods and devices for accessing and
+participating in the course are communicated (publisher
+websites, secure content, pop-ups, browser issue,
+microphone, webcam). R
+Requisite skills for using tools or third party software are clearly
+stated and supported with resources. R
+Technical skills required for participation in course learning
+activities scaffold in a timely manner (orientation, practice, and
+application - where appropriate). R
+Students have an opportunity to get to know the instructor. R
+Course contains resources or activities intended to build a
+sense of class community, support open communication, and
+establish trust (at least one of the following - Ice-breaker,
+Bulletin Board, Meet Your Classmates, Ask a Question
+discussion forums). R
+
+9
+
+a
+
+Expectations for timely and regular feedback from the instructor
+are clearly stated (questions, email, assignments, weekly
+messages, communications). R
+
+10 a
+
+Expectations for interaction are clearly stated (netiquette, grade
+weighting, models/examples, and timing and frequency of
+contributions). R
+
+Course is organized in a logical way and is easy to navigate;
+hyperlinks used where appropriate. R
+Orientation or overview is provided for the course overall as well
+as in each module so students know how to navigate and what
+tasks are due. R
+
+12 a
+
+Course objectives/outcomes are clearly defined, measurable,
+and aligned to student learning activities and assessments. BP
+
+13 a
+
+Instructions are provided and well written. R
+
+a
+
+Course offers access to a variety of engaging internal and
+external resources that support course content. BP
+
+b
+
+Course uses a variety of technology tools and activities to
+appropriately facilitate communication and collaboration, deliver
+content, and support student learning and engagement. BP
+
+a
+
+Course offers opportunities for student to student interaction
+and constructive collaboration. BP
+
+14
+
+15 b
+c
+
+Major
+2+ hours
+
+Course includes links to relevant campus policies on
+plagiarism, computer use, student grievances, accommodating
+disabilities, etc. R
+Course includes links to privacy policies for internal and
+external tools. R
+Course provides access to campus and Open SUNY
+resources (technical help, orientation, tutoring). R
+
+Grading policies, including consequences of late submissions,
+are clearly stated in the course information area or syllabus. R
+
+b
+
+Moderate
+1/2-2 hours
+
+Course includes a Course Information area that deconstructs
+the syllabus for learners in a clear and navigable way. R
+A printable syllabus is available to learners (PDF, HTML). R
+
+a
+
+a
+
+Minor
+1/2 hour or
+less
+
+Course includes Welcome and Getting Started content
+(welcome video, welcome message, sample assignments in
+course) . R
+
+8
+
+11
+
+Sufficiently
+Present
+
+Course learning activities provide students with the opportunity
+to share resources (Wikis, Diigo, Google Bookmarks, etc.). BP
+Students are encouraged to inject knowledge from diverse
+sources of information in their course interactions. BP
+
+2
+
+Not Applicable
+
+ACTION PLAN
+
+SUNY College at Old Westbury – OSCQR Design Rubric
+
+a
+16
+b
+
+17 a
+
+a
+18
+b
+
+Course provides activities for students to develop higher-order
+thinking and problem-solving skills, such as critical reflection
+and analysis. BP
+Course provides activities that emulate real world applications
+of the discipline, such as experiential learning, case studies,
+and problem-based activities. BP
+Where available, low cost or free materials (Open Education
+Resources) are used. BP
+Course includes appropriate methods to assess students’
+mastery of content. R
+Criteria for assessment are clearly articulated (rubrics,
+exemplary work). BP
+
+19 a
+
+Students have opportunities to review their performance and
+assess their own learning throughout the course (pre-tests,
+automated self-tests, reflective assignments, etc.). BP
+
+20 a
+
+Students have easy access to a well designed and up-to-date
+grade system. R
+
+21 a
+
+Students have multiple opportunities to provide descriptive
+feedback on course design, course content, course experience,
+and ease of online technology. Bp
+
+22 a
+
+Basic ADA accessibility is addressed (ALT tags are present for
+all images in this course, videos and narrated presentations are
+properly transcribed or captioned to meet this standard. See
+Accessibility Rubric). R
+
+23 a
+
+There is consistency in design to present and communicate
+course information to improve readability, and course is free of
+grammatical and spelling errors. R
+
+24 a
+
+Course materials and resources include copyright and licensing
+status, clearly stating permission to share where applicable. R
+
+R= Required
+BP= Best Practices
+
+3
+
+OSCQR Accessibility Rubric
+Accessibility Standard
+
+Sufficiently
+Present
+
+Minor
+
+Moderate
+
+1. Courses should follow a simple and consistent design.
+a Related content should be organized together.
+1
+A consistent layout should be established (consistent color
+b
+scheme, same icon layout, and self-evident titles)
+2. Courses should be designed for ease of use.
+a The homepage should be simple and uncluttered.
+b Icons should be arranged in a logical order.
+c Both Icons and text should be used for homepage links.
+2
+Text should be used as the primary method for delivering
+d
+information (images and color are secondary)
+Icons, folders, links, lessons, quizzes, tests, and assignments
+e
+should have unique and descriptive titles.
+3. The course menu should be organized and up-to-date.
+If available, a search tool should be located at the top of the
+a
+course menu.
+3
+b Frequently used tools should be available.
+c Any tools not being utilized should be removed.
+4. Overview information about the layout and functionality of the course should be available.
+The Course Information documents should describe the overall
+a layout of the course, the types of content available, and the
+tools that will be used.
+4
+b An accessibility statement should be present.
+The course should provide contact information for disability
+c services and invite suggestions on how to increase
+accessibility.
+
+Major
+
+Not Applicable
+
+ACTION PLAN
+
+Need ideas?
+Need ideas?
+
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+
+Need ideas?
+Need ideas?
+Need ideas?
+
+Need ideas?
+Need ideas?
+Need ideas?
+
+5. The color scheme for the course should be simple and carefully chosen.
+
+5
+
+a
+
+Need ideas?
+
+b
+
+Need ideas?
+
+Color alone should not be used to convey important information.
+Text, graphics, and images should be understandable when
+viewed without color.
+c The page background should not overpower the text.
+
+6. Text content should ensure readability.
+There should be high contrast between text and the page
+a
+background.
+Flashing and blinking text should be avoided, unless it has been
+b tested and complies with section 508 of the Americans with
+Disabilities Act.
+c
+d
+e
+6
+
+f
+g
+
+h
+
+i
+
+A sans-serif font with a standard size of 12 pt should be used.
+Lists should be bulleted or numbered, rather than indented or
+tabbed.
+There should be ample white space around and between
+blocks of text.
+Large blocks of information should be divided into manageable
+sections.
+Semantic structure should be maintained (headings instead of
+bold or larger font, table descriptions, emphasis instead of
+italics, strong instead of bold)
+Text content should be available in more than one format. HTML
+is the most accessible format and should be considered the
+preferred document type. (i.e., Word and PDF, or Word and
+HTML)
+Hyperlink text should make sense out of context. Avoid using
+"click here" or "email me".
+
+7. A text equivalent for every non-text element should be provided.
+Images should have alternate text or descriptions conveying the
+a
+meaning.
+b
+7
+
+Audio should have a text transcript in an accessible document.
+Video files with audio should have synchronized captions, a
+c
+video description, and a text transcript.
+Audio-narrated PowerPoint presentations should have text
+d
+transcripts and slide descriptions.
+
+8. PowerPoint presentations should be accessible to all learners.
+a A standard layout and slide title should be use on each slide.
+Templates should be used. Additional text boxes should not be
+b
+added.
+The Notes section should be used to provide long descriptions
+c
+8
+of images.
+d Slides should have simple, non-automatic transitions.
+Any embedded video should be captioned and not cause
+e
+flickering.
+f Presentations should not be "Saved As Web Page".
+
+Need ideas?
+
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+
+Need ideas?
+
+Need ideas?
+
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+Need ideas?
+
+9. When a timed response is required, there should be a means for requesting additional time.
+a
+9
+
+b
+
+Students should be alerted when a timed response is required.
+Sufficient time should be provided for the student to indicate
+that more time is required.
+
+Need ideas?
+Need ideas?

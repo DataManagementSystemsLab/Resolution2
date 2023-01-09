@@ -1,0 +1,505 @@
+Program Revision Proposal:
+
+                            Creating New Program(s) from Existing Program(s)
+                                                                  EPP Form N
+
+This form should be used to seek SUNY’s approval to create one or more new
+programs from existing, registered programs.  A campus is not required to
+submit a Program Announcement (PA) or a Letter of Intent (LI) for these
+types of new programs.   The Chief Executive or Chief Academic Officer
+should submit a signed cover letter and this completed form to the SUNY
+Provost at program.review@suny.edu.
+
+|Section 1.  General Information                                                |
+|a)       |Institution Name: SUC Old Westbury                                   |
+|Instituti|Institution’s 6-digit SED Institution Code: 234000                   |
+|onal     |Institution’s Address:                                               |
+|Informati|                                                                     |
+|on       |Additional Information:  Specify each campus and its 6-digit SED     |
+|         |Institution Code where the program is registered and where the       |
+|         |proposed changes would apply:                                        |
+|b)       |Name and title:                                                      |
+|Contact  |                                                                     |
+|Person   |                                                                     |
+|for This |Telephone:         E-mail:                                           |
+|Proposal |                                                                     |
+|c)       |Signature affirms that the proposal has met all applicable campus    |
+|CEO (or  |administrative and shared governance procedures for consultation, and|
+|designee)|the institution’s commitment to support the program as revised.      |
+|Approval |Name and title:                                                      |
+|         |Signature and date:                                                  |
+|.        |                                                                     |
+|         |If the revised program will be registered jointly[1] with one more   |
+|         |other institutions, provide the following information for each       |
+|         |partner institution.  The signature confirms support of the changes. |
+|         |Partner institution’s name:                                          |
+|         |Name and title of partner institution’s CEO:                         |
+|         |Signature of partner institution’s CEO:                              |
+
+                                                          Version 2013-10-17
+
+|Section 2.  Multi-Award and Multi-Institution Programs                         |
+
+ Check one.
+
+[  X ]      This proposal is for a multi-award program  that  leads  to  two
+      separate awards  (e.g.,  A.S./B.A.,  B.S./M.S.).   Complete  Part  2A,
+      below.    NOTE:  Such programs generally  involve  special  admissions
+      for students who have the capacity to complete all awards,  curricular
+      integration between the component  programs,  and  shortened  time  to
+      degree compared to taking the programs separately.
+
+ [    ]     This proposal is for a multi-institution program (also called  a
+      “jointly registered program”) to be offered jointly  by  two  or  more
+      institutions.  Complete Part B, below.   NOTE:  Such programs  involve
+      a formal agreement between two or more institutions to  offer  courses
+      leading to an award.
+
+[    ]      This proposal is for a  multi-institution,  multi-award  program
+      to be offered jointly by more two or more institutions and lead to two
+      separate  awards.   Provide  a  single,  consolidated  response   that
+      reflects all the items in Parts 2A and 2B, below.
+
+PART 2A – Multi-Award Program
+
+a)  Program  Title:  Combined  B.S.  /M.A.T.  in   Mathematics   Adolescence
+   Education
+
+b) Program Awards ((e.g., B.A./M.S.) from existing  programs):  Bachelor  of
+   Science  in  Mathematics/  Master  of  Arts   in   Teaching   Mathematics
+   Adolescence Education
+
+c) Proposed HEGIS Code: 1701.01
+
+d) Required Number of Credits:  Minimum    [   156    ]       If  tracks  or
+   options, largest minimum [      ]
+
+e) Format:  [ X ] Day    [ X ] Evening  [  ] Weekend     [  ]
+   Evening/Weekend     [  ] Not Full-Time
+
+f) Mode:    [ X ] Standard   [  ] Independent Study   [  ] External   [  ]
+   Accelerated
+
+      [  ]  Distance Education  (If 50% of more of the program can be
+   completed via distance education,
+
+      append a Distance Education Format Proposal at the end of this form.)
+
+
+
+g)   Other:    [  ] Bilingual  [  ] Language Other Than English   [  ]
+   Upper Division Program   [  ] Cooperative
+
+   4.5 year    [ X ] 5 year
+
+h)    List registered programs at the institution identified  in  Section  1
+   whose courses will contribute to this program.  Add rows as needed.
+|         |Program Title                    |Award     |SED Program Code |
+|Program 1|Bachelor of Science in           |B.S.      |80378            |
+|         |Mathematics                      |          |                 |
+|Program 2|Master of Arts in Teaching       |M.A.T.    |32470            |
+|         |Mathematics Adolescence Education|          |                 |
+
+
+i) List all the courses required for each  existing  program,  and  indicate
+   which ones will be counted toward both awards.  See attachment 1
+
+             Bachelor of Science (B.S.) in Mathematics - Courses
+
+
+      |Course |Course Title          |Credi|
+|#      |                      |t    |
+|MA2310 |Calculus & Analytic   |4    |
+|       |Geometry I            |     |
+|MA2320 |Calculus & Analytic   |4    |
+|       |Geometry II           |     |
+|MA3030 |Discrete Mathematics  |4    |
+|MA3160 |Linear Algebra        |4    |
+|MA3210 |Intro. to Probability |4    |
+|       |& Statistics          |     |
+|MA3330 |Calculus & Analytic   |4    |
+|       |Geometry III          |     |
+|MA3520 |Transition to Advanced|4    |
+|       |Mathematics           |     |
+|MA4360 |Differential Equations|4    |
+|MA5120 |Abstract Algebra I    |4    |
+|MA5320 |Advanced Calculus I   |4    |
+|CS2510 |Computer Programming I|4    |
+|MAxxxx |Math Major Elective   |4    |
+|MAxxxx |Math Major Elective   |4    |
+|MAxxxx |Math Major Elective   |4    |
+|       |                      |     |
+|EL1000 |English Composition I |4    |
+|EL22xx |English Composition II|4    |
+|MA2090 |Math Proficiency      |4    |
+|       |Creativity and the    |4    |
+|       |Arts                  |     |
+|       |Western Tradition     |4    |
+|       |American Experience   |4    |
+|       |Major Cultures        |4    |
+|       |Foreign Language      |4    |
+|       |Natural Science (with |4    |
+|       |lab)                  |     |
+|       |Humanities            |4    |
+|       |Social Science        |4    |
+|FY1000 |First Year Experience |4    |
+|       |(Diversity Domain)    |     |
+|CE1000 |Community Engagement  |2    |
+|       |(Campus Requirement)  |     |
+|General|Free elective for a   |14   |
+|Electiv|total of 120 Credits  |     |
+|e      |                      |     |
+|       |                      |     |
+|       |Total Credit          |120  |
+
+   Master of Arts in Teaching Mathematics Adolescence Education - Courses
+
+|Course |Course Title         |Credi|
+|#      |                     |t    |
+|ED6000 |Foundations of       |3    |
+|       |Education            |     |
+|ED6001 |Human Growth &       |3    |
+|       |Development          |     |
+|ED6002 |Foundations of       |3    |
+|       |Literacy             |     |
+|ED6003 |Except Learner       |3    |
+|ED6084 |Methods of Teaching  |3    |
+|       |Math                 |     |
+|ED6094 |Literacy & Technology|3    |
+|       |/ Math               |     |
+|ED6902 |Student Teaching     |6    |
+|       |                     |     |
+|MA6100 |Probability and      |3    |
+|       |Statistics           |     |
+|MA6150*|Geometry             |3    |
+|MA6200 |Algebra              |3    |
+|MA6250 |Analysis             |3    |
+|MA6400*|Topics in Adv. Math &|3    |
+|       |Tech                 |     |
+|MA7500 |Topics in Math & Math|3    |
+|       |Ed                   |     |
+|       |Culm Experience      |     |
+|       |                     |     |
+|       |Total Credit         |42   |
+
+
+
+    * Courses that are counted for both awards: MA6150 and MA6400
+
+    • Total Credits to be taken for combined BS & MAT program is 156.
+
+
+
+
+
+
+
+
+
+
+
+j) How long will it take for full-time students  to  complete  the  proposed
+   program?
+      5 years
+k) What are the admissions requirements for the new  program,  and  how  are
+   they related to student success?
+
+
+   Admission Requirements:
+      • Mathematics majors who have completed a minimum of 60 credits
+        (including 24 at Old Westbury) may begin the formal application
+        into the Combined B.S. / M.A.T. program.
+      • Candidates must have taken at least five courses (20 credits),
+        including 3 courses (12 credits) at Old Westbury, that are required
+        for BS in mathematics degree.
+      • Candidates must have a cumulative GPA of 3.25 overall and 3.25 in
+        all the courses required for the B.S. in Mathematics degree.
+      • Transfer students follow the same admission requirement. They must
+        take at least 6 courses (24 credits), including 3 courses (12
+        credits) required for BS in Mathematics.
+      • Other requirements:
+    ▪ An interview is required
+    ▪ An essay
+    ▪ GRE scores
+    ▪ Two letters of reference from faculty
+    ▪ All college transcripts
+      • Admission to the program is made by the department of mathematics &
+        SOE graduate admission committee.
+
+   Program Info & Requirements
+      • Highly qualified candidates will complete the program in five years
+        by accelerating undergraduate coursework, and moving on to graduate
+        study in the fourth year.
+      • Candidates must maintain a GPA of 3.25 (overall and in the major)
+        in each semester of study.  Additionally, no grades of D are
+        permitted for any required courses, and candidates must meet
+        requirements of the Mathematics major (a grade of C or better in
+        all Math and CIS courses).
+      • Candidates whose GPA falls below 3.25 will be placed on probation
+        and will have one semester to bring up their grades.  Candidates
+        who fail to complete the five-year program will be administratively
+        transferred into the Mathematics major, and will graduate with the
+        B.S. degree.
+      • Transfer students must complete a minimum of 28 credits (7 courses)
+        of the required mathematics courses for BS in mathematics and 12
+        credits (4 courses) of the required mathematics courses for MAT in
+        mathematics at Old Westbury.
+
+
+l) Complete a SUNY Sample Program Schedule to  show  how  students  will  be
+   able to  schedule  all  required  courses  to  complete  the  multi-award
+   program.
+SUNY Undergraduate Sample Program Schedule OPTION:  You can paste an Excel
+version of this schedule AFTER this line, and delete the rest of this
+page.)
+Program/Track Title and Award:_ Combined B.S. /M.A.T. in Math Adolescence
+Education- Bachelor of Science in Mathematics
+a) Indicate academic calendar type: [ X ] Semester   [  ] Quarter   [  ]
+   Trimester   [  ] Other (describe):
+b) Label each term in sequence, consistent with the institution’s academic
+   calendar (e.g., Fall 1, Spring 1, Fall 2)
+c) Name of SUNY Transfer Path, if one exists:
+   ___Mathematics____________________________________  See Transfer Path
+   Requirement Summary for details.
+d) Use the table to show how a typical student may progress through the
+   program; copy/expand the table as needed.  Complete all columns that
+   apply to a course.
+
+|Term 1: Fall 1                                                                                                      |
+SUNY Graduate Sample Program Schedule OPTION:  You can insert an Excel
+version of this schedule AFTER this line, and delete the rest of this
+page.)
+Program/Track Title and Award:_ Combined B.S. /M.A.T. in Math Adolescence
+Education- Master of Arts in Teaching Mathematics Adolescence Education
+a) Indicate academic calendar type: [ X ] Semester   [  ] Quarter   [  ]
+   Trimester   [  ] Other (describe):
+b) Label each term in sequence, consistent with the institution’s academic
+   calendar (e.g., Fall 1, Spring 1, Fall 2)
+c) Use the table to show how a typical student may progress through the
+   program; copy/expand the table as needed.
+d) Complete the last row to show program totals and comprehensive,
+   culminating elements.  Complete all columns that apply to a course.
+|                                             |  |Term 8:Spring 4                                        |
+|                                             |  |                                                       |
+|Course Number &     |Credits       |New                                                                 |
+|Title               |              |                                                                    |
+|New: X  if new course    Prerequisite(s): list prerequisite(s) for the noted courses                    |
+
+
+Total Credits to be taken for combined BS & MAT degree program is 156.
+
+
+
+
+
+|For programs leading to initial certification, list all pedagogical courses in the|
+|proposed program in the Pedagogical Core Courses table below.   The Pedagogical   |
+|Core Courses Table is designed for a program leading to a single certificate or   |
+|multiple certificates. See example on Pedagogical Core Courses Table for an       |
+|inclusive childhood education program leading to Childhood Education 1-6 (Cert    |
+|Code: 02) and Teaching Students with Disabilities 1-6 (Cert Code: 06).            |
+|                                                                                  |
+|Step 1:                                                                           |
+|In the first four columns, identify each pedagogical course by course number,     |
+|title, number of credits, required (R) or elective (E), and the                   |
+|instructor(s)/status (full-time or part-time). See example on Pedagogical Core    |
+|Courses Table.                                                                    |
+|                                                                                  |
+|Step 2:                                                                           |
+|Use the Certification Area Codes listed immediately below to identify the         |
+|certificate area(s) the program leads to and insert the certificate area number   |
+|code(s) in the Cert Code column(s). For example, if a program prepares candidates |
+|for certification in Childhood Education 1-6 and Teaching Students with           |
+|Disabilities Childhood 1-6, mark 02 and 06 in the Cert Code columns. See example  |
+|on Pedagogical Core Courses Table.                                                |
+|                                                                                  |
+|Certification Area Code                                                           |
+|01. Early Childhood Education                                                     |
+|                                                                                  |
+|                                                                                  |
+|02. Childhood Education                                                           |
+|                                                                                  |
+|                                                                                  |
+|03. Middle Childhood Education                                                    |
+|                                                                                  |
+|                                                                                  |
+|04. Adolescence Education                                                         |
+|                                                                                  |
+|                                                                                  |
+|05. Teaching a Special Subject                                                    |
+|                                                                                  |
+|                                                                                  |
+|06. Teaching Students with Disabilities in Early Childhood and Childhood          |
+|                                                                                  |
+|                                                                                  |
+|07. Teaching Students with Disabilities 7-12 Generalist                           |
+|                                                                                  |
+|                                                                                  |
+|08. Teaching Students Who are Deaf and Hard of Hearing                            |
+|                                                                                  |
+|                                                                                  |
+|09 Teaching Students Who are Blind or Visually Impaired                           |
+|                                                                                  |
+|                                                                                  |
+|10. Teaching Students with Speech and Language Disabilities                       |
+|                                                                                  |
+|                                                                                  |
+|11. Teaching English to Speakers of Other Languages                               |
+|12. Literacy                                                                      |
+|                                                                                  |
+|                                                                                  |
+|13. Teaching the Career Field                                                     |
+|                                                                                  |
+|                                                                                  |
+|14. Teaching a Specific Career and Technical Subject                              |
+|                                                                                  |
+|                                                                                  |
+|15. Library Media Specialist                                                      |
+|                                                                                  |
+|                                                                                  |
+|16. Educational Technology Specialist                                             |
+|                                                                                  |
+|                                                                                  |
+|17. Bilingual Education Extensions*                                               |
+|                                                                                  |
+|                                                                                  |
+|18. Bilingual Education Extensions**                                              |
+|                                                                                  |
+|                                                                                  |
+|19. Grades 5 and 6 Extensions                                                     |
+|                                                                                  |
+|                                                                                  |
+|20. Grades 7 through 9 Extensions                                                 |
+|                                                                                  |
+|                                                                                  |
+|21. Gifted Education Extensions                                                   |
+|                                                                                  |
+|                                                                                  |
+|22. Coordination of Work-Based Learning Programs Extensions                       |
+|                                                                                  |
+|                                                                                  |
+|24. Teaching Students with Severe or Multiple Disabilities Extensions             |
+|                                                                                  |
+|                                                                                  |
+|* Bilingual education extensions for all with exception of library media          |
+|specialist and educational technology specialist.                                 |
+|** Bilingual education extensions for library media specialist and educational    |
+|technology specialist.                                                            |
+|                                                                                  |
+|                                                                                  |
+|Step 3:                                                                           |
+|Using the Roman numerals embedded in the Certification Area Codes above, identify |
+|the general and program-specific pedagogical core requirements addressed by the   |
+|course and insert the Roman numerals corresponding to the requirements in the     |
+|appropriate columns. See example on Pedagogical Core Courses Table. The general   |
+|and program-specific requirements can be found by clicking on the link to each    |
+|certification area. NOTE: The Roman numerals found in the Certification Area Codes|
+|(e.g., ii, vi, vii,) reflect the regulatory requirements for each certificate     |
+|title.  However, the Roman numerals used in the table and found in the links do   |
+|not always align with the Roman numerals in Section 52.21.  For purposes of       |
+|completing the Pedagogical Core Courses table, please use only the Roman numerals |
+|found within the Certification Area Codes above.                                  |
+|Step 4:                                                                           |
+|Provide a description of each existing pedagogical course for this program as it  |
+|appears in the college catalog by pasting it below, insuring that the description |
+|reflects alignment with the regulatory requirements:                              |
+|Step 5:                                                                           |
+|Attach syllabi for each new course.  Syllabi should include a course description  |
+|and identify course credit, objectives, topics, student outcomes, texts/resources |
+|and the basis for determining grades.                                             |
+|                                                                                  |
+
+
+Pedagogical Core Courses Table
+
+|Course Number   |Credit|R/E  |Instructor(s) /   |Pedagogical Core Requirements (PCR) |
+|and Title       |      |     |Status            |Addressed                           |
+|                |      |     |                  |General    |Program-Specific PCR    |
+|                |      |     |                  |PCR*       |                        |
+|Section 4. Faculty                                                              |
+
+
+a) Complete the SUNY Faculty Table on the next page to describe current
+   faculty and to-be-hired (TBH) faculty.
+
+
+b) Append at the end of this document position descriptions or
+   announcements for each to-be-hired faculty member.
+
+
+NOTE:  CVs for all faculty should be available upon request.  Faculty CVs
+should include rank and employment status, educational and employment
+background, professional affiliations and activities, important awards and
+recognition, publications (noting refereed journal articles), and brief
+descriptions of research and other externally funded projects.    New York
+State’s requirements for faculty qualifications are in Part 52.2(b) of the
+Regulations of the Commissioner of Education.
+
+
+c) What is the institution’s definition of “full-time” faculty?  Service,
+   scholarship and teaching of 3 courses a semester.
+SUNY Faculty Table
+Provide information on current and prospective faculty members (identifying
+those at off-campus locations) who will be expected to teach any course in
+the graduate program. Expand the table as needed.  Use a separate Faculty
+Table for each institution if the program is a multi-institution program.
+
+|Faculty Member Name and    |% of    |Program       |Highest and Other Applicable   |Discipline(s|Additional     |
+|Title/Rank                 |Time    |Courses Which |Earned Degrees (include College|) of Highest|Qualifications:|
+|(Include and identify      |Dedicate|May Be Taught |or University)                 |and Other   |List related   |
+|Program Director with an   |d to    |(Number and   |                               |Applicable  |certifications,|
+|asterisk.)                 |This    |Title)        |                               |Earned      |licenses and   |
+|                           |Program |              |                               |Degrees     |professional   |
+|                           |        |              |                               |            |experience in  |
+|                           |        |              |                               |            |field.         |
+|Yogesh More                |17%     |MA6150        |Ph.D., University of Michigan  |Mathematics |               |
+|                           |        |Geometry      |                               |            |               |
+|Frank Sanacory             |17%     |MA6250        |Ph.D., University of South     |Mathematics |               |
+|                           |        |Analysis      |Carolina                       |            |               |
+|Geta Techanie              |17%     |MA6200 Algebra|Ph.D., University of North     |Mathematics |               |
+|                           |        |              |Carolina at Charlotte          |            |               |
+|Lan Zhao                   |17%     |MA6100        |Ph.D., Brown University        |Mathematics |               |
+|                           |        |Probability & |                               |            |               |
+|                           |        |Statistics    |                               |            |               |
+|Jeanne Shimizu             |33%     |ED6084Methods |Ph.D., Pennsylvania State      |Curriculum &|State of       |
+|                           |        |of Teaching   |University                     |Instruction |California     |
+|                           |        |Math          |                               |with an     |Certification  |
+|                           |        |ED6094        |                               |emphasis in |(7-12) Maths   |
+|                           |        |Literacy &    |                               |Mathematics |               |
+|                           |        |Technology /  |                               |Education   |               |
+|                           |        |Math          |                               |            |               |
+|Julio Gonzalez             |17%     |ED6001 Human  |Ed.D. University of            |Child &     |State of       |
+|                           |        |Growth &      |Massachusetts-Amherst          |Families    |Massachusetts, |
+|                           |        |Developmnt    |                               |Studies     |Certification  |
+|                           |        |              |                               |Program     |special        |
+|                           |        |              |                               |            |Education      |
+|                           |        |              |                               |            |(1-12)         |
+|Stephanie Schneider        |        |ED6002:       |Ph.D. Hofstra University       |Literacy    |NYSED          |
+|                           |17%     |Foundations of|                               |Studies     |Certification  |
+|                           |        |              |                               |            |(7-12) Social  |
+|                           |        |Literacy      |                               |            |Studies/       |
+|                           |        |              |                               |            |Special        |
+|                           |        |              |                               |            |Education      |
+|Sanja Cale                 |17%     |ED6003:Except |Ph.D. Stony Brook University   |Clinical    |Board Certified|
+|                           |        |Learner       |                               |Psychology  |Behavior       |
+|                           |        |              |                               |            |Analyst        |
+|Part 2.  Part-Time Faculty |        |              |                               |            |               |
+|John Scarnati              |        |ED6902 Student|Master St-John’s University    |Maths       |NYSED          |
+|                           |        |Teaching      |                               |            |Certification  |
+|                           |        |              |                               |            |(6-12) Maths   |
+|Part 3.  Faculty           |        |              |                               |            |               |
+|To-Be-Hired (List as TBH1, |        |              |                               |            |               |
+|TBH2, etc., and provide    |        |              |                               |            |               |
+|title/rank and expected    |        |              |                               |            |               |
+|hiring date.)              |        |              |                               |            |               |
+|                           |        |              |                               |            |               |
+|                           |        |              |                               |            |               |
+|                           |        |              |                               |            |               |
+|                           |        |              |                               |            |               |
+|                           |        |              |                               |            |               |
+
+
+
+-----------------------
+[1] If the partner institution is non-degree-granting, see SED CEO Memo 94-
+04. .

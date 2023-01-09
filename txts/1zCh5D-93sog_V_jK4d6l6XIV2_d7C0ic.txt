@@ -1,0 +1,3692 @@
+Co-Directors of Academic Assessment
+2020-2021 Report
+
+November 16, 2021
+
+Ashlee Lien
+Co-Director of Academic Assessment, ISLO Assessment Emphasis
+Ryoko Yamamoto
+Co-Director of Academic Assessment, PSLO Assessment Emphasis
+
+TABLE OF CONTENTS
+Scope of the Report
+
+4
+
+Executive Summary
+
+5
+
+I. Academic Assessment in Transition
+
+8
+
+II. Middle States Self Study & MSCHE Team Visit
+
+9
+
+III. Transition Accelerated
+
+10
+
+A. ISLO Assessment Initiatives
+
+10
+
+1. LEAP+ Integration
+
+11
+
+2. 5 Phase Assessment Cycle
+
+12
+
+B. PSLO Assessment Initiatives
+
+16
+
+1. Program Assessment Plan (Spring 2021)
+
+16
+
+2. Degree (Major) Program Assessment Year-End Report AY2020-
+
+23
+
+2021
+3. Assessment Fellows Program & Assessment Coordinator System
+
+27
+
+(2022-, Pending Funding)
+4. “Closing the Loop” Model Program Showcase
+C. Other Initiatives
+
+30
+30
+
+1. Academic Assessment Website
+
+30
+
+2. Introducing Assessment Technology (Weave+)
+
+30
+
+IV. Moving Forward
+
+35
+
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+1
+
+Tables & Figures
+
+Figure II-1. The Assessment Cycle and “Closing the Loop”
+
+Page
+9
+
+Table III-A1. LEC Assessment Schedule (2021-2026)
+
+15
+
+Table III-B1. Continuous Assessment: A Full PSLO Assessment Schedule for SAS &
+SPS Programs from S21 Program Assessment Plan
+Table III-B2. “Closing the Loop” Plans for SAS and SPS Programs from S21 Program
+Assessment Plan
+Table III-B3: Plans for Additional Forms of Program Assessment for SAS and SPS
+Programs from S21 Program Assessment Plan
+Table III-B4. PSLO Assessment Data Collection Activities, AY2020-2021 Year-End
+Report
+Table III-B5. Academic Assessment Related Achievements, AY2020-2021 Year-End
+Report
+Table III-B6. “Closing the Loop” - Utilization of Assessment Results, AY2020-2021
+Year-End Report
+Figure III-B1. Assessment Fellows Program & Assessment Coordinator System
+
+17
+
+Table III-B7. The Assessment Fellows Program Schedule
+
+29
+
+Table III-B8: Assessment Fellows Activities (Oct & Nov) and Their Objectives
+
+29
+
+Table III-D1. The PSLO Assessment Status of SAS & SPS Program, as of Nov 12, 2021
+
+32
+
+Table III-D2. The Status of Academic Assessment per Relevant MSCHE Standard
+Criterion and Supporting Evidence from Co-DAA Initiatives
+Table IV. Academic Assessment at OW: Overview
+
+33
+
+18
+21
+23
+25
+26
+27
+
+37
+
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+2
+
+Appendix List
+1.
+
+Assessment Conversation Themes
+
+2.
+
+Degree Program Assessment Year-End Report Pilot AY2019-2020 Form
+
+3.
+
+F20 Remote Instruction Impact Survey
+
+4.
+
+LEC Assessment: American Experience S20 Report
+
+5.
+
+LEC Assessment: Humanities S20 Report
+
+6.
+
+LEC Assessment: Western Tradition S20 Report
+
+7.
+
+S21 Program Assessment Plan Forms and Examples
+
+8.
+
+Degree Program Assessment Year-End Report AY2020-2021 Form
+
+9.
+
+SAS & SPS PSLOs
+
+10.
+
+Academic Assessment Website – Selected Pages
+
+11.
+
+Assessment Fellows: Schedule & Topic List
+
+12.
+
+Assessment Fellows: Curriculum Conversation Report Instruction & Template
+
+13.
+
+Assessment Fellows: “Assessment of Assessment” Exercise
+
+14.
+
+Assessment Fellows: F21 Academic Assessment Follow-up Form
+
+15.
+
+Assessment Fellows: Mission-PSLO Alignment Exercise
+
+16.
+
+“Closing the Loop” Model Department Showcase: Description and Template
+
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+3
+
+SCOPE OF THE REPORT
+This report is prepared by Co-Directors of Academic Assessment (Co-DAAs), Ashlee Lien and Ryoko
+Yamamoto, to document and share the development of academic assessment and their initiatives since
+the time of appointment to the present (Jan 15, 2020 – Nov 12, 2021).
+According to the performance programs, responsibilities of Co-DAAs include documenting academic
+assessment activities and analysis, facilitating the college-wide communication regarding academic
+assessment, representing the College in venues relevant to academic assessment, and providing support
+and guidance to faculty regarding academic assessment.
+
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+4
+
+EXECUTIVE SUMMARY
+•
+
+Academic Assessment at OW has been highly segmented by School with varied level of practice
+and resources.
+ü SOE and SOB have established program-level assessment to satisfy accreditation
+requirements and have received personnel support and resources to support the work.
+ü SAS departments are responsible for Institutional-level Student Learning Outcome
+(ISLO) assessment and Program-level Student Learning outcome (PSLO) assessment.
+There have been no dedicated resources for program-level assessment in SAS or SPS.
+ü Regular ISLO assessment data collection has been established with coordination by CoDAA and LEC. This practice has been long-standing but resources to support the
+assessment practice are negotiated annually.
+ü Prior to Spring 2021, PSLO assessment in SAS departments without discipline specific
+accreditation was only documented through CAP Five Year Review. There was no
+organized process nor resource to support regular and ongoing PSLO assessment.
+
+•
+
+Middle States Self Study and verbal and written feedback from the MSCHE Team in March
+2021 identified the imminent need of establishing a systematic and regular process for PSLO
+assessment practice and utilization of assessment data (PSLO and ISLO) in SAS and SPS.
+These points were reiterated in the June 24 request for Supplemental Information Report (SIR).
+Specific points of concern include:
+ü The lack of an organized process for, and a regular practice of, PSLO assessment data
+collection in programs without discipline-specific accreditation.
+ü The lack of an organized process for, and a regular and documented practice of sharing
+PSLO and ISLO assessment results with stakeholders and utilizing them for the
+improvement of curriculum and student learning experience.
+ü PSLOs are “clearly written,” but some are “not sufficiently linked to the underlying
+discipline(s)”.
+
+•
+
+Since the MSCHE Team visit, the processes to facilitate an organized, systematic, and
+meaningful PSLO assessment have been designed and implemented. Specifically,
+ü The Program Assessment Plan for each degree program, including PSLOs, a
+curriculum map, multi-year strategic assessment schedule, and a plan for assessment data
+sharing and feedback (Spring 2021, to be revised at the completion of the Assessment
+Fellows Program).
+ü Degree (Major) Program Assessment Year-End Report, which includes updates on
+student learning data collection, the utilization of assessment data, and changes in
+assessment tools (June 2021).
+ü The Assessment Fellows Program, as a preparatory program for the SAS Assessment
+Coordinator System (pending funding).
+ü An academic assessment website with PSLOs, curriculum maps and assessment FAQs.
+
+•
+
+As a result, SAS and SPS departments improved assessment tools since the MSCHE visit and
+are now engaging with more regular, strategic and better documented assessment practice
+with active facilitation of “Closing the Loop.”
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+5
+
+ü All SAS departments and SPS have PSLOs linked to the discipline, curriculum maps and
+a strategic multi-year assessment schedule for their degree programs.
+ü Multiple SAS departments created a departmental assessment committee.
+ü Most of SAS departments and SPS will have completed at least one PSLO assessment by
+the end of Fall 2021. The rest of departments will commence data collection in Spring
+2021.
+ü Assessment Fellows receive training in assessment and engage with collective problem
+solving in biweekly meetings.
+ü Assessment Fellows are coordinating departmental assessment practice and facilitating
+inter-departmental communication.
+ü Almost all SAS departments and SPS have some plans to share and discuss PSLO
+assessment results within the department and the rest are in the process of creating them.
+ü A shift toward meaningful, action-oriented assessment in SAS departments are facilitated
+through various Fellows activities.
+ü Four SAS departments are engaging with “Closing the Loop Showcase” activity utilizing
+recent assessment reports and are scheduled to share outcomes with broader audience in
+Spring 2022.
+•
+
+The Liberal Education Committee (LEC) has established a systematic process for ongoing
+ISLO assessment and utilization of assessment data (“Closing the Loop”) to inform the
+liberal education curriculum.
+ü A new 5-year schedule has been established to ensure the assessment for every domain
+and competency in the Liberal Education Program (LEP).
+ü A 5-phase model for assessment has been developed that engages each domain in the
+assessment process every academic year. The phases ensure ongoing data collection,
+analysis, and communication and utilization of assessment data to inform the curriculum
+(“Close the Loop”).
+ü LEC meetings now include regular, structured conversations about assessment and
+“Closing the Loop” activities in domains.
+ü The process of transitioning to LEAP+ is ongoing, with a complete process of mapping
+domains to LEAP Essential Learning Outcomes.
+ü The LEC decided to create detailed rubrics to create a more rigorous assessment
+process, with plans to begin the process in AY 2021-22.
+
+•
+
+Moving forward,
+ü What We Must Do
+§ Follow through with continuous assessment practice
+§ Schedule a routine review of the Assessment Plan
+§ Establish regular and documented assessment data sharing and utilization
+§ Create documentation to ensure continuity of assessment through personnel
+changes in LEC
+ü Where We Want to Go
+§ Faculty-centered, faculty-embraced assessment
+§ Assessment as resource
+§ Vibrant teaching & learning + curricular building + assessment synergy
+§ Creative, multi-faceted academic assessment
+
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+6
+
+§
+
+Regular conversation about assessment practices (faculty and administrative
+updates)
+ü What We Should Avoid
+§ Checkbox assessment
+§ Micro-obsessed assessment
+ü What We Need/Want
+§ The Assessment Coordinator System for SAS and SPS
+§ A bottom-up, faculty-led process for creating assessment policies and guidelines
+and supporting assessment practices
+§ A college-wide annual assessment calendar with a multi-year strategic assessment
+plan
+§ A system of incentivizing best practice and peer-learning (e.g., “Closing the
+Loop” Grant, Showcase events)
+§ Explicitly laid out bottom line and aspirational expectations and steps to achieve
+them
+§ Trust building / Culture of Listening
+
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+7
+
+I. ACADEMIC ASSESSMENT IN TRANSITION
+During the first year of the appointment, Co-DAAs focused on identifying the situation of academic
+assessment at the College and gathering basic information of existing academic assessment practice.
+This work coincided with the Middle States Self Study process (both Co-DAAs served on Standard V
+Work Group; Dr. Lien was a Work Group Co-Chair).
+Meanwhile, for ISLO assessment, student learning outcome data were gathered for three LEP domains:
+American Experience, Humanities and Western Tradition (reports in Appendices). On the side of PSLO
+assessment, the information for SAS programs was sporadic. In Spring 2020, the Degree Program
+Assessment Year End Report was gathered from Academic Departments as a pilot study (see Appendix
+for the form).
+Co-DAAs participated in various external professional development opportunities including
+“Assessment Conversation” Workshop by MSCHE (March 2020), Assessment of Learning Outcome
+Certificate courses by SUNY Council on Assessment (SCoA, Spring 2020), SCoA Workshop
+“Maintaining Culture of Assessment in Difficult Times” (Fall 2020), and other virtual conferences and
+workshops. In June 2020, Co-DAAs participated in AAC&U’s Summer Institute in General Education
+Assessment (IGEA) as a part of the College Team (along with Jacob Heller, Ashok Basawapatna, and
+Orquidea Morales). At the IGEA Institute, the Old Westbury Team developed an “Action Plan” for the
+transitions and improvements planned for the LEP at the College.
+A decision was reached as a result of the IGEA Summer Institute experience in June 2020 to pause LEP
+assessment for AY 20-21. Instead of continuing assessment as planned, the team decided to use the year
+to evaluate and modify assessment practices as the LEC worked on the LEAP+ transition. Part of the
+evaluation process included “assessment of assessment” conversations with various stakeholders.
+During fall 2020, the Co-DAA’s held three conversations with LEC domain representatives who had
+previous experience conducting syllabi reviews and learning outcome assessments. In addition, the CoDAA’s met with two academic departments who contribute to the LEP and were at different stages of
+their own program assessment.
+Topics of discussion included perceived roles of the LEC/ Dept, experience with assessment and
+recollection of past practice, results of assessment, recommendations for improving the process, and a
+discussion of support needed to improve the LEP/program. Detailed notes were taken during the
+conversations and reviewed to identify relevant themes. Themes for program assessment included
+infrequency of assessment, lack of information, challenges with current practice, and barriers to
+“Closing the Loop”. Themes for LEP assessment included lack of awareness of LEP, confusion about
+LEC’s role in assessment, assessment quality concerns, no follow-up or “Closing the Loop”. Various
+recommendations emerged for both program and LEP assessment (see Appendix for Assessment
+Conversation Themes).
+The time of transition in academic assessment leadership coincided with the turbulent period of constant
+contingency planning and instructional adjustment due to the COVID-19 pandemic. In order to evaluate
+the impact of remote instruction and provide information to contextualize student learning data, the
+Assessment Team consisting of Co-DAAs and AVP IEA conducted the Mid-Semester Remote
+Instruction Faculty Survey (see Appendix for the report).
+
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+8
+
+II. Middle States Self Study & MSCHE Team Visit
+The Middle States Self Study made it clear that the lack of organized, regular and documented
+assessment practice in SAS and SPS is a significant issue of concern. The Self Study also identified that,
+while ISLO assessment had a regular, established process of assessment data collection coordinated by
+LEC and Co-DAA, no organized process to facilitate the “Closing the Loop” (See Figure II-1) was in
+place. These concerns were echoed by the MSCHE Visit Team during their visit.
+Figure II-1: The Assessment Cycle and “Closing the Loop” (In Yellow)
+
+(Re)Identify
+Goals
+Assess the
+Effect
+
+Make an
+Assessment
+Plan
+
+Take Actions
+
+Make Action
+Plans
+
+Collect Data
+
+Analyze
+Data
+
+In order to address these concerns, the Self Study made the following recommendations.
+Recommendation 5.1: The College should pursue a more organized process of following
+up and ensuring that improvements based on LEP assessment results are made in all
+relevant academic departments.
+Recommendation 5.2: Regular Conduct of Academic Assessment - For academic
+degree programs (i.e., majors) not governed by specialized, discipline-specific
+accreditation requirements for program student learning outcome assessment, the
+College should implement a standard process of program assessment, in consultation
+with faculty governance. Every Academic Department offering a degree program should
+have completed a Departmental Assessment Plan by April 1, 2021. The Assessment Plan
+should include PSLOs, a curriculum map, assessment schedule, and a system for
+“Closing the Loop,” and should be coordinated with the 5-Year CAP Departmental
+Review process. For the initial iteration, Program Assessment Plans should be reviewed
+Co-Directors of Academic Assessment Report 2020-2021 -
+
+9
+
+by an assessment group comprised of the School Dean or Director, the Assistant Vice
+President for Institutional Effectiveness and Assessment, the Co-Directors of Academic
+Assessment, and CAP Committee representatives.
+Recommendation 5.3: Academic Assessment Reporting - Each Academic Department
+Chair should report to their Dean or Director annually in May, regarding the completion
+of Program Academic Assessment for each degree program (major) offered by that
+department, according to the Assessment Plan on file with Academic Affairs. Such
+reports and their findings should be kept on record in Academic Affairs and will inform
+planning and resource allocation decisions.
+The Self Study and the MSCHE Team confirmed that SOB, SOE and one SAS program that follow
+discipline-specific accreditation requirements have an established and documented assessment process
+with an embedded “Closing the Loop” process.
+The Self Study did not include an inventory of PSLOs from SAS and SPS programs, but they were later
+submitted at the request of the MSCHE Team. The Team concluded that these PSLOs are “clearly
+written,” but some are “not sufficiently linked to the underlying discipline(s)”. Absent curriculum maps
+and some “multi-purposed” sets of PSLOs contributed to this conclusion.
+Meetings with campus stakeholders and the MSCHE Team identified that inequity in academic
+assessment resources across Schools may have contributed to the varied level of academic assessment
+practice. While SOE and SOB have established program-level assessment to satisfy accreditation
+requirements and have received personnel support and resources to support the work, SAS programs
+received no dedicated resource(s) to build and sustain academic assessment. The equity in resource
+seems more profound considering SAS hosts the largest number of academic programs with a great
+diversity in subject matters. SAS Departments are also responsible for gathering ISLO assessment data
+(coordinated by LEC and Co-DAA) since the LEP consists of courses offered by SAS Departments. The
+MSCHE Team clarified 1) the need of infrastructure to support regular assessment practice in SAS and
+SPS, such as an assessment liaison in each academic program, 2) the need of resources to support such
+practice, and 3) the need of a process that facilitates the “Closing the Loop” more regularly than Five
+Year Reviews. See Appendix for a list of the MSCHE Team Standard V Recommendations and
+Collegial Advice.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 10
+
+III. Transition Accelerated
+In response to concerns raised by the MSCHE Team and anticipated SIR, the Assessment Team started
+multiple initiatives. On June 24, the MSCHE issued a request for the SIR which documents concrete
+evidence that the College is making a satisfactory progress regarding seven criteria, six of which are on
+academic assessment1. The SIR request confirmed the expectations discussed with the MSCHE Team.
+The SIR request, as well as two follow-up meetings with the MSCHE Liaison Dr. Peavy (Aug 3 with
+Jacob Heller and Nov 1 with Frank Sanacory, Mike Kavic, Cris Notaro, Courtney Raeford, Ashlee Lien
+and Ryoko Yamamoto) confirmed the importance of meaningful assessment, i.e., bottom-up, actionoriented academic assessment, in which academic assessment is purposefully conducted and the
+results are routinely utilized for curricular and pedagogical improvements (“Closing the Loop”).
+Follow-up meetings with Dr. Peavy also confirmed that the expectations are to provide concrete
+evidence that the College is making satisfactory progress toward these goals. It was explicitly affirmed
+that expecting academic programs to move from not having established assessment practice to “Closing
+the Loop” in less than one year is unrealistic if not impossible, and the expectation at the point of SIR is
+building a systematic process for meaningful assessment and concrete evidence of the solid progress
+in—not the completion of—the assessment cycle.
+In order to accelerate a transition to action-oriented academic assessment and demonstrate the use of
+assessment data in SAS during a short timeframe, Co-DAAs implemented two additional initiatives:
+Curriculum Conversation Report Project and “Closing the Loop” Model Program Showcase.
+A.
+
+ISLO Assessment Initiatives
+1. LEAP+ Integration
+
+On April 22, 2016, the Faculty Senate approved a resolution to adopt the AACU’s LEAP Essential
+Learning Outcomes (strengthened by the Old Westbury Mission) as a model for liberal education
+institutional outcomes. A task force had been proposed to implement these changes, however, work on
+the transition did not begin until the initial mapping process in spring 2019. Discussions about the
+LEAP+ transition, led by the assessment team, resulted in the continuation of the mapping process in
+LEC during AY 20-21. During this process, domain representatives examined the LEAP VALUE
+1
+
+MSCHE Accreditation Actions, June 24, 2021 (https://www.msche.org/institution/0448/) “To acknowledge receipt of the
+self-study report. To note that the institution hosted a virtual site visit in lieu of an on-site visit in accordance with the
+United States Department of Education (USDE) guidelines published March 17, 2020. To reaffirm accreditation. To request a
+supplemental information report, due March 1, 2022, documenting further evidence of (1) the periodic assessment of the
+effectiveness of student learning opportunities (Standard III); (2) the periodic assessment of the effectiveness of student
+support programs and experiences (Standard IV); (3) clearly stated institutional and program-level goals which are aligned
+with each other and with the institution’s mission (Standard V); (4) organized and systematic assessments that evaluate the
+extent of student achievement (Standard V); (5) organized and systematic assessments that evaluate the extent of student
+achievement in general education (Standard V); (6) sufficient support to sustain the assessment of student achievement
+and to communicate results of assessment to stakeholders (Standard V); and (7) demonstrated and documented use of
+assessment results to improve educational effectiveness (Standard V). To direct a follow-up team visit following submission
+of the supplemental information report. To note the visit will also fulfill the verification requirements of the USDE
+guidelines. The next evaluation visit is scheduled for 2028-2029”
+Co-Directors of Academic Assessment Report 2020-2021 - 11
+
+rubrics and compared them with the SUNY General Education learning outcomes for more detailed
+alignment with SUNY Old Westbury’s existing LEP and a gap analysis. The mapping process was
+completed for all domains, excluding Western Tradition and American Experience, by April 2021.
+Transitioning to LEAP+ will align OW with best practices for liberal education and provide guidance
+for improving the quality of assessment through adaptation of VALUE Rubrics to OW’s LEP.
+Anticipated completion for the LEAP+ transition is the end of AY 22-23. The next stage of LEAP+
+integration will occur after the release of final implementation guidance for the new SUNY General
+Education Program. The work for this changes will be led by the LEC and the Co-DAA.
+2. 5-Phase Assessment Cycle
+(Table) Self-study recommendation 5.1/ items 5 and 7 from MS-SIR
+Outcomes of assessment conversations clearly identified a need for a clear process of assessment with a
+structure to promote accountability for “Closing the Loop” activities. In addition, Self Study
+Recommendation 5.1 highlights a need for an “organized process of following up and ensuring that
+improvements based on LEP assessment results are made in all relevant academic departments”.
+Additionally, request 5 and 7 from the MS-SIR recognize the need for organized and systematic
+assessments for student achievement and the documented use of assessment results. As a result, a new 5phase process of assessment was developed to guide the assessment process of the LEP.
+The new 5-phase assessment cycle (see Table III-A1) was presented in the LEC during fall 2021. In this
+process, each domain engages in a phase of the assessment cycle each year. The 5-phase cycle will
+occur over a 5-year period, progressing to the next phase of the cycle at the beginning of the next
+academic year.
+Phase 1: Syllabus Review
+a. Timing: The syllabus review will typically occur in the fall to balance assessment
+activities carried out in the Liberal Education Committee (LEC). This review may be
+postponed until the spring for domains that may have more representative courses offered
+in the spring, or for domain representatives who are unable to coordinate assessment
+efforts during the fall semester.
+b. Collect syllabi for all courses being taught in the domain during the assessment period.
+c. Syllabi will be evaluated for presence of domain-specific learning outcomes and linkages
+of learning outcomes to listed discussion topics, readings, and assignments.
+d. Reports will be prepared by domain representatives for presentation at LEC. Upon
+presentation, reports will be distributed to instructors and Departments contributing to the
+domain.
+e. Reports will be compiled in repository (Weave or other relevant software).
+Phase 2: Learning Outcome (LO) Assessment
+a. Co-DAA will work with domain representative to establish sampling plan for the LO
+assessment. Domain representative will conduct initial outreach to faculty in the semester
+prior to LO assessment.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 12
+
+b. Co-DAA and domain representative will guide faculty included in the sample with
+assignment selection and utilizing LEP rubrics to assess student artifacts. Data collection
+will be completed upon the end of the semester.
+c. Reports will be prepared by Co-DAA in consultation with domain representatives.
+d. Presentation of reports will be conducted in LEC in the semester following assessment
+and distributed to instructors and Departments contributing to the domain.
+e. Reports will be compiled in repository (Weave or other relevant software).
+Phase 3: Domain Revisions/ Curricular Support
+a. During this phase, assessments conducted in phases 1 and 2 will be revisited and
+reviewed in detail. LEC will complete a discussion of challenges/ weaknesses and
+successes/ strengths, with the goal of making adjustments to improve the domain.
+b. Discussions held in LEC will focus on action items to address the challenges or reinforce
+the strengths identified through assessment phases 1 and 2.
+c. Action items may emphasize student learning or faculty instruction of the learning
+outcomes. Revisions for this phase should not focus on the assessment process.
+d. Recommendations should be enacted and may include direct support to departments
+and/or faculty teaching in the domain, refinement of documents to guide course design
+and instruction, and recommendations for inclusion/ exclusion of courses in the domain.
+e. If a course is found not to address domain-specific learning outcomes, direct support
+should be provided to the department offering the course and it must be included in the
+phase 4 (re)assessment process.
+f. LEC is encouraged to design workshops for faculty specifically focusing on LEP
+recommendations identified during this phase.
+g. Summary reports will be created by domain representative and distributed to the LEC.
+h. Reports will be compiled in repository (Weave or other relevant software).
+Phase 4: Mini (Re)Assessment
+a. A subsection of courses included in the phases 1 and 2 will be reassessed to monitor
+improvements and revisions.
+b. Co-DAA will work with the domain representative to identify a sample of courses to be
+included. Domain representatives will initiate contact with faculty to be included in the
+sample.
+c. Any courses identified as not addressing domain-specific learning outcomes in phase 3
+must be included in the phase 4 (re)assessment process.
+d. Co-DAA and domain representative will guide faculty included in the sample with
+assignment selection and utilizing LEP rubrics to assess student artifacts. Data collection
+will be completed upon the end of the semester. Domain representative will serve as
+second rater for a random selection of assignments.
+e. Reports will be prepared by Co-DAA in consultation with domain representatives.
+f. Presentation of reports will be conducted in LEC upon conclusion of reassessment and
+distributed to instructors and Departments contributing to the domain.
+g. Reports will be compiled in repository (Weave or other relevant software).
+
+Co-Directors of Academic Assessment Report 2020-2021 - 13
+
+Phase 5: Revisions
+a. Based on phase 4 reassessment, determine what further revisions need to be made to
+strengthen the domain.
+b. LEC may consider hosting workshops for faculty focusing on ongoing recommendations
+made during this phase. Other support may be provided to faculty teaching in the domain
+through discussions and verbal or written guidance.
+c. During this phase, courses that did not address domain-specific learning outcomes in
+phase 3 should be discussed. If the courses still do not address the domain learning
+outcomes, LEC should create a recommendation for inclusion/exclusion from the domain
+and any associated action steps for the contributing Department.
+d. Summary reports will be created by domain representative and distributed to the LEC.
+e. Reports will be compiled in repository (Weave or other relevant software).
+
+Co-Directors of Academic Assessment Report 2020-2021 - 14
+
+Table III-A1. LEC Assessment Schedule (2021-2026)
+
+21-22
+
+22-23
+
+Phase 1 (Fall)
+
+Phase 2 (Spring)
+
+Syllabus Review
+Critical Thinking
+Math
+
+LO Assessment
+Foreign Language
+Social Sciences
+Creativity & the Arts
+Critical Thinking
+Math
+
+24-25
+
+Diversity
+Major Cultures
+Natural Sciences
+Basic Communication
+Information
+Management
+Applied Learning
+Humanities
+
+25-26
+
+Western Tradition
+American Experience
+Foreign Language
+
+Major Cultures
+Natural Sciences
+Basic Communication
+Information
+Management
+Applied Learning
+Humanities
+
+Social Sciences
+Creativity & the Arts
+
+Western Tradition
+American Experience
+
+23-24
+
+Diversity
+
+Phase 3
+Domain revisions/
+Curricular support
+Humanities
+Western Tradition
+American Experience
+Foreign Language
+Social Sciences
+Creativity & the Arts
+Critical Thinking
+
+Phase 4
+
+Phase 5
+
+Mini (Re)Assessment
+
+Revisions
+
+Humanities
+Western Tradition
+American Experience
+Foreign Language
+
+Humanities
+
+Math
+
+Social Sciences
+Creativity & the Arts
+Critical Thinking
+
+Western Tradition
+American Experience
+Foreign Language
+
+Math
+
+Social Sciences
+Creativity & the Arts
+Critical Thinking
+
+Diversity
+Major Cultures
+Natural Sciences
+Basic Communication
+Information
+Management
+Applied Learning
+
+Diversity
+Major Cultures
+Natural Sciences
+
+Math
+
+Co-Directors of Academic Assessment Report 2020-2021 - 15
+
+B.
+
+PSLO Assessment Initiatives
+1. Program Assessment Plan (Spring 2021)
+
+In accordance with Self Study Recommendation 5.2 (Regular Conduct of Academic Assessment), in
+Spring 2021, the Assessment Team requested Department Chairs to submit the Assessment Plan for
+each degree program offered in their Department with a priority deadline of April 1st.
+The Program Assessment Plan consists of A) a current set of PSLOs (see Appendix), B) a curriculum
+map, C) a multi-year schedule for assessing a full set of PSLOs with courses and measures used for data
+collection, D) plans for other forms of assessment than PSLO assessment, and E) plans for sharing
+results of sharing PSLO assessment outcomes. The Assessment Team created a template as well as
+curriculum map and schedule examples (see Appendix for a template). Departments were asked to
+create a schedule that assesses all PSLOs at least once within the Five Year Review period. Programs
+with discipline-specific accreditation submitted the assessment report to the discipline-specific
+accreditors in lieu of the Assessment Plan.
+The Assessment Plans have been submitted for all degree programs without a discipline-specific
+accreditation. This is the first time the College-wide inventory of core PSLO assessment tools have been
+created. The Program Assessment Plan was designed with five underlying objectives:
+1. Norm-setting. Communicate basic expectations for program-level assessment with
+stakeholders.
+2. Provide Resources. Provide templates as resources.
+3. Accelerate Assessment Practice. A clear deadline (with persistent reminders) encourages
+departments without established assessment practice to prioritize designing assessment
+instruments and starting the process.
+4. Opportunity for Collective Reflection and Strategic Planning. Composing a formal
+assessment plan for submission provides departments an opportunity to formalize, reflect on
+and improve existing assessment practice. The request for a multi-year schedule requires
+strategic planning for assessment data gathering.
+5. Documentation. Allows the College to create a comprehensive inventory of PSLOs,
+curriculum maps and assessment schedules for the first time.
+With the completion of the Program Assessment Plans, now all SAS and SPS departments have a multiyear schedule that ensures all PSLOs are assessed within the five year cycle for its degree programs and
+a concrete plan to review, discuss and utilize results of academic assessment. Tables in the following
+pages show the schedule for a full PSLO set assessment (III-B1), departmental “Closing the Loop”
+plans (III-B2), and plans for additional forms of assessment (III-B3) for SAS and SPS degree programs.
+Self Study Recommendation 5.2 stated that “an assessment group” consisting of the Assessment Team,
+the Dean, and a faculty representative from the Curriculum and Academic Planning (CAP) Committee
+would review the Plans and make recommendations for improvements. This plan was modified when
+the Assessment Fellows Program emerged. Instead of a review by an external group, Assessment
+Fellows from each department were charged to review the current Program Assessment Plan and lead
+the department in making improvements during AY2021-2022.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 16
+
+Table III-B1. Continuous Assessment: A Full PSLO Assessment Schedule for SAS & SPS Programs from S21 Program Assessment Plan
+(On = at least one PSLO is assessed in the semester; Off = no PSLO assessment in the semester; multiple PSLO assessment may be scheduled in one semester)
+School
+
+Dept
+
+Program
+
+Degree
+Level
+
+SAS
+
+AS
+
+American Studies
+
+SAS
+
+AS
+
+Media & Communications
+
+SAS
+
+BS
+
+Biological Science
+
+Bachelors
+
+SAS
+
+CP
+
+Biochemistry
+
+Bachelors
+
+SAS
+
+CP
+
+Chemistry
+
+SAS
+
+EN
+
+SAS
+
+F20
+
+S21
+
+S22
+
+F22
+
+S23
+
+F23
+
+S24
+
+F24
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+Off
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+English
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+HP
+
+History - Liberal Arts
+
+Bachelors
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+SAS
+
+HP
+
+History - Social Science
+
+Bachelors
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+SAS
+
+HP
+
+Religion *
+
+Bachelors
+
+SAS
+
+MA
+
+CIS
+
+Bachelors
+
+On
+
+On
+
+On
+
+Off
+
+Off
+
+On
+
+On
+
+SAS
+
+MA
+
+Math
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+Off
+
+On
+
+SAS
+
+MA
+
+MIS
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+Off
+
+On
+
+On
+
+SAS
+
+ML
+
+Modern Languages
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+SAS
+
+PEL
+
+Economics
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+SAS
+
+PEL
+
+ILR
+
+Bachelors
+
+On
+
+On
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+SAS
+
+PEL
+
+PEL
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+SAS
+
+PH
+
+Health & Society
+
+Bachelors
+
+On
+
+On
+
+(Annual )
+
+SAS
+
+PY
+
+Psychology
+
+Bachelors
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+SAS
+
+SY
+
+Criminology
+
+Bachelors
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+SAS
+
+SY
+
+Sociology
+
+Bachelors
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+SAS
+
+VA
+
+VA BA
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+SAS
+
+VA
+
+VA BFA
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+SAS
+
+VA
+
+VA BS EM
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+SPS
+
+General Studies
+
+Bachelors
+
+On
+
+Off
+
+Off
+
+Off
+
+Off
+
+On
+
+Off
+
+Off
+
+Off
+
+Off
+
+On
+
+SPS
+
+Professional Studies
+
+Bachelors
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+On
+
+Off
+
+Off
+
+Off
+
+On
+
+Off
+
+On
+
+Off
+
+On
+
+On
+
+(Annual )
+
+On
+
+On
+
+Off
+
+F21
+
+SAS
+
+AS
+
+MALS**
+
+Masters
+
+SAS
+
+MA
+
+Data Analytics
+
+Masters
+
+On
+See
+**
+Off
+
+SAS
+
+PY
+
+Mental Health Counseling
+
+Masters
+
+On
+
+S25
+
+F25
+
+S26
+
+On
+
+* Pending on the faculty resource that oversees the program. ** Annual exit survey + course assignment embedded assessment contingent on enrollment
+Co-Directors of Academic Assessment Report 2020-2021 - 17
+
+Table III-B2. “Closing the Loop” Plans for SAS and SPS Programs from S21 Program
+Assessment Plan
+School
+
+Dept
+
+Program
+
+Degree
+Level
+
+“Closing the Loop” Plan (Plans for PSLO Assessment Data Utilization
+and Sharing)
+
+SAS
+
+AS
+
+American
+Studies
+
+Bachelors
+
+(In development)
+
+SAS
+
+AS
+
+Bachelors
+
+(In development)
+
+SAS
+
+BS
+
+Media &
+Communications
+Biological
+Science
+
+Bachelors
+
+SAS
+
+CP
+
+Biochemistry
+
+Bachelors
+
+To effectively utilize assessment data, an annual department meeting will be
+convened by the Departmental Assessment Committee. The goals of this
+meeting will be to collectively analyze assessment outcomes and discuss the
+Biological Sciences program curriculum. Specifically, the Department will
+discuss what the students are learning effectively, what they are not learning
+effectively, and what modifications or resources will be needed to achieve
+student learning goals. Recommendations, if any, will be made at least at
+several levels, including curriculum, faculty support, pedagogy, student
+support, resources, and lastly the assessment plan itself. If needed, additional
+meetings will be convened.
+Results of assessment will be shared by faculty members in the Chemistry
+and Physics department at department meetings and will be used to guide
+discussions about curriculum improvements. Assessment results will be filed
+in the main department office. A goal is to track how students are progressing
+from the foundation courses to more advanced chemistry courses in our
+department. The assessment results will be used to determine necessary
+pedagogy or modality change in the curriculum. Information from the
+assessment will help identify preparedness of our students and provide
+targeted prep courses or specific resources. The results will also inform
+professional development opportunities for faculty for course design and
+delivery.
+
+SAS
+
+CP
+
+Chemistry
+
+Bachelors
+
+(Same as above)
+
+SAS
+
+EN
+
+English
+
+Bachelors
+
+SAS
+
+HP
+
+History - Liberal
+Arts
+
+Bachelors
+
+The Assessment Committee comprises 5 of the 10 full-time department
+members, and plans to discuss the assessment plan, cycle, methodology, and
+results during department meetings. There will be regular updates and
+discussion of assessment activities, including distribution and interpretation of
+results to promote continuous improvement, at each monthly department
+meeting.
+The department discusses in our department meetings assessment results
+and their implications for specific courses and the curriculum as a whole.
+These reports and discussion should also be part of our self-study every 5year review cycle.
+
+SAS
+
+HP
+
+Bachelors
+
+SAS
+
+HP
+
+History - Social
+Science
+Religion *
+
+SAS
+
+MA
+
+CIS
+
+Bachelors
+
+Regular reporting at faculty meetings.
+
+SAS
+
+MA
+
+Math
+
+Bachelors
+
+Regular reporting at faculty meetings.
+
+SAS
+
+MA
+
+MIS
+
+Bachelors
+
+Regular reporting at faculty meetings.
+
+SAS
+
+ML
+
+Modern
+Languages
+
+Bachelors
+
+Since we are a small department, we all participate of the assessment
+process. Another advantage we have is that we all (or almost all) take turns to
+teach all the courses that are assessed, therefore, when challenges are
+encountered, we all are able to review the content of courses as well as goals
+and intended learning outcomes.
+
+(Same as above)
+
+Bachelors
+
+We have decided to dedicate a meeting at the end of every semester to
+discuss the effectiveness of the student learning outcomes. This means that
+our PSLO will be reviewed periodically.
+A record of these processes will be maintained and shared with the CAP
+Committee and any other stakeholders whenever expected or necessary.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 18
+
+School
+
+Dept
+
+Program
+
+Degree
+Level
+
+SAS
+
+PEL
+
+Economics
+
+Bachelors
+
+SAS
+
+PEL
+
+ILR
+
+Bachelors
+
+SAS
+
+PEL
+
+PEL
+
+Bachelors
+
+(Same as above)
+
+SAS
+
+PH
+
+Health & Society
+
+Bachelors
+
+SAS
+
+PY
+
+Psychology
+
+Bachelors
+
+(The program is subject to discipline-specific accredidation and the
+department has developed a regular process of analyzing, discussing and
+utilizing assessment data, including an annual assessment retreat)
+The results of PSLO assessment will first be shared with Department
+members through discussion in a program meeting. The relevant curriculum
+committee will then discuss results as they relate to refining the curriculum
+(including but not limited to material and assignments) and make any
+necessary changes for improving student learning and mastery of each PSLO.
+Results of all PSLO assessments will be included in the 5-year CAP review.
+
+SAS
+
+SY
+
+Criminology
+
+Bachelors
+
+Each Spring semester, the Curriculum Assessment Committee will share a
+written assessment report with Department faculty, and the Department will
+dedicate time in a faculty meeting for an oral report. The Department will also
+have at least one meeting in an academic year that is dedicated specifically to
+curriculum discussions, where faculty will review assessment reports, discuss
+LOs, and strategize curriculum and pedagogical improvement.
+
+SAS
+
+SY
+
+Sociology
+
+Bachelors
+
+(Same as above)
+
+SAS
+
+VA
+
+VA BA
+
+Bachelors
+
+We plan to:
+• Assign 2 fulltime faculty members to be in charge of the assessment
+process.
+• Discuss assessment findings at least once per semester with a focus on
+what can be improved upon and how.
+• Maintain a record of all assessment data.
+• Keep a record of what was reviewed, discussed, and recommendations
+made and/or acted upon.
+• Study the ways in which assessment data can be utilized (per the CSU
+Fullerton Assessment and Institutional Effectiveness Website)
+
+SAS
+
+VA
+
+VA BFA
+
+Bachelors
+
+(Same as above)
+
+SAS
+
+VA
+
+VA BS EM
+
+Bachelors
+
+(Same as above)
+
+Bachelors
+
+All assessment results will be submitted to Academic Affairs to be retained in
+a centralized repository of assessment results. Once a year assessment
+results will be distributed to and discussed by the SPS Faculty Advisory
+Committee. The capstone course will be modified as appropriate, and the
+program’s structure will be reviewed as part of the Five Year review.
+Whenever a new instructor teaches the capstone course, the intent of the
+course’s design and results of previous assessments will be reviewed to guide
+any customizations.
+
+Bachelors
+
+At our yearly faculty development workshops with fulltime-faculty, adjuncts
+and staff, we will disseminate and discuss the results of the last year’s course
+assessments, with the goal of generating enhancements that can be made to
+the curriculum, faculty support, pedagogy, student support, resources, and the
+assessment plan itself.
+
+SPS
+
+General Studies
+
+Professional
+Studies
+
+SPS
+
+SAS
+
+AS
+
+MALS
+
+Masters
+
+SAS
+
+MA
+
+Data Science
+
+Masters
+
+“Closing the Loop” Plan (Plans for PSLO Assessment Data Utilization
+and Sharing)
+The above (part C) will require economic faculty meeting at a minimum of
+once a year probably during the winter break to discuss the results of the prior
+two semesters. We will also include classroom observation when an
+opportunity for a particular pedagogical strategy can be demonstrated by one
+of our members. Also sharing quantitative exercises is another area we are
+looking to integrate across our curriculum.
+Department faculty will discuss the assessment outcomes for each course
+assessed in the prior semester at the second departmental meeting each
+semester. Faculty in specific disciplines can choose to meet in advance to
+prepare their recommendations for curricular development or change to the
+full departmental faculty.
+
+Program will share assessment results with Department annually. Additionally,
+assessment results will be shared with Affiliated Faculty annually. Bi-Annual
+meetings of Affiliated Faculty will be held to use assessment results to plan to
+identify areas in which to “close the loop”, and to generate new curricula ideas.
+Regular reporting at faculty meetings.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 19
+
+School
+
+SAS
+
+Dept
+
+PY
+
+Program
+
+Mental Health
+Counseling
+
+Degree
+Level
+
+“Closing the Loop” Plan (Plans for PSLO Assessment Data Utilization
+and Sharing)
+
+Masters
+
+In addition to the data obtained from the Assessment Schedule, student
+receive site supervisor evaluations for their practicum and internship
+experiences. Courses MH6540 Practicum II, MH7130 Clinical Internship I, and
+MH7530 Clinical Internship II each result in a supervisor evaluation across
+three consecutive semesters. This provides a continuous monitoring of clinical
+competence as well as the supervisors observation of the students’ progress
+as it relates to learning outcomes.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 20
+
+Table III-B3: Plans for Additional Forms of Program Assessment for SAS and SPS Programs
+from S21 Program Assessment Plan
+School
+
+Dept
+
+Program
+
+Degree
+Level
+
+Additional Forms of Assessment
+
+SAS
+
+AS
+
+American
+Studies
+
+Bachelors
+
+(In development)
+
+SAS
+
+AS
+
+Bachelors
+
+(In development)
+
+SAS
+
+BS
+
+Media &
+Communications
+Biological
+Science
+
+Bachelors
+
+N/A
+
+SAS
+
+CP
+
+Biochemistry
+
+Bachelors
+
+SAS
+
+CP
+
+Chemistry
+
+Bachelors
+
+Principles of Chemistry Laboratory uses American Chemical Society
+(ACS) online laboratory for assessment.
+CP4510 (Biochemistry I), CP4515 (Biochemistry II) and CP4490
+(Chemistry for Life Sciences) uses ACS Biochemistry exam for an
+assessment.
+Advanced Chemical Methods with laboratory uses self-designed
+experiments.
+(Same as above)
+
+SAS
+
+EN
+
+English
+
+Bachelors
+
+None
+
+SAS
+
+HP
+
+Bachelors
+
+N/A
+
+SAS
+
+HP
+
+Bachelors
+
+N/A
+
+SAS
+
+HP
+
+History - Liberal
+Arts
+History - Social
+Science
+Religion *
+
+SAS
+
+MA
+
+CIS
+
+Bachelors
+
+SAS
+
+MA
+
+Math
+
+Bachelors
+
+SAS
+
+MA
+
+MIS
+
+Bachelors
+
+SAS
+
+ML
+
+Modern
+Languages
+
+Bachelors
+
+SAS
+
+PEL
+
+Economics
+
+Bachelors
+
+SAS
+
+PEL
+
+ILR
+
+Bachelors
+
+SAS
+
+PEL
+
+PEL
+
+Bachelors
+
+SAS
+
+PH
+
+Health & Society
+
+Bachelors
+
+SAS
+
+PY
+
+Psychology
+
+Bachelors
+
+SAS
+
+SY
+
+Criminology
+
+Bachelors
+
+SAS
+
+SY
+
+Sociology
+
+Bachelors
+
+SAS
+
+VA
+
+VA BA
+
+Bachelors
+
+Not available at this time. Open to ideas about how to address these
+areas.
+
+SAS
+
+VA
+
+VA BFA
+
+Bachelors
+
+(Same as above)
+
+Bachelors
+Further academic assessment is done in a curriculum committee for
+computer science.
+Further academic assessment is done in a curriculum committee for
+mathematics.
+Further academic assessment is done in a curriculum committee for
+computer science.
+
+The program will also assess learning done outside the classroom
+including the year’s internships, club or newsletter activities, invited
+speakers events and competitions sponsored by institutes that our
+college maybe involved.
+(Same as above)
+
+(The program is subject to discipline-specific accredidation and the
+department has been utilizing multiple forms of direct and indirect forms
+of assessment, including graduating senior exit survey, an alumni
+survey, an advising satisfaction survey and a survey of community
+stakeholders)
+The Psychology Department may include alumni survey results and
+assessment of workshops held to provide information to majors (specific
+to PSLO 4).
+In AY2021-2022 The Curriculum Assessment Committee plans to
+conduct a systematic review of a) course descriptions and b) course
+syllabi for alignment to PSLOs across courses and among sections of the
+same courses. It also plans to develop a system/schedule of periodic
+review of each of these. The Curriculum Assessment Committee has also
+discussed the value of conducting a student survey to examine student
+experiences (including learning opportunities/obstacles) and plans to
+bring this proposal to the Department as a potential tool to identify
+resources to facilitate student learning.
+(Same as above)
+
+Co-Directors of Academic Assessment Report 2020-2021 - 21
+
+School
+
+Dept
+
+Program
+
+Degree
+Level
+
+SAS
+
+VA
+
+VA BS EM
+
+Bachelors
+
+(Same as above)
+
+General Studies
+Professional
+Studies
+
+Bachelors
+
+N/A
+N/A
+
+SPS
+SPS
+
+Bachelors
+
+Additional Forms of Assessment
+
+SAS
+
+AS
+
+MALS
+
+Masters
+
+Not currently.
+
+SAS
+
+MA
+
+Data Science
+
+Masters
+
+Further academic assessment is done in a Data Science Committee.
+
+Masters
+
+Assessment results are collected throughout the semester and will be
+discussed at the beginning of each semester in the department meeting.
+The department will discuss any areas that need to be addressed and
+determine if these areas can be managed within the department of if
+support from administration is necessary. In the event that it is
+determined that support from administration is recommended, the results
+will then be discussed with the Dean.
+
+SAS
+
+PY
+
+Mental Health
+Counseling
+
+Co-Directors of Academic Assessment Report 2020-2021 - 22
+
+2. Degree (Major) Program Assessment Year-End Report AY2020-2021 (June 2021)
+In accordance with Self Study Recommendation 5.3 (Academic Assessment Reporting), the Degree
+(Major) Program Assessment Year-End Report was conducted. Co-DAA designed an online report form
+and requested Department Chairs to report program-level academic assessment activities during
+AY2020-2021. Twelve Academic Departments (11 SAS, 1 SOE) and SPS reported on the total of
+twenty degree programs.
+According to the AY2020-2021 Report, eleven academic programs gathered PSLO data during this
+academic year (Table III-B4). For programs that revised PLSOs in the process of writing the Program
+Assessment Plan, this is a period of transition with different versions of PSLOs. The Program
+Assessment Plan also prompted some Departments to create a departmental assessment committee
+(Table III-B5). Six Departments reported that “closing the loop” activities took place in this academic
+year, including discussing assessment results in a department meeting, changes to course delivery or
+scheduling, and changes to assessment tools and practices (Table III B-6).
+Table III-B4. PSLO Assessment Data Collection Activities, AY2020-2021 Year-End Report
+Degree Program
+
+Unit
+
+PSLOs Assessment in AY2020-2021
+
+Chemistry and
+Biochemistry
+
+CP
+
+LO1, LO2, LO3: CP 2230 Structure of Physics 2, Remote.
+LO4, LO5: CP 2231 Structure of Physics 2 Lab, Remote.
+
+English
+
+EN
+
+History, Liberal
+Arts and Social
+Studies Track
+
+HP
+
+PSLO 4 (Writing in the discipline): EL5010 Senior Seminar II (2 sections)
+Remote: Spring 2021
+PSLO 5 (Working with research): EL5010 Senior Seminar II (2 sections)
+Remote: Spring 2021
+LO4 (RESEARCH): HI5000/5900 Senior Seminar: Remote: Spring 2021
+LO5 (WRITING): HI5000/5900 Senior Seminar: Remote: Spring 2021
+
+Spanish Language,
+Hispanic Literature
+and Culture
+
+ML
+
+LO5: ML 4725 The Novel and the City: Remote
+
+PEL
+
+PEL
+
+LO1: PE 2430 Macroeconomics: Online
+
+Health and Society
+
+PH
+
+(All remote)
+LO1 : PH 5920 Senior Seminar
+LO2 : PH 3600 Social Determinants of Health
+LO3 : PH 3610 US Healthcare System
+LO4 : PH 4800 Epidemiology
+LO5 : PH 3600 Social Determinants of Health, PH 5900 Research Methods,
+PH 5920 Senior Seminar, PH 4900 Field Placement
+LO6 : PH 5900 Research Methods, PH 5920 Senior Seminar
+LO7 : PH 5900 Research Methods, PH 5920 Senior Seminar
+LO8 : PH 5900 Research Methods, PH 5920 Senior Seminar
+
+Psychology
+
+PY
+
+[Additional Assessment]
+Graduating senior exit survey, an alumni survey, an advising satisfaction
+survey (all annual), and a survey of community stakeholders (internship
+preceptors, folks who hire our students, PH departments) every three years.
+LO1 (Students will demonstrate knowledge of psychological concepts,
+theories, and research in psychology): Intro to Psych (3 sections): Remote:
+Fall 2020
+Co-Directors of Academic Assessment Report 2020-2021 - 23
+
+Degree Program
+
+Unit
+
+PSLOs Assessment in AY2020-2021
+
+Sociology
+
+SY
+
+LO5: SY 5990 Senior Seminar: Remote
+
+Criminology
+
+SY
+
+LO1: CR 4550 Theories of Crime: Remote
+
+General Studies
+
+SPS
+
+All LOs: GS 5000 the General Studies Capstone Course.
+
+Professional
+Studies
+
+SPS
+
+LO1: PS3330 Professional Supervision: Remote
+LO3: PS5435 Entertainment & Sports Finance: Online
+LO5: PS3330 Professional Supervision: Remote
+
+Co-Directors of Academic Assessment Report 2020-2021 - 24
+
+Table III-B5. Academic Assessment Related Achievements, AY2020-2021 Year-End Report
+Degree Program
+
+Unit
+
+Assessment-Related Achievements in AY 2020-2021
+
+English
+
+EN
+
+Formed five-person Assessment Committee (Apr 2021); The
+Committee updated the curriculum map and created an
+Assessment Plan, discussed it with the Department and
+coordinated the first round of assessment in S21. Currently
+analyzing the results and creating a rubric. Sharing findings and
+discussing plans during monthly department meetings.
+
+Chemistry and
+Biochemistry
+
+CP
+
+Modified CM and PSLOs, established an assessment schedule and
+created rubrics
+
+History-Liberal Arts
+
+HP
+
+The department discussed the results of the assessment in it's June
+2021 department meeting and is considering curricular changes.
+
+Health and Society
+
+PH
+
+Took more time to discuss the results and consider strategies for
+improvement (or, “closing the loop”). Scheduled a retreat to go
+over different aspects so that we would have a more structured
+assessment and revision plan. Discussed revisions to PSLOs for
+clarity, but not substantive revisions. Submitted an annual CEPH
+report in Dec 2020.
+
+Psychology
+
+PY
+
+Formed an assessment committee tasked with identification of
+strategies for assessing courses and ways to use the results. Having
+many discussions about method of assessment. Plan to revisit
+PSLOs and CM the next academic year.
+
+BS in General Studies
+
+SPS
+
+Considering revising the schedule in the program assessment plan
+to focus on one learning outcome per semester, rather than doing
+all of them once every 5 semesters as currently planned.
+
+Sociology
+
+SY
+
+Formed a three-person Curriculum-Assessment Committee, refined
+PSLOs and curriculum maps for two degree programs
+
+Co-Directors of Academic Assessment Report 2020-2021 - 25
+
+Table III-B6. “Closing the Loop” - Utilization of Assessment Results, AY2020-2021 Year-End
+Report
+Department Utilization of Assessment Results
+HP
+The department discussed the results of the assessment in the department meeting and is
+considering curricular changes. Determinations should be made in fall 2021.
+VA
+
+In the past we changed the structure of Art Tutorials I in response to an assessment. We
+separated out the first semester from upper level semesters in order to give students time
+to become comfortable with the critique process. We also changed our curriculum to
+include an Art History requirement in contemporary art to be available each and every
+semester. This course helps to prepare students for tutorials. In this past academic year,
+we encouraged students to participate in the group critiques over zoom. They spoke up
+about their observations more often than they had previously done.
+
+Childhood
+Ed
+
+As a result PSLO assessment, the department has decided to reinstate the ED5930 where
+students to 100 hours of observation as opposed to distributing it across the methods
+courses.
+
+PY
+
+The assessment resulted in the finding that a uniform assignment may not be the best way
+to assess learning. Since the instructors did not feel that this assessment was a good
+indicator of mastery of the learning outcome, the department discussed and decided that
+we would change how this learning outcome was assessed in the future. This LO will now
+be assessed at a senior level in a course more targeted to students in the program.
+
+CP
+
+The dept has analyzed prior assessments and made changes to laboratory experiments,
+method of delivery, and curriculum content.
+
+PH
+
+Findings suggest the need for more consistent displaying PSLOs, and that some of them
+could have improved language. The language of a few have been edited in a draft form, to
+be finalized in the new year. Assessment result also triggered changed the supervisor
+evaluation to better measurement of PLSO. Learned low performance of students in one
+course (partly affected by incompletes due to pandemic). The dept devised strategies to
+better meet these needs.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 26
+
+3. Assessment Fellows Program (Sept 2021-Summer 2022) & Assessment Coordinator System
+(Fall 2022 -, Pending Funding)
+In the conversation with the MSCHE Team, the need of an infrastructure to sustain ongoing PSLO
+assessment in SAS, training opportunities, and building an inter-departmental assessment community
+were also identified. In SAS Departments, coordinating academic assessment had been one of many
+responsibilities of Department Chairs. The vision of the Assessment Coordinator System, and the
+Assessment Program as a one-year, preparatory training system, emerged from this conversation.
+The Assessment Coordinator System is envisioned as a core infrastructure of academic assessment in
+SAS. Each Academic Department will have one assessment liaison who serves as an assessment expert
+and a point person in each Department (See Figure III-B1). The Assessment Coordinator System is
+expected to become the structural foundation of faculty-owned academic assessment practice in SAS
+Departments, cultivating departmental assessment expertise, departmental repository, and an interdepartmental assessment community for collaborative problem solving, peer learning and policy
+development.
+In April 2021, in response to the RFP from the President’s Office, the Assessment Team submitted a
+proposal for the “Curriculum Development Fellows/Curriculum Development Coordinator Program.”
+This plan later changed the name to the Assessment Fellows/Assessment Fellows Program, and received
+an approval from the President in May 2021. Funding was requested for 1) compensation for Fellows for
+their time for training, coordinating departmental assessment practice and facilitating conversations, and
+leading the improvements of assessment tools in AY2020-2021 (through summer), 2) workshops and
+presentations by external experts, and 3) initial years of the Assessment Coordinator System, with
+compensations for coordinators and continued training. At the time of writing this report, the funding
+has been committed for 1).
+
+What Is Next?
+Assessment Fellows/Coordinators Program
+
+Figure III-B1. Assessment Fellows Program & Assessment Coordinator System
+
+Fellows Program
+(AY2021-2022)
+“Train the Trainers”
+Workshops
+Community of
+Assessment
+Assess Alignments
+(Mission – PSLOs – Curriculum)
+Enhance the “Closing the Loop”
+Process
+
+Fellows
+Outcomes
+(Summer 2022)
+“Assessment of
+Program
+Assessment”
+Reports
++
+Improved Program
+Assessment Plans
+
+Coordinator System
+(AY2022 - )
+Departmental assessment
+expert/liaison
+Periodic coordinator
+meetings
+Continued training
+(Peer + External)
+Annual
+Report
+
+Facilitate Assessment Expertise, Community and Culture
+Assessment for Pedagogical & Curricular Development: Ownership
+
+Co-Directors of Academic Assessment Report 2020-2021 - 27
+
+The Assessment Fellows Program launched in Sept 2021. During the summer of 2021, the Dean
+requested Department Chairs to recommend a few faculty members who would be suitable to receive
+training to be an assessment liaison for the Department. Assessment Fellows were selected from
+departmental recommendations and officially appointed by the Provost.
+Eligibility of Assessment Fellows includes:
+• Tenure-track faculty in an SAS Department; Chairs are not eligible
+• Endorsed by the Dean and the Department Chair
+• Willingness to serve as an assessment coordinator in the following years
+• Willingness to assist other members of the Department to learn about carrying out academic
+assessment and utilizing assessment results
+Responsibilities include:
+• Attend the Fellows orientation, Academic Assessment Workshops, Fellows Roundtables
+• Engage with other assessment training opportunities
+• Review the existing Departmental Assessment Plan and develop plans for improvements
+• Develop guidelines, tools, a training program, and a standard process for “closing the loop” for
+the Department’s academic programs
+• Share departmental assessment practices with other Fellows and the Co-Directors of Academic
+Assessment and offer constructive feedback to other Fellows
+• Compose a year-end report that includes
+1) the evaluation of the current status of departmental assessment practice and
+2) a proposal for improvements
+• Coordinate planning, data gathering, and reporting of program assessments with the home
+department
+• Contribute to college-wide efforts to develop sustainable and useful models for academic
+assessment
+In AY2021-2022, Assessment Fellows meet twice a month during regular semesters for workshops and
+roundtable discussions on a range of topics on academic assessment (Table III-B7). In addition to
+attending meetings, Fellows engage with “homework” activities designed to facilitate departmental
+conversations on data-based curriculum development and assessment and/or to document departmental
+assessment practice. Table IIIB8 shows activities Fellows engaged with in the first two months of the
+program (see Appendix for activity instruments).
+
+Co-Directors of Academic Assessment Report 2020-2021 - 28
+
+Table III-B7. The Assessment Fellows Program Schedule
+Oct 2021
+WS: Oct 13
+RT: Oct 27
+Nov 2021
+WS: Nov 10
+RT: Nov 17
+Dec 2021
+WS: Dec 1
+RT: Dec 15
+Feb 2022
+WS: Feb 2
+RT: Feb 16
+Mar 2022
+WS: Mar 2
+RT: Mar 16
+Apr 2022
+Apr 6
+Apr 20
+May 2022
+May 4
+May 18
+Summer 2022
+
+Topic
+“Closing the Loop”: How Can We Make Use of Student Learning Data?
+
+What Do We Want To Know?: Articulating Learning Goals and Aligning the Curriculum,
+Program and Institutional Mission
+How Do We Learn about Learning? #1: Course Embedded Measures of Student Learning
+
+How Do We Learn about Learning? #2: Measures of Student Learning Outside of the Course
+Framework
+Diversity and Equity in Assessment of Learning
+
+Fostering Culture: Opportunities, Obstacles, and Strategies
+
+Reflections & Planning: Next Year and Beyond
+
+Departmental Year-End Report: Due June 30, 2022
+Review of the AF Program Year-End Report: July-Aug 2022
+
+Table III-B8: Assessment Fellows Activities (Oct & Nov) and Their Objectives
+Activity
+
+Objectives
+
+Curriculum Conversation
+Report
+(Deliverable: Summary
+Report)
+
+•
+•
+•
+•
+
+“Assessment of
+Assessment” Exercise
+(Deliverable: Summary
+Report)
+F21 Assessment Update
+(Deliverable: Summary
+Report)
+
+• Identify goals/best practice for different aspects of PSLO assessment
+• Collectively evaluate the current status of departmental assessment practice and
+strategize for improvements
+
+PSLO-Mission Alignment
+Exercise
+
+Document past “Closing the Loop” practice(s)
+Raise awareness of action-oriented assessment
+Promote the idea of data-based curriculum building within the department
+Facilitate conversations over assessment data utilization in the department without
+naming assessment
+• Peer learning regarding how to facilitate conversations around data-informed curriculum
+building, common curricular and pedagogical issues, and the utilization of data
+
+•
+•
+•
+
+Ensure the progress in the assessment data collection according to the Assessment
+Plan
+Support departmental colleagues with assessment needs
+Facilitate collaborative peer relationships in academic assessment
+
+•
+
+Clarify the linkage between institutional values and learning outcomes
+
+Co-Directors of Academic Assessment Report 2020-2021 - 29
+
+4. “Closing the Loop” Model Program Showcase
+In Fall 2021, four SAS Departments (Chemistry & Physics, English, Public Health and Sociology) were
+selected for the “Closing the Loop” Model Program Showcase project. These four Departments are
+analyzing recent assessment data to identify strengths and weaknesses of the Program and make action
+plans by December, 2021. Outcomes of the project will be shared in Spring 2021 (see Appendix for
+instructions and a template).
+C.
+
+Other Initiatives
+1. Academic Assessment Website
+
+Co-DAAs drafted an Academic Assessment website in the summer of 2021 as a venue to share
+assessment-related information with stakeholders. The website includes academic assessment FAQs,
+PSLOs and curriculum maps, assessment tools, as well as reference materials (see Appendix). The
+website is currently under construction 1) to be integrated into the official college website and 2) to
+integrate some content from another website separately developed by the Director of Institutional
+Research (DIR).
+2. Introducing Assessment Technology (Weave+)
+At the recommendation of the MSCHE Team, the AVP IEA started the process for introducing
+assessment technology that allows for more systematic and routine storage and sharing of assessment
+data. Co-DAAs contributed to the selection process as members of the Assessment Technology Joint
+Task Force, which convened four times in June 2021. Of three options considered, the College selected
+Weave+ at the recommendation of the Joint Task Force.
+Since the departure of the AVP IEA in July 2021, the DIR is taking on implementation of Weave+. CoDAAs play a supportive role, informing the DIR of current academic assessment practices and advising
+on implementation strategies and instructional material development.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 30
+
+D. The Current Status of Program Assessment in SAS & SPS
+After a series of initiatives described in this section, academic programs in SAS and SPS have made
+significant progress in the area of academic assessment practice since the time of Self Study, displaying
+clear evidence of emerging organized and systematic academic assessment (see Table III-D1).
+SAS and SPS programs now also have plans to discuss assessment results in place and some utilization
+of assessment data have been documented in the Year-End Report. The Assessment Fellows Program is
+geared toward the facilitation of ongoing, faculty-centered, meaningful assessment. While Fellows lead
+the coordination of academic assessment in the Department, multiple SAS Departments also created a
+departmental assessment committee, providing further structural support for assessment practice.
+Table III-D2 aligns the current status of academic assessment and supporting evidence since Self Study
+with MSCHE Standard Criteria addressed in the SIR request.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 31
+
+Table III-D1. The PSLO Assessment Status of SAS & SPS Program, as of Nov 12, 2021
+Degree
+Level
+
+PSLOs
+
+Curriculum
+Map
+
+Schedule**
+
+American Studies
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+Cycle
+Commence
+in
+S22
+
+AS
+
+Media & Communications
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S22
+
+SAS
+
+BS
+
+Biological Science
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+CP
+
+Biochemistry
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S21
+
+SAS
+
+CP
+
+Chemistry
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S21
+
+SAS
+
+EN
+
+English
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S21
+
+SAS
+
+HP
+
+History - Liberal Arts
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S21
+
+SAS
+
+HP
+
+History - Social Science
+
+Bachelors
+
+Composed
+
+Composed
+
+HP
+
+Religion ***
+
+Bachelors
+
+Composed
+
+Composed
+
+SAS
+
+MA
+
+CIS
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+Not
+Reported
+Composed
+
+S21
+
+SAS
+
+SAS
+
+MA
+
+Math
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S22
+
+SAS
+
+MA
+
+MIS
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S22
+
+SAS
+
+ML
+
+Modern Languages
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S21
+
+SAS
+
+PEL
+
+Economics
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+PEL
+
+ILR
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+PEL
+
+PEL
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+PH
+
+Health & Society
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+PY
+
+Psychology
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F20
+
+SAS
+
+SY
+
+Criminology
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+SY
+
+Sociology
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+VA
+
+VA BA
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+VA
+
+VA BFA
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+VA
+
+VA BS EM
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+General Studies
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S21
+
+Bachelors
+
+Composed
+
+Composed
+
+Composed
+
+S21
+
+School
+
+Dept
+
+SAS
+
+AS
+
+SAS
+
+SPS
+
+Program
+
+S22
+
+SPS
+SAS
+
+AS
+
+Professional Studies
+MALS
+
+Masters
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+SAS
+
+MA
+
+Data Analytics
+
+Masters
+
+Composed
+
+Composed
+
+Composed
+
+F23
+
+SAS
+
+PY
+
+Mental Health Counseling
+
+Masters
+
+Composed
+
+Composed
+
+Composed
+
+F21
+
+* With an exception of Health & Society, whose program is governed by a discipline-specific accreditation requirements
+** A multi-year schedule for the assessment of a complete set of PSLOs.
+*** Pending on the faculty resource that oversees the program.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 32
+
+Table III-D2. The Status of Academic Assessment per Relevant MSCHE Standard Criterion and
+Supporting Evidence from Co-DAA Initiatives
+1
+
+Standard/ Criterion
+The periodic
+assessment of the
+effectiveness of
+student learning
+opportunities
+(Standard III,
+criterion 8)
+
+Current Status
+All academic departments have PSLOs, curriculum map, multiyear schedule for student-learning data gathering, and almost
+all have a process to share and discuss assessment data.
+Almost all departments will have gathered some PSLO
+assessment data by the end of F21.
+SAS Departments selected departmental reps (Assessment
+Fellows) to receive training, coordinate academic assessment
+and connect with other departments.
+Multiple SAS departments formed a departmental assessment
+committee to lead designing and coordinating PSLO academic
+assessment.
+An academic assessment website has been created to share
+information about academic assessment at the College and
+make SLOs and CMs available to all stakeholders.
+Multi-stage Lib Ed assessment schedule that incorporates the
+“Closing the Loop” process has been designed.
+
+Supporting Evidence
+Table III-B1. Continuous
+Assessment: A Full
+PSLO Assessment
+Schedule for SAS & SPS
+Programs from S21
+Program Assessment
+Plan
+Table III-B2. “Closing the
+Loop” Plans for SAS and
+SPS Programs from S21
+Program Assessment
+Plan
+Table III-B3: Plans for
+Additional Forms of
+Program Assessment for
+SAS and SPS Programs
+from S21 Program
+Assessment Plan
+Table III-B4. PSLO
+Assessment Data
+Collection Activities,
+AY2020-2021 Year-End
+Report
+Table III-B5. Academic
+Assessment Related
+Achievements, AY20202021 Year-End Report
+Table III-B6. “Closing the
+Loop” - Utilization of
+Assessment Results,
+AY2020-2021 Year-End
+Report
+Table III-A1. LEC
+Assessment Schedule
+(2021-2026)
+
+3
+
+4
+
+Clearly stated
+institutional and
+program-level goals
+which are aligned
+with each other and
+with the institution’s
+mission (Standard
+V, criterion 1)
+
+All academic departments have a set of PSLOs and a
+curriculum map for their degree programs.
+
+organized and
+systematic
+assessments that
+evaluate the extent
+of student
+achievement
+
+(Same as #1)
+
+AFs are identifying clear mission-PSLO linkages and
+documenting them in the Mission Alignment Exercise.
+
+S21 Program
+Assessment Plan
+(Appendix 7)
+SOE & SOB
+Accreditation Reports
+AF: Mission Alignment
+Exercise (Appendix 15)
+(Same as #1)
+
+Co-Directors of Academic Assessment Report 2020-2021 - 33
+
+5
+
+6
+
+7
+
+Standard/ Criterion
+(Standard V,
+criterion 2)
+organized and
+systematic
+assessments that
+evaluate the extent
+of student
+achievement in
+general education
+(Standard V,
+criterion 2)
+
+Current Status
+
+Supporting Evidence
+
+Multi-stage Lib Ed assessment schedule that incorporates
+“Closing the Loop” has been designed.
+
+Table III-A1. LEC
+Assessment Schedule
+(2021-2026)
+
+sufficient support to
+sustain the
+assessment of
+student
+achievement and to
+communicate
+results of
+assessment to
+stakeholders
+(Standard V,
+criterion 2c)
+demonstrated and
+documented use of
+assessment results
+to improve
+educational
+effectiveness
+(Standard V,
+criterion 3)."
+
+SAS Assessment Fellows Program has been funded for the
+most part. No commitment for the successive Assessment
+Coordinator Program and external speakers/workshops.
+
+Academic Assessment
+Website (Appendix 10)
+
+The College is implementing Weave+ as a central assessment
+repository system (An initiative by the former AVP IE à DIR)
+An academic assessment website has been created as a venue
+to disseminate the assessment tools, outcomes and reference
+materials.
+Multi-stage Lib Ed assessment schedule that incorporates
+“Closing the Loop” has been designed.
+Most academic departments have identified a process of
+sharing and discussing PSLO assessment data.
+
+Table IIIB2. “Closing the
+Loop” Plans for SAS and
+SPS Programs from S21
+Program Assessment
+Plan
+
+AFs are facilitating departmental conversations to promote
+data-driven curriculum development. Departmental
+conversations are documented and discussed in AF meetings
+to facilitate cross-department collaboration toward meaningful,
+action-oriented assessment.
+
+Table IIIB6. “Closing the
+Loop” - Utilization of
+Assessment Results,
+AY2020-2021 Year-End
+Report
+
+Four SAS departments with recent PSLO assessment data are
+engaging with “Closing the Loop” activities.
+
+Table III-A1. LEC
+Assessment Schedule
+(2021-2026)
+AF: “Closing the Loop”
+Model Program
+Showcase (Appendix 15)
+
+Co-Directors of Academic Assessment Report 2020-2021 - 34
+
+IV. Moving Forward
+Academic assessment in SAS and SPS made a significant progress since the Middle States Self Study
+Report. Now all degree programs have basic tools for PSLO assessment on file and implemented a
+regular student learning data collection process with a multi-year schedule and a concrete plan to share,
+discuss and utilize assessment results. LEC embedded a “Closing the Loop” process in the new fivephase cycle and multi-year schedule for ISLO assessment.
+What We Need to Do
+Moving forward, the College needs to solidify the regular practice of assessment practice by following
+through with the Program Assessment Plan (with necessary modifications). The implementation of
+Weave will help regular record keeping and sharing with stakeholders.
+Assessment is a continuous process. With the basic structure in place, the next focus is improving the
+quality of assessment practice so that it will yield useful information for curricular decisions and
+pedagogical improvements. For SAS programs, Assessment Fellows are charged to lead departmental
+efforts to improve the Program Assessment Plans submitted by SAS Departments in Spring 2021.
+Furthermore, some Departments are in the process of improving methods of measurement by developing
+or refining rating rubrics and other instruments. Programs without discipline-specific accreditation are
+in need of a regular system of reviewing and refining assessment practice beyond the Assessment
+Fellows Program. For ISLO assessment, the need for documented instructions and pooling of
+assessment instruments become stronger with the implementation of a five-phase cycle and multi-year
+schedule that transcends the tenure of LEC membership.
+Where We Want to Go
+Meaningful assessment, i.e., assessment that is designed to gather useful information to improve student
+learning experience and empower stakeholders, is considered the best practice assessment, according to
+MSCHE and in the broader academic assessment community. As the very idea of assessment cycle
+suggest, assessment is neither an end in itself nor an independent process, but resource for instructional
+and curricular development. The goal of assessment is maximizing the usefulness of data (and actually
+using them), not methodological perfection.
+Meaningful assessment cannot be achieved by an externally-imposed, compliance-oriented approach.
+While the starting point and bottom-line requirement may be meeting accreditation requirements, the
+destination of efforts should be faculty-centered assessment in which assessment is embraced by faculty
+as an indispensable resource for teaching and learning. Teaching and learning, curriculum building, and
+assessment are interrelated components of a singular process of academic planning and delivery.
+Optimal alignment of three components will create vibrant synergy in academic experience. Faculty
+empowerment through assessment training and regular teaching-curriculum-assessment conversations
+will cultivate such synergy.
+Academic assessment is about gathering useful information about student learning experience. Direct
+measurement of learning outcomes provides foundational data, but this data form is limited in scope. To
+capture student learning experience more holistically, creative and multi-faceted assessment mixing
+indirect and direct measurements will be desirable. Some Departments are already exemplifying this
+approach by supplementing direct learning evaluation with surveys and interviews.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 35
+
+What We Want to Avoid
+Checkbox Assessment. While compliance may be the bottom line, treating academic assessment as a
+box that needs to be checked off is counterproductive. Checkbox assessment, one might argue, is an act
+of self-sabotage since it would make assessment bureaucratic busywork that wastes everyone’s time.
+Focusing on the usefulness of assessment data and actually using them on the regular basis are keys to
+avoid checkbox assessment.
+Micro-obsessed Assessment. While methodological rigor improves the quality of assessment data,
+methodological perfectionism would take the focus away from the usefulness of assessment. The goal of
+assessment should be gathering good quality student learning data without becoming obsessive about
+methodological details and being clear and transparent about the limitation of data.
+What We Need/Want
+The Assessment Fellows Program was created in preparation for the Assessment Coordinator System,
+but the funding commitment for the system is yet to be made. The institutional commitment to the
+Assessment Coordinator System is critical for the sustenance of regular, meaningful assessment practice
+in SAS and SPS programs.
+Creating a college-wide assessment calendar with reminders for key events will help facilitate regular
+assessment activities and establishing academic assessment as a routine part of campus life. A multiyear academic assessment strategic plan created through a faculty-led process will help cultivate a
+culture of assessment by generating a College-wide vision of assessment, setting common goals and
+designing incremental processes to achieve them.
+For ISLO assessment, annual training for LEC members to conduct ISLO assessment, “Closing the
+Loop” activities and curricular improvements is needed. Since LEC is a committee of elected faculty
+members, membership changes every year. Annual training and careful documentation are necessary to
+carry out the five-phase assessment cycle for LEP.
+Structurally, a faculty-led process for creating assessment policies and guidelines and supporting
+assessment practices needs to be established. In Fall 2021, the Institutional Effectiveness Committee
+(IEC) has been created as a College-wide entity that oversees and coordinates academic assessment. If
+IEC is equipped with a bottom-up decision-making process that is capable of reflecting the will of a
+broader group of faculty, the IEC could be a device of such a process.
+The very essence of assessment is the honest evaluation of the current status and taking concrete steps to
+make it better. Meaningful assessment, in this sense, is a courageous act of exposing one’s vulnerability
+to make genuine engagement for improvements. Efforts to build a culture of trust and support, not that
+of judgment and punishment, go hand in hand with fostering meaningful assessment. The fear of
+possible misuse of assessment data by the administration as well as other faculty (especially by tenured
+faculty against untenured faculty) has been mentioned repeatedly in faculty meetings, including Faculty
+Senate meetings and Assessment Fellows meetings. Such fear drives the faculty away from meaningful
+and truthful assessment. Efforts to establish institutional and collegial trust, as well as placing tangible
+safeguards to prevent possible misuse of assessment data (e.g., anonymize assessment reports) will help
+create an optimal space for meaningful assessment.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 36
+
+Table IV. Academic Assessment at OW: Overview
+
+College-wide
+Coordination
+
+The Status as of
+MS Self Study
+Administrative. AVP IEA +
+Co-DAAs with ISLO
+emphasis & PSLO
+emphasis (the Assessment
+Team). AVP IEA served as
+a repository.
+Faculty Governance. LEC
+(Lib Ed) and CAP
+
+ISLO
+
+• Coordinated by Co-DAA
+and LEC.
+• Regular assessment
+practiced.
+• No process of facilitating
+“Closing the Loop” (CtL).
+
+The MSCHE Team
+Concerns
+• A system of sharing
+assessment outcomes
+and related information
+with stakeholders is
+missing (the use of
+assessment technology
+for data storing and
+sharing was
+recommended).
+• Administrative
+understaffing (the DIR
+position unfilled in OIE)
+
+• A process of facilitating
+(and documenting) CtL
+is missing.
+
+Actions Taken
+
+The Current Status
+
+Moving Forward
+
+• Introduced
+assessment
+technology
+(Weave+)
+• Created an
+assessment website
+with PSLOs, CMs
+and assessment
+FAQs
+
+• Weave+ in the
+process of launching
+• Websites have been
+created separately by
+Co-DAAs and DIR
+• Administrative
+understaffing (DIR
+filled, AVP IEA
+vacant)
+• IEC is created as an
+overarching structure,
+but its structure and
+decision-making
+process are unclear
+
+• Launch Weave+ and
+establish a sustainable
+maintenance process
+• Integrate websites and
+refine contents
+• Establish college-wide
+assessment calendar
+and promotional events
+• Clarify the Collegewide coordination
+structure, including the
+function of and
+decision-making
+process in IEC and its
+relationship with
+existing assessment
+related functions
+
+• Designed the fivephase LEC
+assessment cycle
+that incorporates
+the CtL process.
+• Established new 5year schedule
+incorporating all
+domains and
+competencies.
+• Incorporated CtL
+discussions and
+assessment
+updates as regular
+agenda item in
+each LEC meeting.
+
+• Data collection and
+curriculum revisions
+with the new 5-phase
+structure will begin in
+Spring 2022.
+• Upcoming SUNY
+General Education
+changes, paired with
+the LEAP+ integration
+will result in a revised
+schedule and domain
+structure.
+• Co-DAA is
+constructing a manual
+for LEC assessment
+to be distributed to all
+LEC domain
+representatives upon
+appointment.
+
+•
+
+•
+
+•
+
+Revise domain
+structure and
+assessment schedule
+upon final SUNY Gen
+Ed changes, paired
+with LEAP+
+integration.
+Create detailed rubrics
+for each domain
+undergoing learning
+outcome assessment
+(these may need to be
+revised with SUNY
+General Education
+changes).
+Design training
+process for domain
+representatives
+regarding the 5-phase
+assessment cycle.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 37
+
+SAS & SPS
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+The Status as of
+MS Self Study
+Coordinated by Co-DAA
+with Department Chairs;
+No dedicated resource to
+support systemic
+assessment within
+departments/School
+Almost all degree
+programs have PSLOs,
+but some departments
+“multi-purposed” (the
+same set of PSLOs used
+for multiple programs).
+A comprehensive
+curriculum map (CM) was
+missing in many
+programs.
+Strategic assessment
+planning was not
+practiced
+Some departments
+started assessing PSLOs/
+“Repurposing” of Gen Ed
+assessment data
+No process of facilitating
+CtL and ongoing
+assessment, except for
+reporting in the Five Year
+Review
+
+The MSCHE Team
+Concerns
+Process. No “organized
+and systematic process” of
+academic assessment (i.e.,
+no departmental or schoolwide structure to support
+ongoing assessment, no
+long-term schedule).
+PSLOs & CMs. PSLOs
+from some programs are
+not “sufficiently linked to the
+discipline” (i.e., PSLOs
+multi-purposed and/or not
+clearly mapped).
+CtL. Limited process of
+facilitating CtL; limited
+utilization of the
+assessment data and/or
+documentation of the
+utilization
+
+Actions Taken
+
+The Current Status
+
+Moving Forward
+
+• Gathered the
+Assessment Plan
+(PSLOs, CM, multiyear schedule, and
+plans for sharing
+results) for all
+degree programs
+(Spring 2021).
+
+• All degree programs
+have a unique set of
+PSLOs clearly mapped
+with the curriculum
+• All degree programs
+have a strategic multiyear assessment
+schedule
+• Almost all degree
+programs will have at
+least one PSLO
+assessed by the end of
+F21
+• Multiple departments
+created a departmental
+assessment committee
+• Co-DAA is training
+Assessment Fellows
+(AFs) and facilitating
+departmental
+assessment
+coordination with them.
+• With Co-DAA’s
+guidance, AFs are
+facilitating and
+documenting
+departmental
+assessment practice
+and promoting
+assessment-based
+curriculum building
+through various
+activities
+• Four departments are
+conducting “CtL
+showcase” in which
+they demonstrate the
+utilization the recent
+assessment data
+(emerging CtL practice)
+
+• Establish the
+Assessment
+Coordinator Program
+(based on AFs) as a
+perpetual infrastructure
+to support continuous
+assessment
+• Continue the Year-End
+Report system with
+improved compliance.
+• Improve the
+departmental and
+school-wide
+assessment process
+based on final reports
+from the AF Program
+• Offer CtL grant/CtL
+showcase
+event/assessment
+retreat to promote the
+utilization of
+assessment data and
+build collective
+knowledge
+
+• Started the YearEnd Assessment
+Report (June 2021),
+including
+assessment
+practice updates,
+assessment
+reports, and the
+utilization of
+assessment results.
+• Launched the
+Assessment
+Fellows program
+(AY20-21 only), as
+a preparation for a
+perpetual
+Assessment
+Coordinator
+Program (Pending
+funding)
+
+Co-Directors of Academic Assessment Report 2020-2021 - 38
+
+SOB
+
+SOE
+
+The Status as of
+MS Self Study
+The Five person
+assessment team (with
+compensation) handles
+ongoing assessment,
+reports to the school with
+recommendations for
+improvement.
+The Assessment
+Committee (Assistant Dean
+for Assessment & Data
+Collection, Assessment
+Coordinator) manages
+assessment planning,
+collecting, analyzing and
+reporting.
+Recommendations are
+made to faculty annually
+and changes are tracked.
+
+The MSCHE Team
+Concerns
+None.
+
+Actions Taken
+
+The Current Status
+
+Moving Forward
+
+None.
+
+Co-Directors of Academic Assessment Report 2020-2021 - 39

@@ -1,0 +1,51 @@
+Scheduling	  Software	  Timeline	  
+	  
+August	  30,	  2017	  	  
+
+-­‐	  Provost	  appoints	  Jacob	  Heller	  to	  lead	  a	  group	  to	  identify	  best	  scheduling	  
+software	  options	  for	  the	  College,	  with	  special	  interest	  in	  predictive	  
+analytics	  that	  will	  make	  academic	  schedules	  more	  effective	  for	  students.	  
+
+September	  20,	  2017	  	   -­‐	  follow-­‐up	  meeting	  to	  clarify	  goals/aims	  of	  the	  scheduling	  software	  
+initiative.	  
+Sept	  -­‐	  Nov	  2017	  	  
+
+-­‐	  meetings	  with	  SAS	  Dean,	  Registrar,	  CIO,	  Senate	  Chair,	  IT	  Director,	  Asst.	  
+VP	  for	  Acad.	  Affairs,	  various	  individual	  faculty.	  
+
+November	  10,	  2017	  	   -­‐	  “Scheduling	  Software	  Initiative”	  memo	  to	  Provost,	  proposing	  a	  small	  
+working	  group	  to,	  “include	  a	  Faculty	  member/Department	  Chair	  
+(recommended	  by	  Faculty	  Senate),	  the	  person	  in	  Academic	  Affairs	  
+responsible	  for	  the	  Catalog	  and	  finalizing	  the	  class	  schedule	  (Shalei	  
+Simms),	  the	  Registrar	  (Pat	  Smith),	  and	  someone	  from	  Information	  
+Technology	  (Liz	  Bouchard),	  as	  well	  as	  a	  Chair,	  to	  be	  appointed	  by	  the	  
+Provost.”	  	  Membership	  finalized:	  
+	  
+Geta	  Techanie	  (Governance/Dept.	  Chair)	  
+Shalei	  Simms	  (Acad.	  Affairs)	  
+Liz	  Bouchard	  (IT)	  
+Pat	  Smith	  (Registrar)	  
+Jacob	  Heller	  (chair)	  
+December	  19,	  2017	  	   -­‐	  Working	  Group	  meets	  to	  discuss	  perspectives,	  essential	  aspects	  of	  any	  
+software;	  charge	  expanded	  to	  include	  recommendations	  for	  an	  electronic	  
+catalog.	  
+Jan	  –	  Feb	  2018	  	  
+
+-­‐	  conversations	  with	  vendors	  to	  begin	  setting-­‐up	  demos	  (scheduling	  
+conflicts	  within	  working	  group	  prevented	  any	  actual	  demos).	  
+
+Late	  February	  2018	  	   -­‐	  consensus	  within	  Working	  Group	  that	  Ad	  Astra	  Platinum	  Analytics	  is	  
+only	  option	  offering	  the	  kinds	  of	  efficiencies,	  cost-­‐savings,	  and	  
+advantages	  to	  students;	  too	  late	  in	  budget	  cycle	  to	  complete	  
+bidding/procurement	  process	  within	  2017-­‐18	  fiscal	  year.	  
+Late	  March	  2018	  
+
+-­‐	  Old	  Westbury	  is	  selected	  for	  participation	  in	  a	  SUNY	  PIF	  (Performance	  
+Improvement	  Fund)	  led	  by	  SUNY	  Fredonia	  and	  SUNY	  Monroe	  Community	  
+College,	  which	  will	  fund	  Ad	  Astra	  Platinum	  Analytics	  for	  a	  two-­‐year	  
+period,	  with	  minimal	  costs	  to	  the	  campus.	  
+
+April	  2018	  
+
+-­‐	  contracts	  to	  be	  signed,	  implementation	  team	  identified,	  planning	  for	  
+implementation	  can	  begin.

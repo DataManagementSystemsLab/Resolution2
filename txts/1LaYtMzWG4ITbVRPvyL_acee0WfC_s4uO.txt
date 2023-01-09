@@ -1,0 +1,3617 @@
+IT Shared Governance Study
+Report
+
+November 1, 2019
+IT Shared Governance Study Task Force
+Jillian Crocker
+Yogesh Moore
+Frank Sanacory
+Samara Smith
+Ryoko Yamamoto (Chair)
+Jacob Heller (Ex-Officio)
+
+Table of Contents
+
+IT Shared Governance Resolution
+
+Executive Summary
+
+Recommendation
+
+Part One: Faculty Representative Interviews (I1 – 13)
+
+Part Two: Faculty Survey (S1-14, SQ1-6, SOA1-20)
+
+Part Three: SUNY Case Study (C1-3)
+(See the beginning of each part for a detailed table of content)
+
+Resolution on a Study of IT Shared Governance
+WHEREAS Information Technology (IT) policies have a measurable impact on curriculum delivery and
+student learning experiences,
+WHEREAS the faculty bears the primary responsibility to deliver the curriculum and facilitate student
+learning,
+WHEREAS the presence of faculty representatives in IT related committees is necessary but is not in
+itself sufficient for meaningful faculty participation in IT policy making processes,
+WHEREAS concerns have been expressed that faculty input may not have been effectively utilized in IT
+decisions concerning policy, planning, purchasing, maintenance, and operations,
+WHEREAS meaningful faculty consultation in IT policy making aligns with two of the 2021 Middle
+States Self Study Institutional Priorities: 3. Encourage greater mutual understanding, collaboration, and
+transparency among campus units through an appreciation and respect for each other’s contributions
+towards achieving our shared student-centered goals and furthering the College Mission, and 4.
+Strengthen faculty governance and its relationship with the College’s administration for the benefit of
+students and the broader institution,
+WHEREAS best outcomes in shared governance occur when based on empirical data,
+
+THEREFORE, BE IT RESOLVED that the Faculty Senate will form a taskforce of faculty to
+investigate how faculty input has been provided and how this input has impacted IT decisions.
+BE IT FURTHER RESOLVED that the task force will document evidence of the faculty experience of
+IT shared governance through empirical data collection such as 1) interviews with those who have
+represented the faculty on IT-related issues and 2) a survey or focus groups with the broader faculty body,
+with appropriate institutional assistance,
+BE IT FURTHER RESOLVED that the task force will investigate, such as by contacting faculty
+governance at other SUNY comprehensive colleges and by researching best practices promulgated by
+relevant professional organizations, optimal forms of IT shared governance and the appropriate role of a
+college IT Governance Committee,
+BE IT FURTHER RESOLVED that the task force will report the outcome to the Faculty Senate by
+November 1, 2019.
+
+Submitted by Jillian Crocker, Patricia Harris, Yogesh More, Frank Sanacory, Samara Smith and Ryoko
+Yamamoto on April 26, 2019. Passed by the Faculty Senate on May 17, 2019.
+
+IT Shared Governance Study: Executive Summary
+Instructional technology has nearly universal importance to teaching. Stable network connection
+and reliably functional classroom technology are essential, but these basic needs are often unmet.
+Almost all respondents to the Faculty Survey reported routinely using some instructional technology.
+Meanwhile, over 40% indicated technology in regular smart classrooms does not meet their teaching
+needs. Nearly 70% of survey respondents experienced IT problem in the first several weeks of F19, and
+about 40% of these problems inhibited their teaching in multiple class periods.
+Overall, faculty perceive the problems in instructional technology to be both systemic and fiscal.
+The faculty recognizes efforts made by individual ITS staff. Narrative comments from the survey and
+Faculty Rep Interviews acknowledge that IT problems are primarily due to the lack of resources and
+staffing or policy and purchasing decisions, and the situation is beyond the control of individual staff.
+Confidence in the current model of IT shared governance is low, both among faculty at large and
+among those who served on IT shared governance committees. Eighty three percent of survey
+respondents indicated that they do not have a voice in IT governance. Sixty nine percent do not feel that
+IT policies at the College are developed in a fair and transparent way and 71% do not feel that the
+allocation of IT resources is fair and transparent. These sentiments are stronger among tenure-track
+faculty. Faculty representatives who have served on IT shared governance committees felt they were
+unable to play a meaningful role because 1) committee meetings are not the site of decision-making, 2)
+the meeting agendas are dominated by administrative issues rather than pedagogical concerns, and 3)
+there is neither time nor an effective mechanism for representatives to consult with a larger faculty body.
+The lack of a culture of respect at meetings was also identified as an obstacle to meaningful participation,
+particularly by women and untenured faculty reps.
+
+Ineffective IT shared governance hinders teaching and the utilization of IT resources. Narrative
+comments in the survey and interviews pointed to multiple instances of technological mismatch, where
+new technology was incompatible with pedagogical needs and/or with existing technology. Faculty Rep
+Interviews revealed that the target users were not effectively involved in the decision-making; in cases
+where they were consulted, faculty learned their feedback had been ignored only after the technology had
+been installed or policy implemented. These technological mismatches result in the underutilization of
+new technology, and a negative impact on teaching. Furthermore, both interview and survey respondents
+noted cases of unutilized IT resources due to the lack of communication and/or instruction.
+IT policies that are misaligned with faculty needs hinders essential functions of the faculty and may
+heighten security risks. Both survey respondents and faculty representatives interviewed noted that a
+recent policy that deprives faculty administrative privileges to their college-issued laptop hinders daily
+functionality, especially in the context of limited tech support. When college-provided IT resources are
+inadequate to their needs, the faculty tend to sacrifice components of teaching or resort to using personal
+resources; 13% of survey respondents reported they had “given up” on using a college-issued personal
+device. If depriving administrative privileges turns more faculty to personally-owned devices it could
+potentially have an adversary impact on security.
+Forms of IT shared governance vary among SUNY campuses, but clear mechanism for faculty
+input with explicit connections to the Faculty Senate appears fundamental to all models.
+Transparent communication with stakeholders and aligning IT policies with user needs are
+generally considered key components of IT governance best practice.
+
+IT Shared Governance Study: Recommendations
+Based on findings from the study, the IT Shared Governance Study Task Force recommends following
+actions:
+1. The College will replace the IT Governance Committee with a more effective model.
+2. The Faculty Senate will coordinate with the Administration to form a joint faculty-admin task
+force to design an improved model of the IT governance by a clearly specified deadline.
+3. The Faculty Senate and the Administration will consider recommendations from the task force in
+spirit of shared governance and work together for an appropriate and timely implementation.
+
+The IT Shared Governance Study Task Force recommends that the new system of IT shared governance
+will:
+ Implement a transparent and collaborative decision-making process in IT policies,
+purchasing, and resource allocations
+ Build in time and mechanisms for meaningful consultation with stakeholders prior to
+major IT decisions
+ Assign clear roles and responsibilities to committees and representatives
+ Use common democratic process in meetings, e.g., circulate agendas and minutes in a
+timely manner, articulate action plan items and follow up on them
+ Consciously foster culture of respect in meetings
+ Create a mechanism that better aligns IT policies with pedagogical needs
+ Built in a mechanism that routinely gathers faculty input on IT issues
+ Identify ways to recognize and support bottom up faculty innovations and initiatives
+ Consider creating a tech incubator with an iterative process to pilot new instructional
+technology and test faculty initiatives
+ Institute a system that promotes accountability and evidence-based policy-making
+ Monitor the use of new technology after implementation and make the data accessible to
+stakeholders
+ Utilize assessment data and formal faculty input to reflect on past technology decisions and
+drive future resource allocation
+ Study and build on best practices for shared IT governance at other institutions
+ Establish the faculty governance structure that empowers those who represent the faculty on
+IT shared governance committees
+ Consider creating a standing committee whose focus is to advocate IT needs of faculty
+
+Part One
+Faculty Representative Interviews
+
+IT Shared Governance Study
+Part One
+Faculty Representative Interviews
+Table of Contents
+I.
+
+Faculty Representative Interviews: Methodology and Overview
+
+I 1-2
+
+II.
+
+Findings
+1. IT Shared Governance: Three Areas of Challenges
+a. Decision-Making Process in Committees
+b. Mechanism of Faculty Representation
+c. Culture of Respect
+
+I 3-4
+I5
+I 5-6
+
+2. Cost of Ineffective Shared Governance
+a. Underutilization of Resources
+b. Disengaged or Resistant Constituency
+c. Myopic IT Policies
+
+I7
+I8
+I8
+
+3. Suggestions for Improvement
+a. Enhance Transparency and Pedagogy-Centered IT Planning
+b. Promote Data Sharing and Evidence-Based Policy Making
+c. Strengthen a IT function in the Faculty Governance Structure
+d. Encourage a Democratic Decision-Making Process in Meetings
+
+I9
+I 10
+I 10
+I 11
+
+Appendix
+1. Pre-Interview Questionnaire
+2. ITGC Charge of the Committee
+
+I 13
+I 14
+
+III.
+
+I. Faculty Representative Interviews: Methodology and Overview
+During September and October 2019, committee members conducted interviews with nine faculty
+members who had participated in either the IT Governance Committee (ITGC) or Technology Strategic
+Plan Committee (TSPC) process since 2014. After completing a written pre-interview questionnaire to
+gauge their level of involvement in either or both of these forms of IT shared governance, subjects
+participated in interviews, either in person or by phone. Interviews lasted from 20 minutes to 1 hour, and
+interviews were used to follow up on the written responses to the pre-interview questions. Detailed
+interview notes were kept. Verbatim quotes were recorded as notes, and interviewees had the
+opportunity to review these records for accuracy. Interviewees were assured that their identities would
+be confidential, and identifying content was redacted from this report to preserve anonymity. Quotes
+provided in this report come from both the pre-interview written responses and interview notes, and are
+illustrative, not exhaustive.
+All faculty interviewed were careful to acknowledge the challenges faced by Old Westbury’s IT
+department. Most noted a lack of staffing and problems with sustainability of technology on campus as
+systemic issues, and that IT staffing and college budget were obvious constraints that may be beyond
+any one person’s control. Several interviewees stated that they felt individuals were “trying their best”
+within the system. Some noted that every tech decision will result in some challenges and mixed
+reactions from faculty, staff and administrators. Additionally, most interviewees described strong
+personal relationships with individuals in ITS, and admired their ability to maintain positive attitudes
+despite challenges. For example, a number of interviewees commented on the CIO’s upbeat attitude,
+openness to innovation, and awareness of other institutions.
+Regarding IT shared governance, interviews revealed multiple areas of challenges. Interviewees noted
+that the limited democratic decision-making process at meetings and a weak mechanism of faculty
+representation severely limit the efficacy of shared governance. Interviewees reported that ITGC
+meetings are where decisions are reported rather than made, and a sense that there is no room for them
+to make meaningful contributions. Faculty representatives also reported feeling ill-equipped to represent
+the faculty since 1) there is no time allotted for them to bring an issue back to the faculty body and get
+their input, and 2) there is no clear system to inform them of the collective will of the faculty. The lack
+of a culture of respect at meetings was also identified as an obstacle to meaningful participation,
+particularly by female and junior faculty reps.
+Ineffective IT shared governance comes at fiscal and pedagogical costs. Interviewees pointed out some
+of new IT resources are underutilized because the faculty do not know how to use them (or do not know
+the existence of them) or because they are not aligned with pedagogical needs. From the faculty point of
+view, these teaching-tech mismatches were predictable; respondents were confident that they could have
+been avoided if stakeholders had been effectively and meaningfully consulted prior to decision-making
+and implementation. It was also noted that it is difficult to gain faculty buy-in when IT decisions that
+substantially affect the faculty are made without their input. Furthermore, when IT decisions are made
+without user input, resulting policies could be myopic, damaging, and arguably ineffective. For example,
+multiple interviewees expressed concerns with the recent decision to deprive faculty users of
+administrator privileges to college-issued laptops as one of these myopic policies.
+
+ITSGS Report: Faculty Representative Interviews - I 1
+
+Interviewees offered a number of suggestions to improve the effectiveness of IT shared governance.
+These suggestions could be summarized as: 1) to enhance transparency in communication and
+incorporate pedagogical needs in IT policy-making, 2) to monitor the use of new technology after
+implementation, share the data with stakeholders and use the data to inform future IT policies, 3) to
+create a system within the faculty governance structure that advocates for IT needs among the faculty
+and inform faculty representatives, and 4) to strengthen democratic decision-making process in
+committee meetings.
+
+ITSGS Report: Faculty Representative Interviews - I 2
+
+1. IT Shared Governance: Three Areas of Challenges
+Interviews reveal multi-faceted challenges to IT shared governance on campus. Three areas of
+challenges emerged from faculty representative interviews: decision-making processes in the IT
+Governance Committee (ITGC) and Technology Strategic Plan Committee (TSPC); the mechanism of
+faculty representation; and culture of respect at committee meetings.
+a. Decision-Making Process in Committees
+The Lack of Clear and Democratic Meeting Process, Objectives, and Roles
+Everyone interviewed who had participated in the ITGC noted that a lack of structure, unclear process,
+and lack of accountability. For example, interviewees noted that “The charge and function of the
+committee was not clear,” and that “Information shared was vague, sometimes inaccurate and also
+changed [from meeting to meeting].”
+Many concerns were raised about a lack of clear, democratic meeting process at ITGC.
+● “Agenda would go out…with no opportunity to solicit faculty input.”
+● “no election of a chair”
+● “we rarely voted on anything until some members pushed for concrete next steps”
+● “minutes were sometimes taken but not always”
+Those who participated in TSPC shared similar concerns about the meeting process.
+Everyone interviewed who participated in the TSPC reported a process that was disorganized, unclear,
+ineffective and incomplete:
+● “There was no agenda.”
+● “there is no process”
+● “There was no post meeting follow up.”
+● “Materials were not shared in advance for review prior to the meeting discussions.”
+The Lack of Decision-Making at Meetings
+Interviewees indicated that the IT committees they participated in did not function as decision-making
+bodies, and that faculty representatives are functionally excluded from real decision-making. Most
+interviewed noted that decisions seemed to be made outside of the ITGC meetings.
+● “never asked for our input”
+● “outcomes at the meetings felt predetermined”
+● “It felt like decisions were happening at the Cabinet level that were influencing the discussion.”
+Most ITGC reps indicated that their participation in ITGC was a “waste of time” because they felt that
+they had no real input in the decision making. Many noted that meetings were a place to report
+decisions, not to make decisions. Some noted that the faculty were “used” for a token representation.
+● “I couldn’t see any direct benefit as faculty in my participation with the IT gov committee.”
+● “It functioned like a live-action newsletter with [the CIO] reporting decisions, not consulting.”
+
+ITSGS Report: Faculty Representative Interviews - I 3
+
+●
+●
+●
+●
+
+●
+●
+●
+
+“There is often the idea that faculty are involved in decision making but they really are not, or
+just a few people are involved not as faculty representatives.”
+“[The CIO] would often report having consulted with faculty or faculty committees when this
+was not accurate, for example stating that he had consulted TLRC when he had not.”
+“It was not an advisory meeting. We had no real input or influence. It was a reporting
+mechanism.”
+“My perception of the dynamic in the room was that there were admin processes in place and we
+came in at a point when these processes were already the norm of operations. My sense was that
+the impact that we had was not great. I didn’t think that we were impacting decisions in a
+significant way.”
+“By the time that things come to the committee, a lot of the decisions have already been made.
+Just announcing decisions, no consultation or advisory role.”
+“It feels as though the faculty are a token.”
+“Faculty is used as a prop.”
+
+Faculty reps who served on TSPC reported that they did not understand their role on the committee or
+how to engage the process, and saw no clear outcomes from the meetings.
+● “My IT strategic plan subcommittee only met one time and there was no follow up.”
+● “I went to one or two meetings. I have no idea what happened with that committee and I didn’t
+really understand what it was about.”
+● “We didn’t complete the task/ charge.”
+● “I honestly had no idea what we were doing or why we were meeting, and then the meetings just
+stopped being called, with no final output that I am aware of.”
+Admin-Centered Agenda Setting
+Focus of the ITGC meetings was reported as broad or focused on administrative concerns around tech,
+leaving no place for addressing day to day tech issues faced by faculty, no room for interdisciplinary
+planning and space to nurture innovative use of tech in the classroom.
+● “meetings had an overly broad vision”
+● “Tech for the business operations side of the college are the focus of most meetings.”
+● “When pressing, day-to-day, problems were brought up, they rarely stayed a focus in the
+conversation.”
+● “Most things brought to the meetings had to do with the future direction of IT management
+(workflow, consultants, global structural changes at the top of the org).”
+● “There should be more emphasis on addressing the faculty as well as the admin in the meetings.”
+● “There should be more emphasis on what is being considered, context of what is happening at
+other SUNYs, etc.”
+
+ITSGS Report: Faculty Representative Interviews - I 4
+
+Many felt frustrated that there didn’t seem to be a place to address the day-to-day or pedagogical
+concerns of faculty. Faculty reported bringing up specific problems (such as issues in specific computer
+labs) and being told “that is not the purview of the governance committee.”
+● “There was very little discussion about how day-to-day things affect faculty. Is there a place for
+this discussion/ faculty input?”
+● “At one point we had a conversation about what the committee was to be about. [The CIO]
+stated it wasn’t about day-to-day problems but others disagreed.”
+
+b. Mechanism of Faculty Representation
+Another area of challenge in IT shared governance emerged from the interviews is the mechanism of
+faculty representation. Interviewees indicated that the current system of faculty representation may not
+be sufficient for representatives to adequately represent the faculty body. Their concerns are threefold;
+1) there is no time allotted for representatives to bring the issue back to the faculty body and consult
+with them in decision-making processes at committees, 2) there is no mechanism within the faculty
+governance that effectively informs representatives of the collective will of the faculty, and 3) the
+system of appointing representatives is unclear. Not having an IT-related standing committee that is
+linked to faculty senate makes these representatives disfranchised. Some representatives noted that there
+is “no democratic appointment process,” while Task Force members understand that the system of ITGC
+appointment changed over time and this impression may be limited to a particular time period. Of great
+concern to most faculty who served on the ITGC was that there was no time nor effective process for
+them to report back to faculty at large, consult with faculty at large or bring in wider faculty input.
+● “Communication could be more transparent and formalized. How do reps communicate with
+faculty? How do faculty report to reps?”
+● “As a rep I don’t get any input from faculty. It is confusing about how faculty can communicate
+what they want or issues to IT.”
+● “A new way is needed for faculty to give input: online forum, online dialog, message board,
+dialog, see other faculty comments, better communication.”
+● “When we had events designed to solicit faculty input, there was no mechanism for actually
+collecting – or analyzing – that input. So we had an event to demo technology for the library
+classrooms, for example, but no one ever told us what we should think about in evaluating
+options or asked us what we thought. It was all for show.”
+● “We are not able to really represent faculty or input decision. There is never a mechanism to
+collect feedback.”
+● “I had no way to represent faculty, as there was no time for consultation with Senate or
+departments prior to decisions. There was no formal structure in place for me to serve as a
+representative of faculty at large.”
+
+c. Culture of Respect
+
+ITSGS Report: Faculty Representative Interviews - I 5
+
+Both ITGC and TSPC representatives expressed concerns that they or their colleagues were not
+respected by everyone at the table. This concern was particularly evident among women and junior
+faculty.
+● “Input is often minimized by correcting small technical inaccuracies in language, while
+dismissing the spirit of the feedback.”
+● “In my observation gender seemed to have an observable impact on how individuals were treated
+– who was interrupted, dismissed, given air time, deferred to…of course, the room was almost
+all men, so it’s hard to say.”
+● “dismissive of comments of faculty”
+● “The culture of ITS and admin heavy committees can be very masculine.”
+
+ITSGS Report: Faculty Representative Interviews - I 6
+
+2. Cost of Ineffective Shared Governance
+a. Underutilization of Resources and Teaching-Tech Mismatch
+A number of concerns were raised about the lack of communication and coordination with the faculty
+when new instructional technology is implemented. Specific examples cited were: 3D printing, the new
+library collaborative classrooms, the new VR room, and the iPads in the library.
+● ‘It did not seem that faculty response was being taken into consideration when future plans were
+being discussed.”
+● “IT purchases equipment without coordinating with faculty to discuss priorities.”
+● “IT purchases technology without informing faculty.”
+● “Ask faculty what they want and how they plan to use it before purchasing.”
+● “I was omitted from the process. Technology just shows up without my involvement.”
+Without proper knowledge and training, faculty are unable to make full use of available resources. If
+faculty are not informed of the existence of technological resources, they are unable to plan to use them.
+If these investments are not embedded in pilot programs or building on existing pedagogical needs,
+resources may be underutilized. Without prior consultation with the faculty, a mismatch between new
+technology and pedagogical needs is likely to occur. Furthermore, without assessment of these
+investments, the College is not using the lessons from the past to guide future investments.
+● “ITS brings technology to the campus but never tells anyone”
+● “We bring in shiny new technology without consulting and no review of how the tech is used.”
+● “The technology could languish without being used.”
+● “There should be a follow-up on how the new technology is working and how the end users feel
+about its use.”
+ “Where was the faculty input in the library collaborative classrooms, VR room, iPads for the
+library, etc? Can we do a better job of soliciting faculty input prior to these investments? Can
+teaching and learning be central to tech decision making?”
+ “Most of the time we find out about things after they have already happened.
+ “New tech should come with a plan for piloting it in teaching and learning…and some
+accountability around the use of new tech.”
+ “We should consider teaching and learning as central to IT decisions.”
+A number of those interviewed discussed frustrations around the VR room, as one such example.
+Faculty who teach with VR reported not having been consulted in the design of the room. One
+respondent raised concerns that the VR room was designed to replace hands-on learning - for example,
+science lab practicums - without consulting departments or faculty about this major shift in pedagogy.
+● “The process for the VR room did not go through our normal departmental decision-making
+process / hierarchy.”
+● “I teach VR but I didn’t know anything about this room. I bring in my own equipment, headset,
+etc.”
+● The new VR lab seems to be for viewing content, not making content. I’m not sure if it will be
+useful for my teaching of VR.
+ITSGS Report: Faculty Representative Interviews - I 7
+
+b. Disengaged or Resistant Constituency
+When the faculty is uninformed of and/or excluded from a decision-making process, or their input is not
+reflected in final decisions, a new IT policy may be perceived as an imposition by the administration.
+One interviewee noted that failure to bring “major IT decisions that affect everyone” to Faculty Senate is
+an obstacle to creating faculty buy in. Another noted, that the process was “a complete waste of time and
+energy” that “shatter[ed] any expectation I had of a functional bureaucracy.” While a third reported, “It
+felt like a total waste of my time. I felt like I was there so someone could say that faculty were involved
+in the process, but I had no real participation or influence over the process.” This frustration may result
+in faculty disengaging and pulling back from important service work.
+
+c. Myopic IT Policies
+When policies are created without user input, they tend to be myopic in approach and could result in
+unintended damages. For example, many interviewees reported concerns over the recent decision to take
+admin privileges away from faculty as one of those myopic policies. While faculty understand the need
+for security, they hoped for clearer communication and a solution that would not pose an obstacle to
+their teaching and research. Some were concerned with the decision-making process and lack of
+transparency. Others were concerned with the effect this decision was having on their teaching and
+research.
+● “This committee [ITGC] was not part of the conversation to remove admin privileges from
+faculty computers.”
+● “Taking away admin privileges has been a real burden to faculty who work in the labs and teach
+tech and is having an adverse effect on our ability to teach with emerging technology.”
+● “In the past, professors had admin access and could fix small things ourselves in the teaching
+labs.,, now that we have no admin access…it is affecting our ability to teach.”
+● “We need to be able to install updates and plugins within 24-hours or even in class/ the same
+day, as tech is always changing. We can’t wait weeks or months for tickets to be resolved.”
+● “Faculty should also have admin login for our own laptops. We can’t do our jobs without this
+access over the tools we use to teach.”
+● “We use a lot of free tools for our tech and we can’t download them to the computers now.”
+● “We can’t use tools in real time because we don’t have admin privileges to do it anymore. This
+makes it hard as a researcher, this doesn’t promote innovation.”
+● “No consistent help from IT. Tickets are submitted, but might take a long period of time to
+resolve or not be resolved. In the meantime, there could be many students suffering the outage...
+If IT wishes to maintain their monopoly on administrative accounts then IT should respond
+quickly.”
+
+ITSGS Report: Faculty Representative Interviews - I 8
+
+3. Suggestions for Improvement
+A number of suggestions for improvement were offered by interviews. These suggestions are around
+four general themes: 1) enhance transparency in communication and incorporate pedagogical needs in
+IT policy-making, 2) monitor the use of new technology after implementation, share the data with
+stakeholders and use the data to inform future IT policies, 3) strengthen a system within the faculty
+governance structure that advocates for IT needs among the faculty and inform faculty representatives,
+and 4) establish democratic decision-making process in committee meetings.
+a. Enhance Transparent Communication and Pedagogy-Centered IT Planning
+Interviewees urged for more transparency and better communication. Some specifically suggested the
+use of technology and asynchronous tools to enhance communication and faculty participation in
+decision making:
+● “Online documentation”
+● “Strategic plan for IT could be shared online for faculty with a way for faculty to provide
+feedback on those plans”
+● “Written notes - minutes from the meetings should be shared and posted for all faculty to
+review”
+● “website or form for faculty or anyone to send messages to reps about what they are interested
+in/ faculty needs around IT to the campus, etc.”
+● “A formal website or form to communicate with faculty reps”
+● “Transparent open communication and dialog that is asynchronous”
+● “Use online voting for faculty input. For example: Pros and cons of email [G-mail vs. Office
+365] with a strong recommendation from IT, followed by a faculty vote via email.”
+Many interviewees called for more “bottom up” support and innovation of instructional technology.
+They were concerned that there is no place to meaningfully address how technology affects our teaching
+in the current structure. They also called for more sustainability, support and tracking of new
+technology. Many saw a need to support pilots, and to learn from, support, and build on what faculty are
+already doing with technology. Many suggested we look for ways to improve and support
+interdisciplinary planning and collaboration around tech innovation and resources, for more cohesive
+support. In order for IT policies to reflect pedagogical needs on campus, continuous monitoring of
+instructional technology and dialog with the faculty is indispensable.
+● “Promote interdepartmental collaboration, broaden our impact in our tech investments.”
+● “Transparent, collaborative budget process/cycle that would allow departments to plan for
+refreshing outdated equipment and even growth. Coordination of tech planning across
+departments, schools, and divisions to avoid unnecessary competition or duplication of effort.”
+● “More collaboration results in more external funding / greater interdepartmental impact”
+● “There seems to be a need for interdisciplinary collaboration around tech.”
+● “Acquisition of new software and technology needs to be more transparent.”
+● “Training and support of new software and technology is needed. Can we have a more robust
+and maintained online description, training, FAQ, or ‘how to’ for new technologies?”
+ITSGS Report: Faculty Representative Interviews - I 9
+
+● “Follow up on new IT initiatives is needed such as user satisfaction surveys.”
+● “Maybe there is a need for a scholarly tech-based forum where we are really trying to
+accomplish buy-in from the faculty/ stakeholders.”
+● “Incubator forum where people can pilot things and get support.”
+● “Perhaps a more collaborative and informal forum focused on projects that will improve our
+teaching and research would be a better use of our time.”
+
+b.
+
+Monitor Tech Usage, Share the Data with Stakeholders and Use the Data in IT
+Policy Making
+
+Interviewees also pointed out a need for more formal assessment, for example analyzing help desk
+tickets, identifying recurring issues, following up to determine whether issues have been truly resolved,
+and assessing new tech investments.
+● “Are common ticket issues being resolved on a systemic level? How are we using help desk
+ticket data to identify and solve tech problems on campus?”
+● “Are we tracking how much tech is being used?”
+● “Create a more formal way to collect faculty feedback and report back.”
+● Could planning be more “strategic?” Can we use some of the abundance of data available to
+help guide us?
+● “If an investment is made that is not well used or not effective, how do we learn from this and
+adjust future decision making based on this info?”
+
+c. Strengthen a Function that Advocates for Faculty IT Needs within the Faculty
+Governance Structure
+Most interviewed wondered how IT governance could be better woven into our existing governance
+structures, specifically Faculty Senate and department hierarchies. Some suggested a need for a different
+type of committee, others suggested TLRC might take on this additional role, while others felt adding
+more faculty reps and formalizing the process of the existing committee might help.
+● “In theory, whatever the role of this committee, it should be structured similarly to faculty
+senate: announcement of what is being considered; options to be considered; time to reach out to
+whoever one is representing; identify the stakeholders, reach out to them with enough notice that
+allows consultation and participation; bring that input to the decision making; make decisions
+collaboratively in the meetings.”
+● “Have a process. Write the process down. Build time for consultation with stakeholders into that
+process.”
+● “It would be helpful for IT to keep faculty involved in future developments. Possible changes
+could be brought to the Faculty Senate for discussion. Changes to IT implementation could
+possibly be voted on.”
+
+ITSGS Report: Faculty Representative Interviews - I 10
+
+There was also concern that we not overextend faculty and calls to consider how existing committees
+and structures could support this work.
+● “I would be cautious to not develop more process when we don’t have enough senior faculty
+willing to serve.”
+● “Maybe the TLRC can be more involved with tech that impacts teaching and research /
+innovation in teaching and research? We might not need to create yet another committee.”
+● “The department structure is junior faculty raises issues to chair, [then the] chair and department
+advocate. That is our existing democratic structure. Department process should be followed
+[when making tech decisions].”
+
+d. Establish a Democratic Decision-Making Process in Meetings
+Interviewees suggested that ensuring time for faculty representatives to bring the item back to the
+faculty and consult with them and incorporating normative meeting practices (e.g. clear agenda,
+identifying and following up action items, and democratic agenda setting) would help establish effective
+consultation.
+● “Use Roberts, or anybody's, Rules in the meetings. Elect the committee chair. Have a non-ITS
+co-chair. Take minutes. Identify action items. Follow up on action items.”
+● “Information should be presented at the meetings in a way that is clear and accessible to
+everyone on the committee.”
+● “Decisions that are going to affect everyone should be the main focus of these meetings.”
+● “There should be more clarity and transparency about what is coming down the pike around IT
+decisions.”
+● “Bring major decisions directly to Senate for feedback and a vote.”
+
+ITSGS Report: Faculty Representative Interviews - I 11
+
+III. Interview Appendix
+1. Pre-Interview Questionnaire
+2. ITGC Charge of the Committee
+
+ITSGS Report: Faculty Representative Interviews - I 12
+
+1. ITSGS Pre Interview Questions
+Q1. In what capacity have you represented the faculty on IT-related issues and when? Please list in a
+chronological order if you represented in multiple roles (e.g., "IT Governance Committee Rep, Fall
+2012-Spring 2014").
+
+Q2. What was the purpose/charge of the committee/task force/group you participated in? (Please
+identify the committee if you represented the faculty in multiple groups).
+
+Q3. How effectively do you feel you could represent interests of the faculty in the committee/task
+force/group? Please indicate in a scale of 10 (1= least effective, 10 most effective). If you have served
+on multiple IT-related committees, answer about the most recent experience.
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Q4. Regarding Q3, please explain why you feel that way.
+
+Q5. In your opinion, how much were your contributions as a faculty rep reflected in IT policy
+practice/outcome? Please indicate in a scale of 10 (1= least effective, 10 most effective). If you have
+served on multiple IT-related committees, answer about the most recent experience.
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Q6. Regarding Q5, please explain why you feel that way.
+
+Q7. Do you have any suggestions or thoughts for improvements in this process?
+
+Q8. Any additional comments.
+
+ITSGS Report: Faculty Representative Interviews - I 13
+
+2. ITGC Charge of the Committee
+(Undated material provided by an interviewee)
+In spring 2014, the College established an IT Governance Committee (ITGC), which has held monthly
+meetings since March 2015. The ITGC is charged to serve as an advisory body to the College
+President on all IT matters. After the initial staggered appointments, subsequent terms of service will be
+for two years. Beginning in 2016, and in response to concerns raised by the faculty, the faculty
+members of the ITGC will be nominated by the Faculty Senate for appointment by the President (see
+Appendix 2.2 the initial composition of the ITGC). The IT Governance Committee structure establishes
+the strategic, operational and technical decision-making processes related to employing technology
+which enables the College to achieve its Mission and objectives. The ITCG, in conjunction with the CIO
+and the staff of Information Technology Services (ITS) will:
+• Identify and recommend meaningful and innovative use of existing and emerging technologies that
+enable and support learning, teaching and the administrative operations across the College.
+• Assist in the development of the College’s long range technology plan and ensure that the technology
+plan is in alignment with the College’s Mission, strategic plan goals and SUNY’s strategic initiatives,
+where appropriate.
+• Identify campus-wide Information Technology (IT) priorities and recommend strategies for funding
+these Priorities.
+• Provide guidance regarding the review, evaluation, ranking and scheduling for implementation of
+impending IT initiatives, projects and Technologies.
+• Ensure that significant opportunities for utilizing technology are considered, that significant technology
+related risks are addressed, and that the use of College IT resources is optimized.
+• Define metrics to measure IT’s performance and the return on the considerable technology
+investments the College has made.
+• Recommend, implement and disseminate relevant IT policies and procedures to the College
+Community.
+
+ITSGS Report: Faculty Representative Interviews - I 14
+
+Part Two
+Faculty Survey
+
+IT Shared Governance Study
+Part Two
+Faculty Survey
+Table of Contents
+I.
+
+Faculty Survey Key Findings
+
+S1-2
+
+II.
+
+Methodology and Sample Characteristics
+
+S3
+
+III.
+
+IV.
+
+Findings
+1. IT Needs Fulfillment
+a. Overall IT Needs Fulfillment (Figure 1)
+b. IT Usage Level (Figure 2)
+c. Importance of IT Resources (Figure 3)
+d. Needs Fulfillment by IT Resource Type (Figure 4)
+e. Discontinued Use of IT Resources (Figure 5&6)
+
+S4
+S5
+S6
+S7
+S8-9
+
+2. IT Issues and Problem Solving in F19
+a. Channels for IT Related Communication (Figure 7)
+b. IT issues in F19 and Their Impact on Teaching (Figure 8&9)
+c. ITS Reporting and Responses (Figure 10&11)
+
+S10
+S11
+S12
+
+3. Faculty Perception of IT Shared Governance
+a. Total (Figure 12)
+b. Tenure-Track Faculty
+
+S13
+S14
+
+Appendix
+1.
+Questionnaire
+2.
+Open Ended Responses
+OA Table 1. Reasons for the IT Needs Fulfillment Rating (Q3)
+OA Table 2. Circumstances of Giving Up IT Resources (Q7)
+OA Table 3. IT Problems Experienced in F19 (Q9)
+OA Table 4 OA Table 4. Reasons for ITS Rating (Q13)
+OA Table 5. Reasons Not Having Reported to ITS
+OA Table 6. Comments
+
+SQ1-6
+SOA1-6
+SOA7-11
+SOA12-14
+SOA 15-16
+SOA17
+SOA18-20
+
+I. Faculty Survey Key Findings
+The Impact of Instructional Technology on Teaching
+ For the faculty at Old Westbury, IT resources are indispensable to teaching. Almost all
+respondents routinely use some instructional technology (See Figure 2). A vast majority reported
+that classroom technology, campus Wi-Fi, and college-provided computing devices are
+important or critically important to their teaching (See Figure 3).
+ Unreliable technology in basic campus and classroom infrastructure is a significant concern.
+ Overall, the average rating for IT needs fulfillment was 2.78 on the scale of 5 (See Figure
+1). Those who rated low noted unreliable technologies in classrooms, incompatibilities
+between college-provided devices with equipment on campus, untimely or unresponsive
+technological support hindered their teaching (See OA Table 1 in Appendix).
+ Over 40% indicated technology in regular smart classrooms, thin client, or specialized
+software do not sufficiently meet their teaching needs (See Figure 4). Furthermore, nearly
+a quarter (24%) reported that they had given up using technology in regular classrooms
+due to previous problems (See Figure 5).
+ About two thirds of respondents (67%) experienced IT problems during the first six
+weeks of Fall 2019 (See Figure 8). Of those, 39% reported the problem inhibited their
+teaching in multiple class period (See Figure 9)
+ When adequate IT resources are not available, the faculty 1) sacrifice components of teaching, 2)
+resort to using personal resources, or 3) double their course preparation in order to prepare a
+backup plan. (See OA Table 1 and 2 in Appendix)
+Figure. Importance, Need Fulfillment and the Discontinued Use of IT Resources (Summary)
+Important+Critically Important (Q4)
+
+Other on-campus infrastructure (e.g., wifi)
+
+Needs Met (Q5 Well + Very well)
+
+College-provided portable computing device(s)
+
+89%
+
+59%
+
+24%
+
+86%
+
+69%
+
+13%
+
+Online instruction platform(s)
+
+97%
+
+64%
+
+N/A
+
+Technology in regular smart classrooms
+
+Specialized software/apps
+
+Given up due to problems (Q6)
+
+74%
+
+4%
+
+78%
+
+55%
+
+N/A
+
+71%
+
+Computer labs
+
+8%
+
+Thin client
+
+45%
+
+65%
+
+17%
+
+0%
+
+10%
+
+89%
+
+55%
+56%
+
+11%
+
+Classrooms with specialized technology (e.g., Media lab)
+
+82%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90% 100%
+
+ITSGS Report: Faculty Survey - S 1
+
+IT Shared Governance
+ A sense of ineffective shared governance is evident among the faculty. An overwhelming
+majority of respondents indicated that they do not feel they have a voice in IT Governance (83%
+disagree total). A large majority do not feel that IT policies at the College is developed in a fair
+and transparent way (69% disagree total) or that the allocation of IT resources is fair and
+transparent (71% disagree total). These sentiments are stronger among tenure-track faculty (See
+Figure 12a)
+ Some comments from respondents call for transparency, central involvement of faculty in IT
+decision-makings, and responsiveness to faculty input (See OA Table 1 and 6 in Appendix)
+Figure. The Perception of IT Governance and Practice
+Disagree
+
+Somewhat Disagree
+
+Somewhat Agree
+
+A. I feel well informed about IT policies at the College. (N=69)
+
+30%
+
+B. I feel IT policies at the College are clear and fair. (N=60)
+
+30%
+
+28%
+
+32%
+
+32%
+
+C. I feel IT policies at the College are developed in a fair and
+transparent way. (N=55)
+
+22%
+
+44%
+
+E.If I need to communicate my IT needs to the College, I know how to
+do so. (N=76)
+
+18%
+
+F.If I communicate my IT needs to the College, I feel confident my
+voice will be heard. (N=70)
+
+31%
+
+7%
+
+H. If I have a question about IT resources outside of classroom, I know
+where to get an answer. (N=74)
+I. I feel the College administration genuinely wants to hear faculty
+input on IT issues. (N=67)
+
+39%
+
+J. I trust that the College administration makes a sincere effort to
+incorporate faculty input in IT decisions. (N=61)
+
+56%
+0%
+
+16%
+
+17%
+
+28%
+
+38%
+
+24%
+
+46%
+
+K. I feel I have a voice in shaping IT policies at the College. (N=63)
+
+24%
+
+28%
+
+4%
+
+28%
+
+48%
+
+15%
+
+9%
+
+25%
+
+43%
+
+27%
+
+17%
+
+8%
+
+22%
+
+27%
+
+11%
+
+10%
+
+30%
+
+47%
+
+D. I feel the allocation of IT resources at the College is fair and
+transparent. (N=55)
+
+G.If I have a question about classroom technologies, I know where to
+get an answer. (N=75)
+
+Agree
+
+19%
+
+24%
+
+13%
+
+25%
+
+13%
+
+27%
+
+14% 3%
+
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+ITSGS Report: Faculty Survey - S 2
+
+II. Methodology and Sample Characteristics
+This study was conducted as an anonymous online survey with the faculty of SUNY Old Westbury. An
+email invitation with a link to an online questionnaire (Microsoft Form) was sent to the Old Westbury
+faculty email list (faculty@oldwestbury.edu) on September 23rd, 2019. The survey closed on October
+4th, 2019. The data collection and analysis were conducted by ITSGS Task Force members.
+In total, 76 faculty members participated in the study. Fifty-four respondents (71%), identified
+themselves as tenured or tenure-streamed faculty, while 21 (two among “other” identified themselves as
+adjuncts) are on a non-tenure streamed (Table 1).
+Table 1. Faculty Status
+Tenured
+TT yet to be tenured
+FT Non-tenure track
+PT Non-tenure track
+Other
+Total
+
+Count
+29
+25
+7
+12
+3
+76
+
+%
+38%
+33%
+9%
+16%
+4%
+100%
+
+Q17. What is your status as faculty at Old Westbury?
+Table 2. Years of Service at Old Westbury
+Count
+18
+22
+23
+13
+76
+
+-3yr
+4-9yr
+10-20yr
+21+ yr
+Total
+
+%
+24%
+29%
+30%
+17%
+100%
+
+Q18. How long have you been working at Old Westbury? (If you have taught intermittently,
+please indicate the total years of service)
+Table 3. Academic Field
+Humanities
+Social sciences
+Natural sciences STEM
+Business
+Education
+Other
+Total
+
+Count
+20
+22
+15
+4
+7
+8
+76
+
+%
+26%
+29%
+20%
+5%
+9%
+11%
+100%
+
+Q19 Which of the following best describes your academic field?
+
+ITSGS Report: Faculty Survey - S 3
+
+III. Findings
+1.
+
+IT Needs Fulfillment
+a. Overall IT Needs Fulfillment
+
+Overall, respondents feel that the College fulfills their instructional technology needs in a limited way.
+On average, respondents rated the level of IT needs fulfillment by the College as 2.78 out of 5. The
+rating is lower among tenure-streamed faculty compared to non-tenure streamed faculty. Unreliable
+basic infrastructure (e.g., Wi-Fi, regular smart classroom technology), ineffective and/or untimely
+support, incompatibility among college-supplied equipment (e.g., a college-provided laptop and
+classroom technology) are commonly noted as reasons for low rating (See OA Table 1 in Appendix).
+Figure 1. Overall IT Needs Fulfillment
+35%
+33%
+30%
+
+25%
+25%
+20%
+
+17%
+13%
+
+15%
+
+12%
+
+10%
+5%
+0%
+
+☆
+
+☆☆
+
+☆☆☆
+
+☆☆☆☆
+
+☆☆☆☆☆
+
+Q2. Overall, how well, do you feel, your instructional technology needs are met by the College?
+"Instructional technology" includes, but is not limited to, smart classroom technology, a laptop/tablet
+for teaching, computing software, computer labs, physical and virtual IT infrastructure. (5 stars = Very
+well; 1 star = Very poorly)
+N
+Average Star Rating
+Standard
+(Maximum 5 Stars)
+Deviation
+76
+2.78
+1.23
+Total
+By Faculty Status
+Tenure-Track
+54
+2.67
+1.23
+Non-Tenure Track
+21
+3.14
+1.15
+By Usage Level
+Low to Moderate
+42
+2.88
+1.27
+High
+22
+2.91
+1.19
+Highest
+10
+2.10
+1.10
+ITSGS Report: Faculty Survey - S 4
+
+b. IT Usage Level
+The use of instructional technology is almost universal among the faculty. Only 4% of the respondents
+indicated that they hardly use instructional technology. About a half of respondents are “moderate-level”
+users whose IT usage is limited to slide presentations and video viewing, while over 40% indicated that
+their teaching requires instructional technology beyond slide and video presentations.
+
+Figure 2. Classroom IT Usage
+
+LOW-LEVEL: I hardly use instructional technology in my
+teaching.
+
+4%
+
+MODERATE-LEVEL: My use of classroom technology is
+limited to slide presentations (e.g., PowerPoint) and
+video (either DVD or streaming) available in a
+functioning “smart” classroom.
+
+51%
+
+HIGH-LEVEL: At least one course relies on classroom
+technology beyond “Moderate Level” use, including a
+designated (or the frequent use of) computer lab or
+other specialized technology.
+
+29%
+
+HIGHEST-LEVEL: At least one course relies on classroom
+technology beyond “High Level” use, and requires
+special equipment or support that are not available in a
+regular “smart” classroom or computer lab.
+
+13%
+
+Other
+
+3%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+Q1. Which of the following statements best describes your use of instructional technology for
+CLASSROOM TEACHING in a recent typical semester at OW?
+
+ITSGS Report: Faculty Survey - S 5
+
+c. Importance of IT Resources
+Most respondents feel on-campus infrastructure (e.g., Wi-Fi), smart classroom technology, collegeprovided portable computing devices are either “critically important” or “important” to their teaching. A
+large majority also feels online teaching platforms, computer labs, and specialized software are also
+important.
+
+Figure 3. Importance of IT Resources
+Not important at all
+
+Not so important
+
+Important
+
+A. Technology in regular smart classrooms 4% 7%
+
+B. Computer labs
+
+C. Classrooms with specialized technology (e.g., Media lab)
+
+D. Thin client
+
+7%
+
+30%
+
+59%
+
+22%
+
+22%
+
+22%
+
+33%
+
+25%
+
+20%
+
+E. Other on-campus infrastructure (e.g., wifi) 1%
+1% 17%
+
+F. College-provided portable computing device(s)
+
+G. Online instruction platform(s)
+
+H. Specialized software/apps
+
+49%
+
+18%
+
+26%
+
+28%
+
+28%
+
+80%
+
+7% 8%
+
+21%
+
+13% 5%
+
+13%
+
+Critically important
+
+9%
+
+64%
+
+28%
+
+54%
+
+38%
+
+39%
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Q4. Please indicate how important each of the following instructional technology infrastructure is to your
+teaching needs.
+
+ITSGS Report: Faculty Survey - S 6
+
+d. Needs Fulfillment by IT Resource Type
+Over 40% of respondents indicate technology in regular smart classrooms (41%), thin clients (44%) and
+specialized software (46%) meet their teaching needs “poorly” or “very poorly”. The level of needs
+fulfillment is highest in computer labs, where nearly 90% indicated that their needs are met “well” or
+“very well”.
+
+Figure 4. Needs Fulfillment by IT Resource Type
+Very poorly
+
+Poorly
+
+A. In regular smart classrooms (N=68)
+
+B. In computer labs (N=47)
+
+10%
+
+D. Thin client (N=50)
+
+F. College-provided portable computing device(s) (N=61)
+
+50%
+
+72%
+
+29%
+
+10%
+
+21%
+
+G. Online instruction platform(s) (N=58)
+
+9%
+
+H. Specialized software/apps (N=44)
+
+7%
+
+60%
+
+30%
+
+7%
+
+9%
+
+17%
+
+30%
+
+14%
+
+0%
+
+Very well
+
+31%
+
+6% 4%
+
+C. In classrooms with specialized technology (e.g., Media
+5%
+lab) (N=20)
+
+E. Other on-campus infrastructure (e.g., wifi) (N=70)
+
+Well
+
+17%
+
+50%
+
+54%
+
+6%
+
+10%
+
+46%
+
+23%
+
+57%
+
+39%
+
+5%
+
+17%
+
+50%
+
+5%
+
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Q5. In each of the following areas, please indicate how well your instructional technology needs are met by the
+College.
+
+ITSGS Report: Faculty Survey - S 7
+
+e. Discontinued Use of IT Resource
+In some cases, instructors give up on IT resource they found persistently unreliable or inadequate. About
+a quarter of respondents (24%) indicated that they had given up using some technology in regular smart
+classrooms due to previous technical problems. About one in six (17%) gave up using a classroom with
+specialized technology, and one in eight (13%) discontinued the use of college-provided personal
+computing devices. Those who gave up IT resources often had to forego a part of their teaching or relied
+on a personally owned device (See OA Table 2 in Appendix).
+
+Figure 5. IT Resource Given Up Due to Problems
+A. Technologies in regular smart classrooms
+
+24%
+
+B. Computer labs
+
+8%
+
+C. Classrooms with specialized technology
+
+17%
+
+D. Thin Client
+
+11%
+
+E. College-provided portable computing device(s), e.g.,
+laptop, tablet
+
+13%
+
+F. Blackboard
+
+4%
+
+G. Microsoft Office 365
+
+13%
+
+H. Other software/apps provided by the College
+
+7%
+
+I. Other hardware provided by the College
+
+3%
+
+J. Other
+
+4%
+
+K. I did not give up any instructional technology for these
+reasons.
+
+58%
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+Q6. Have you given up on using, at least for the time being, any of instructional technology provided by the
+College due to previous technical problems, the lack of adequate support, or regulations that do not
+accommodate your needs? (Check all that apply)
+
+ITSGS Report: Faculty Survey - S 8
+
+On campus infrastructure and technology in regular classroom are considered important nearly
+universally, yet less than two thirds of respondents feel that their needs are sufficiently met.
+
+Figure 6. Importance, Need Fulfillment and the Discontinued Use of IT Resources (Summary)
+Important+Critically Important (Q4)
+
+Needs Met (Q5 Well + Very well)
+
+Given up due to problems (Q6)
+97%
+
+64%
+
+Other on-campus infrastructure (e.g., wifi)
+
+N/A
+
+89%
+
+59%
+
+Technology in regular smart classrooms
+
+24%
+
+86%
+
+69%
+
+College-provided portable computing device(s)
+
+13%
+
+82%
+74%
+
+Online instruction platform(s)
+
+4%
+
+78%
+
+55%
+
+Specialized software/apps
+
+N/A
+
+71%
+
+Computer labs
+
+8%
+55%
+56%
+
+Thin client
+
+11%
+45%
+
+Classrooms with specialized technology (e.g., Media lab)
+
+17%
+
+89%
+
+65%
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+ITSGS Report: Faculty Survey - S 9
+
+2.
+
+IT Problems and Problem Solving
+a. Channels for IT Related Communication
+
+The faculty typically communicates their IT needs through ITS. ITS Filing a ticket (68%) and visiting
+the ITS Service Desk (62%), contacting a specific person in ITS (47%) are most common ways for
+respondents to communicate their IT needs with the College. One third (33%) communicate their IT
+needs through the department and 9% through a faculty IT rep.
+
+Figure 7. Channels for IT Related Communication (Multiple Responses)
+
+File a ITS Service ticket
+
+68%
+
+Go to ITS Service Desk
+
+62%
+
+Contact a specific person in ITS
+
+47%
+
+Contact my department (Chair, Secretary)
+
+33%
+
+Contact a faculty IT rep
+
+I have never needed technological
+resources or services for my teaching
+
+9%
+
+4%
+
+0% 10% 20% 30% 40% 50% 60% 70% 80%
+Q16. When you need technological equipment, computing software or technological services for your teaching,
+how do you usually communicate the needs to the College? (Check all that apply)
+
+ITSGS Report: Faculty Survey - S 10
+
+b. IT Issues in F19 and Their Impact on Teaching
+About two thirds of respondents experienced some IT problem in the first several weeks of Fall 2019
+(the survey closed on Oct 4). Frequently mentioned problems are malfunctioning of classroom
+technology and/or network (See OA Table 3 for problem descriptions). Most (75%) of these problems
+inhibited their teaching; 39% of the problems persisted long enough to hinder teaching in multiple class
+periods.
+
+Figure 8. IT Problems in F19
+Do not
+remember,
+5%
+
+Figure 9. Impact of IT Problems on Teaching
+Not
+teaching
+this
+semester,
+3%
+
+Multiple class
+periods, 39%
+
+No, 25%
+
+No, 25%
+
+Yes, 67%
+One class
+period,
+35%
+
+Q8. Have you encountered any instructional
+technology problem this semester? (N=71)
+
+Q10. (If Q8 = Yes) Were any of the problems you
+experienced severe enough to inhibit your ability to
+teach a class properly? (N=51)
+
+ITSGS Report: Faculty Survey - S 11
+
+c. ITS Reporting and Responses
+Most (70%) respondents who experienced an IT problem reported it to ITS. On average, they rated the
+response of ITS 3.17 out of 5. Those who rated low often noted slow or no response; those who rated
+high noted helpfulness of ITS staff, but some of them still mentioned insufficient staffing as a problem
+(See OA Table 4). Reasons for not reporting to ITS includes that that they could not give up the class
+time for reporting, or that they did not trust ITS would fix the problem (See OA Table 5).
+Figure 10. Reporting of the IT Problem to ITS
+(N=51)
+No
+Answer,
+2%
+
+Other ,
+10%
+
+No, 20%
+
+Yes,
+69%
+Q11. (If Q8 = Yes) Did you request help from ITS
+about any of these problem(s)?
+Figure 11. ITS Response Rating (1-5 Stars)
+(N=35)
+Average = 3.17
+40%
+
+34%
+
+35%
+30%
+25%
+
+20%
+
+20%
+
+20%
+
+17%
+
+15%
+10%
+
+9%
+
+5%
+0%
+
+☆
+
+☆☆
+
+☆☆☆
+
+☆☆☆☆
+
+☆☆☆☆☆
+
+Q12 (If Q11 = Yes) How would you rate their support? (5 stars = Most helpful; 1 star= Least helpful)
+
+ITSGS Report: Faculty Survey - S 12
+
+3.
+
+Faculty Perception of IT Shared Governance
+a. Total
+
+A sense of ineffective shared governance appears evident among the faculty. An overwhelming majority
+of respondents indicated that they do not feel having a voice in IT Governance (83% disagree total). A
+large majority do not see that IT policies at the College are developed in a fair and transparent way (69%
+disagree total) or that the allocation of IT resources is fair and transparent (71% disagree total).
+Figure 12. Faculty Perception of IT Governance and Practice (Total)
+Disagree
+
+Somewhat Disagree
+
+Somewhat Agree
+
+A. I feel well informed about IT policies at the College.
+(N=69)
+
+30%
+
+B. I feel IT policies at the College are clear and fair. (N=60)
+
+30%
+
+C. I feel IT policies at the College are developed in a fair
+and transparent way. (N=55)
+
+E.If I need to communicate my IT needs to the College, I
+know how to do so. (N=76)
+
+H. If I have a question about IT resources outside of
+classroom, I know where to get an answer. (N=74)
+I. I feel the College administration genuinely wants to hear
+faculty input on IT issues. (N=67)
+J. I trust that the College administration makes a sincere
+effort to incorporate faculty input in IT decisions. (N=61)
+K. I feel I have a voice in shaping IT policies at the College.
+(N=63)
+
+32%
+
+32%
+
+18%
+
+22%
+
+31%
+
+7%
+
+43%
+
+24%
+
+28%
+
+39%
+
+46%
+
+56%
+
+16%
+
+17%
+
+28%
+
+38%
+
+24%
+
+4%
+
+28%
+
+48%
+
+15%
+
+9%
+
+25%
+
+27%
+
+17%
+
+8%
+
+22%
+
+27%
+
+11%
+
+10%
+
+30%
+
+44%
+
+F.If I communicate my IT needs to the College, I feel
+confident my voice will be heard. (N=70)
+G.If I have a question about classroom technologies, I
+know where to get an answer. (N=75)
+
+28%
+
+47%
+
+D. I feel the allocation of IT resources at the College is fair
+and transparent. (N=55)
+
+Agree
+
+19%
+
+24%
+
+13%
+
+25%
+
+13%
+
+27%
+
+14% 3%
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Q15. Here are some statements about instructional technology (IT) policies, practices and experience at the
+College. Please indicate how you agree or disagree with each statement.
+
+ITSGS Report: Faculty Survey - S 13
+
+b. Among Tenure-Track Faculty
+Among tenure-tracked faculty members, there is a stronger sentiment that fairness and transparency are
+lacking in IT policy making and resource allocations. There is also a lower level of trust that the College
+administration makes sincere efforts to incorporate faculty input in IT decisions.
+
+Figure 12a. Faculty Perception of IT Governance and Practice (Tenure-Track Faculty Only)
+Disagree
+
+Somewhat Disagree
+
+Somewhat Agree
+
+A. I feel well informed about IT policies at the College.
+(N=50)
+
+34%
+
+B. I feel IT policies at the College are clear and fair. (N=44)
+
+36%
+
+34%
+
+C. I feel IT policies at the College are developed in a fair
+and transparent way. (N=41)
+
+20%
+
+F.If I communicate my IT needs to the College, I feel
+confident my voice will be heard. (N=51)
+
+I. I feel the College administration genuinely wants to hear
+faculty input on IT issues. (N=49)
+J. I trust that the College administration makes a sincere
+effort to incorporate faculty input in IT decisions. (N=45)
+K. I feel I have a voice in shaping IT policies at the College.
+(N=49)
+
+39%
+
+9%
+
+6%
+
+26%
+
+21%
+
+24%
+
+50%
+
+17%
+
+28%
+
+47%
+
+61%
+
+12%
+
+28%
+
+40%
+
+29%
+
+56%
+
+2%
+
+26%
+
+27%
+
+17%
+
+2%
+
+15% 5%
+
+44%
+
+37%
+
+6%
+
+23%
+
+22%
+
+50%
+
+E.If I need to communicate my IT needs to the College, I
+know how to do so. (N=54)
+
+H. If I have a question about IT resources outside of
+classroom, I know where to get an answer. (N=53)
+
+26%
+
+59%
+
+D. I feel the allocation of IT resources at the College is fair
+and transparent. (N=42)
+
+G.If I have a question about classroom technologies, I
+know where to get an answer. (N=54)
+
+Agree
+
+15%
+
+16%
+
+18%
+
+18%
+
+18%
+
+18%
+
+8%
+
+9%
+
+2%
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Q15. Here are some statements about instructional technology (IT) policies, practices and experience at the
+College. Please indicate how you agree or disagree with each statement.
+
+ITSGS Report: Faculty Survey - S 14
+
+IV. Appendix
+
+1.
+2.
+
+Questionnaire
+Open Ended Answers
+
+Faculty Survey on Instructional Technology Shared Governance
+This survey is anonymous; your name and email address will not be recorded. We appreciate your
+candid input.
+The Task Force will statistically process multiple-choice responses, compile open-ended responses, and
+compose a report. The report will be delivered to the Faculty Senate and shared with the OW
+community.
+
+1. Which of the following statements best describes your use of instructional technology for
+CLASSROOM TEACHING in a recent typical semester at OW?
+1) LOW-LEVEL: I hardly use instructional technology in my teaching.
+2) MODERATE-LEVEL: My use of classroom technology is limited to slide presentations
+(e.g., PowerPoint) and video (either DVD or streaming) available in a functioning “smart”
+classroom.
+3) HIGH-LEVEL: At least one course relies on classroom technology beyond “Moderate
+Level” use, including a designated (or the frequent use of) computer lab or other specialized
+technology.
+4) HIGHEST-LEVEL: At least one course relies on classroom technology beyond “High Level”
+use, and requires special equipment or support that are not available in a regular “smart”
+classroom or computer lab.
+5) Other
+
+2. Overall, how well, do you feel, your instructional technology needs are met by the College?
+"Instructional technology" includes, but is not limited to, smart classroom technology, a
+laptop/tablet for teaching, computing software, computer labs, physical and virtual IT
+infrastructure. (5 stars = Very well; 1 star = Very poorly)
+
+☆☆☆☆☆
+3. Regarding Q2, please explain why you feel that way.
+
+ITSGS Report: Faculty Survey Questionnaire - SQ1
+
+4. Please indicate how important each of the following instructional technology infrastructure is to
+your teaching needs.
+3.
+Critically
+Important
+
+A
+B
+C
+D
+E
+F
+G
+H
+
+2.
+Important
+
+1.
+Not so
+important
+
+0.
+Not
+important at
+all
+
+Technology in regular smart
+classrooms
+Computer labs
+Classrooms with specialized
+technology (e.g., Media lab)
+Thin client
+Other on-campus infrastructure (e.g.,
+wifi)
+College-provided portable computing
+device(s), e.g., laptop, tablet
+Online instruction platform(s)
+Specialized software/apps
+
+5. In each of the following areas, please indicate how well your instructional technology needs are
+met by the College.
+3.
+Very well
+
+A
+B
+C
+D
+E
+F
+G
+H
+
+2.
+Well
+
+1.
+Poorly
+
+0.
+Very
+Poorly
+
+9.
+Not
+applicable
+
+In regular smart classrooms
+In computer labs
+In classrooms with specialized
+technology (e.g., Media lab)
+Thin client
+Other on-campus infrastructure (e.g.,
+wifi)
+College-provided portable computing
+device(s), e.g., laptop, tablet
+Online instruction platform(s)
+Specialized software/apps
+
+ITSGS Report: Faculty Survey Questionnaire - SQ2
+
+6. Have you given up on using, at least for the time being, any of instructional technology provided
+by the College due to previous technical problems, the lack of adequate support, or regulations
+that do not accommodate your needs? (Check all that apply)
+a. Technologies in regular smart classrooms
+b. Computer labs
+c. Classrooms with specialized technology
+d. Thin Client
+e. College-provided portable computing device(s), e.g., laptop, tablet
+f. Blackboard
+g. Microsoft Office 365
+h. Other software/apps provided by the College
+i. Other hardware provided by the College
+j. I did not give up any instructional technology for these reasons. (Skip to Q8)
+k. Other
+7. Regarding your answer to Q6, please explain the circumstance that led to your decision(s) and
+how you adapted (or did not adapt).
+
+8. Have you encountered any instructional technology problem this semester?
+1) Yes
+2) No (Skip to Q15)
+3) I do not remember (Skip to Q15)
+4) I am not teaching this semester (Skip to Q15)
+9. (If Q8 = Yes) Please describe the problem(s) you experienced. Indicate which room or facility
+the problem occurred, if you feel comfortable sharing.
+
+10. (If Q8 = Yes) Were any of the problems you experienced severe enough to inhibit your ability to
+teach a class properly?
+1) No
+2) Yes, at least one of these problems inhibited my ability to teach in one class period.
+3) Yes, at least one of these problems inhibited my ability to teach in multiple class periods.
+11. (If Q8 = Yes) Did you request help from ITS about any of these problem(s)?
+1) Yes
+2) No (Skip to Q14)
+3) I do not remember (Skip to Q15)
+4) Other
+ITSGS Report: Faculty Survey Questionnaire - SQ3
+
+12. (If Q11 = Yes) How would you rate their support? (5 stars = Most helpful; 1 star= Least helpful)
+
+☆☆☆☆☆
+13. Regarding Q12, please explain why you feel that way.
+
+14. (If Q11= No) Why did you decide not to request help from the ITS?
+
+ITSGS Report: Faculty Survey Questionnaire - SQ4
+
+15. Here are some statements about instructional technology (IT) policies, practices and experience
+at the College. Please indicate how you agree or disagree with each statement. ("IT policies"
+include, but are not limited to, policies regarding: the purchase of technological devices for
+classrooms, offices and for the use of faculty, staff and students; the purchase and provision of
+software license for faculty and students; rules and regulations surrounding smart classrooms,
+computer labs, college-provided portable devices and online resources; the distribution of IT
+resources and services; physical and virtual technology infrastructure; communication regarding
+IT resources and services.)
+
+3.
+Agree
+
+A
+B
+C
+D
+E
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+2.
+Somewhat
+Agree
+
+1.
+Somewhat
+Disagree
+
+0.
+Disagree
+
+9.
+Unable to
+Answer
+
+I feel well informed about IT policies at
+the College.
+I feel IT policies at the College are
+clear and fair.
+I feel IT policies at the College are
+developed in a fair and transparent way.
+I feel the allocation of IT resources at
+the College is fair and transparent.
+If I need to communicate my IT needs
+to the College, I know how to do so.
+If I communicate my IT needs to the
+College, I feel confident my voice will
+be heard.
+If I have a question about classroom
+technologies, I know where to get an
+answer.
+If I have a question about IT resources
+outside of classroom, I know where to
+get an answer.
+I feel the College administration
+genuinely wants to hear faculty input
+on IT issues.
+I trust that the College administration
+makes a sincere effort to incorporate
+faculty input in IT decisions.
+I feel I have a voice in shaping IT
+policies at the College.
+
+ITSGS Report: Faculty Survey Questionnaire - SQ5
+
+16. When you need technological equipment, computing software or technological services for your
+teaching, how do you usually communicate the needs to the College? (Check all that apply)
+a. Go to ITS Service Desk
+b. File a ITS Service ticket
+c. Contact a specific person in ITS
+d. Contact a faculty IT rep
+e. Contact my department (Chair, Secretary)
+f. I have never needed technological resources or services for my teaching
+g. Other
+17. What is your status as faculty at Old Westbury?
+1) Tenured
+2) Tenure-track, yet-to-be-tenured
+3) Full-time, not tenure-track
+4) Part-time, not tenure-track
+5) Other
+18. How long have you been working at Old Westbury? (If you have taught intermittently, please
+indicate the total years of service)
+1) 3 years or fewer
+2) 4-9 years
+3) 10-20 years
+4) 21+ years
+19. Which of the following best describes your academic field?
+1) Humanities
+2) Social sciences
+3) Natural sciences / STEM
+4) Business
+5) Education
+6) Other
+20. Comments (e.g., what could be done to improve IT, important issues that were not addressed in
+this survey - or any thoughts you would like to share)
+
+21. If members of the Task Force or a Middle States Self Study Working Group would like to hear
+more about what you shared in this survey, would you be willing to be interviewed? If yes,
+please share your name and email address below. This is optional.
+
+ITSGS Report: Faculty Survey Questionnaire - SQ6
+
+Open Ended Answers
+OA Table 1. Reasons for the IT Needs Fulfillment Rating (Q3)
+
+SOA1
+
+OA Table 2. Circumstances of Giving Up IT Resources (Q7)
+
+SOA7
+
+OA Table 3. IT Problems Experienced in F19 (Q9)
+
+SOA12
+
+OA Table 4 OA Table 4. Reasons for ITS Rating (Q13)
+
+SOA 15
+
+OA Table 5. Reasons Not Having Reported to ITS
+
+SOA17
+
+OA Table 6. Comments
+
+SOA18
+
+OA Table 1. Reasons for the Level of IT Needs Fulfillment Rating (Q3)
+OA Table 1. Reasons for the IT Needs Fulfillment Rating
+Q3. Regarding Q2, please explain why you feel that way.
+Q2 – IT Needs
+Fulfillment
+(1- 5 Stars)
+☆
+
+☆
+
+☆
+
+☆
+
+Q3
+
+Too many loop holes to run through
+Not enough people in IT to serve all the College's user needs in a timely manner
+Bigger projects always take precedent over other small user issues
+IT has limited to no support in the evening and absolutely none on the weekend. This is
+appalling for a modern college to function.
+IT makes policies that work for them and are absolutely exclusive of faculty user needs
+Project bulbs cannot be replaced in a timely manner
+DVD players or other digital media often don't work
+Speakers in the classrooms have electrical static interference
+software updates kick faculty off there thin client at times of the day when they are working
+(6am and 6pm) when updates can be done once a day at 3am
+To enter your classroom, and have to wait more than ten minutes for the computer to boot
+up, and then sit, and sit while you wait for the internet to do anything...are we in the 21st
+century or the 1950s? We only have ten minutes between classes, and at times that is not
+enough to begin class on time. The library buys films for "streaming" but never would I trust
+the ability to use such services given the breaking that happens in the streaming. I wouldn't
+mind putting articles on line via Blackboard, but who copies the articles so they can by
+uploaded? When technology doesn't work in the classroom, why are there no phones in
+classrooms to reach out for help to IT? These are common in other schools. Students at the
+help desk are typically friendly, but seem ill-equipped to actually help, and often are
+interested in BSing with one another instead of helping people waiting.
+I am teaching in the library and the new system is very complicated and takes a great deal of
+time to organize
+Even if you arrive early and load up the syatem by the time you need to use it you have to
+start all over again
+The smart boards are out dates and slow
+Students would rather have a simple white board but no erasers so you have to use TP to
+wipe the boards off, Professors leave the room dirty so whrn you teach in the late afternoon
+All the days class work is still on the boards.
+the computers in the classroom often do not work well (freeze or shut down while in use;
+disconnect from the projector while in use, etc) and the projector system also does NOT
+work well. often portions of the slides are cut off, or the projector won't even connect to the
+computer without IT intervention.
+I also feel that faculty should be able to obtain replacement laptops earlier than once in 5
+years: my laptop is critical for both my teaching and research needs, and has gotten quite
+slow and sometimes freezes/shuts down, which is highly problematic. I would also
+appreciate having more memory on my institution-issued laptop.
+I also think that Microsoft Outlook is a less-than desirable platform. Preferred when the
+college utilized google mail.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA1
+
+OA Table 1. Reasons for the Level of IT Needs Fulfillment Rating (Q3)
+☆
+☆
+
+☆
+☆
+
+☆
+
+☆
+
+☆
+
+Very tough to get assistance when you need it sometimes during a class. No instant access or
+resource.
+laptop/tablets distributed to fulltime faculty are not replaced in a timely and efficient
+manner; if there is a technology problem (with the lap top, desktop, or classroom
+technology) there isn't enough staff to address the problem in a timely and efficient manner;
+technology is somewhat outdated or there aren't enough projector bulbs to support our
+needs. for large events where technology , microphones, speakers, etc. are needed, there
+isn't enough support for setup or for when glitches happen. There is a sense that the
+campus's technology infrastructure needs updating/programs that are compatible with each
+other. The email system, outlook, is so inferior to the system we had before it.
+HOWEVER, the Instructional Support team (Chandra and Natasha) have been extremely
+active and helpful in supporting my teaching. Chandra has especially addressed problems
+I've had in a timely and efficient manner.
+I teach COIL classes and do not have availability of video conferencing for my students or for
+my class.
+The projector in classrooms often doesn't work or doesn't work well and it is unacceptable
+that there is no "hot line" and anyone available to come and fix it during class.
+One of the programs (SPSS) I need for my classes and research has crashed on my laptop
+about 5 times during the past year.
+My computer based class was allocated a classroom with zero clients instead of regular
+computers, which couldn't support our needs. There were always issues with playing video
+and getting programs to run.
+I placed a request to have one of the zero clients in my lab reconfigured so it doesn't delete
+EVERYTHING (including the software I download) every time someone logs out. The first
+request was placed in November 2018 and nothing had happened yet.
+The ITS took over 6 months to figure out why a program I need for my research doesn't work
+on any OW computer.
+This is just a very short version of all issues I have had only during 2018-2019. The
+technology related issues are the biggest frustration related to my job at this college.
+I can't install the software necessary on my own computer and the software I need cannot
+be installed on the lab computers for some of my classes. It seems like if IT can't "push the
+install out" they simply do not install that piece of software rather than coming up with a
+solution. The workaround involves having the lab assistant have admin privileges but that is
+not granted to anyone outside of IT unless it is on a temporary basis. So IT 1) Won't install
+the software necessary to run the class and 2) is reluctant to let anyone else install the
+software necessary to run the class. And so I students end up having to bring laptops to
+class. At that point why are we using the computer labs?
+Lack of consistency in classroom technology, i.e., some rooms the projector and computer
+work fine and in others they are not synced. Have to log in as owpod and then into faculty
+account, waste of time. Takes ten minutes to get set up. Windows 10 in offices, Windows 7
+in classrooms. OneDrive is very slow and saved files were not saved. Systems goes out, can't
+log in in office, just too much time our fabulous tech people spend putting out fires and
+trying to help us.
+I have had issues in all my courses this semester. Every teaching day there are issues with
+DVD players, computers, Video exchange, etc. making it difficult to begin class on time or to
+show the necessary clips and images.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA2
+
+OA Table 1. Reasons for the Level of IT Needs Fulfillment Rating (Q3)
+☆
+☆
+☆☆
+☆☆
+☆☆
+☆☆
+
+☆☆
+☆☆
+
+☆☆
+☆☆
+
+☆☆
+☆☆
+☆☆
+
+☆☆
+
+poor equipment performance/maintenance. Laptop assigned does not integrte with
+projection system. NO instruction or resorces (could have a webinar on how to use).
+Slow response time to requests, inability to get help when classroom tech doesn't work
+during classes, lack of clarity on why tickets are closed, ongoing problems not addressed or
+resolved, being told there are no problems when there clearly are system issues.
+Tech is unreliable.
+Lack of resources for refreshing out-dated equipment. Difficulty getting old equipment fixed
+in a timely manner. Lack of sufficient training and online DIY support for standard tech tasks.
+For example: How to videos and manuals, FAQ, available online.
+Sometimes the equipment doesn't work
+Having a projector with a computer is not a smart classroom. It's just a classroom with
+technology in it. Smartboards in smart classrooms are not something found in our
+classrooms, although they would be great to engage students more. Overall the technology
+available to us is rather limited and old fashioned. Even just printing is frequently unreliable,
+and when faculty have a problem with it or with classroom projectors there are usually no
+staff available to help on-the-spot. Faculty calling into IT receive a response "I'll let someone
+know."
+or "I'll make a ticket and you'll hear back from us later" with no immediate response. Issues
+are usually resolved, yes, but after a day or longer. The immediacy and importance of
+prioritizing the classroom experience (except to the minimum) is not too apparent on our
+campus. I understand this comes down to funding and resources, but if you want to
+understand the struggles in the classroom an accurate synopsis of the current situation
+would be a good place to start (don't refer to technology as "smart" when that does not
+exist, this indicates a sort of cognitive dissonance and a certain level of disingenuousness).
+Slow connection speeds for streaming and often network problems issues with portal, email
+and Bb. No IT staff on evenings in the library
+there are constant problems with the technology in the smart classrooms. This technology
+does not seem to be routinely maintained by anyone on campus, and when there is an
+immediate need for a solution the Help Desk is utterly useless and refuses to come help
+faculty. I have been left hanging and having to change my lessons plans on countless
+occasions because some aspect of the classroom technology has suddenly stopped working
+and no one is available to fix it.
+Displays are not compatible with my school issued laptop. ITS has not responded to the
+ticket I submitted the first week of school regarding this problem.
+Technology is weak at Old Westbury. The thin clients are fussy and slow to load, and
+streaming from them is often difficult. It took tremendous effort to get my laptop replaced,
+to gain the software I needed. Students struggle with emails not going through, and with
+Blackboard being user unfriendly.
+It would be nice to have a smart board in the classroom and not a white board.
+This is a different skill set that would benefit from more support to make sure the student's
+educational experience does not widely vary based on the mode of delivery.
+IT response to tech issues is incredibly slow and interferes with the instruction of students.
+Little IT support is provided to support faculty research (additional laptops, tablets etc).
+Given the increasing emphasis on research productivity, faculty need to be supported in this
+way.
+it is difficult to get a quick response
+
+ITSGS Report: Faculty Survey Open End Answers - SOA3
+
+OA Table 1. Reasons for the Level of IT Needs Fulfillment Rating (Q3)
+☆☆
+☆☆
+☆☆
+☆☆
+☆☆
+
+☆☆
+
+☆☆
+
+☆☆☆
+☆☆☆
+
+☆☆☆
+☆☆☆
+
+☆☆☆
+
+Classroom tech is sometimes not working, requiring IT person to come up to class, which
+may or may not happen in a timely manner; my laptop is old and cannot yet be replaced, I
+am told.
+Computers in classrooms often don't work.
+Projectors are outdated or misaligned in NSB. Whiteboards needed. Computers are slow or
+need updating. HDMI connection needed. Wifi is unreliable. No working projector in S102.
+Simple tasks such as getting projectors to work and getting slides to display are often quite
+difficult.
+Even at a basic level -- The ability to stream material off the web is hit-or-miss, and can be
+very slow. DVD players in the classrooms should be upgraded to blu-ray players (which can
+ALSO play DVDs). They are not always 'synced' with the inputs in the classroom.
+I'm also going to throw in a comment about e-mail, here. The gmail service that we had was
+terrific. I understand that we received a 'package' of some sort for taking on Microsoft
+Outlook, but it's truly not the greatest e-mail, and whatever we 'received' in exchange for
+the swap is, I am willing to bet, now outdated anyway...Plus, the e-mail seems to 'come and
+go,' with very little explanation offered when it goes down.
+A laptop is provided, but the support is limited (any repairs/ updates take the laptop away
+for a significant amount of time, leading me not to get repairs since I cannot work without
+it). In the classroom, the projector is unreliable (whether it works, whether portion is cut
+off), and the video/ sound is unreliable. Help requests are not always taken care of during
+the semester, so I have had to rely on alternate plans instead of using technology in
+instruction.
+We have many great resources, but are unable to utilize them adequately because they are
+unreliable/not updated/not compatible with each other or that we are not informed how to
+utilize them. Technologies in smart classrooms and library classrooms would be great if they
+are reliably functional. I believe the College has software licenses the faculty can utilize, but
+we do not even know what are available to us without a functional list (the current software
+list on the ITS website is not functional).
+On the one hand, I rarely feel that technological aids are useful in my teaching. On the other,
+I rarely feel it would be easy to reliably implement them if I did feel they were useful. It's a
+big ole "meh."
+I teach in the NAB and the Library. The NAB computers and projectors routinely work fine,
+but the library technology was - for the first month - not compatible with my school-issued
+tablet. I have to check out an iPad before each of my classes. Suddenly, two weeks ago, none
+of the iPads had the requisite technology (Vision Exchange) to work with the class
+Smartboard - there had been a problem and no one had checked on them or noticed - the
+only solution was to go borrow an iPad from Chandra. As far as I know, the issue hasn't yet
+been resolved.
+Technology is present, but not always functional. Lag time between my computer and
+screen make it difficult to use effectively.
+Labs are available when I need them, but SPSS doesn’t always work properly.
+More importantly, the new smart boards in the library have lots of glitches and don’t work
+with all computers. When that is overcome, the internet is slow, so streaming videos is
+nearly impossible.
+Multiple classrooms have issues with the projectors, that even though reported, do not get
+solved. Classes are disrupted.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA4
+
+OA Table 1. Reasons for the Level of IT Needs Fulfillment Rating (Q3)
+☆☆☆
+☆☆☆
+
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+
+☆☆☆
+
+☆☆☆
+☆☆☆
+
+☆☆☆
+☆☆☆
+
+I am not always able to maintain internet service in the basement of the library. This inhibits
+my use of vision exchange.
+Connections to projectors are often malfunctioning.
+Projectors do not work well with current screen resolutions.
+Podium computers do not have the ability to present in presentation mode.
+Installation of software and configuration options in laptops has been limited severely.
+Access to software in computer labs is limited.
+Some college utilities such as blackboard do not function for image based student
+assignments. Projectors are quite low quality in some labs.
+All my needs were eventually met, but communication was often slow. My computer and
+connections have worked well so far. However, I have found that Blackboard is not user
+friendly.
+many times the tech isn't working fully or internet access gets interrupted.
+This more has to do with the upgrades and maintenance which I believe need improvement.
+When asked to have specific software installed it has not been done after two years of
+asking. Also no feed back on where it stands. It's not a money issue because it free. Was also
+approved by the chair
+There are frequent problems with the functioning of classroom computers and audio/visual
+components.
+At times, the internet connection has failed.
+Most of the time I'm able to achieve what I need in the classroom, but when things go wrong
+it seems like they go pretty wrong. Even direct simple things like projectors not functioning
+properly or not having the necessary software can really disrupt a class
+Equipment need regular maintenance.
+We need SPSS software, which is installed in the NAB labs, but not other computers.
+Students complain about that. It would be nice if they can have remote access to campus
+computers with SPSS to do homework.
+When the thin client in our seminar room AND the DVD player stopped functioning, we were
+unable to get these repaired for months. In fact I still don't know if these have been
+repaired. Others in my department have had to try to change classrooms in order to have
+one with functioning technology.
+With regard to laptops and servicing of them and/or help with them, I have had no difficulty
+and have felt the IT people were helpful. We have also frequently called on IT to fix minor
+problems in classrooms and have been happy with their response and work.
+The technology in my classroom is sufficient, although there is a large tv screen on the side
+of the room which I don't use and which blocks the chalkboard. But, what is really lacking is
+IT in the teaching labs. In particular, there are no projectors and there is no way to interface
+the lab equipment with student computers.
+Need computer setup for science teaching labs.
+My needs aren't great, but sometimes the audio is not working well, or the image (slide) is
+not fully projected onto the screen. On occasion, I have had to move my class to another
+classroom in order for them to do their presentations because the equipment is not
+working/working well.
+Classroom equipment is cumbersome sometimes and, on occasion, has not worked.
+As an adjunct I was placed in a library classroom with Vision Exchange. I didn’t expect to
+have to bring my own laptop and had to come on campus extra time to meet with someone
+and learn how to use some of the basic features.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA5
+
+OA Table 1. Reasons for the Level of IT Needs Fulfillment Rating (Q3)
+☆☆☆
+☆☆☆
+
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+
+☆☆☆☆
+☆☆☆☆
+
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+
+interrupted service. recurring faulty devices that continuously malfunction. Though, the IT
+response time is usually quick which is good.
+Unreliability of technology due to either hardware issues or limited WiFi. Limited interaction
+with IT about what my needs actually are or what my vision for ideal classroom technology
+might be. Absence of clear policies - or lack of communication about or adherence to those
+policies - for getting issues resolved. Students issues with on campus technology also impact
+my ability to teach in the way I might like.
+Some of the podia (podiums?) are not treated well and so I frequently encounter issues with
+the equipment
+Some of the software is not up to date and not having permissions to the lab computers
+makes it difficult to make updates and install drivers for peripheral equipment.
+Help is available to those who ask for it, but it is frustrating I have to walk around with
+several dongles. Also, some of the equipment is not super intuitive--the learning curve can
+be steep
+Like anything else, it is not perfect. Can be annoying to reboot system if prior user does not
+log off properly
+Classroom I use have had little trouble and personnel accommodating
+I am currently teaching a hybrid course, and I would have appreciated having the in-class
+lecture component be in a classroom with smart technology to match the level of technology
+that is expected for at least half the course. For example, the current room in NSB I am in has
+an old projector and screen and a regular chalk blackboard. So I can barely bring up the
+online stuff to show clearly in class because of the low-quality view of the screen.
+the IT staff has been responsive to my questions and needs, however, the classrooms often
+have issues, which is why I gave 4 starts and not 5. For example, projectors routinely cut off
+side margins or the bottom margins of slides, which is really frustrating.
+I did not experience a real problem in the class I was teaching at the library. The laptop cart
+that I use for the class is OK, but the laptops are coming to the end of their lifecycle. We are
+using a 2018 version of the video editing software, and 2019 version is already out. Some
+students use Adobe creative cloud from their personal computers which offers 2019 version.
+2019 and 2018 versions are not compatible.
+There are occasional problems with DVD players.
+I'm happy that we have smart classrooms. Only problem I've had is that sometimes it
+malfunctions, and the help desk staff comes up with excuses instead of fixing the problem.
+Provisions are available for my needs. I am also provided with support if needed.
+The technology supports outside commercial program I use plus the use of Blackboard as an
+alternate support system.
+X!
+Great IT support.
+I rarely have trouble with the technology, and if I do, it is addressed quickly.
+At the beginning of every semester, I make sure to reserve a room at the IT, so that my
+students can attend for lab every three weeks. I have always been given the classroom I
+request with no problems.
+I do not have very specialized needs.
+The technology meets my needs.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA6
+
+OA Table 2. Circumstances of Giving Up IT Resources (Q7)
+OA Table 2. Circumstances of Giving Up IT Resources
+Q7. Regarding your answer to Q6, please explain the circumstance that led to your decision(s) and how
+you adapted (or did not adapt).
+Q6 IT Resources Given
+Up
+Technologies in regular
+smart classrooms;Thin
+Client;Other hardware
+provided by the
+College;
+
+can't give up MS 365 as
+we need
+it;Technologies in
+regular smart
+classrooms;Classrooms
+with specialized
+technology;
+I did not give up any
+instructional
+technology for these
+reasons. ;
+I did not give up any
+instructional
+technology for these
+reasons. ;
+Technologies in regular
+smart classrooms;
+
+College-provided
+portable computing
+device(s), e.g., laptop,
+tablet;
+
+Q7 -Regarding your answer to Q6, please explain the circumstance that led to your
+decision(s) and how you adapted (or did not adapt).
+Re: thin clients. Thin clients take a very long time to log in. There have been times
+when I neglected to log in ahead of time, and waiting for the startup procedure to
+complete was not worth the time.
+re: smart classrooms. Projectors rarely malfunction, but it happens. I will not rely on
+using them unless I have actually checked *that day* that they function. Hey, things
+break sometimes, and I began the comment by saying malfunctions were rare. But
+there have been classrooms in which malfunctioning projectors were not fixed for
+several weeks.
+re: other hardware. I was asked on my hire what sort of printer I wanted. I said "I
+don't care as long as it's laser, not inkjet," and was told "ok, that's fine, come get it
+next week." The next week I came to pick up my... inkjet printer. I simply bought my
+own laserjet printer and have happily used it since. Since that happened about a
+month after I started at OW, and also was during the long period of "our college has a
+nonfunctional website," it informed my expectations of IT and other functional
+aspects of the school.
+in effective IT support. If IT is only on campus part time how can any user get full
+time service. The college needs IT support 24/7, not Monday to Thursday 9am to
+4pm.
+
+I have chosen not to use Blackboard given the minimal support that seems available.
+
+As much as I would like to give up on several of the above that is not an option given
+the tech-driven nature of my responsibilities.
+
+I have stopped using the school iPads and tried to use my own tablet for the library
+smart classroom, which doesn't function well if I need to show videos. So, I have
+adapted by eliminated videos that I had previously used to illustrate certain concepts.
+It is frustrating.
+there are too many restrictions on software updates for Mac users that require
+administrative authorization, it's simply ridiculous.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA7
+
+OA Table 2. Circumstances of Giving Up IT Resources (Q7)
+College-provided
+portable computing
+device(s), e.g., laptop,
+tablet;
+Technologies in regular
+smart
+classrooms;Blackboard
+;
+
+I did not give up any
+instructional
+technology for these
+reasons. ;
+Technologies in regular
+smart
+classrooms;Collegeprovided portable
+computing device(s),
+e.g., laptop,
+tablet;Microsoft Office
+365;
+Technologies in regular
+smart
+classrooms;Classrooms
+with specialized
+technology;
+Technologies in regular
+smart
+classrooms;Classrooms
+with specialized
+technology;
+Computer
+labs;Classrooms with
+specialized
+technology;Thin
+Client;College-provided
+portable computing
+device(s), e.g., laptop,
+tablet;
+Technologies in regular
+smart
+classrooms;Microsoft
+Office 365;
+I did not give up any
+instructional
+technology for these
+reasons. ;
+
+Wait for college laptop too long
+
+There is a projector in NAB 2129 which I stopped using because it stutters up and
+down unless you shut it off repeatedly (like 3-4 times). I also have somewhat given
+up with trying to accommodate students trying to use Blackboard on the phone app
+because the interface is so bad the students constantly say they "can't find anything"
+-- I now just tell them to use a computer (unfortunately many don't, and it causes
+massive continued confusion). All i can do is continue to repeat myself to students
+that they should use a computer.
+I teach using a lot of different types of technology including regularly blended/hybrid
+and online courses and so I have no choice but to struggle with the existing
+technological problems on campus.
+I stopped using DVDs in class altogether. I only show videos for which I can save a
+video file on my computer. I use my own laptop to teach most of the time, as I cannot
+connect it properly in any of my classrooms if I want to use the college's video
+streaming service (which I use constantly). I asked for a room change but did not get
+one, so I screen videos in another classroom when prof. who was issued the room
+does not need it or after the class regularly scheduled there is over. Microsoft Office
+365 / OneDrive is very problematic. Links to shared documents expire, causing all
+sorts of problems. My colleagues and I use Google Docs / Google Slides / Google
+Sheets instead.
+Internet so slow I can’t show documentaries. Glitches make static noise and other
+issues on smart boards.
+
+Very complicated and the wifi is inconsistent in the library.
+I can not depend on the system working so I have left out technology in my courses
+I have actually had the students use their own phones to watch a Utube interview
+because the technology was not working.
+Either not applicable or access was not made available
+
+In a couple classrooms the projector does not work well. I have had to gather
+students in the front of the classroom and use my laptop. About 365, I currently only
+use the email and calendar. Google has more user friendly tools.
+I am able to connect my laptop with a cable and my needs are met
+
+ITSGS Report: Faculty Survey Open End Answers - SOA8
+
+OA Table 2. Circumstances of Giving Up IT Resources (Q7)
+Technologies in regular
+smart classrooms;Thin
+Client;College-provided
+portable computing
+device(s), e.g., laptop,
+tablet;
+Computer
+labs;Blackboard;Micros
+oft Office 365;
+I did not give up any
+instructional
+technology for these
+reasons. ;
+I've had problems with
+many of the above, but
+need them for my
+work and teaching and
+so cannot give up using
+them altogether. the
+problems have,
+however, impinged on
+a lot of my time and
+caused worry and
+stress;
+Computer
+labs;Classrooms with
+specialized technology;
+I did not give up any
+instructional
+technology for these
+reasons. ;
+Technologies in regular
+smart
+classrooms;Other
+software/apps
+provided by the
+College;
+Classrooms with
+specialized
+technology;Other
+software/apps
+provided by the
+College;
+I did not give up any
+instructional
+technology for these
+reasons. ;
+
+Can't use podium thin client for presentation mode. Use laptop despite multiple
+connections problems via HDMI and VGA cables
+Thin client in office vastly inferior to laptop. I use the laptop in the office.
+Not able to configure or install software/updates due to admin account taken away in
+laptop. Have to resport to personal laptop for those instances.
+I find office 365 to be unreliable/ too often unavailable off campus and even in some
+labs. Blackboard is useful only for text based or written materials, therefore pointless
+to use if those are not primary uses.
+I simply need to utilize the tools I am already using. I cannot simply stop using them.
+As they are, they are less than optimal, and time is often wasted in trying to
+maneuver them into working properly.
+While I had problems with many of the items listed in 6, I need them for my work and
+teaching and so cannot give up using them altogether. the problems have, however,
+impinged on a lot of my time and caused worry and stress
+
+Neither computer lab or the classrooms with specialized technology have cameras
+and microphone which makes it unsuitable for video conferencing. Another issue is
+the software needed to proctor online exams.
+These are tools I have adapted to and that students expect, so I cannot suspend their
+use, regardless of whether it is ideal or not.
+
+Trying to integrate Panopto into the classroom has been difficult. SPSS provided by IT
+barely functions. Our version of Blackboard is dated and limited.
+
+it is difficult to get needed software for department use. It is almost 2 years since I
+requested adobe suite for my faculty. it is needed for their positions. Right now they
+use free resources and have piece together documents which is time consuming
+
+The technologies and equipment are essential; I cope with the challenges reluctantly.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA9
+
+OA Table 2. Circumstances of Giving Up IT Resources (Q7)
+Technologies in regular
+smart
+classrooms;Classrooms
+with specialized
+technology;
+Thin Client;Collegeprovided portable
+computing device(s),
+e.g., laptop,
+tablet;Other
+software/apps
+provided by the
+College;
+Classrooms with
+specialized technology;
+Computer labs;Collegeprovided portable
+computing device(s),
+e.g., laptop,
+tablet;Microsoft Office
+365;
+Classrooms with
+specialized
+technology;Other
+software/apps
+provided by the
+College;
+Microsoft Office 365;
+
+Technologies in regular
+smart
+classrooms;Computer
+labs;Thin
+Client;Microsoft Office
+365;Other
+software/apps
+provided by the
+College;Other
+hardware provided by
+the College;
+Technologies in regular
+smart classrooms;Thin
+Client;Microsoft Office
+365;
+
+Asked for help from colleagues and individuals in IT, but it often disrupted class time.
+
+Due to SPSS crashing on my laptop, I stop relying on it. I use my personal computer
+whenever possible which means that on many days I carry 2 laptops with me.
+
+I stopped using the classroom desktops. Had to change rooms due to the audio-visual
+and laptop-projector connection not working.
+There was just no way to accomplish what I needed otherwise.
+
+In the library smart board, it is very inconvenient to connect my laptop to it.
+
+I moved out of our seminar room and into another classroom when technology
+consistently did not work. In our department we have had to move faculty to other
+classrooms because of technology malfunctions.
+I purchased a suite of Microsoft Office so as not to have to use the online versions.
+Very time consuming and frustrating to plan slides and links to then not be able to
+have the thin client read flash drive or properly save to OneDrive. I have two
+OneDrive accounts and am continually prompted to set up yet another. Think client
+is slow or suddenly logs me off. Can't count on getting any work accomplished in
+office.
+
+Classroom technology is unreliable, and has quit numerous times when I had online
+activities/ videos/ PPT slides for a class session. In some classes, I have completely
+abandoned using technology for this reason. In others, I minimize it and create
+alternate plans. The thin clients do not work in all rooms, so I rely on my laptop. I do
+not update/repair the laptop due to required time away from it. I have lost important
+files through MS Office 365 and IT was unable to provide any support or backup of
+the files. I do not use it as a consequence.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA10
+
+OA Table 2. Circumstances of Giving Up IT Resources (Q7)
+I did not give up any
+instructional
+technology for these
+reasons. ;
+Technologies in regular
+smart
+classrooms;Classrooms
+with specialized
+technology;Collegeprovided portable
+computing device(s),
+e.g., laptop, tablet;
+College-provided
+portable computing
+device(s), e.g., laptop,
+tablet;
+Other (I can't relay on
+streaming video due to
+poor Internet quality.
+This is a huge problem
+in my classes, which
+increasingly utilize
+streaming services
+through the library
+over DVDs);
+Technologies in regular
+smart
+classrooms;Classrooms
+with specialized
+technology;Thin
+Client;Microsoft Office
+365;
+Technologies in regular
+smart classrooms;Thin
+Client;College-provided
+portable computing
+device(s), e.g., laptop,
+tablet;Microsoft Office
+365;
+
+I came on campus extra time. Set an appt with someone to teach me Vision
+exchange. I’m an adjunct and this was not simple.
+
+Use my own laptop - omitted items that could be reviewed in class
+
+I am using a way overdue laptop because I am afraid to have a laptop that I am
+unable to perform necessary updates or installation.
+
+Whenever I use any tech or Internet in my classes, I need to plan a backup lesson, in
+case the tech doesn't work. This doubles my work load. I teach media, so I must use
+tech. If I taught a different subject, I would have returned to paper and pencils to
+avoid all of this extra work and stress. I also must use Bb, as I teach hybrid courses,
+but if I had any choice I would use a different LMS. Students constantly complain
+about BB and have tech issues. There are so many "known issues" that Bb is not
+addressing and the interface is very outdated. Students hate it and have many
+problems with it. The biggest issue I face is that BB has a mobile app that does not
+work and that we are told to tell students not to use, yet many of my students only
+have access to phones or tablets at home, no computers. They are constantly missing
+portions of my course due to this broken Bb app.
+
+Stopped using video clips in classes because at different points either the WiFi didn’t
+work, the projector didn’t work (for any of a variety of reasons), or the DVD player
+didn’t work. The thin client doesn’t have any speakers so I couldn’t use that to
+preview clips- and couldn’t get speakers from IT. 365 tools are often insufficient for
+my needs and/or are unreliable. My laptop doesn’t even update properly and it needs
+to be brought to IT and left for multiple days to have updates installed (every time
+there’s an update), I can’t install software on it, and when it broke, no one could give
+me a clear answer for getting it repaired or replaced for months.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA11
+
+OA Table 3. IT Problems Experienced in F19 (Q9)
+OA Table 3. IT Problems Experienced in F19
+Q9. (If Q8 = Yes) Please describe the problem(s) you experienced. Indicate which room or facility the
+problem occurred, if you feel comfortable sharing.
+Q9 - (If Q8 = Yes) Please describe the problem(s) you experienced. Indicate which room or facility the
+problem occurred, if you feel comfortable sharing (Q8 - IT Problem encountered in F19)
+Too many to explain.
+Failure of computer to start
+Failure of phones to work
+Ten minute delay in getting computer going in classroom. (30 seconds feels like an hour when you have 30
+students waiting to begin something, or waiting to be distracted.)
+I teach courses at the radio station and the PC's that are the infrastructure of the station were manufactured in
+2011. A 3-5 year refresh cycle would be optimal. No amount of tech support can keep these failing PC's
+operational. This is seriously impacting my ability to teach and for student media production as well. Student
+and faculty morale is very poor. Students are once more making jokes about nothing working at Old Westbury.
+My other classes in the NAB are fine. The smart classrooms that I have been assigned are operational. No
+issues.
+See question 3
+The above mentioned restrictions on allowing updates and running some software on Mac laptops; there
+should not be any restrictions on faculty being able to update software and other programs on their Mac
+laptops.
+NAB 2121 projector control malfunction
+explained above
+The graphics software is not up to date and because there are so few IT people it takes a long time to get
+software issues fixed.
+L322 - lag between my laptop and screen make it difficult to present PowerPoints and videos
+Volume is not wireless and adapter for school issued MacBook is not issued.
+Smart board white board feature also has a lag, so difficult to use.
+the computer would not sync to the projector in my classroom (NAB-2nd floor)
+My school issued computer is not compatible with smart boards: as per my above comments I cannot connect
+via HDMI, and thus cannot stream video, as streaming off a remote connection works poorly. Audio quality in
+my classroom (where I teach a film class) is extremely poor and overall the tech in the room is not suited to my
+needs. I wish someone would consult with professors before issuing classrooms.
+L313
+trouble playing videos with sound in Library's smart rooms
+The systems do not work consitently in the library
+Projector in classrooms. New restrictions with mac laptops imposed by the college; I cannot even use my own
+printer at home anymore.
+Thin clients take several minutes to load. I need to arrive in the classroom nearly ten minutes if I want the thin
+client operational in time.
+Connection problems to laptop. AV support staff said projectors do not support the higher resolution available
+in newer (provided by college) computers.
+Software malfunctions/compatibility after upgrades.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA12
+
+OA Table 3. IT Problems Experienced in F19 (Q9)
+problems with the classroom computer as well as the projector in terms of projecting slides.
+problems with my faculty-issued laptop: slow, sometimes freezes.
+Blackboard is not intuitive and students sometimes report technological difficulties submitting their
+assignments.
+Sometimes the projector does not work in NAB 1117 and it wastes alot of time trying to get it to work.
+Still no cameras and microphones installed. Also some issues with the thin client not updating my files on
+onedrive.
+The screen did not work.
+Overhead projector issues. Office phone issues. Panopto issues.
+Inadequate instruction or orientation to large screen units installed over the summer.
+IT addressed the problem.
+I couldn't get the sound to come on in one of the rooms. I don't remember - it was probably 2123.
+Projector turn off for no reason
+I described them in Q3
+I teach in NSB S109. The quality of the presenter and screen is very poor. It is quite difficult to see the font
+unless it is very zoomed in. And I have to turn off the lights in the classroom, which isn't ideal, since I teach in
+the evenings and it is already a dark room to begin with.
+Desktop, laptop connection, audio/visual -- room 2109
+Internet connection issues. Unable to log in.
+Bottom margin of projection is cut off and not visible to students; (2111)
+Office computer says Microsoft Office is not registered
+The Thin Client has many problems in some of the classroom.
+Most classrooms and large lab room in NSB.
+Projector is out of sync with thin client in my classroom. NAB3003 I think.
+No projector in S108 (physics lab). Large unused tv blocking the chalkboard in S111.
+Saved files on OneDrive worked in one room, wouldn't load in another. Blackboard is slow and copied files did
+not appear where they should.
+In NAB and the library (3rd floor). Difficulty loading, DVD player never works or freezes, there is no remote
+control to play and skip scenes.
+Unable to get DVD player in room working. Put in a ticket, and told problem was 'fixed.' It wasn't, and IT came
+by to handle the problem again.
+I've encountered multiple times around the College that the projectors in the rooms are unreliable.
+Classroom technology/equipment issue in 2109. The video equipment stopped working/ half of the screen cut
+off when using the thin client, and it has not been fixed (although the screen issue is intermittent).
+Campus Center Room H 220 - Equipment for PowerPoint presentation did not work for 1st class and somewhat
+difficult for the 2nd.
+NAB Room 3109 - Equipment did not work for the first class session. No technical help was available.
+Equipment needs to be disconnected and then reconnected for each class.
+For my first class i didn’t even know there was no computer. My chrome book didn’t easily get to WiFi. I
+needed support in the library classroom. For one class I needed to use my own hdmi cable.
+DVD player malfunction.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA13
+
+OA Table 3. IT Problems Experienced in F19 (Q9)
+Poor overhead performance. Class PC performance inconsistent
+I was unable to connect a laptop with a projector in two of the classrooms I use this semester. The projector
+also started failing with a thin client in one of the classroom. I am crossing my fingers.
+hdmi/vga projection via ipad would work for about 10 minutes, then all of a sudden for no apparent reason
+just start flickering and then stop completely.
+The Internet in the Library will not allow us to stream full quality HD video. The Bb mobile app doesn't work.
+Removing faculty admin privileges to our faculty devices slows our ability to teach and conduct research.
+MPS required leaving laptop at ITS to have printer installed during the first week of classes.
+Library Classrooms did not have posted instructions as late as Week 2 (now fixed), and the pod screens are too
+jumpy to actually write on.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA14
+
+OA Table 4. Reasons for the Rating of ITS Response (Q13)
+OA Table 4. Reasons for ITS Rating
+Q13. Regarding Q12, please explain why you feel that way.
+Q12
+☆
+☆
+
+☆
+☆☆
+☆☆
+
+☆☆
+☆☆
+☆☆
+☆☆
+☆☆
+
+☆☆☆
+☆☆☆
+
+☆☆☆
+☆☆☆
+☆☆☆
+
+Q13 - Regarding Q12, please explain why you feel that way. (Q12 IT service rating - 5
+stars)
+Told that my issues are common issues with this technology and thats just the way
+they are.
+I gave a detailed description of the problem, including mentioning that the problem
+doesn't begin until 10 minutes or so. Edward then agrees to meet me to start of my
+next class (which was next week - he had a whole week to fix the problem but did
+nothing), tells me he has given up getting apple adapters to works (I tell him they have
+been working for me since the building opened in 2012), we check that things work - I
+tell him no duh, the issue is is it going to continue to work, he leaves, and then to no
+surprise it stops working 10 minutes or so into class. (I later informed him, and he
+then went an reset the system. That may have fixed it. But he could have done that in
+the several days from when i sent the report to when he met me in class.)
+It feels like tickets are closed without addressing the underlying issues.
+student workers had no idea, and other staff were busy and said fill out the IT form
+when my computer would not start.
+IT is fine. They are just not responsive quickly. They work on their own timeline.
+Luckily I don't rely so heavily on technology that it stops any class (well, I design my
+class to avoid this problem, since I know IT may not send a rep. when there is a
+problem).
+The tech assistant in the library is very helpful. ITS did not respond to my ticket. I have
+not filed another ticket or followed up because I am focused on fulfilling my own job
+responsibilities. I came up with my own workarounds to address tech issues.
+The person didn't know how to fix the issue - I actually figure it out later by myself.
+It took over a week to have each issue resolved.
+Ignored me the first time; second time someone came, worked on it briefly, said it was
+working, but then the same problem re-occurred after they left; finally, got an email
+saying everything in the classroom worked, when it obviously did not.
+No support for an evening class. ITS staff responded, but the ticket was closed without
+solving the problem. I feel individual ITS staff are trying hard, but their hands are tied;
+they do not make purchasing decisions, they do not decide replacement cycles, and
+they are severely understaffed. I can imagine how frustrating it must be to be in their
+position.
+Too many delays to respond and scheduling conflicts.
+For the top floor of the student union (OWWR, The Catalyst) the main issue is not tech
+support. It is the lack of funding and planning for inevitable and predictable refreshing
+of old tech. Tech support is over-worked and under-staffed. It is often difficult to get
+tech issues attended to quickly but that is because of the demand for support and the
+lack of sufficient staffing to handle rush for support at critical points in the academic
+calendar.
+The lack of IT staff delays having issues addressed.
+The support is there but you can not run around the library half way through class
+looking for support. So I just gave up
+I have reported problems with the projectors multiple times, and they not always get
+solved.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA15
+
+OA Table 4. Reasons for the Rating of ITS Response (Q13)
+☆☆☆
+☆☆☆
+
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+☆☆☆☆☆
+.
+
+Still waiting, but they are busy with other issues that I agree are more important to the
+running of the school.
+the situation in my classroom was (for the most part) remedied. however, as many of
+the problems are such that I have experienced more than once over the course of my
+time at OW, I am concerned that they will arise again.
+my laptop concerns me as I believe the issues are related to its age: it is 4 years old and
+has experienced heavy, constant use, as my primary tool for teaching and professional
+research and writing.
+They did resolve the issues eventually, by moving me to another computer lab. And
+from now on, my class if moving to a different room on a weekly basis, which is far
+from an ideal solution.
+I put in a work request but still had issues and am now using other methods
+Error in selecting!
+Good when available; not always available.
+Problem resolved - but eqipent still poor. No notification of resolution
+People are eager to help but it is reactionary rather than preventative with some of
+the issues.
+I am still being told that there are Apple restrictions on some updates; then stop using
+Mac laptops!
+Second attempt had problems addressed
+Support staff were helpful even as there was nothing they could do to solve
+incompatibility problems.
+The help wasn't immediate, but they arrived soon.
+Quick response to query.
+Quick response. Just that the problem happened a few times.
+They were very helpful - fixing the issues with the smart board- but WiFi isn’t any
+better.
+quick response and helpful
+They come when you ask
+Library staff helped and came to my classroom each time needed
+prompt, in-person response
+The HelpDesk people are amazing, knowledgeable and patient. However, we need
+more of them, especially in the evening. Last person available until 7:00 p.m. although
+he has stayed later to help us.
+The ITS staff are great. They are also understaffed and stretched thin, and many of
+these problems would have been avoidable with planning.
+I was able to go around the problem.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA16
+
+OA Table 5. Reasons Not Having Reported to ITS
+OA Table 5. Reasons Not Having Reported to ITS
+Q14. (If Q11= No) Why did you decide not to request help from the ITS?
+Q14 (If Q11= No) Why did you decide not to request help from the ITS?
+have not had time yet
+Honestly, in the moment, I just moved on and adjusted the teaching. I also teach in the evening, and
+so once I am done, I typically just go home and don't think about it.
+I did not bother requesting help from ITS because any time I have ever called IT for help they have
+told me that they cannot help immediately and to put in a ticket which is generally completely
+ignored. A few times, I have had to literally beg and plead with them to come fix problems and they
+begrudgingly have. These have always been simple fixes that have taken no more than a few minutes
+of their time. I think faculty deserve much more support and respect from ITS. They are often rude,
+impossible to get in touch with, and simply not helpful.
+I didn't think they would be able to help. It seems like a more systemic underinvestment in
+technology.
+I have placed IT requests for classrooms every semester and no support has been provided, so I have
+stopped requesting support.
+I was able to go around the problem.
+It takes up too much valuable teaching time to stop and call ITS
+It was in the evening and I was not sure anyone would be available in time.
+It was not ncessary- I was able to find workarounds to use Blackboard, the program was just clunky
+and time consuming.
+Just happened.
+This happened recently and I have not had time to report it or see if it can be fixed.
+Thought beyond ITS, hardware needs updating generally
+Too early in the morning. IT was unavailable at the time.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA17
+
+OA Table 6. Comments
+OA Table 6. Comments
+Comments (e.g., what could be done to improve IT, important issues that were not addressed in this
+survey - or any thoughts you would like to share)
+Comments (e.g., what could be done to improve IT, important issues that were not addressed in this survey
+- or any thoughts you would like to share)
+I may have lied in some of the earlier questions, but anything that could potentially be used to identify the
+respondent should really have a "prefer not to answer" option.
+Q7 indicates that I quickly deduced that technological needs beyond "the outlets function" were best served
+by personal initiative, and not relying on the college (although I do recall hearing stories about computer labs
+relying on a questionable web of extension cords shortly after the NAB was completed, so even outlets might
+not be a reliable given). The network works, though, and that's no small feat. I appreciate that we actually get
+internet, and over 90% of the time, at that. So there's not enough for me to actually *complain* about
+anything, but since you ask...
+Minor things indicate a questionable IT status at the college. For example, if I load the connect.oldwestbury
+webpage, I can be greeted with a functional-looking portal, including a notification of how many unread
+emails I have. If I then click on the "Office365" link to actually read those messages, I can immediately be
+prompted to log in. Which is it? Either my stored credentials were recognized enough to check the server to
+see how many unread emails I have, or my login had expired and I need to re-enter my ID and password. It
+can't be both. Or maybe it can. I'm no physicist.
+If I use a hard-wired ethernet connection to a desktop/laptop, I can automatically connect (unsecured) to
+something called "Network6" which provides no internet access; attempting to load any page brings up a
+warning that the connection is unsecured (probably because the credentials aren't recognized by whatever
+external DNS server is being queried?). A refresh of my login credentials then connects to oldwestbury.edu
+and provides internet access. What is Network6, and how deep in some 1990's setup of an ancient server
+does it live?
+The ever-recurring "reply-all" chains make me wonder if "faculty@oldwestbury.edu" is a restricted
+distribution list, or if I can start using it to sign up for website accounts like catfacts. I haven't actually tested
+this theory yet, but I suspect that anyone can email that account, even from an external address that isn't
+officially tied to an OW registered account. So... if we start getting college-wide catfacts emails, you know
+who to suspect. Protecting a distribution list from external access is super-basic stuff, though, so maybe I'm
+wrong on that one. But some of those reply-all chains definitely involve non-OW addresses.
+I get that IT infrastructure is a disgusting mess that survives as much under its own mystical gravity as it does
+under any actual human intent, but every once in a while these sorts of things make me wonder if OW falls
+more under "monster" than it does "Frankenstein."
+Get more staff to work evenings and the weekends
+Fix and upgrade all WiFi
+Improve cellular phone towers
+have faculty be a key part in all IT policy making
+For example, windows was changed on all of our computers and no one was ever informed.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA18
+
+OA Table 6. Comments
+You need more people available for help. Training of students should include respect toward faculty, and I am
+not a person who demands much respect due to my position. (generally students are very good--but there
+have been times when they're too busy hanging to give you their attention.) You need an emergency person
+that folks can reach out to...I had one, who is gone. At this point I don't know about support for major events,
+but in the past it was pretty goddawful. This makes the College look incompetent.
+Bigger budget, better planning, more transparency. Bigger role for faculty in tech governance. Adoption of
+best practices from other SUNY ITS. More online resources such as DIY training videos and FAQ info for
+getting tech help and understanding tech resources available. What we have is misunderstood and underutilized.
+More IT workers to help with issues. The one time I set up a ticket item online, it took IT 2 weeks to get back
+to me.
+remove restrictions on faculty using their mac laptops!
+Hire more staff so that faculty problems can be prioritized and responded to in-the-moment. Invest in actual
+smart classrooms and survey faculty about specific technologies to improve the campus. Rather than pushing
+large changes onto the campus "from IT", think about posing questions to departments to obtain
+departmental consensus about important issues and use this as a basis for decision-making.
+Here's another incident worth sharing: I put in a request to book computer labs for my Fall 2019 classes in
+July. The request was assigned to someone who apparently no longer works at the college. The request was
+never reassigned. I sent repeated email to the Help Desk asking someone to book the rooms for me. I have
+spend 2 days this week trying to call the Help Desk repeatedly; the phone line doesn't work (I get an
+automated message telling me to hold and then get disconnected). my secretary told me to contact Edward
+Brunet, who is apparently some kind of manager down there. I called him and he has no idea whose job it is
+to assign computer labs or how to even do it. He suggested I come down to the Help Desk and speak to Glen
+the next time I am on campus. Okay, fine, but can we address the bigger issues here? WHY IS THE PHONE LINE
+BROKEN AND NO ONE RESPONDS TO EMAIL???? This situation is beyond frustrating. Or, how about at the end
+of last semester when I suddenly couldn't print from my office? It took until the week before the Fall semester
+started (that's 3+ months during what I imagine is the slowest time of the year) for someone to come fix it,
+and they only came because my dept. secretary and I finally went down to ITS and demanded that someone
+look at it that day.
+Consult with faculty about classroom needs and about the technology that is purchased so we can give
+feedback on how tech will be incorporated into our teaching and our curriculum.
+Using the same systems fromone building to the next
+Very confusing
+Some faculty have Dell some Macs I was told by It that my Mac would have problems with the new system I
+asked for another computer so that I could teach using technology and was told that they do not have any
+computers that could be loaned to faculty this is a gap!
+None come to mind.
+Would be great to switch to Canvas (not Blackboard)
+Distribute laptops before classes begin
+Communicate tech policies
+Thank you to the creators of this survey!
+IT should consult with faculty about what our needs and concerns are - especially when they decide to
+purchase new equipment or software.
+Regular refreshes to equipment and programs needed to teach technical media and communications courses.
+Their ft staff is limited
+I think we should be able to add a printer to the laptops. It's really inconvenient that I can't print from the
+Macbook Air.
+From what I experience IT governance needs to be more receptive to faculty input.
+I prefer not to answer as I already concerned about the anonymity of my previous answers.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA19
+
+OA Table 6. Comments
+It would be good to hear when IT has new technology available that might be relevant to offbeat use cases or
+creative endeavors
+Not sure
+The reservation of computer labs should be made easier. It is not difficult to have a website that faculty can
+just book the dates and time slots, instead of emailing to the IT service people, which is inefficient and
+inconvenient.
+Technology always breaks -- IT needs to accept that as a fact of life and not be defensive about the fact that
+things don't always work. The key is how IT responds to difficulties and reports of problems and to what
+degree it sees its responsibility has keeping classroom technology functioning. We don't need 'cutting edge'
+technology -- we need proven technology that may be a bit out dated but is know to work and how to fix it
+when it doesn't is also known.
+The thin clients should be torn out, smashed apart with hammers, and the crumbled remains tossed into the
+fiery depths of hell.
+Lacking that, IT should provide us with email/courseware/software that actually runs on the thin clients.
+Outlook 365 is the worse offender here. My worklife would be much improved if I had functioning email while
+I am on campus. Instead, I have Outlook. Everyday, it lags, it hangs, it crashes while I search for old emails, it
+sometimes does not copy the text of the previous email when I reply to someone, and there have even been
+times when it spontaneously leaves out the content of an email.
+It is unacceptable to not have classroom equipment prepared for the start of the semester and continually
+tested weekly.
+Other issues that are not related to instructional support: I stopped using SPSS (necessary for analyzing some
+of my former data) because IT was unable to provide an updated license to me without bringing the computer
+to them. I was working on data analysis over summer break and was away for several months. Because of this,
+I was unable to analyze my data, and by the time I regained access to the software the data was no longer
+relevant (due to publication deadlines and political changes that impacted the generalizability/usefulness of
+the study). The inability to provide support for my software needs without physically taking the computer, I
+was unable to publish my data.
+I understand that we suffer the lack of resources like many other campuses. My main frustration is that we
+are unable to make use of resources we have, and that is the system problem rather than the resource
+problem. For instance, why does the college purchase classroom equipment that are not compatible with
+Macs when it supply Macs to its faculty (and even encourage us to choose Macs over Windows machines)?
+Why do they take away the capacity to take care of our own laptop when ITS is incapable of supplying
+sufficient services for us? Security is important, of course, but how much does it enhance security and how
+much damage does it cause to our productivity? If security is the real reason to prohibit admin rights to the
+faculty, then the College should prohibit the faculty from using personally-owned devices for work (which is
+much less secure) and ensure all faculty members who handle student information have an updated
+computing device with timely service. If it is not possible, they should think of an alternative. My point - if we
+do not have resources, we should think about the way to use resources we have in the most effective way;
+minimize dead resources due to incompatibility, prioritize the basic infrastructure (Wifi and smart classrooms
+should be functional reliably) and help faculty to be as self sufficient as possible. I don't think the current
+system is going to that direction.
+Worth noting in Q4, thin client is really only important because it provides an alternative when my primary
+laptop doesn’t work for some reason, or because the classroom hdmi (for example) isn’t working. It’s
+necessary to have a backup plan at all times - the thin client is one.
+Re q10, see above about always having a backup plan.
+
+ITSGS Report: Faculty Survey Open End Answers - SOA20
+
+Part Three
+SUNY Case Study
+
+I.
+
+SUNY Case Study: Methodology
+
+During September and October 2019, ITGS TF members reached out to the University Faculty Senate and
+the other SUNY Comprehensive Colleges. In total, we reached out to 14 individuals directly (and those
+individuals often reached out to others – e.g. CIOs, liaisons to other bodies, faculty who had previously
+served in these roles – on our behalf). We received substantive feedback from five individuals,
+representing four different campuses. All but one are faculty members and everyone is/was involved in IT
+governance in some leadership capacity. In addition, task force members reviewed information publicly
+available via College and Faculty Senate websites of 12 SUNY Comprehensive Colleges (all except OW)
+and searched for best practices promoted by relevant non-profit and professional organizations.
+
+II.
+
+SUNY IT Shared Governance Models
+
+There are a variety of structures for faculty involvement in technology-related planning and decisionmaking across SUNY. While we asked people to comment on the effectiveness of the structure used at
+their institution, none of our five respondents responded directly to this question. Thus, we present the
+information we collected simply as possible alternatives to the Old Westbury model.
+1. Centralized IT Standing Committee (e.g., Oneonta, New Paltz)
+At several colleges, faculty involvement on educational technology matters is organized through a
+standing committee of the Faculty Senate, often called something like Educational or Academic
+Technology Committee (“ETC”). According to Faculty Senate Bylaws and one subject from a campus
+that uses this structure, such committees are often the “primary avenue for faculty recommendations about
+policies, procedures, and planning related to the use of technology for teaching and learning,” which is
+understood broadly. At SUNY Oneonta, for example, this committee makes recommendations for the
+purchase and support of computer hardware, software, and other educational technology (e.g. faculty
+computers, LMS). The Bylaws for SUNY New Paltz states that the ETC “develops educational
+technology priorities” and engages in “strategic planning of the use of educational technology.” The
+charge of this ETC includes sponsoring public forums to discuss such issues, and “evaluat(ing)
+educational technology initiatives and outcomes to insure efficient implementation, coordination, and
+support of high priority projects.”
+2. Tiered IT Shared Governance (e.g., Downstate)
+A respondent from one campus described a structure in which each school has what is known as a “Tech
+Fee” committee, comprised of a mix of appointed faculty and administrators, that manages the schoolspecific budget constituted of student technology fees. Chaired by a faculty member, the committee for
+each school at this campus reviews and approves proposals for technology purchases geared toward
+teaching/learning (a restriction on how student tech fees are spent). An additional campus-wide steering
+committee brings together representatives from each of the school-specific committees to foster
+communication and collaboration.
+3. Issue-Based Shared Governance (e.g., Cortland, Brockport)
+A representative of another campus described a decentralized structure that involves stakeholders through
+involvement in multiple issue-based committees. For example, a Banner Steering Committee “reviews
+plans, recommends dates for upgrades, and actively participates in testing” and includes representatives
+from every major office on campus. A College Technology Committee at this same campus solely
+reviews and approves IT budgets. While this structure did seem to allow for meaningful participation, the
+respondent expects that the campus will move toward consolidating some committees/functions.
+ITSGS Report: SUNY Case Study - C 1
+
+While we have limited information, subjects typically described campus IT committees that were
+primarily comprised of faculty, with representation from ITS (e.g. CIO, relevant ITS staff member(s), or
+both). Likely because these committees are often standing committees of the faculty senate, the chairs of
+these committees were typically faculty members, and included voting and non-voting members meeting
+regularly (typically monthly, sometimes twice per month), scheduled via Doodle Polls.
+Of course, in many cases websites did not indicate the existence of a technology-related advisory
+committee, and two respondents reported limited or inconsistent involvement of faculty. For example, at
+SUNY Cortland, a standing committee on Course Teacher Evaluations was involved in the selection of a
+new platform for online course evaluations, but Faculty Senate had been excluded from other decisions
+(“...there have been other technological changes that are never even brought through senate at all”), an
+apparent source of frustration.
+In each of the cases where we were able to identify clear mechanisms for faculty input, we observed
+structures that included multiple faculty, with clear connections to the Faculty Senate, who reported
+substantive and collaborative involvement in various stages of planning, purchasing, and policy making.
+
+III.
+
+Elements of Best Practice
+
+Task Force members also reviewed websites of professional organizations in search of best practice
+examples and models. In one of these websites, Educause offers pragmatic suggestions for IT governance
+best practice.
+Educause is a global non-profit “higher education technology association and the largest community of IT
+leaders and professionals.” Its members “include U.S. and international higher education institutions,
+corporations, not-for-profit organizations, and K–12 institutions.” All 13 SUNY comprehensive colleges,
+including SUNY Old Westbury, are members. The Educause website provides guidance, resources, and
+examples of other small liberal arts colleges that have strengthened (or developed) IT governance
+structures.
+Their “Higher Education IT Governance Checklist”1 provides a succinct overview of effective IT
+governance characteristics. This document identifies four central values in IT Governance, pointing to the
+central importance of communication with stakeholders, obtaining buy-in, and reflecting their needs in IT
+policy decision making:
+
+
+
+
+
+Aligning IT decisions with institutional mission and stakeholder needs;
+Improving communication among the IT community and between IT and the rest of the institution;
+Ensuring stakeholder buy-in into policy decisions and IT budget and project priorities;
+Integrating risk management into IT decision making
+(Educause 2017 “Higher Education IT Governance Checklist,” page 3)
+
+Educause suggests that successful governance in IT decision-making is predicated on active committees
+with clear guiding principles, collaborative and transparent stakeholder involvement, leadership support,
+and a division of responsibilities among committees that have clear roles, responsibilities, and decisionmaking rules – with a distinction between advisory groups and decision-making bodies.
+1
+
+https://library.educause.edu/-/media/files/library/2017/3/highereditgovchecklist.pdf
+
+ITSGS Report: SUNY Case Study - C 2
+
+The Educause checklist also indicates that active management and regular review of governance
+processes are essential for successful IT governance. It argues that clear documentation of decisionmaking process (in the form of agenda and minutes) and effective, transparent communication with
+stakeholders are critical. The document suggests, at minimum, the following items need be communicated
+with stakeholders in order to create the ground for effective IT governance:
+
+
+How IT governance works: Stakeholders across the campus community must understand what
+kinds of issues governance addresses, how to bring issues to governance, how governance
+addresses them, and who their governance representatives are. This cannot be a one-time
+communication but must be an ongoing effort designed to reach important groups such as campus
+leadership in IT, academic, and business units (from C-level executives through line managers),
+IT staff, and governance participants.
+
+
+
+Agendas and minutes: Not only do governance participants need to know what issues they will be
+considering but the campus community at large should be able to find out what is coming before
+governance. A standard format and timetable for publishing agendas and minutes will facilitate
+communication. Agendas need to be accessible in advance and should be published publicly.
+
+
+
+Decisions and recommendations: It must be a straightforward process for the campus community
+to learn the outcomes of governance decision making. Generating buy-in may also require
+including some level of explanation of the rationale. The communication plan should take into
+account how quickly decisions should be communicated.
+(Educause 2017 “Higher Education IT Governance Checklist,” page 10)
+
+ITSGS Report: SUNY Case Study - C 3

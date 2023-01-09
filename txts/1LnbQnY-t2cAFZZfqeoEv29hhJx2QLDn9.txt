@@ -1,0 +1,1689 @@
+try{                 var userSpecificsLoaded = false,                 styleResources = [],                 userScriptResources = [],                 clientTheme = 'base',                 userCultureVar = 'en-US',                 userCultureRtl = false,                 sver = '16.2774.2.2643528',                 besver = '15.20.1446.19',                 userLanguageVar = 'en';                 osfLanguageVar = 'en';                 navFrontEndServer = 'BN6PR21CA0005.NAMPRD21.PROD.OUTLOOK.COM',                 navBackEndServer = 'BN6PR12MB1812',                 cdnEndPointNameForBootResources = 'https://r4.res.office365.com/';                 cdnEndPointNameForNonBootResources = 'https://r4.res.office365.com/';                 layout = 'mouse';                 stylesLocale = '0';                                  pbar.scriptLoadCompleted();                                  setClientId(window.clientId);                 lcver = updateLastClientVersion(sver);                                                   var slabManifest = {"deferredjquery":{"Dependencies":[],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"DeferredJQueryComponent"}],"Sources":[{"layout":"Mouse","name":"jquery.owa.bundle.mouse.js"},{"name":"microsoft.owa.boot.deferred.jquery.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["deferredjquery"]},"locationcommon":{"Dependencies":[],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"LocationCommonComponent"}],"Sources":[{"name":"microsoft.owa.core.locationcommon.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["locationcommon"]},"textboys":{"Dependencies":[],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"TextBoysComponents"}],"Sources":[{"name":"microsoft.owa.application.textboys.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["textboys"]},"readingpane":{"Dependencies":["nonbootwebservices","recipientwell","personacontrol","attachments","deferredboot","mailcommon","lightning"],"Types":["_y.dS","_h.db","_y.ei","_y.I","_y.gv"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.application.readingpane.mouse.css","type":"Themed"}],"Configurations":[{"type":"ReadingPaneComponent"}],"Sources":[{"name":"flowsdk.owa.bundle.js"},{"name":"flowwidget.js"},{"name":"microsoft.owa.application.readingpane.js"},{"layout":"Mouse","name":"microsoft.owa.application.readingpane.mouse.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["readingpane"]},"extendedmaillistview":{"Dependencies":["nonbootwebservices","deferredboot"],"Types":["_y.eR","_y.hS","_y.dN","_y.ik"],"Templates":["ExpandedConversationListView","JumpToListView","KeyboardShortcutsTemplate","ReportPhishView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.extendedmaillistview.mouse.css","type":"Themed"}],"Configurations":[{"type":"ExtendedMailListViewComponent"}],"Sources":[{"name":"microsoft.owa.extendedmaillistview.js"},{"layout":"Mouse","name":"microsoft.owa.extendedmaillistview.mouse.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["extendedmaillistview"]},"triageshared":{"Dependencies":["deferredboot","lightning"],"Types":["_y.eZ","_y.gC","_y.gx"],"Templates":["HoverActionBarView","ModuleSwitcherView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.triageshared.mouse.css","type":"Themed"}],"Configurations":[{"type":"TriageSharedComponent"}],"Sources":[{"name":"microsoft.owa.triageshared.js"},{"name":"microsoft.owa.triageshared.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.options.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["triageshared"]},"edgepromotion":{"Dependencies":["lightning","deferredboot"],"Types":["_y.hQ"],"Templates":[],"Styles":[],"Configurations":[{"type":"EdgePromotionComponent"}],"Sources":[{"name":"microsoft.owa.core.edgepromotion.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["edgepromotion"]},"dumpster":{"Dependencies":["nonbootwebservices","deferredboot","triageshared"],"Types":["_y.kt","_y.gr"],"Templates":[],"Styles":[],"Configurations":[{"type":"DumpsterComponent"}],"Sources":[{"name":"microsoft.owa.core.dumpster.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["dumpster"]},"editorEngine":{"Dependencies":["nonbootwebservices"],"Types":[],"Templates":[],"Styles":[],"Configurations":[],"Sources":[{"name":"microsoftajax.js"},{"name":"ms.rte.js"},{"name":"rteinit.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["editorEngine"]},"editor":{"Dependencies":["nonbootwebservices","personacontrol","commoncompose"],"Types":[],"Templates":[],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.core.controls.editorbase.mouse.css","type":"Themed"}],"Configurations":[{"type":"EditorComponent"}],"Sources":[{"name":"microsoft.owa.core.controls.editorbase.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["editor"]},"metile":{"Dependencies":["shellcore"],"Types":["_o365sg2c.e"],"Templates":["MeTileMouseView.MeTileMenu","MeTileMouseView.MeTilePhoto","MeTileMouseView.MeTileNoPhoto","MeFlexPaneHeaderButtonView"],"Styles":[],"Configurations":[{"type":"MeFlexHeaderButtonComponent"}],"Sources":[{"name":"microsoft.o365.shellg2.meflexheaderbutton.owa.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["metile"]},"emoji":{"Dependencies":["nonbootwebservices","deferredboot","commoncompose","editor"],"Types":["_cmc.n"],"Templates":[],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.core.controls.emojiresources.mouse.css","type":"Themed"}],"Configurations":[{"type":"EmojiResourcesComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.core.controls.emojiresources.js"}],"PackagedSources":[],"Strings":[{"layout":"Mouse","name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"layout":"Mouse","name":"microsoft.owa.core.editor.emoji.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["emoji"]},"peoplecore":{"Dependencies":["deferredboot","nonbootwebservices"],"Types":["_h.dI","_db.cK","_db.cM","_db.cQ"],"Templates":[],"Styles":[],"Configurations":[{"type":"PeopleCoreComponent"}],"Sources":[{"name":"microsoft.owa.people.core.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.pcstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["peoplecore"]},"contactmanagement":{"Dependencies":["deferredboot","nonbootwebservices","peoplecore"],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"ContactManagementComponent"}],"Sources":[{"name":"microsoft.owa.people.contactmanagement.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["contactmanagement"]},"photoupload":{"Dependencies":["nonbootwebservices"],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"PhotoUploadComponent"}],"Sources":[{"name":"microsoft.owa.people.photoupload.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["photoupload"]},"popout":{"Dependencies":["deferredboot","nonbootwebservices"],"Types":["_y.dk","_y.bL"],"Templates":["Wrapper.PopOut"],"Styles":[],"Configurations":[{"type":"PopOutComponent"}],"Sources":[{"name":"microsoft.owa.core.popout.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["popout"]},"nonboot":{"Dependencies":["nonbootwebservices","calendarwebservices","attachments","attachmentwell","editor","peoplecore","contactmanagement","photoupload","calendarcore","calendarcontrols","calendarsurface","commoncompose","composepersonacard","mailcompose","recipientwell","meetingmessage","personacontrol","personacardfacade","peoplehub","findpeople","calendarmeetingforms","readpersoncard","deferredboot","readingpane","offline","mailcommon","moderngroupsshared","moderngroupscalendarshared","edgepromotion"],"Types":["_db.cI","_db.cJ","_db.cL","_db.cN","_db.cO","_a.fC","_a.fL","_y.dz","_y.cF","_y.dR","_y.dm","_y.cc","_y.iG","_y.fh","_y.hT","_y.bp","_y.gy","_h.dE","_y.bi","_y.fU","_y.fT","_y.fS","_y.hB","_y.fs","_y.iK","_y.hZ","_y.ey","_y.hX","_y.fp","_y.iw","_y.ix","_y.gw"],"Templates":["CategoryManagementContentView","ComposeScreenView","MessageDetailsView","ItemPrintingPaneView"],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"nonboot.mouse.css","type":"Themed"}],"Configurations":[{"type":"CoreModelsComponent"},{"type":"CoreViewModelsComponent"},{"type":"ApplicationViewModelsComponent"},{"type":"ApplicationViewsComponent"}],"Sources":[{"name":"microsoft.owa.core.models.js"},{"name":"microsoft.owa.core.viewmodels.js"},{"name":"microsoft.owa.core.views.js"},{"layout":"Mouse","name":"microsoft.owa.core.views.mouse.js"},{"name":"microsoft.owa.application.viewmodels.js"},{"name":"microsoft.owa.application.views.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.meetingmsgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.options.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.oobestrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["nonboot"]},"react":{"Dependencies":[],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"ClientNextFrameworkComponent"}],"Sources":[{"name":"owa.clientnext.common.js"},{"name":"owa.clientnext.application.js"},{"name":"microsoft.owa.clientnext.framework.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["react"]},"offline":{"Dependencies":["deferredboot","deferredwebservices","calendarwebservices","nonbootwebservices","mailcommon"],"Types":["_y.ee","_bc.R","_bc.S","_a.dF","_bc.F","_bc.G","_a.fI","_h.dg","_bc.V","_bc.W","_h.cH","_a.gh","_h.dM","_a.et","_h.du"],"Templates":[],"Styles":[],"Configurations":[{"type":"OfflineBootComponent"},{"type":"CoreSyncComponent"},{"type":"CoreStorageComponent"}],"Sources":[{"name":"microsoft.owa.core.storage.framework.js"},{"name":"microsoft.owa.core.storage.js"},{"name":"microsoft.owa.core.offline.boot.js"},{"name":"microsoft.owa.core.sync.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["offline"]},"recipientwell":{"Dependencies":["deferredboot","nonbootwebservices","peoplecore","personacontrol","mailcommon"],"Types":["_y.eo","_y.ca"],"Templates":["ReadWriteRecipientWellView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.recipientwell.mouse.css","type":"Themed"}],"Configurations":[{"type":"RecipientWellComponent"}],"Sources":[{"name":"microsoft.owa.core.recipientwell.js"},{"layout":"Mouse","name":"microsoft.owa.core.recipientwell.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["recipientwell"]},"introductionPeek":{"Dependencies":["nonbootwebservices","deferredboot"],"Types":["_y.bC","_y.ii"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.introductionpeek.mouse.css","type":"Themed"}],"Configurations":[{"type":"IntroductionPeekComponent"}],"Sources":[{"name":"microsoft.owa.core.introductionpeek.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["introductionPeek"]},"bundledmail":{"Dependencies":["personacontrol","nonbootwebservices","lightning"],"Types":["_y.hN"],"Templates":[],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.bundledmail.mouse.css","type":"Themed"}],"Configurations":[{"type":"BundledMailComponent"}],"Sources":[{"name":"microsoft.owa.bundledmail.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["bundledmail"]},"sweep":{"Dependencies":["lightning","readingpane","nonbootwebservices"],"Types":["_y.gL","_y.iF"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.sweep.mouse.css","type":"Themed"}],"Configurations":[{"type":"SweepComponent"}],"Sources":[{"name":"microsoft.owa.sweep.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["sweep"]},"attachmentsfilepicker":{"Dependencies":["nonbootwebservices","recipientwell","personacontrol","attachments","deferredboot"],"Types":["_y.bS","_y.hM"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.attachments.filepicker.views.mouse.css","type":"Themed"}],"Configurations":[{"type":"AttachmentsFilePickerViewModelsComponent"},{"type":"AttachmentsFilePickerViewsComponent"}],"Sources":[{"name":"microsoft.owa.attachments.filepicker.models.js"},{"name":"microsoft.owa.attachments.filepicker.viewmodels.js"},{"name":"microsoft.owa.attachments.filepicker.views.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.attach.fp.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["attachmentsfilepicker"]},"shellcore":{"Dependencies":[],"Types":["_y.fK"],"Templates":["SharedHeaderMouseView"],"Styles":[{"layout":"Mouse","name":"o365shellg2coreowa.mouse.css","type":"Themed"}],"Configurations":[{"type":"O365ShellCoreG2Component"}],"Sources":[{"name":"microsoft.o365.suiteutil.js"},{"name":"microsoft.o365.clientlogging.js"},{"name":"microsoft.o365.clientperformance.js"},{"name":"microsoft.o365.shellg2.coremin.js"},{"name":"microsoft.o365.shellg2.core.owa.js"},{"layout":"Mouse","name":"microsoft.o365.shellg2.core.owa.mouse.js"},{"name":"microsoft.owa.shellcoreg2.o365.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.o365.shellg2.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["shellcore"]},"shellplus":{"Dependencies":["deferredboot","calendarwebservices","nonbootwebservices","shellcore","calendarcore","peoplecore","calendarmeetingforms","navigation","mailcompose","lightning"],"Types":["_y.hj","_y.hi","_y.bz","_o365sg2c.I","_sc2.d","_sp2.p","_db.bR"],"Templates":["FlexPanePanelView"],"Styles":[{"layout":"Mouse","name":"o365shellg2plusowa.mouse.css","type":"Themed"}],"Configurations":[{"type":"CoreModelsComponent"},{"type":"O365ShellPlusG2Component"}],"Sources":[{"name":"microsoft.owa.core.models.js"},{"name":"msrcrypto-aes.js"},{"name":"msrcrypto-aes-fix.js"},{"name":"microsoft.o365.suiteserviceproxycommon.js"},{"name":"microsoft.o365.suiteserviceproxy.js"},{"name":"microsoft.owa.suiteapinotifications.js"},{"name":"microsoft.o365.suiteapi.owa.js"},{"layout":"Mouse","name":"microsoft.o365.suiteapiskypeintegration.js"},{"name":"microsoft.o365.shellg2.owa.js"},{"layout":"Mouse","name":"microsoft.o365.shellg2.owa.mouse.js"},{"name":"microsoft.owa.shellplusg2.o365.js"},{"layout":"Mouse","name":"meidp.min.js"},{"name":"cardmetadata.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"name":"microsoft.o365.shellg2.settingstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["shellplus"]},"documentattachment":{"Dependencies":["deferredwebservices","nonbootwebservices","recipientwell","attachments","react"],"Types":["_y.gq"],"Templates":["DocumentAttachmentView"],"Styles":[],"Configurations":[{"type":"CollabDocumentAttachmentComponent"}],"Sources":[{"name":"adal.min.js"},{"name":"owa.clientnext.extensibility.js"},{"name":"microsoft.owa.attachments.collabdocattachment.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["documentattachment"]},"pdfjspreview":{"Dependencies":["deferredwebservices","nonbootwebservices","recipientwell","attachments","attachmentpreview"],"Types":["_y.iy"],"Templates":["PdfJsPreviewView"],"Styles":[{"name":"pdf.css","type":"Themed"},{"layout":"Mouse","name":"microsoft.owa.attachments.pdfjspreview.mouse.css","type":"Themed"}],"Configurations":[{"type":"PdfJsPreviewComponent"}],"Sources":[{"name":"pdf.min.js"},{"name":"pdf.worker.min.js"},{"name":"pdf_viewer.min.js"},{"name":"microsoft.owa.attachments.pdfjspreview.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["pdfjspreview"]},"attachments":{"Dependencies":["nonbootwebservices","recipientwell","personacontrol","deferredboot"],"Types":["_db.bI","_y.gk","_y.iI","_y.cO","_y.bJ","_h.dt"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.attachments.mouse.css","type":"Themed"}],"Configurations":[{"type":"AttachmentsComponent"}],"Sources":[{"name":"microsoft.owa.core.attachments.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["attachments"]},"attachmentwell":{"Dependencies":["nonbootwebservices","attachments","recipientwell","commoncompose","deferredboot"],"Types":["_y.bh","_at.p"],"Templates":["AttachmentWellViewWrapper","AttachmentFilmStripView"],"Styles":[{"layout":"Mouse","name":"ewsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.attachments.extendedattachmentwell.mouse.css","type":"Themed"}],"Configurations":[{"type":"ExtendedAttachmentWellComponent"}],"Sources":[{"name":"suiteextensions.js"},{"name":"suiteextensionscontrols.js"},{"name":"microsoft.owa.attachments.extendedattachmentwell.js"},{"layout":"Mouse","name":"microsoft.owa.attachments.extendedattachmentwell.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["attachmentwell"]},"attachmentpreview":{"Dependencies":["nonbootwebservices","recipientwell","readingpane","deferredboot","documentattachment","imagealbumviewer","mailcompose","quickcompose"],"Types":["_y.gl","_at.Z"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.attachments.collabattachmentpreview.mouse.css","type":"Themed"}],"Configurations":[{"type":"CollabAttachmentPreviewComponent"}],"Sources":[{"name":"microsoft.owa.attachments.collabattachmentpreview.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.attach.pr.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["attachmentpreview"]},"files":{"Dependencies":["nonbootwebservices","personacontrol","deferredboot","attachments","moderngroupsnavigation","moderngroupscore","moderngroupsheader","react"],"Types":["_xs.s","_xc.m"],"Templates":["FilesContainerView"],"Styles":[{"layout":"Mouse","name":"fsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.files.mouse.css","type":"Themed"}],"Configurations":[{"type":"FilesComponent"}],"Sources":[{"name":"microsoft.owa.files.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.filesstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["files"]},"unifiedgroupcreation":{"Dependencies":["moderngroupsnavigation","react"],"Types":["_mgn.E"],"Templates":["UnifiedGroupCreationView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.unifiedgroupcreation.mouse.css","type":"Themed"}],"Configurations":[{"type":"UnifiedGroupCreationComponent"}],"Sources":[{"name":"microsoft.owa.unifiedgroupcreation.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["unifiedgroupcreation"]},"unifiedgroupheader":{"Dependencies":["moderngroupsnavigation","react"],"Types":["_mgn.F"],"Templates":["UnifiedGroupReactHeaderView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.unifiedgroupheader.mouse.css","type":"Themed"}],"Configurations":[{"type":"UnifiedGroupHeaderComponent"}],"Sources":[{"name":"microsoft.owa.unifiedgroupheader.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["unifiedgroupheader"]},"moderngroupsnavigation":{"Dependencies":["moderngroupsshared","moderngroupscalendarshared","moderngroupssearchshared","nonbootwebservices","personacontrol","deferredboot","lightning"],"Types":["_y.ek","_xz.b","_y.cp","_y.eW","_mgn.bg","_mgn.p","_mgn.ba","_mgn.be","_mgn.bk","_xs.g"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.moderngroupsnavigation.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernGroupsNavigationComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupsnavigation.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.mgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["moderngroupsnavigation"]},"groupsdiscovery":{"Dependencies":["moderngroupspeople","moderngroupsnavigation","peoplehub"],"Types":["_y.dL"],"Templates":["GroupsDiscoveryView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.groupsdiscovery.mouse.css","type":"Themed"}],"Configurations":[{"type":"GroupsDiscoveryComponent"}],"Sources":[{"name":"microsoft.owa.groupsdiscovery.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["groupsdiscovery"]},"groupshub":{"Dependencies":["moderngroupsnavigation","react"],"Types":["_mgn.D"],"Templates":["GroupsHubView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.groupshub.mouse.css","type":"Themed"}],"Configurations":[{"type":"GroupsHubComponent"}],"Sources":[{"name":"microsoft.owa.groupshub.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["groupshub"]},"navigation":{"Dependencies":["deferredboot","nonbootwebservices","calendarcore"],"Types":["_y.cv","_cc.bK","_nav.c"],"Templates":[],"Styles":[],"Configurations":[{"type":"NavigationViewModelsComponent"},{"type":"NavigationViewsComponent"}],"Sources":[{"name":"microsoft.owa.navigation.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nav.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["navigation"]},"moderngroupsheader":{"Dependencies":["boot","deferredboot","deferredwebservices","lightning","moderngroupsnavigation","moderngroupsshared","nonbootwebservices","peoplecore","personacontrol","readingpaneshared","readpersoncard"],"Types":["_y.eU","_xs.l","_xs.r","_xs.p"],"Templates":[],"Styles":[{"layout":"Mouse","name":"mgsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.moderngroupsheader.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernGroupsHeaderComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupsheader.js"},{"name":"microsoft.owa.moderngroupsheader.groupheaderredesign.js"},{"name":"microsoft.owa.moderngroupsheader.groupheaderv3.js"},{"name":"color-thief.min.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.mgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["moderngroupsheader"]},"moderngroupsshared":{"Dependencies":["deferredboot","calendarwebservices","moderngroupssearchshared","nonbootwebservices"],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"ModernGroupsSharedComponent"}],"Sources":[{"name":"microsoft.owa.moderngroups.shared.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["moderngroupsshared"]},"moderngroupscalendarshared":{"Dependencies":["deferredboot","calendarwebservices"],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"ModernGroupsCalendarSharedComponent"}],"Sources":[{"name":"microsoft.owa.moderngroups.calendar.shared.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["moderngroupscalendarshared"]},"moderngroupssearchshared":{"Dependencies":["deferredboot","nonbootwebservices","lightning"],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"ModernGroupsSearchSharedComponent"}],"Sources":[{"name":"microsoft.owa.moderngroups.search.shared.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["moderngroupssearchshared"]},"moderngroupscore":{"Dependencies":["boot","deferredboot","deferredwebservices","mailcommon","moderngroupsheader","moderngroupsnavigation","modernreadingpane","moderngroupsshared","nonbootwebservices","peoplecore","readingpaneshared","moderngroupssearchshared"],"Types":["_xs.n","_mgn.Y","_y.eT"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.moderngroupscore.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernGroupsCoreComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupscore.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["moderngroupscore"]},"moderngroupssearchcore":{"Dependencies":["boot","instantsearch","moderngroupsshared","nonbootwebservices","readingpaneshared","modernbootreadingpane","moderngroupssearchshared","moderngroupsnavigation"],"Types":["_xs.o","_xt.d","_y.gt","_xt.e"],"Templates":["GroupSearchResultsInInboxTemplate"],"Styles":[],"Configurations":[{"type":"ModernGroupsSearchCoreComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupssearchcore.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["moderngroupssearchcore"]},"moderngroupssearch":{"Dependencies":["boot","deferredboot","moderngroupsshared","moderngroupsnavigation","moderngroupssearchshared","nonbootwebservices"],"Types":["_xs.q","_xs.c"],"Templates":["GroupSearchRefinerView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.moderngroupssearch.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernGroupsSearchComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupssearch.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.mgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["moderngroupssearch"]},"moderngroupsinboxgroupsearchrefiners":{"Dependencies":["boot","deferredboot","instantsearch","lightning","moderngroupssearchshared","moderngroupsnavigation"],"Types":["_xt.f"],"Templates":["GroupsScopeRefinerView","GroupsScopeSearchRefinerCategoryView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.moderngroups.inboxgroupsearchrefiners.mouse.css","type":"Themed"}],"Configurations":[{"type":"InboxGroupSearchRefinersComponent"}],"Sources":[{"name":"microsoft.owa.moderngroups.inboxgroupsearchrefiners.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["moderngroupsinboxgroupsearchrefiners"]},"moderngroupscompose":{"Dependencies":["boot","commoncompose","editor","findpeople","lightning","mailcommon","mailcompose","moderngroupscore","modernreadingpane","moderngroupsshared","personacontrol","quickcompose","recipientwell"],"Types":["_db.ed","_y.dK","_y.ib","_y.eg","_y.eV"],"Templates":["GroupInlineComposeView","GroupFullComposeView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.moderngroupscompose.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernGroupsComposeComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupscompose.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["moderngroupscompose"]},"moderngroupsconversation":{"Dependencies":["boot","deferredboot","deferredwebservices","lightning","moderngroupscompose","moderngroupscore","moderngroupsheader","moderngroupsnavigation","moderngroupsshared","modernreadingpane","nonbootwebservices","peoplecore","personacontrol","readingpaneshared","moderngroupssearchshared"],"Types":["_y.jv","_mgn.B","_y.fd","_lt.k","_xm.j"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.moderngroupsconversation.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernGroupsConversationComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupsconversation.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.mgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["moderngroupsconversation"]},"moderngroupspeople":{"Dependencies":["boot","calendarcontrols","calendarcore","deferredboot","moderngroupscompose","moderngroupscore","moderngroupsheader","moderngroupsnavigation","moderngroupsshared","nonbootwebservices","peoplecore","peoplehub","personacardfacade","personacontrol","readpersoncard"],"Types":["_y.iv","_y.id"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.moderngroupspeople.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernGroupsPeopleComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupspeople.js"},{"layout":"Mouse","name":"microsoft.owa.moderngroupspeople.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.mgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["moderngroupspeople"]},"moderngroupcard":{"Dependencies":["deferredboot","nonbootwebservices","nonboot","moderngroupspeople","moderngroupsshared","recipientwell","personacontrol","readpersoncard","groupcard","lightning"],"Types":["_db.T","_pc.m","_xs.t"],"Templates":["UnifiedGroupSettingsCardView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.moderngroupcard.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernGroupCardComponent"}],"Sources":[{"name":"microsoft.owa.moderngroupcard.js"},{"layout":"Mouse","name":"microsoft.owa.moderngroupcard.mouse.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["moderngroupcard"]},"readpersoncard":{"Dependencies":["boot","deferredboot","nonbootwebservices","peoplecore","commoncompose","personacontrol","findpeople"],"Types":["_db.cv","_pe.q"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.people.personcard.mouse.css","type":"Themed"}],"Configurations":[{"type":"ReadPersonCardComponent"}],"Sources":[{"name":"microsoft.owa.people.personcard.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.personcardstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["readpersoncard"]},"peoplewebservices":{"Dependencies":["calendarcore","calendarwebservices","deferredwebservices","findpeople","instantsearch"],"Types":["_pc.p","_pc.k"],"Templates":[],"Styles":[],"Configurations":[{"type":"PeopleWebServicesComponent"}],"Sources":[{"name":"microsoft.owa.people.webservices.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["peoplewebservices"]},"groupcard":{"Dependencies":["deferredboot","composepersonacard","findpeople","peoplehub","personacontrol","readpersoncard","recipientwell","personaprofile"],"Types":["_y.fV","_db.cS","_pf.r","_pf.s"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.people.groupcard.mouse.css","type":"Themed"}],"Configurations":[{"type":"GroupCardComponent"}],"Sources":[{"name":"microsoft.owa.people.groupcard.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["groupcard"]},"composepersonacard":{"Dependencies":["deferredboot","nonbootwebservices","readpersoncard","calendarcontrols","editor"],"Types":["_db.cR"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.people.composepersonacard.mouse.css","type":"Themed"}],"Configurations":[{"type":"ComposePersonaCardComponent"}],"Sources":[{"name":"microsoft.owa.people.composepersonacard.js"},{"layout":"Mouse","name":"microsoft.owa.people.composepersonacard.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.personcardstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.bootcommonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["composepersonacard"]},"quickcompose":{"Dependencies":["deferredboot","nonbootwebservices","recipientwell","personacontrol","commoncompose","editor","attachments"],"Types":["_y.gF","_y.ip"],"Templates":["QuickComposeViewWrapper","QuickReplyViewWrapper","InlineComposeViewWrapper","InlineComposeEmptyPlaceholderViewWrapper"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.quickcompose.mouse.css","type":"Themed"}],"Configurations":[{"type":"QuickComposeComponent"}],"Sources":[{"name":"microsoft.owa.core.quickcompose.js"},{"layout":"Mouse","name":"microsoft.owa.core.quickcompose.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["quickcompose"]},"simplecompose":{"Dependencies":["deferredboot","nonbootwebservices","recipientwell","commoncompose","mailcompose"],"Types":["_y.it"],"Templates":["MailSimpleComposeView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.simplecompose.mouse.css","type":"Themed"}],"Configurations":[{"type":"SimpleComposeComponent"}],"Sources":[{"name":"microsoft.owa.core.simplecompose.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["simplecompose"]},"modernbootreadingpane":{"Dependencies":["nonbootwebservices","quickcompose"],"Types":["_h.bI"],"Templates":[],"Styles":[],"Configurations":[{"type":"ModernBootReadingPaneComponent"}],"Sources":[{"name":"microsoft.owa.modernbootreadingpane.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["modernbootreadingpane"]},"smime":{"Dependencies":["deferredboot","nonbootwebservices","recipientwell","commoncompose"],"Types":["_db.A","_db.bp"],"Templates":["SenderSignatureView","SignatureDetailsView","SmimeInvalidRecipientsDialogView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.smime.mouse.css","type":"Themed"}],"Configurations":[{"type":"SmimeComponent"}],"Sources":[{"name":"microsoft.owa.core.smime.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["smime"]},"imagealbumviewer":{"Dependencies":["deferredboot","nonbootwebservices","attachments"],"Types":["_y.jU","_y.fX"],"Templates":["ImageAlbumView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.imagealbumviewer.mouse.css","type":"Themed"}],"Configurations":[{"type":"ImageAlbumViewerComponent"}],"Sources":[{"name":"microsoft.owa.core.imagealbumviewer.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["imagealbumviewer"]},"linkpreview":{"Dependencies":["deferredboot","nonbootwebservices","mailcommon"],"Types":["_b.cr","_b.I"],"Templates":[],"Styles":[],"Configurations":[{"type":"LinkPreviewComponent"}],"Sources":[{"name":"microsoft.owa.core.linkpreview.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["linkpreview"]},"imageloader":{"Dependencies":["boot"],"Types":["_y.cB","_y.gu","_y.cm"],"Templates":[],"Styles":[],"Configurations":[{"type":"ImageLoaderComponent"}],"Sources":[{"name":"microsoft.owa.core.imageloader.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["imageloader"]},"modernreadingpane":{"Dependencies":["moderngroupsshared","nonbootwebservices","quickcompose","recipientwell","personacontrol","readingpaneshared","deferredboot","modernbootreadingpane","hashtagsux","introductionPeek","moderngroupsnavigation"],"Types":["_h.dc","_y.N","_y.el"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.modernreadingpane.mouse.css","type":"Themed"}],"Configurations":[{"type":"ModernReadingPaneComponent"}],"Sources":[{"name":"microsoft.owa.modernreadingpane.js"},{"layout":"Mouse","name":"microsoft.owa.modernreadingpane.mouse.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["modernreadingpane"]},"immanager":{"Dependencies":["deferredboot","nonbootwebservices","recipientwell","shellcore","shellplus","editor"],"Types":["_h.P","_h.fn","_h.cf","_h.ce","_h.bg","_h.cy","_y.fW","_a.fH"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.im.mouse.css","type":"Themed"}],"Configurations":[{"layout":"Mouse","type":"IMManagerComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.core.lyncintegration.js"},{"layout":"Mouse","name":"microsoft.owa.core.im.js"},{"layout":"Mouse","name":"microsoft.owa.core.immanager.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["immanager"]},"livepersonacard":{"Dependencies":["deferredboot","react"],"Types":[],"Templates":[],"Styles":[],"Configurations":[],"Sources":[{"name":"livepersonacard.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["livepersonacard"]},"personacontrol":{"Dependencies":["boot","deferredboot","nonbootwebservices","peoplecore","textboys","ariaanalytics"],"Types":["_bc.f"],"Templates":["PersonaViewWrapper.ReadOnlyRecipientPopup","PersonaViewWrapper.PresenceDisplayPicturePopup","PersonaViewWrapper.BasicDetailsPopup","PersonaViewWrapper.PersonaMenuItem","PersonaViewWrapper.PersonaContextMenuHeader","PersonaView.PersonaPhotoHeader"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.personacontrol.mouse.css","type":"Themed"}],"Configurations":[{"type":"PersonaControlComponent"}],"Sources":[{"name":"microsoft.owa.core.personacontrol.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.livepersonacard.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["personacontrol"]},"findpeople":{"Dependencies":["boot","deferredboot","nonbootwebservices","peoplecore","personacontrol"],"Types":["_bc.z","_h.bA","_y.cy","_y.cj","_y.dj","_pe.H"],"Templates":["FindRecipientView","FindRecipientResultViewWrapper","PeopleSuggesterViewWrapper","FindPeopleView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.findpeople.mouse.css","type":"Themed"}],"Configurations":[{"type":"FindPeopleComponent"}],"Sources":[{"name":"microsoft.owa.core.findpeople.js"},{"layout":"Mouse","name":"microsoft.owa.core.findpeople.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["findpeople"]},"personacardfacade":{"Dependencies":["deferredboot","nonbootwebservices","peoplecore","personacontrol","readpersoncard"],"Types":["_db.Z","_y.dP","_db.dm","_bc.q"],"Templates":["PersonaCardFacadeViewWrapper.PersonaView_Card"],"Styles":[],"Configurations":[{"type":"PersonaCardFacadeComponent"}],"Sources":[{"name":"microsoft.owa.core.personacardfacade.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["personacardfacade"]},"personaprofile":{"Dependencies":["personacardfacade","readpersoncard","findpeople","peoplewebservices"],"Types":["_pe.U","_pe.T","_pe.S"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.people.personaprofile.mouse.css","type":"Themed"}],"Configurations":[{"type":"PersonaProfileComponent"}],"Sources":[{"name":"microsoft.owa.people.personaprofile.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.ppstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["personaprofile"]},"personaprofiledeferred":{"Dependencies":["calendarcore","calendarmeetingforms","attachmentpreview","attachments","attachmentwell","personaprofile","instantsearch"],"Types":["_pf.m"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.people.personaprofiledeferred.mouse.css","type":"Themed"}],"Configurations":[{"type":"PersonaProfileDeferredComponent"}],"Sources":[{"name":"microsoft.owa.people.personaprofiledeferred.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.ppstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["personaprofiledeferred"]},"peoplehub":{"Dependencies":["deferredboot","nonbootwebservices","peoplecore","personacontrol","personacardfacade","recipientwell","findpeople","contactmanagement","optionscoremodels","composepersonacard","peoplewebservices","instantsearch"],"Types":["_y.iz","_y.cx","_y.dA"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.peoplehub.mouse.css","type":"Themed"}],"Configurations":[{"type":"PeopleHubComponent"}],"Sources":[{"name":"microsoft.owa.core.peoplehub.js"},{"layout":"Mouse","name":"microsoft.owa.core.peoplehub.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.pcstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["peoplehub"]},"publicfolderfeaturesupport":{"Dependencies":[],"Types":["_h.ea"],"Templates":[],"Styles":[],"Configurations":[{"type":"PublicFolderFeatureSupportComponent"}],"Sources":[{"name":"microsoft.owa.core.publicfolderfeaturesupport.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["publicfolderfeaturesupport"]},"publicfolderpicker":{"Dependencies":["boot","nonbootwebservices","deferredboot"],"Types":["_h.eb"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.publicfolderpicker.mouse.css","type":"Themed"}],"Configurations":[{"type":"PublicFolderPickerComponent"}],"Sources":[{"name":"microsoft.owa.core.publicfolderpicker.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.pfpickerstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["publicfolderpicker"]},"showinimmersivereader":{"Dependencies":["nonbootwebservices"],"Types":["_bc.L"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.showinimmersivereader.mouse.css","type":"Themed"}],"Configurations":[{"type":"ShowInImmersiveReaderComponent"}],"Sources":[{"name":"microsoft.owa.core.showinimmersivereader.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["showinimmersivereader"]},"mecard":{"Dependencies":["deferredboot","nonbootwebservices","personacontrol"],"Types":["_y.iu"],"Templates":["MeCardHeaderView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.mecard.mouse.css","type":"Themed"}],"Configurations":[{"layout":"Mouse","type":"MeCardComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.core.mecard.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["mecard"]},"suitemecard":{"Dependencies":["nonbootwebservices","shellplus"],"Types":["_y.fL"],"Templates":["MeCardMouseView"],"Styles":[],"Configurations":[{"layout":"Mouse","type":"O365SuiteMeCardComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.o365.shellg2.mecard.owa.js"},{"layout":"Mouse","name":"microsoft.owa.suitemecard.o365.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["suitemecard"]},"suitesettings":{"Dependencies":["shellplus"],"Types":["_y.hl"],"Templates":[],"Styles":[],"Configurations":[{"type":"O365SettingsComponent"}],"Sources":[{"name":"cardmetadata.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.o365.shellg2.settingstrings.localized.min.js"},{"name":"settingssearchclassifier.js"}],"PackagedStrings":[],"IncludedSlabs":["suitesettings"]},"calendarcore":{"Dependencies":["boot","calendarwebservices","commoncompose","deferredboot","peoplecore","calendarcontrols","mailcommon","moderngroupscalendarshared"],"Types":["_y.jg","_xz.c","_cc.eF","_y.fR","_db.g","_db.bX","_mco.y","_db.X","_y.dx","_dg.co","_dg.h","_db.cP","_bc.P","_y.hs","_y.gh"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.core.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarCoreComponent"}],"Sources":[{"name":"microsoft.owa.calendar.core.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calcorestrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.meetingmsgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarcore"]},"calendartheming":{"Dependencies":["boot","deferredboot","calendarcore"],"Types":["_cc.h"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.theming.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarThemingComponent"}],"Sources":[{"name":"microsoft.owa.calendar.theming.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.calendar.theming.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendartheming"]},"calendarmeetingforms":{"Dependencies":["boot","calendarcore","deferredboot","recipientwell","peoplecore","personacontrol","findpeople","mailcommon","calendarcontrols","locationwell","calendarwebservices","addroom","readingpaneshared","lightning"],"Types":["_y.ji"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.meetingforms.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarMeetingFormsComponent"}],"Sources":[{"name":"microsoft.owa.calendar.meetingforms.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calmfstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarmeetingforms"]},"calendarcontrols":{"Dependencies":["boot"],"Types":[],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.controls.v2.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarControlsCoreComponent"},{"layout":"Mouse","type":"CalendarControlsComponentV2"}],"Sources":[{"name":"microsoft.owa.calendar.controls.core.js"},{"layout":"Mouse","name":"microsoft.owa.calendar.controls.v2.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calcorestrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarcontrols"]},"calendarreactcontrols":{"Dependencies":["react","calendarcontrols","mailcommon"],"Types":["_mco.Y"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.reactcontrols.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarReactControlsComponent"}],"Sources":[{"name":"microsoft.owa.calendar.reactcontrols.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["calendarreactcontrols"]},"calendarpicker":{"Dependencies":["calendarsurface","personacontrol","deferredboot"],"Types":["_cc.bc","_cc.cC","_cc.bU"],"Templates":["CalendarPickerViewWrapper"],"Styles":[{"layout":"Mouse","name":"cpsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"calendarpicker.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarPickerComponent"}],"Sources":[{"name":"microsoft.owa.calendar.calendarpicker.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calpickerstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarpicker"]},"calendarsurface":{"Dependencies":["boot","deferredboot","calendarwebservices","calendarcore","calendarcontrols","personacontrol","lightning"],"Types":["_y.gn","_cb.cp","_y.hu","_y.ht"],"Templates":[],"Styles":[{"layout":"Mouse","name":"calendarsurface.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarSurfaceCoreComponent"},{"layout":"Mouse","type":"CalendarSurfaceDesktopComponentV2"}],"Sources":[{"name":"microsoft.owa.calendar.surface.core.js"},{"name":"microsoft.owa.calendar.surface.core.mouse.js"},{"layout":"Mouse","name":"microsoft.owa.calendar.surface.v2.desktop.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calsurfacestrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.meetingmsgstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarsurface"]},"meetingmessage":{"Dependencies":["boot","deferredboot","mailcommon","calendarwebservices","calendarcore","editor","peoplecore","personacontrol"],"Types":["_db.Y","_y.fQ","_y.jh","_cc.dj","_y.jf","_mco.bg"],"Templates":["LocationView"],"Styles":[{"layout":"Mouse","name":"mmsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"meetingmessage.mouse.css","type":"Themed"}],"Configurations":[{"type":"MeetingMessageComponent"}],"Sources":[{"name":"microsoft.owa.calendar.meetingmessage.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calmfstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.meetingmsgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["meetingmessage"]},"mailcommon":{"Dependencies":["boot","deferredboot","nonbootwebservices"],"Types":[],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.mail.common.mouse.css","type":"Themed"}],"Configurations":[{"type":"MailCommonComponent"}],"Sources":[{"name":"microsoft.owa.mail.common.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["mailcommon"]},"calendarpeek":{"Dependencies":["calendarcore","boot","deferredboot","calendarwebservices","recipientwell","peoplecore","personacontrol","findpeople","calendarmeetingforms","meetingmessage","calendarsurface"],"Types":["_cb.cb","_cb.bF","_cc.bI"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.peek.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarPeekComponent"}],"Sources":[{"name":"microsoft.owa.calendar.surface.core.js"},{"name":"microsoft.owa.calendar.surface.core.mouse.js"},{"name":"microsoft.owa.calendar.peek.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calpeekstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarpeek"]},"feeds":{"Dependencies":["deferredboot","calendarwebservices","calendarcore","calendarcontrols","lightning","frepanel"],"Types":["_cc.cO","_y.hr"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.feeds.mouse.css","type":"Themed"}],"Configurations":[{"type":"FeedsComponent"}],"Sources":[{"name":"microsoft.owa.calendar.feeds.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.calendar.feeds.calendarfeedsstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["feeds"]},"holidays":{"Dependencies":["deferredboot","calendarwebservices","calendarcore","calendarcontrols"],"Types":["_cc.cP"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.holidays.mouse.css","type":"Themed"}],"Configurations":[{"type":"HolidaysComponent"}],"Sources":[{"name":"microsoft.owa.calendar.holidays.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.holidaystrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["holidays"]},"calendarsharingmanagement":{"Dependencies":["calendarwebservices","attachments","boot","deferredboot","calendarmeetingforms","calendarcore","calendarsurface","peoplecore","recipientwell","personacontrol","findpeople"],"Types":["_db.bl","_y.bG","_cc.dp","_y.eC","_cc.by"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.sharing.management.v2.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarSharingManagementComponentV2"}],"Sources":[{"name":"microsoft.owa.calendar.sharing.management.v2.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calendar.sm.strs.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarsharingmanagement"]},"calendarsharingmessage":{"Dependencies":["deferredboot","calendarwebservices","calendarcore"],"Types":["_mco.F"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.sharing.message.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarSharingMessageComponent"}],"Sources":[{"name":"microsoft.owa.calendar.sharing.message.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calendar.sm.strs.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarsharingmessage"]},"calendarprint":{"Dependencies":["deferredboot","calendarsurface"],"Types":["_cb.cg"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.print.v2.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarPrintComponentV2"}],"Sources":[{"name":"microsoft.owa.calendar.print.v2.js"},{"name":"printelement.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["calendarprint"]},"locationwell":{"Dependencies":["deferredboot","deferredwebservices","calendarwebservices","recipientwell","findpeople","calendarcore","addroom","locationcommon"],"Types":["_cc.X","_cc.eI"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.locationwell.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarLocationWellComponent"}],"Sources":[{"name":"microsoft.owa.calendar.locationwell.js"},{"name":"microsoft.owa.calendar.locationwell.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.callwstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["locationwell"]},"calendartimesuggestions":{"Dependencies":["boot","deferredwebservices","calendarwebservices","calendarcore"],"Types":["_cc.cI"],"Templates":["TimeSuggestionsView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.timesuggestions.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarTimeSuggestionsComponent"}],"Sources":[{"name":"microsoft.owa.calendar.timesuggestions.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.caltsstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendartimesuggestions"]},"consensusscheduling":{"Dependencies":["calendarsurface","mailcommon","calendartimesuggestions","calendarscheduling","personacontrol"],"Types":["_mco.m","_mco.Z"],"Templates":["ConsensusSchedulingView","ConsensusSchedulingDatePickerView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.consensus.mouse.css","type":"Themed"}],"Configurations":[{"type":"ConsensusSchedulingComponent"}],"Sources":[{"name":"microsoft.owa.calendar.consensus.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.calendar.consensus.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["consensusscheduling"]},"calendarcompose":{"Dependencies":["calendarcore","calendarcontrols","boot","deferredboot","calendarwebservices","recipientwell","peoplecore","personacontrol","findpeople","calendarmeetingforms","commoncompose","editor","locationwell","meetingmessage","addroom","lightning"],"Types":["_bc.k","_bc.r"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.compose.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarComposeComponent"}],"Sources":[{"name":"microsoft.owa.calendar.compose.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calcompstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarcompose"]},"calendarreadingpane":{"Dependencies":["calendarcore","boot","deferredboot","nonbootwebservices","recipientwell","personacontrol","calendarmeetingforms","meetingmessage","mailcommon"],"Types":["_db.n"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.readingpane.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarReadingPaneComponent"}],"Sources":[{"name":"microsoft.owa.calendar.readingpane.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calreadstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarreadingpane"]},"calendarplaces":{"Dependencies":["calendarcore","boot","deferredboot","calendarwebservices","peoplecore","personacontrol","calendarmeetingforms","personacardfacade","recipientwell","readpersoncard","locationcommon"],"Types":["_cc.dm","_db.bn","_cc.dl","_db.bZ"],"Templates":["LocationPanelView","BingMap"],"Styles":[{"layout":"Mouse","name":"clsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.calendar.places.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarPlacesComponent"}],"Sources":[{"name":"microsoft.owa.calendar.places.js"},{"layout":"Mouse","name":"microsoft.owa.calendar.places.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calplacesstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarplaces"]},"calendarscheduling":{"Dependencies":["calendarcore","boot","deferredboot","nonbootwebservices","recipientwell","peoplecore","personacontrol","findpeople","calendarmeetingforms","calendarpeek","calendarsurface","calendarcontrols","meetingmessage"],"Types":["_cc.eJ","_cc.bZ"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.scheduling.v2.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarSchedulingComponentV2"}],"Sources":[{"name":"microsoft.owa.calendar.scheduling.v2.js"},{"layout":"Mouse","name":"microsoft.owa.calendar.scheduling.v2.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calschedstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarscheduling"]},"smartsuggestions":{"Dependencies":["editor","commoncompose"],"Types":["_cmc.Q"],"Templates":["SmartSuggestionsPaneContentView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.smartsuggestions.mouse.css","type":"Themed"}],"Configurations":[{"layout":"Mouse","type":"SmartSuggestionsComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.smartsuggestions.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.smartsuggestions.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["smartsuggestions"]},"userhighlighting":{"Dependencies":["mailcommon","commoncompose","files"],"Types":["_mco.bb"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.userhighlighting.mouse.css","type":"Themed"}],"Configurations":[{"type":"UserHighlightingComponent"}],"Sources":[{"name":"microsoft.owa.core.userhighlighting.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["userhighlighting"]},"curatedkeypoints":{"Dependencies":["mailcommon","commoncompose"],"Types":["_mco.ba"],"Templates":[],"Styles":[],"Configurations":[{"layout":"Mouse","type":"CuratedKeyPointsComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.core.curatedkeypoints.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["curatedkeypoints"]},"naturalinput":{"Dependencies":["deferredwebservices","calendarsurface","calendarmeetingforms","locationwell"],"Types":["_cb.cq"],"Templates":["CalendarNaturalInputItem"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.naturalinput.v2.mouse.css","type":"Themed"}],"Configurations":[{"type":"NaturalInputComponentV2"}],"Sources":[{"name":"microsoft.owa.calendar.naturalinput.v2.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.naturalinput.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["naturalinput"]},"weather":{"Dependencies":["calendarwebservices","calendarcore","locationcommon"],"Types":["_cc.j","_cc.di","_y.hy","_cc.ea"],"Templates":["WeatherViewContainer","WeatherLocationSearchControl"],"Styles":[{"layout":"Mouse","name":"wsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.calendar.weatherv2.mouse.css","type":"Themed"}],"Configurations":[{"type":"WeatherV2Component"}],"Sources":[{"name":"microsoft.owa.calendar.weatherv2.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.weather.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["weather"]},"birthdays":{"Dependencies":["deferredboot","calendarwebservices","calendarcontrols","calendarreadingpane"],"Types":["_db.bm","_cc.bg"],"Templates":["BirthdayPeekViewContainer","BirthdayDetailsViewContainer"],"Styles":[{"layout":"Mouse","name":"bdsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.calendar.birthdays.mouse.css","type":"Themed"}],"Configurations":[{"type":"BirthdaysComponent"}],"Sources":[{"name":"microsoft.owa.calendar.birthdays.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.birthdays.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["birthdays"]},"bookingcalendar":{"Dependencies":["boot","deferredboot","calendarwebservices","bookingcore","calendarcore","calendarcontrols","reminders","peoplecore","personacontrol","locationwell","calendarpeek","bookingcustomersmodule","photoupload","shellplus","calendartheming"],"Types":["_db.bB","_cc.ba","_cb.co","_cc.ce","_db.bY","_b1.v","_b1.E"],"Templates":[],"Styles":[{"layout":"Mouse","name":"bcsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.calendar.booking.mouse.css","type":"Themed"}],"Configurations":[{"type":"BookingCalendarComponent"}],"Sources":[{"name":"microsoft.owa.calendar.booking.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.calendar.booking.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.calcompstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.calmfstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.remindersstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["bookingcalendar"]},"schedules":{"Dependencies":["boot","deferredboot","calendarcore","calendarcontrols","calendarwebservices","calendartheming","meetingmessage","locationwell","lightning"],"Types":["_cc.bH","_sd.v","_y.hx"],"Templates":[],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.calendar.schedules.mouse.css","type":"Themed"}],"Configurations":[{"type":"SchedulesComponent"}],"Sources":[{"name":"microsoft.owa.calendar.schedules.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.calendar.schedules.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["schedules"]},"bookingbusinesstypes":{"Dependencies":["boot","deferredboot","calendarwebservices","nonbootwebservices","bookingcalendar"],"Types":["_bk.bQ"],"Templates":[],"Styles":[],"Configurations":[{"type":"BookingBusinessTypesComponent"}],"Sources":[{"name":"microsoft.owa.booking.businesstypes.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.booking.businesstypes.strings.bt.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["bookingbusinesstypes"]},"bookingcore":{"Dependencies":["boot","deferredboot","lightning","peoplecore","personacontrol","calendarcore","deferredwebservices","calendarwebservices","analytics"],"Types":["_cc.cf","_y.hq"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.booking.core.mouse.css","type":"Themed"}],"Configurations":[{"type":"BookingCoreComponent"}],"Sources":[{"name":"microsoft.owa.booking.core.js"},{"name":"localytics.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.booking.core.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["bookingcore"]},"bookingshell":{"Dependencies":["boot","deferredboot","calendarwebservices","bookingcore","calendarcore","peoplecore","personacontrol"],"Types":["_y.gm"],"Templates":[],"Styles":[{"layout":"Mouse","name":"booksprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.booking.shell.mouse.css","type":"Themed"}],"Configurations":[{"type":"BookingShellComponent"}],"Sources":[{"name":"microsoft.owa.booking.shell.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.booking.shell.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["bookingshell"]},"bookingcalendarmodule":{"Dependencies":["boot","deferredboot","bookingcore","calendarcore","calendarsurface","bookingcalendar"],"Types":["_b1.x"],"Templates":[],"Styles":[],"Configurations":[{"type":"BookingCalendarModuleComponent"}],"Sources":[{"name":"microsoft.owa.booking.modules.calendar.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["bookingcalendarmodule"]},"bookinghomepagemodule":{"Dependencies":["boot","deferredboot","bookingcore"],"Types":["_b1.z"],"Templates":[],"Styles":[{"layout":"Mouse","name":"booksprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.booking.modules.homepage.mouse.css","type":"Themed"}],"Configurations":[{"type":"BookingHomePageComponent"}],"Sources":[{"name":"microsoft.owa.booking.modules.homepage.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["bookinghomepagemodule"]},"bookingcustomersmodule":{"Dependencies":["boot","deferredboot","bookingcore","peoplehub"],"Types":["_b1.y","_cu.c"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.booking.modules.customers.mouse.css","type":"Themed"}],"Configurations":[{"type":"BookingCustomersComponent"}],"Sources":[{"name":"microsoft.owa.booking.modules.customers.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["bookingcustomersmodule"]},"bookingpagemodule":{"Dependencies":["boot","deferredboot","bookingcore","calendarcore","bookingcalendar"],"Types":["_b1.A"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.booking.modules.bookingpage.mouse.css","type":"Themed"}],"Configurations":[{"type":"BookingPageComponent"}],"Sources":[{"name":"microsoft.owa.booking.modules.bookingpage.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["bookingpagemodule"]},"bookingbusinessinformationmodule":{"Dependencies":["boot","deferredboot","bookingcore","calendarcore","bookingcalendar"],"Types":["_b1.w"],"Templates":[],"Styles":[],"Configurations":[{"type":"BookingBusinessInformationComponent"}],"Sources":[{"name":"microsoft.owa.booking.modules.businessinformation.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["bookingbusinessinformationmodule"]},"bookingpaymentsmodule":{"Dependencies":["boot","deferredboot","bookingcore","bookingcalendar","bookingshell","nonbootwebservices"],"Types":["_b1.B"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.booking.modules.payments.mouse.css","type":"Themed"}],"Configurations":[{"type":"BookingPaymentsComponent"}],"Sources":[{"name":"microsoft.owa.booking.modules.payments.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["bookingpaymentsmodule"]},"bookingservicesmodule":{"Dependencies":["boot","deferredboot","bookingcore","calendarcore","bookingcalendar"],"Types":["_b1.C"],"Templates":[],"Styles":[],"Configurations":[{"type":"BookingServicesComponent"}],"Sources":[{"name":"microsoft.owa.booking.modules.services.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["bookingservicesmodule"]},"bookingstaffmodule":{"Dependencies":["boot","deferredboot","bookingcore","calendarcore","bookingcalendar"],"Types":["_b1.D"],"Templates":[],"Styles":[],"Configurations":[{"type":"BookingStaffComponent"}],"Sources":[{"name":"microsoft.owa.booking.modules.staff.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["bookingstaffmodule"]},"tailoredexperiences":{"Dependencies":["boot","calendarcore","nonbootwebservices","mailcommon","recipientwell","lightning"],"Types":["_mco.t","_te.o","_h.cI"],"Templates":["ExtractedEventViewContainer","GroupedTailoredEntitiesView","ShareTailoredEventView","VerticalEntityView"],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.tailoredexperiences.mouse.css","type":"Themed"}],"Configurations":[{"type":"TailoredExperiencesComponent"}],"Sources":[{"name":"microsoft.owa.tailoredexperiences.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.testrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["tailoredexperiences"]},"connectors":{"Dependencies":["boot","mailcommon","extensibility","officepay","lightning","calendarcore"],"Types":["_y.db","_h.bC","_h.cT","_db.bj"],"Templates":["ConnectorsView","GroupedConnectorCardsView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.connectors.mouse.css","type":"Themed"},{"layout":"Mouse","name":"connectors_extension.mouse.css","type":"Themed"}],"Configurations":[{"type":"ConnectorsComponent"}],"Sources":[{"name":"microsoft.owa.connectors.js"},{"name":"purify.min.js"},{"name":"hashes.min.js"},{"name":"markdown-it.min.js"},{"name":"adaptive-cards.js"},{"name":"adaptive-card-render.js"},{"name":"adaptive-card-controls.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.connectorstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["connectors"]},"helpPanel":{"Dependencies":["nonbootwebservices","deferredboot"],"Types":["_y.hk"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.helppanel.mouse.css","type":"Themed"}],"Configurations":[{"type":"HelpPanelComponent"}],"Sources":[{"name":"microsoft.owa.helppanel.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.helppanelstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["helpPanel"]},"calendarsearchinput":{"Dependencies":["deferredboot","nonbootwebservices","calendarsurface","personacontrol"],"Types":["_y.eB"],"Templates":["CalendarSearchBox"],"Styles":[{"layout":"Mouse","name":"casprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"calendarsearchinput.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarSearchInputComponentV2"}],"Sources":[{"name":"microsoft.owa.calendar.search.v2.input.js"},{"layout":"Mouse","name":"microsoft.owa.calendar.search.v2.input.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.csearch.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendarsearchinput"]},"calendarsearchoutput":{"Dependencies":["nonbootwebservices","calendarsearchinput","nonboot","calendarpicker","instantsearch","findpeople","deferredboot"],"Types":["_cb.by","_cb.cs","_cc.cH","_ci.s"],"Templates":[],"Styles":[{"layout":"Mouse","name":"calendarsearchoutput.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarSearchOutputComponentV2"}],"Sources":[{"name":"microsoft.owa.calendar.search.v2.output.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["calendarsearchoutput"]},"reminders":{"Dependencies":["boot","deferredboot","calendarwebservices","personacontrol","calendarcore"],"Types":["_cc.cN","_cc.bn","_db.cw"],"Templates":["EmailRemindersView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.reminders.mouse.css","type":"Themed"}],"Configurations":[{"type":"RemindersComponent"}],"Sources":[{"name":"microsoft.owa.reminders.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.remindersstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.calmfstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["reminders"]},"optionscore":{"Dependencies":["nonbootwebservices","optionscoremodels","deferredboot"],"Types":["_y.fi","_y.hw","_y.eD"],"Templates":[],"Styles":[{"layout":"Mouse","name":"opsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.options.core.mouse.css","type":"Themed"}],"Configurations":[{"type":"OptionsCoreComponent"}],"Sources":[{"name":"microsoft.owa.options.core.js"},{"layout":"Mouse","name":"microsoft.owa.options.core.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.options.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["optionscore"]},"options":{"Dependencies":["nonbootwebservices","commoncompose","editor","personacontrol","calendarcontrols","peoplecore","optionscore","optionscoremodels","calendarcore","deferredboot","attachments","attachmentsfilepicker","offline","peoplehub","groupcard","triageshared"],"Types":["_opc.P","_opc.O"],"Templates":["OptionsPanelView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.options.mouse.css","type":"Themed"}],"Configurations":[{"type":"OptionsComponent"}],"Sources":[{"name":"microsoft.owa.options.js"},{"layout":"Mouse","name":"microsoft.owa.options.mouse.js"},{"name":"consentstring.bundle.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.options.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["options"]},"calendaroptions":{"Dependencies":["deferredboot","calendarcore","calendarcontrols","peoplecore","optionscore","optionscoremodels","locationwell"],"Types":["_opc.N"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.options.calendar.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarOptionsComponent"}],"Sources":[{"name":"microsoft.owa.options.calendar.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.options.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["calendaroptions"]},"optionscoremodels":{"Dependencies":["deferredwebservices","nonbootwebservices","deferredboot","calendarwebservices"],"Types":["_h.dr"],"Templates":[],"Styles":[],"Configurations":[{"type":"OptionsCoreModelsComponent"}],"Sources":[{"name":"microsoft.owa.options.core.models.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.options.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["optionscoremodels"]},"resources":{"Dependencies":[],"Types":[],"Templates":[],"Styles":[{"name":"moeerrorux.css","type":"NotThemed"},{"name":"moeerroruxrtl.css","type":"NotThemed"}],"Configurations":[],"Sources":[{"name":"microsoft.naturallanguage.clientruntime.js"},{"name":"microsoft.naturallanguage.attachmentres.en.js"},{"name":"blank.html"}],"PackagedSources":[],"Strings":[{"name":"osfruntime_strings.js","type":"Extensibility"}],"PackagedStrings":[],"IncludedSlabs":["resources"]},"nonbootcontrols":{"Dependencies":["deferredboot","lightning"],"Types":[],"Templates":["CommandingBarExternalImageItem","IconImage"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.nonboot.controls.mouse.css","type":"Themed"}],"Configurations":[{"type":"NonBootControlsComponent"}],"Sources":[{"name":"microsoft.owa.nonboot.controls.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.extstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["nonbootcontrols"]},"extensibility":{"Dependencies":["deferredboot","lightning","nonbootcontrols","nonbootwebservices","personacontrol","mailcommon","react"],"Types":["_y.bB","_y.bU","_bc.D","_y.cw","_y.ef"],"Templates":["ComposeAppsPane","XExtensibilityView","XComposeExtensibilityView","XExtensibilityCardView","ExtensibilityReactComponent"],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.extensibilitynext.mouse.css","type":"Themed"}],"Configurations":[{"type":"ExtensibilityNextComponent"}],"Sources":[{"name":"adal.min.js"},{"name":"owa.clientnext.extensibility.js"},{"name":"osfruntime.js"},{"name":"microsoft.owa.extensibilitynext.js"},{"name":"microsoft.owa.extensibility.common.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.extstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["extensibility"]},"infobarnotifications":{"Dependencies":[],"Types":["_mco.z","_mco.Q","_mco.r"],"Templates":[],"Styles":[],"Configurations":[{"type":"InfoBarNotificationsComponent"}],"Sources":[{"name":"microsoft.owa.core.infobarnotifications.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["infobarnotifications"]},"infotips":{"Dependencies":["deferredboot","nonbootwebservices","recipientwell","findpeople"],"Types":["_y.cV","_y.du","_y.dt"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.infotips.mouse.css","type":"Themed"}],"Configurations":[{"type":"InfoTipsComponent"}],"Sources":[{"name":"microsoft.owa.infotips.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["infotips"]},"forgottenattachment":{"Dependencies":["nonbootwebservices"],"Types":["_y.dW"],"Templates":[],"Styles":[],"Configurations":[{"type":"ForgottenAttachmentComponent"}],"Sources":[{"name":"microsoft.naturallanguage.clientruntime.js"},{"name":"microsoft.naturallanguage.attachmentres.en.js"},{"name":"microsoft.owa.forgottenattachment.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["forgottenattachment"]},"commoncompose":{"Dependencies":["deferredboot"],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"CommonComposeComponent"}],"Sources":[{"name":"microsoft.owa.common.compose.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["commoncompose"]},"survey":{"Dependencies":["nonbootwebservices","deferredboot"],"Types":["_y.hn","_y.hm"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.survey.mouse.css","type":"Themed"}],"Configurations":[{"layout":"Mouse","type":"SurveyComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.survey.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["survey"]},"mailcompose":{"Dependencies":["nonbootwebservices","commoncompose","editor","peoplecore","personacontrol","recipientwell","findpeople","deferredboot","mailcommon","lightning"],"Types":["_db.bd","_y.t","_y.io","_y.U","_y.is","_y.iq","_y.hv"],"Templates":["MailComposeView","MailInlineComposeView","MailComposeUnifiedView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.mail.compose.mouse.css","type":"Themed"}],"Configurations":[{"type":"MailComposeComponent"}],"Sources":[{"name":"microsoft.owa.mail.compose.js"},{"layout":"Mouse","name":"microsoft.owa.mail.compose.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.meetingmsgstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["mailcompose"]},"instantsearch":{"Dependencies":["deferredwebservices","nonbootwebservices","personacontrol","calendarcontrols","deferredboot","moderngroupssearchshared","lightning"],"Types":["_y.cC","_y.fe","_db.Q"],"Templates":["InstantSearchContainerView","InstantSearchButtonsTemplate"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.instantsearch.mouse.css","type":"Themed"}],"Configurations":[{"type":"InstantSearchComponent"}],"Sources":[{"name":"microsoft.owa.core.instantsearch.js"},{"layout":"Mouse","name":"microsoft.owa.core.instantsearch.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["instantsearch"]},"searchsuggestions":{"Dependencies":["instantsearch","personacontrol"],"Types":["_db.cz","_db.cy","_db.bs","_db.bq","_is.v","_is.w"],"Templates":["SearchSuggestionPopupView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.search.suggestionsv2.mouse.css","type":"Themed"}],"Configurations":[{"type":"SearchSuggestionsV2Component"}],"Sources":[{"name":"microsoft.owa.search.suggestionsv2.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["searchsuggestions"]},"peoplesuggestions":{"Dependencies":["searchsuggestions","findpeople"],"Types":["_db.br"],"Templates":[],"Styles":[],"Configurations":[{"type":"FindPeopleSearchSuggestionsComponent"}],"Sources":[{"name":"microsoft.owa.search.suggestionsv2.findpeople.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["peoplesuggestions"]},"topicbasedpeoplesuggestions":{"Dependencies":["searchsuggestions","findpeople"],"Types":["_is.bc"],"Templates":[],"Styles":[],"Configurations":[{"type":"TopicBasedPeopleSuggestionsComponent"}],"Sources":[{"name":"microsoft.owa.search.suggestionsv2.topicbasedpeople.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["topicbasedpeoplesuggestions"]},"emailsuggestions":{"Dependencies":["instantsearch","nonbootwebservices","personacontrol"],"Types":["_db.dj","_is.bq","_is.bp"],"Templates":["EmailSuggestionView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.search.emailsuggestions.mouse.css","type":"Themed"}],"Configurations":[{"type":"EmailSuggestionsComponent"}],"Sources":[{"name":"microsoft.owa.search.emailsuggestions.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["emailsuggestions"]},"consumerfirstrun":{"Dependencies":["nonbootwebservices","shellplus","lightning"],"Types":["_db.S"],"Templates":[],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.consumerfirstrun.mouse.css","type":"Themed"}],"Configurations":[{"layout":"Mouse","type":"ConsumerFirstRunComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.consumerfirstrun.js"}],"PackagedSources":[],"Strings":[{"layout":"Mouse","name":"microsoft.owa.strings.cfirstrun.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["consumerfirstrun"]},"hashtagsux":{"Dependencies":["nonbootwebservices","deferredwebservices","editor","personacontrol","mailcommon"],"Types":["_y.eY","_y.eh","_y.dI","_y.eX"],"Templates":["TagSetContainerWrapper"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.core.tagset.mouse.css","type":"Themed"}],"Configurations":[{"type":"TagSetComponent"}],"Sources":[{"name":"microsoft.owa.core.tagset.js"},{"layout":"Mouse","name":"microsoft.owa.core.tagset.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["hashtagsux"]},"categorytree":{"Dependencies":["deferredboot"],"Types":["_y.hO","_y.kp"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.categorytree.mouse.css","type":"Themed"}],"Configurations":[{"type":"CategoryTreeComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.categorytree.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["categorytree"]},"readingpaneshared":{"Dependencies":["nonbootwebservices","personacontrol","deferredboot","findpeople"],"Types":["_y.il","_y.gJ"],"Templates":["LikeView","LikeView.LikersList","LikeView.LikeButton"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.readingpaneshared.mouse.css","type":"Themed"}],"Configurations":[{"type":"ReadingPaneSharedComponent"}],"Sources":[{"name":"microsoft.owa.readingpaneshared.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["readingpaneshared"]},"feedback":{"Dependencies":["nonbootwebservices","deferredboot"],"Types":["_y.iL","_db.M","_y.ft","_y.eq","_y.fP","_y.fO"],"Templates":["FeedbackInfoBarMessageView","ScreenshotView","ScreenshotAnnotatorView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.feedback.mouse.css","type":"Themed"}],"Configurations":[{"layout":"Mouse","type":"FeedbackComponent"}],"Sources":[{"layout":"Mouse","name":"microsoft.owa.feedback.js"},{"layout":"Mouse","name":"uservoicewidget.js"},{"layout":"Mouse","name":"osefo.js"},{"layout":"Mouse","name":"html2canvas.js"}],"PackagedSources":[],"Strings":[{"layout":"Mouse","name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"},{"layout":"Mouse","name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"layout":"Mouse","name":"microsoft.exchange.clients.owa2.client.options.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["feedback"]},"skypepromotion":{"Dependencies":["nonbootwebservices","deferredboot","lightning"],"Types":["_db.bA"],"Templates":[],"Styles":[],"Configurations":[{"layout":"Mouse","type":"SkypePromotionComponent"}],"Sources":[{"name":"microsoft.owa.skypepromotion.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.skypepromotion.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["skypepromotion"]},"deferredwebservices":{"Dependencies":[],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"DeferredWebServicesComponent"}],"Sources":[{"name":"microsoft.owa.boot.deferred.webservices.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["deferredwebservices"]},"deferredboot":{"Dependencies":["deferredjquery","deferredwebservices"],"Types":["_g.dm","_y.hh","_h.n","_h.bX","_h.T","_y.iJ","_y.lE","_g.hD","_y.cS","_a.dc","_y.go","_y.dQ","_y.gD","_db.t","_y.W","_y.cE","_y.gN"],"Templates":["ActivityIndicatorPanelView","AppStatusBarView","ArchiveFolderPickerView","BasicInfoBar","CategoryColorPickerTemplates.CategoryColorViewLabelTemplate","CategoryColorPickerTemplates.ColorGridMenuItemTemplate","CategoryColorPickerTemplates.ColorMenuItemTemplate","ConfirmDialog","ContextPeekView","DelayedSendInformationView","FilterByButtonView","FolderPickerContentView","FolderPickerForestView","FolderPickerTouchNarrowView","InfobarBullet","InfoBarMessageForComplexContent","InfoBarMessageSimple","InfoBarMessageWithAction","InfoBarMouse","InfoBarNarrow","InfoBarWide","LocationPlainTextView","MailSearchContainerView","MailSearchSuggestionItemView","MessageBoxContentView","MessageBoxDefaultView","OwaUserConfigurationUpdatedView","OtherUserMailboxFolderTreeView","ResizeControl.ResizeBox","SearchBarAndroidView","SearchBarIOSView","SearchContainerView","SearchContainerViewAppBar","SearchRefinerView","SearchSettingsView","SwipeMenu","UserActionsInformationView","VotingOptionsView","NotificationBarDefaultView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.boot.deferred.mouse.css","type":"Themed"},{"layout":"Mouse","name":"microsoft.owa.core.controls.extended.mouse.css","type":"Themed"}],"Configurations":[{"type":"BootDeferredComponent"}],"Sources":[{"name":"microsoft.owa.core.controls.extended.js"},{"name":"microsoft.owa.boot.deferred.js"},{"name":"clientauth.tokenprovider.js"},{"layout":"Mouse","name":"microsoft.owa.boot.deferred.mouse.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"},{"name":"microsoft.owa.boot.deferredstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["deferredboot"]},"analytics":{"Dependencies":[],"Types":["_y.hL"],"Templates":[],"Styles":[],"Configurations":[{"type":"AnalyticsComponent"}],"Sources":[{"name":"microsoft.owa.analytics.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["analytics"]},"ariaanalytics":{"Dependencies":[],"Types":["_a.eU"],"Templates":[],"Styles":[],"Configurations":[{"type":"AriaAnalyticsComponent"}],"Sources":[{"name":"microsoft.owa.ariaanalytics.js"},{"name":"aria-web-telemetry.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["ariaanalytics"]},"sackeranalytics":{"Dependencies":[],"Types":["_y.iC"],"Templates":[],"Styles":[],"Configurations":[{"type":"SackerAnalyticsComponent"}],"Sources":[{"name":"microsoft.owa.sackeranalytics.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["sackeranalytics"]},"nonbootwebservices":{"Dependencies":["deferredwebservices"],"Types":["_g.eZ","_g.eX"],"Templates":[],"Styles":[],"Configurations":[{"type":"NonBootWebServicesComponent"}],"Sources":[{"name":"microsoft.owa.core.nonboot.webservices.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["nonbootwebservices"]},"foresight":{"Dependencies":["deferredboot","calendarwebservices","calendarcore","calendarpeek"],"Types":["_y.gM"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.foresight.mouse.css","type":"Themed"}],"Configurations":[{"type":"ForesightComponent"}],"Sources":[{"name":"microsoft.owa.foresight.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["foresight"]},"messagelistadsreadingpane":{"Dependencies":["deferredboot","readingpane","textboys"],"Types":["_rp.P"],"Templates":["MessageListAdsReadingPaneView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.messagelistads.readingpane.mouse.css","type":"Themed"}],"Configurations":[{"type":"MessageListAdsReadingPaneComponent"}],"Sources":[{"name":"microsoft.owa.messagelistads.readingpane.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.messagelistads.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.coredeferredstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.commonstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["messagelistadsreadingpane"]},"serviceworkerboot":{"Dependencies":["deferredboot"],"Types":["_db.dw"],"Templates":[],"Styles":[],"Configurations":[{"type":"ServiceWorkerComponent"}],"Sources":[{"name":"microsoft.owa.serviceworkerboot.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["serviceworkerboot"]},"clientoptin":{"Dependencies":["deferredboot","lightning"],"Types":["_db.bz","_db.by"],"Templates":["ClientEnterpriseOptInFRE","ClientOptInFRE","ClientReOptInModalDialog","ClientOptInCalendarReinviteModalDialog"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.clientoptin.mouse.css","type":"Themed"}],"Configurations":[{"type":"ClientOptInComponent"}],"Sources":[{"name":"microsoft.owa.clientoptin.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["clientoptin"]},"calendarwebservices":{"Dependencies":["deferredwebservices"],"Types":[],"Templates":[],"Styles":[],"Configurations":[{"type":"CalendarWebServicesComponent"}],"Sources":[{"name":"microsoft.owa.calendar.webservices.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["calendarwebservices"]},"focusedinboxrollup":{"Dependencies":["deferredwebservices","nonbootwebservices","deferredboot","lightning","bundledmail"],"Types":["_y.hY"],"Templates":["FocusedRollupItemView.Mouse","FocusedInboxConsumerFRE","FocusedOtherMoveMenuFRE"],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.focusedinboxrollup.mouse.css","type":"Themed"}],"Configurations":[{"type":"FocusedInboxRollupComponent"}],"Sources":[{"name":"microsoft.owa.focusedinboxrollup.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["focusedinboxrollup"]},"lightning":{"Dependencies":["boot","deferredwebservices","deferredboot"],"Types":[],"Templates":["LightningPeekView","LightningPrimaryView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.lightning.mouse.css","type":"Themed"}],"Configurations":[{"type":"LightningComponent"}],"Sources":[{"name":"microsoft.owa.lightning.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.lightning.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["lightning"]},"prefetch":{"Dependencies":[],"Types":["_a.cV"],"Templates":[],"Styles":[],"Configurations":[{"type":"PrefetchComponent"}],"Sources":[{"name":"microsoft.owa.prefetch.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["prefetch"]},"schedulespeek":{"Dependencies":["boot","deferredboot","calendarcore","calendarcontrols","calendarwebservices","calendartheming","meetingmessage","locationwell","schedules","calendarpeek","calendarsurface"],"Types":[],"Templates":["SchedulesItemPeekViewContainer"],"Styles":[{"layout":"Mouse","name":"nbsprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"microsoft.owa.calendar.schedules.peek.mouse.css","type":"Themed"}],"Configurations":[{"type":"SchedulesPeekComponent"}],"Sources":[{"name":"microsoft.owa.calendar.schedules.peek.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["schedulespeek"]},"frepanel":{"Dependencies":["react","deferredboot"],"Types":["_y.fJ"],"Templates":["FREPanelView"],"Styles":[],"Configurations":[{"type":"FREPanelComponent"}],"Sources":[{"name":"owa.clientnext.frepanel.js"},{"name":"microsoft.owa.frepanel.js"}],"PackagedSources":[],"Strings":[],"PackagedStrings":[],"IncludedSlabs":["frepanel"]},"accessibilitychecker":{"Dependencies":["boot","deferredboot","mailcommon"],"Types":["_mco.E"],"Templates":["AccCheckerPaneNavigatorView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.accessibilitychecker.mouse.css","type":"Themed"}],"Configurations":[{"type":"AccessibilityCheckerComponent"}],"Sources":[{"name":"microsoft.owa.accessibilitychecker.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["accessibilitychecker"]},"officepay":{"Dependencies":["boot","extensibility"],"Types":["_y.bK"],"Templates":["OPayView"],"Styles":[{"layout":"Mouse","name":"microsoft.owa.officepay.mouse.css","type":"Themed"}],"Configurations":[{"type":"OfficePayComponent"}],"Sources":[{"name":"microsoft.owa.officepay.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.nonbootstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["officepay"]},"gdpradsprompt":{"Dependencies":["nonbootwebservices","deferredboot","lightning"],"Types":["_db.bk"],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.gdpradsprompt.mouse.css","type":"Themed"}],"Configurations":[{"type":"GdprAdsPromptComponent"}],"Sources":[{"name":"microsoft.owa.gdpradsprompt.js"},{"layout":"Mouse","name":"microsoft.owa.gdpradsprompt.mouse.js"},{"name":"consentstring.bundle.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.owa.gdpradspromptstring.strings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["gdpradsprompt"]},"boot":{"Dependencies":[],"Types":["_t.c","_j.t","_y.dv","_y.ej"],"Templates":["HeaderView","MessageListAdsListView"],"Styles":[{"layout":"Mouse","name":"sprite1.mouse.css","type":"Sprite"},{"layout":"Mouse","name":"boot.worldwide.mouse.css","type":"Themed"}],"Configurations":[{"type":"CoreFrameworkComponent"},{"type":"BootModelsComponent"},{"type":"CoreControlsComponent"},{"type":"CoreWebServicesComponent"},{"type":"ApplicationAppComponent"},{"type":"BootViewModelsComponent"},{"type":"BootViewsComponent"},{"type":"MailListViewComponent"},{"type":"XOMailListViewViewsV2Component"},{"type":"BootReadingPaneComponent"},{"type":"O365ShellCoreG2Component"},{"layout":"Mouse","type":"O365G2HeaderComponent"}],"Sources":[{"name":"empty.js"},{"name":"microsoftajax.js"},{"name":"promise-polyfill-6.0.2.min.js"},{"name":"globalize.js"},{"isDeferrable":true,"name":"microsoft.jsmvvm.framework.js"},{"isDeferrable":true,"name":"microsoft.jsmvvm.controls.js"},{"isDeferrable":true,"name":"microsoft.fabric.framework.js"},{"isDeferrable":true,"name":"microsoft.fabric.models.js"},{"isDeferrable":true,"name":"microsoft.fabric.controls.js"},{"isDeferrable":true,"name":"microsoft.fabric.controls.extended.js"},{"isDeferrable":true,"name":"microsoft.owa.core.notifications.js"},{"isDeferrable":true,"name":"microsoft.owa.core.framework.js"},{"name":"microsoft.owa.program.js"},{"isDeferrable":true,"name":"microsoft.owa.core.webservices.js"},{"isDeferrable":true,"name":"microsoft.owa.boot.common.js"},{"isDeferrable":true,"name":"microsoft.owa.boot.models.js"},{"isDeferrable":true,"name":"microsoft.owa.boot.viewmodels.js"},{"isDeferrable":true,"name":"microsoft.owa.core.controls.js"},{"isDeferrable":true,"name":"microsoft.owa.boot.views.js"},{"layout":"Mouse","isDeferrable":true,"name":"microsoft.owa.boot.views.mouse.js"},{"isDeferrable":true,"name":"microsoft.owa.application.app.js"},{"isDeferrable":true,"name":"microsoft.owa.maillistviewmodels.js"},{"isDeferrable":true,"name":"microsoft.owa.triageactions.js"},{"isDeferrable":true,"name":"microsoft.owa.maillistview.js"},{"layout":"Mouse","name":"microsoft.owa.maillistview.mouse.js"},{"isDeferrable":true,"name":"microsoft.owa.xomaillistviewviewsv2.js"},{"layout":"Mouse","isDeferrable":true,"name":"microsoft.owa.xomaillistviewviewsv2.mouse.js"},{"isDeferrable":true,"name":"microsoft.owa.boot.bootreadingpane.js"},{"isDeferrable":true,"name":"microsoft.o365.suiteutil.js"},{"isDeferrable":true,"name":"microsoft.o365.clientlogging.js"},{"isDeferrable":true,"name":"microsoft.o365.clientperformance.js"},{"isDeferrable":true,"name":"microsoft.o365.shellg2.coremin.js"},{"isDeferrable":true,"name":"microsoft.o365.shellg2.core.owa.js"},{"layout":"Mouse","name":"microsoft.o365.shellg2.core.owa.mouse.js"},{"isDeferrable":true,"name":"microsoft.owa.shellcoreg2.o365.js"},{"layout":"Mouse","isDeferrable":true,"name":"microsoft.owa.header.o365g2.js"}],"PackagedSources":[{"layout":"Mouse","isDeferrable":true,"name":"boot.worldwide.0.mouse.js"},{"layout":"Mouse","isDeferrable":true,"name":"boot.worldwide.1.mouse.js"},{"layout":"Mouse","isDeferrable":true,"name":"boot.worldwide.2.mouse.js"},{"layout":"Mouse","isDeferrable":true,"name":"boot.worldwide.3.mouse.js"}],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.strings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.frameworkstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.bootcommonstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.bootmodelsstrings.localized.min.js"},{"name":"microsoft.exchange.clients.owa2.client.webservicesstrings.localized.min.js"},{"name":"microsoft.o365.shellg2.strings.localized.min.js"}],"PackagedStrings":[{"layout":"Mouse","name":"boot.worldwide.mouse.strings.localized.min.js"}],"IncludedSlabs":["bootjquery","boot","bootdiagnostics","xomaillistviewviews","bootreadingpane","header","reactmail","messagelistadslistview"]},"addroom":{"Dependencies":["deferredboot","deferredwebservices","calendarwebservices","calendarcore"],"Types":[],"Templates":[],"Styles":[{"layout":"Mouse","name":"microsoft.owa.calendar.addroom.mouse.css","type":"Themed"}],"Configurations":[{"type":"CalendarAddRoomComponent"}],"Sources":[{"name":"microsoft.owa.calendar.addroom.js"}],"PackagedSources":[],"Strings":[{"name":"microsoft.exchange.clients.owa2.client.calarstrings.localized.min.js"}],"PackagedStrings":[],"IncludedSlabs":["addroom"]}};                                                   var languageMarker = '##lang##';                 var cultureMarker = '##culture##';                 var localeMarker  = '##locale##';                              function checkUTFEncoding() {                     var decodedString = "你好A";                     if (htmlDec("&amp;#20320;&amp;#22909;&amp;#65;") != decodedString) {                         alert("Outlook requires your browser to use UTF-8 encoding. For your protection, you\u0027ll be signed out. Please set your browser encoding to UTF-8 and sign in again.");                         window.location.href = "/owa/logoff.owa";                     }                 }                  checkUTFEncoding();                  userScriptResources[userScriptResources.length] = { "fileName": "https://r4.res.office365.com/owa/prem/16.2774.2.2643528/scripts/##lang##/boot.worldwide.mouse.strings.localized.min.js"}; userScriptResources[userScriptResources.length] = { "fileName": "https://r4.res.office365.com/owa/prem/16.2774.2.2643528/scripts/globalize/globalize.culture.##culture##.js"}; styleResources[styleResources.length] = { "fileName": "https://r4.res.office365.com/owa/prem/16.2774.2.2643528/resources/images/##locale##/sprite1.mouse.css"}; styleResources[styleResources.length] = { "fileName": "https://r4.res.office365.com/owa/prem/16.2774.2.2643528/resources/styles/##locale##/boot.worldwide.mouse.css"};                  window.scriptsLoaded = window.scriptsLoaded || {};                                       window.scriptsLoaded['boot.worldwide.0.mouse.init.js'] = 0;                                      window.scriptsLoaded['boot.worldwide.1.mouse.init.js'] = 0;                                      window.scriptsLoaded['boot.worldwide.2.mouse.init.js'] = 0;                                      window.scriptsLoaded['boot.worldwide.3.mouse.init.js'] = 0;                              }             catch (ex) {                 window.owaLastErrorReported = ex;                 throw ex;             }              function UpdateUserData(template) {                 for (var i = 0; i &lt; template.length; ++i) {                     if (template[i] != null &amp;&amp; template[i]["fileName"] != null) {                         template[i]["fileName"] = template[i]["fileName"].replace(languageMarker, userLanguageVar).replace(cultureMarker, userCultureVar).replace(localeMarker, stylesLocale).toLowerCase();                     }                 }             }              function setupUserSpecificResources(serverVersion, curTheme, curCulture, curLang, isRtl, minOwsVersion, serverOwsVersion, curStyleLocale, userSpecificResourcesHash, curFeatures, curDefaultAspxVer, fontFamilies, themedColors, headerTheme, forceBO, osfLang) {                 try{                     var defaultPageVer = 8;                     var forcePLTOnVersionChange = false;                     var versionCheckPassed = defaultPageVer == curDefaultAspxVer;                      if (forcePLTOnVersionChange) {                         versionCheckPassed = versionCheckPassed &amp;&amp; serverVersion == sver;                     }                     else {                         if (true) {                             var clientVer = _g.OWSVersion.create(_g.ClientVersionProvider.currentOWSVersion);                             var serverVer = _g.OWSVersion.create(serverOwsVersion);                             var minVer = _g.OWSVersion.create(minOwsVersion);                             versionCheckPassed = versionCheckPassed &amp;&amp; clientVer.supports(minVer);                              if (false) {                                versionCheckPassed = versionCheckPassed &amp;&amp; serverVer.supports(clientVer);                             }                         }                     }                      var addStyles = function(blockId, blockContent) {                         var styleBlock = null;                         if (blockContent)                         {                             styleBlock = document.getElementById(blockId);                             if (styleBlock)                             {                                 styleBlock.appendChild(document.createTextNode(blockContent));                             }                         }                     };                      var replaceTokens = function(templateString, tokens) {                         if (templateString) {                             return templateString.replace(/@([^;}\/\\]+)/g, function(match, token) {                                 if (token in tokens) {                                     if (/(^(#)?[0-9A-F]{6}$)|(^(#)?[0-9A-F]{3}$)/i.test(tokens[token])){                                         if (tokens[token][0] != '#') {                                             return '#' + tokens[token];                                         }                                     }                                     return tokens[token];                                 }                                 return "transparent";                             });                         }                          return '';                     };                      var localeStyles = '';                     var themedColorStlyes = '';                     var headerImageStyles = '';                      if (typeof(fontFamilies) != 'undefined' &amp;&amp; typeof(LocaleFontFamilyTemplate) != 'undefined') {                         localeStyles += replaceTokens(LocaleFontFamilyTemplate, fontFamilies);                     }                      if (typeof(headerTheme) != 'undefined' &amp;&amp; typeof(HeaderImageTemplate) != 'undefined') {                         headerImageStyles += replaceTokens(HeaderImageTemplate, headerTheme);                     }                      if (typeof(themedColors) != 'undefined') {                         if (typeof(ThemedColorTemplate) != 'undefined') {                             themedColorStlyes += replaceTokens(ThemedColorTemplate, themedColors);                         }                          if (typeof(o365ColorTemplate) != 'undefined') {                             themedColorStlyes += replaceTokens(o365ColorTemplate, themedColors);                         }                     }                      if (localeStyles) {                         addStyles("FontLocaleStyles", localeStyles);                     }                      if (themedColorStlyes) {                         addStyles("ThemedColorStyles", themedColorStlyes);                     }                      if (headerImageStyles) {                         addStyles("HeaderImages", headerImageStyles);                     }                      var redirectParam = 'ver' + '=' + serverVersion;                     if (!forceBO &amp;&amp; versionCheckPassed &amp;&amp;                             (serverVersion == sver ||                              (curTheme == clientTheme &amp;&amp; curCulture == userCultureVar &amp;&amp; curLang == userLanguageVar))||                              window.location.href.indexOf(redirectParam) &gt;=0) {                         clientTheme = curTheme;                         userCultureVar = curCulture;                         userLanguageVar = curLang;                         osfLanguageVar = osfLang;                         userCultureRtl = isRtl;                         stylesLocale = curStyleLocale;                          document.getElementsByTagName("html")[0].setAttribute('dir', isRtl ? "rtl" : "ltr");                          UpdateUserData(userScriptResources);                         UpdateUserData(styleResources);                                                       loadScripts(userScriptResources, cdnEndPointNameForBootResources != "", false);                                              }                     else {                         if (!versionCheckPassed) {                             setLocalStorageValue("rebootReason", "4");                         }                         else if (forceBO) {                             setLocalStorageValue("rebootReason", "11");                         }                         else {                             setLocalStorageValue("rebootReason", "7");                         }                         redirect('ver', serverVersion,'cver', sver, 'vC', (versionCheckPassed ? 1 : 0), 'forceBO', forceBO);                     }                 }                 catch (ex) {                     window.owaLastErrorReported = ex;                     throw ex;                 }             }          t t t t   parseEndTimes["boot.worldwide.0.mouse.init.js"] = ((new Date()) - window.dateZero);  parseEndTimes["boot.worldwide.1.mouse.init.js"] = ((new Date()) - window.dateZero);  parseEndTimes["boot.worldwide.2.mouse.init.js"] = ((new Date()) - window.dateZero);  parseEndTimes["boot.worldwide.3.mouse.init.js"] = ((new Date()) - window.dateZero); parseEndTimes["allBootScripts"] = ((new Date()) - window.dateZero);              try{                 var blockToAdd;setupUserSpecificResources('16.2774.2.2643528', 'base', 'en-US', 'en', false, 'V2_6', 'V2018_01_18', '0', 'obsoleteparam', [], 8, {'font-family-light':'"wf_segoe-ui_light", "Segoe UI Light", "Segoe WP Light", "Segoe UI", "Segoe WP", Tahoma, Arial, sans-serif','font-family-semilight':'"wf_segoe-ui_semilight", "Segoe UI Semilight", "Segoe WP Semilight", "Segoe UI", "Segoe WP", Tahoma, Arial, sans-serif','font-family-regular':'"wf_segoe-ui_normal", "Segoe UI", "Segoe WP", Tahoma, Arial, sans-serif','font-family-semibold':'"wf_segoe-ui_semibold", "Segoe UI Semibold", "Segoe WP Semibold", "Segoe UI", "Segoe WP", Tahoma, Arial, sans-serif'}, {'color-themeDarker':'00497E','color-themeDark':'005DA1','color-themeDarkAlt':'005DA1','color-themePrimary':'0072C6','color-themeSecondary':'2F94DF','color-themeTertiary':'9AC3E2','color-themeLight':'DAECF9','color-themeLighter':'F4F9FD','color-themeLighterAlt':'F4F9FD','topnavLinkBG':'#000000','topnavLinkBGrgb':'rgba(0,0,0,.8)','topnavBG':'#000000','topnavText':'FFFFFF','navmenu':'FFFFFF','appLauncherBG':'333333'}, {'theme':'base'}, false, 'en'); userSpecificsLoaded = true;                 loadStyles(styleResources);             }             catch (ex){                 window.owaLastErrorReported = ex;                 throw ex;             }           parseEndTimes['boot.worldwide.mouse.strings.localized.min.js'] = ((new Date()) - window.dateZero);  parseEndTimes['globalize.culture.en-us.js'] = ((new Date()) - window.dateZero);
+
+Skip   to message list Skip to   message
+
+Office 365  Outlook Outlook
+
+Dinorah Martinez
+
+DM
+
+Search Mail and   People
+
+Folders
+
+Junk E-Mail   52 Unread
+
+52
+
+Inbox   92 Unread
+
+92
+
+Clutter   6 Unread
+
+6
+
+Deleted Items   4508 Unread
+
+4508
+
+Sent Items   17 Unread
+
+17
+
+Drafts   399 items
+
+399
+
+More
+
+Groups
+
+Opt-in
+
+Senate Members
+
+Secretaries
+
+CSEA Members
+
+Groups
+
+28   unseen messages
+
+Opt-in
+
+28
+
+7   unseen messages
+
+Senate Members
+
+7
+
+8   unseen messages
+
+Secretaries
+
+8
+
+3   unseen messages
+
+CSEA Members
+
+3
+
+Create
+
+Discover
+
+Try the new Outlook
+
+New |
+
+Reply   all |
+
+Delete
+
+Recover
+
+Move to Inbox
+
+Delete all
+
+Mark all as read
+
+Archive
+
+Junk |
+
+Not   junk |
+
+Sweep
+
+Block
+
+Move   to
+
+Categories
+
+Mark   as unread
+
+Mark as read
+
+Pin
+
+Unpin
+
+Flag
+
+Clear flag
+
+Mark complete
+
+Move to Clutter
+
+Ignore
+
+Stop ignoring
+
+Create   rule...
+
+Print
+
+Show in   immersive reader
+
+Assign   policy
+
+Undo
+
+Inbox
+
+Filter
+
+Next: Loading your upcoming events...
+
+Next:
+
+Next: No events for the next two days.
+
+Agenda
+
+Older
+
+David   Ralston
+
+Categories
+
+Inbox
+
+4/20/2016
+
+Re: ASC Call to service June 2016
+
+I'd prefer not   to do two sessions in a day, if possible.  But if those two sessions are   under-represented, I suppose I can do it. -David On Mon, Apr 18, 2016 at 4:01   PM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: Thank you   professor. Is th
+
+David   Ralston
+
+Categories
+
+Inbox
+
+4/20/2016
+
+question related to faculty senate
+
+Hi, I'm curious   about something, and I hope you can answer my question: how many course releases   are in effect in a normal semester? or perhaps even more specifically, what are   the current things that lead to course releases, and how often do the
+
+Dorothy   Criscuolo
+
+Categories
+
+Inbox
+
+4/19/2016
+
+Student Union Parking Spaces - Wednesday, April 20
+
+Please be   advised that several parking spaces in the Student Union lot in front of the   loading dock will be unavailable on Wednesday, April 20, 2016. If you park your   car in the Student Union parking lot, please keep the area nearest the loading   dock clea
+
+Rolando
+
+Categories
+
+Inbox
+
+4/19/2016
+
+de normita
+
+TÃ­a : Las   medias de compresiÃ³n a mi mamÃ¡ les vendrian muy bien, ella a cada  rato se   queja de que le duelen las piernas como tiene la circulaciÃ³n tan  mala en las   venas. Cuando pasa esto ella misma se entiza las piernas con  las bandas   elÃ¡sticas
+
+Lauren   Foxworth
+
+Categories
+
+Inbox
+
+4/19/2016
+
+ASC hearings
+
+Hi Dinorah, I   would like to volunteer (please see below). Name: _____Lauren Foxworth______   Dept: ___Exceptional Education and Learning Telephone: (Work)__3415____            (Home) ___732-241-5803 E-mail address: ______ValasaL@oldwestbury.edu__
+
+Diane   Carbocci
+
+Categories
+
+Inbox
+
+4/19/2016
+
+Fwd: SUNY Budget
+
+Hi Dinorah, Hope   you are doing well! Look forward to seeing you! Best regards, Diane M. Carbocci   Office of Student Affairs SUNY Old Westbury Phone: (516) 876-3175 Fax: (516)   876-3062 Attention Students: Be sure to regularly check your Ol
+
+ZhiHong   Shi
+
+Categories
+
+Inbox
+
+4/18/2016
+
+Re: ASC Call to service June 2016
+
+Dear Dinorah, I   would like to attend the Afternoon session (1:30 --5pm) on Tuesday  Juan 7.  My   information is the following: Name:  Zhihong Shi  Dept: Finance Telephone:   917-326-0851   (cell) E-mail address: shiz@oldwestbury.edu Thanks.
+
+Diane   Carbocci
+
+Categories
+
+Inbox
+
+4/18/2016
+
+Fwd: SUNY Budget
+
+Hi Dinorah,   Thank you! Best regards, Diane M. Carbocci Office of Student Affairs SUNY Old   Westbury Phone: (516) 876-3175 Fax: (516) 876-3062 Attention Students: Be sure   to regularly check your Old Westbury email account.  Old Westbury em
+
+Rolando
+
+Categories
+
+Inbox
+
+4/18/2016
+
+de normita
+
+Si, ya   habÃ­a leido algo al especto pero me parece eso una historia tan  irreal que   no creo que sea cierta. Mucha gente hace lo indecible por sus  10 minutos de   fama. Quizas esa muchacha luce casi idÃ©ntica como Diana  pero de nuevo en este   mundo todos
+
+Chartwells   at SUNY Old Westbury
+
+Categories
+
+Inbox
+
+4/18/2016
+
+New Catering Request  Order Number  1118
+
+Request Changes   Print Quote Dear Dinorah Martinez, Please do not reply to this email! Instead,   please use the "Request Changes" link to respond, if needed. Chartwells at SUNY   Old Westbury Campus Center 223 Storehill Road,Old Westbury,NY
+
+Chartwells   at SUNY Old Westbury
+
+Categories
+
+Inbox
+
+4/18/2016
+
+New Catering Request  Order Number  1117
+
+Request Changes   Print Quote Dear Dinorah Martinez, Please do not reply to this email! Instead,   please use the "Request Changes" link to respond, if needed. Chartwells at SUNY   Old Westbury Campus Center 223 Storehill Road,Old Westbury,NY
+
+Chartwells   at SUNY Old Westbury
+
+Categories
+
+Inbox
+
+4/18/2016
+
+New Catering Request  Order Number  1116
+
+Request Changes   Print Quote Dear Dinorah Martinez, Please do not reply to this email! Instead,   please use the "Request Changes" link to respond, if needed. Chartwells at SUNY   Old Westbury Campus Center 223 Storehill Road,Old Westbury,NY
+
+Rolando
+
+Categories
+
+Inbox
+
+4/18/2016
+
+de normita
+
+Okay tÃ­a,   cuando Martica te envie las fotos me las mandas porque ella a  veces se demora   mucho en enviar un correo.Ella me ha dicho que a veces  pasan semanas y ella no   se sienta revisar su correo, por eso a veces le  escribo por el de Gladys que es   l
+
+Patricia   Smith
+
+Categories
+
+Inbox
+
+4/18/2016
+
+Re: Question
+
+Dinorah, The   dates provided should not pose a problem on my end. Pat Patricia Smith Registrar   SUNY College at Old Westbury Old Westbury, New York 11568   smithp@oldwestbury.edu ATTENTION STUDENTS: Be sure to check your Old Westbury   e-mail
+
+Kathleen   Velsor
+
+Categories
+
+Inbox
+
+4/18/2016
+
+Re: Summary Budget
+
+No No need to   send the document Patrick already did Thank you Hope you feel better Kate   Kathleen G. Velsor Ed.D. Faculty Senate Chair Director of The Underground   Teaching Partnership Associate Professor School of Education SUNY College @ Old
+
+Robert   Shields
+
+Categories
+
+Inbox
+
+4/18/2016
+
+Re: Facility request
+
+Zach doesn't   work Mondays.  I don't work on Thursdays. Bo On Mon, Apr 18, 2016 at 12:49 PM,   Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: Thank you. You are an   angel! I thought you didn't work in Mondays. Dinorah I. Martinez Faculty   Sena
+
+Robert   Shields
+
+Categories
+
+Inbox
+
+4/18/2016
+
+Re: Facility request
+
+OK, I've booked   NAB 2034 for all 3 dates. Bob On Mon, Apr 18, 2016 at 12:05 PM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: The Academic Practices Committee is   going to hold three days of Academic Standing Hearings on June 6, 7 &amp; 8.   Please,
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+4/18/2016
+
+The Current - April 18, 2016
+
+​April 18, 2016   Greek Week Fundraisers (Submitted by Jamie Dresher, Center for Student   Leadership &amp; Involvement) This week is Greek Week and our Fraternities &amp;   Sororities are not only competing for the Greek Week Cup, they are also   fundraising for
+
+Calvin   Butts
+
+Categories
+
+Inbox
+
+4/18/2016
+
+Political Activity on Campus
+
+As this   electoral season moves on, it is appropriate to review some of the rules that   apply to us as a State agency.  The University, the College and I fully support   free speech on campus subject to the regulations that apply to us.  Those   regulations
+
+Peter   Ikeler
+
+Categories
+
+Inbox
+
+4/18/2016
+
+APC Meeting and FS Agenda Items
+
+Dear Kathleen,   As per your request, the APC will meet next on Monday, 4/25 at 2:30 pm in NAB   2046 (the Sociology conference room). Your or other members of the Senate   Executive are welcome to attend and present the issues regarding EOP and the   Honors C
+
+Jacob   Heller
+
+Categories
+
+Inbox
+
+4/16/2016
+
+Re: Revised Bylaws Amendments, with explanatory comments
+
+Hi, Chris, Sorry   - I wanted to show all the changes, as well as their explanations (which was   something people had asked for), and put it into a pdf to keep things stable.   Here's an MS Word version, which shows the revised text, without the   red-lini
+
+Christopher   Hobson
+
+Categories
+
+Inbox
+
+4/16/2016
+
+Re: Revised Bylaws Amendments, with explanatory comments
+
+Jacob, Please   send readable clean copy. Chris On Sat, Apr 16, 2016 at 8:45 AM, Jacob Heller   &lt;hellerj@oldwestbury.edu&gt; wrote: Attached please fine revised language for   the proposed Bylaws changes, with comments throughout to explain the   rationale
+
+Jacob   Heller
+
+Categories
+
+Inbox
+
+4/16/2016
+
+Revised Bylaws Amendments, with explanatory comments
+
+Attached please   fine revised language for the proposed Bylaws changes, with comments throughout   to explain the rationales for each proposed substantive change (some minor   language changes do not carry comments).  As we discussed at the most last   Senate me
+
+Kathleen   Velsor
+
+Categories
+
+Inbox
+
+4/15/2016
+
+Re: Sorry for not being there.
+
+you are not   forgotten. I hope you can come back soon you must be terribly frustrated. can't   the union help you? Feel better Kate Kathleen G. Velsor Ed.D. Faculty Senate   Chair Director of The Underground Teaching Partnership Associate Professor   S
+
+Yogesh   More
+
+Categories
+
+Inbox
+
+4/15/2016
+
+Re: Sorry for not being there.
+
+Hi Dinorah, I'm   sorry to hear that the recovery process is taking time, and that you are feeling   frustrated. In your absence, I have come to appreciate you even more for all   that you do for us! I wish you a speedy recovery!! Yogesh On Thu, Apr 14
+
+Kathleen   Velsor
+
+Categories
+
+Inbox
+
+4/15/2016
+
+Summary Budget
+
+Dinorah Hi Could   you please send this out to the faculty The note should say: This is a summary   of the budget that was prepared by Len Davis for your review Thank you Kate   Kathleen G. Velsor Ed.D. Faculty Senate Chair Director of The Underground   T
+
+Rolando
+
+Categories
+
+Inbox
+
+4/14/2016
+
+fotos
+
+-- Este mensaje   le ha llegado mediante el servicio de correo electronico que ofrece Infomed para   respaldar el cumplimiento de las misiones del Sistema Nacional de Salud. La   persona que envia este correo asume el compromiso de usar el servicio a   tal
+
+Rolando
+
+Categories
+
+Inbox
+
+4/14/2016
+
+de normita
+
+TÃ­a :   SegÃºn la fecha que traÃ­a el paquete lo enviaste el dÃ­a 25, asÃ­   que en 15  dÃ­as ya llegÃ³. El caso es que EEUU y Cuba ya restablecieron el   correo  postal directo hace como mes y pico, entonces todo va a llegar mÃ¡s    rÃ¡pido. Antes supongo
+
+Lena   Farrugia
+
+Categories
+
+Inbox
+
+4/14/2016
+
+Re: Question
+
+Hi Dinorah, Yes,   I received the doctor's note that was faxed to me and I sent it to your case   manager Ailene Lena On Thu, Apr 14, 2016 at 2:38 PM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: Did you already received the document I   mailed
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+4/14/2016
+
+Ballot for AY 2016-2017 Elections
+
+Good morning!   The ballots for the elected committees are due tomorrow, April 15.  There is   still time to drop it in the mail, U.S. or interoffice.  You can also drop it   off at the Faculty Senate office.  While Dinorah is out, Liselle would be happy   to
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+4/14/2016
+
+The Current - April 14, 2016
+
+​April 14, 2016   Open House This Weekend (Submitted by Sarah Taiclet, Office of Enrollment   Services) This is a reminder that Open House for prospective students takes   place this Sunday, April 17, 2016 from 9:00 a.m.-12:00 p.m. in the Campus   Center.
+
+Peter   Ikeler
+
+Categories
+
+Inbox
+
+4/13/2016
+
+Re: ASC Hearings
+
+Hi Dinorah, How   about June 6, 7 and 8? Thanks, Peter On Wed, Apr 13, 2016 at 4:29 PM, Dinorah   Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: Hi. It would be three or two   consecutive days during that week. I need the dates you are planning to do   i
+
+Peter   Ikeler
+
+Categories
+
+Inbox
+
+4/13/2016
+
+ASC Hearings
+
+Hi Dinorah, I   hope you're recovering well! Sorry to bother you during your convalescence, but   I wanted to check in about setting dates for the next block of ASC Hearings? I'm   personally around until June 10, so just let me know what you think best.
+
+Rolan
+
+Categories
+
+Inbox
+
+4/13/2016
+
+de normita
+
+TÃ­a : Hace   rato que no hablamos, Â¿CÃ³mo estÃ¡ todo por allÃ¡? Por aquÃ­ todos bien     en lo que cabe. Mi papÃ¡ con una conjutivitis que ya fue al mÃ©dico y le     mandÃ³ fomentos y unas gotas para los ojos. Yo sigo con mis gastritis que   se   rehÃºs
+
+Evan   Kobolakis
+
+Categories
+
+Inbox
+
+4/12/2016
+
+Announcing the Campus' Move to Microsoft Office365
+
+To the Campus   Community, SUNY Old Westbury is pleased to announce that it is embarking on   major technological changes designed to promote efficiency, productivity and   improved communications for all members of the campus community. These changes   will a
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+4/11/2016
+
+The Current - April 11, 2016
+
+​​April 11, 2016   TLRC Roundtable Discussion (Submitted by Ryoko Yamamoto, Sociology) TLRC is   hosting a roundtable discussion entitled "Strategies to Support Student Writers   Across the Disciplines" on Monday, April 11, 2016 during the Common Hour   at
+
+Ryoko   Yamamoto
+
+Categories
+
+Inbox
+
+4/8/2016
+
+Google MSO365 Resolution
+
+Greetings Kate,   Exec Committee and Dinorah, Attached please find the Senate approved version of   the Google-MSO365. We are hoping to receive CIO's response in writing soon.   Please let me know if there is any action TLRC should take in this matter.   Al
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+4/7/2016
+
+The Current - April 6, 2016
+
+​​April 6, 2016   Campus Food Pantry Survey (Submitted by Cris Notaro, Arts &amp; Sciences) A   group from the campus community has been discussing the creation of a food   pantry for those in need at the College. If you haven't already done so, please   take
+
+Yogesh   More
+
+Categories
+
+Inbox
+
+4/7/2016
+
+Fwd: Next FS meeting.
+
+Hi Liselle,   Thank you so much for agreeing to prepare the handouts for Friday's (4/8)   Faculty Senate meeting. I have attached the documents that need to be   photocopied. Here are the instructions, I hope they are clear and detailed, but   feel free to ask
+
+Peter   Ikeler
+
+Categories
+
+Inbox
+
+4/7/2016
+
+Fwd: APC Agenda Items for 4/8 FS
+
+Hi Kathleen and   Dinorah, I sent this original message out two weeks ago but never heard back,   and the most recent email to faculty with the 4/8 FS agenda does not include the   items I had sent. Is there any way these items from APC can be still   included
+
+William   Kimmins
+
+Categories
+
+Inbox
+
+4/7/2016
+
+State Ban on Travel to Mississippi
+
+To Campus   Faculty and Staff:  Governor Cuomo has issued an Executive Order banning non   essential College travel to Mississippi. A copy of the Executive Order is   available at the link below.     https://drive.google.com/file/d/0B9MLYffrFX5pMEowRkhIb2Ut
+
+Yogesh   More
+
+Categories
+
+Inbox
+
+4/6/2016
+
+Re: Time for the April 8th FS meeting
+
+Yes, that's   correct. I see you sent them all out. Thanks Dinorah. Hope you are feeling well.   Yogesh On Wed, Apr 6, 2016 at 9:48 PM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: I will send them together with the   agenda and minutes as att
+
+Yogesh   More
+
+Categories
+
+Inbox
+
+4/6/2016
+
+Fwd: TLRC Resolution for Google Apps - MSO365 Migration
+
+Hi Dinorah,   These attachments should go out in advance of the April 8th senate meeting.   Best, Yogesh ---------- Forwarded message ---------- From: Ryoko Yamamoto   &lt;yamamotor@oldwestbury.edu&gt; Date: Mon, Apr 4, 2016 at 4:28 PM Subject:   TLRC Reso
+
+Yogesh   More
+
+Categories
+
+Inbox
+
+4/6/2016
+
+Fwd: Time for the April 8th FS meeting
+
+Hi Dinorah,   These attachments should go out in advance of the April 8th senate meeting.   Yogesh ---------- Forwarded message ---------- From: sanacoryf   &lt;sanacoryf@oldwestbury.edu&gt; Date: Sun, Mar 20, 2016 at 8:04 PM Subject:   Time for the April
+
+Yogesh   More
+
+Categories
+
+Inbox
+
+4/6/2016
+
+Documents for April 8th senate meeting
+
+Hi Dinorah, I've   attached the agenda for Friday's senate meeting. Kate has reviewed it. I have   also attached minutes from March 11th meeting. I'll forward an email from Frank,   and an email from Ryoko containing documents that should be distributed via
+
+Calvin   Butts
+
+Categories
+
+Inbox
+
+4/6/2016
+
+2016 Commencement Speaker Announced
+
+I   am proud to announce the speaker for the 2016 Commencement Ceremonies:  Mr.   Michael J. Dowling, President and Chief Executive Officer of Northwell Health,   among the nation’s 10 largest health systems. As we prepare to hold the 50th   Commencement in th
+
+Yogesh   More
+
+Categories
+
+Inbox
+
+4/6/2016
+
+Re: Friday's Senate meeting
+
+Got it, thanks   Dinorah. On Wed, Apr 6, 2016 at 10:08 AM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: Dinorah I. Martinez Faculty Senate   Secretary NAB Room 2040 Phone: 516-876-3117 Fax: 516-876-8219   martinezd@oldwestbury.edu -------
+
+Ryoko   Yamamoto
+
+Categories
+
+Inbox
+
+4/5/2016
+
+TLRC Resolution for Google Apps - MSO365 Migration
+
+Greetings, Hope   you had an enjoyable Spring Break. Last semester, TLRC and the IT Department   hosted a Google Apps - Microsoft Office Information and Discussion Forum. This   forum was organized with the understanding that a change of the campus   email/
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+4/4/2016
+
+The Current - April 4, 2016
+
+​​April 4, 2016   Student-Athlete Advisory Committee Clothing Drive (Submitted by Brittany   Villalta, Athletics) SUNY Old Westbury Student-Athlete Advisory Committee (SAAC)   is holding a "Spring Cleaning" clothing drive on campus now through Friday,   Ap
+
+Fred   Millan
+
+Categories
+
+Inbox
+
+4/2/2016
+
+Re: List of Distinguished faculty
+
+Gracias! On Thu,   Mar 31, 2016 at 5:19 PM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt;   wrote: I think Barbara Hillery and Carlyn Wood got a Service award. Dinorah I.   Martinez Faculty Senate Secretary NAB Room 2040 Phone: 516-876-3117 Fax:   516
+
+William   Kimmins
+
+Categories
+
+Inbox
+
+4/1/2016
+
+State Ban on Travel to North Carolina
+
+To Campus   Faculty and Staff:  Governor Cuomo has issued an Executive Order banning non   essential College travel to North Carolina. A copy of the Executive Order is   available at the link below.     https://drive.google.com/file/d/0B9MLYffrFX5pS0lVT3h0N
+
+Ryoko   Yamamoto
+
+Categories
+
+Inbox
+
+4/1/2016
+
+For Apr 8 Senate: Resolution on Migration from Google Apps to   MSO365
+
+Greetings Kate   and Dinorah, TLRC is submit the attached resolution regarding the scheduled   migration from Google to MSO365 for the consideration in the next Faculty Senate   meeting. I am also attaching the report from the Oct meeting on this topic for   r
+
+Robert   Hoyte
+
+Categories
+
+Inbox
+
+3/31/2016
+
+Re: Help
+
+Hi Dinorah: Here   is the information I sent in prior emails. I hope this is clearer. Dstinguished   Service Professors are: Laura Anker (Director of First Year Experience/AS) Minna   Barrett (Psychology) Sachi Dastidar (PEL) Jesse Fernandez (Emerit
+
+Fred   Millan
+
+Categories
+
+Inbox
+
+3/31/2016
+
+List of Distinguished faculty
+
+H   Dinorah, Can you please forward me a list of the OW faculty who are at the rank   of Distinguished Service or Teaching Professor? Thanks! Fred -- Fred Millán,   PhD, ABPP, NCC Professor of Psychology Director, Graduate Mental Health   Counseling Progr
+
+Ryoko   Yamamoto
+
+Categories
+
+Inbox
+
+3/31/2016
+
+Resolution on Google -Microsoft Office 365 Transition
+
+Greetings Kate   and Dinorah, Hope all is well with you. Just wanted to let you know that TLRC   will be submitting a resolution regarding the upcoming Google - MSO365   transition for voting in the next Senate meeting. I will send you the   TLRC-approved reso
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+3/31/2016
+
+The Current - March 31, 2016
+
+​March 31, 2016   Special Film Event:  The Raising of America (Submitted by Janeth   Niebla-Galaviz, Parent Engagement) As part of the activities planned for the   Week of the Young Child, we invite you to join us on Tuesday, April 12, from   5:30 – 8:00 p
+
+LinkedIn   Messaging
+
+Categories
+
+Inbox
+
+3/29/2016
+
+Estefania R. sent you a new message
+
+DinorahMartinez Estefania R. Escobar Diaz Mi amiga te deseo que todo te   salga bien y te recuperes muy pronto Reply Change frequency  |  Unsubscribe  |    Help You are receiving
+
+Estefania   R. Escobar Diaz
+
+Categories
+
+Inbox
+
+3/29/2016
+
+Dinorah, please add me to your LinkedIn network
+
+Dinorah: Me   gustaría añadirte a mi red profesional en LinkedIn. -Estefania R.        Dinorah   Martinez Dinorah: Me gustaría añadirte a mi red profesional en LinkedIn.   -Estefania R. Estefania R. Escobar Diaz especialista comercial
+
+Aline   Odle-Dotson
+
+Categories
+
+Inbox
+
+3/29/2016
+
+Lost time from 2/16/16
+
+Good Morning Ms.   Martinez I left a voicemail and also sent an email to Ms. Farrugia to confirm   your resumed lost time from work. I have not heard from her yet.  I will   follow-up throughout the day and keep you updated. Please do not hesitate to   respond
+
+Lena   Farrugia
+
+Categories
+
+Inbox
+
+3/29/2016
+
+Re: WC news
+
+Hi Dinorah, The   companies move quickly with loan requests. Yes, we need a doctor's note allowing   you to return to work. Lena On Mon, Mar 28, 2016 at 6:45 PM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: Meaning I can't go there tomorrow.
+
+Lena   Farrugia
+
+Categories
+
+Inbox
+
+3/28/2016
+
+Re: WC news
+
+Dinorah, We need   a doctor's note saying you are ok to return to work. Contact the two companies   and explain your situation. Lena On Mon, Mar 28, 2016 at 4:34 PM, Dinorah   Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: Lena. Even having the loan,   I
+
+Lena   Farrugia
+
+Categories
+
+Inbox
+
+3/28/2016
+
+Re: WC news
+
+Dinorah, Yes,   you can take out a loan from both accounts (TIAA &amp; NYS Deferred Comp). Call   TIAA at 800-842-2776 and Deferred Comp at 800-422-8463 to get the loan process   started. Lena On Mon, Mar 28, 2016 at 4:10 PM, Dinorah Martinez   &lt;martinezd@o
+
+Lena   Farrugia
+
+Categories
+
+Inbox
+
+3/28/2016
+
+Re: WC news
+
+Dinorah, Do you   have a doctor's note saying you can return to work tomorrow? Lena On Mon, Mar   28, 2016 at 2:53 PM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt; wrote:   It seems I need to come back to work tomorrow. I am peniless and don't have   mo
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+3/28/2016
+
+The Current - March 28, 2016
+
+​March 28, 2016   Media Talks (Submitted by Joseph Manfredi, American Studies) Old Westbury Web   Radio, OWWR, in collaboration with the Office of Career Planning and Development   will host its second annual Media Talks symposium on Wednesday, April 6,
+
+Christopher   Hobson
+
+Categories
+
+Inbox
+
+3/25/2016
+
+Re: Question about Routing of Hiring Materials
+
+Dinorah, Thanks   for both messages and for all this information. And I'm glad you're doing well.   Best, Chris On Fri, Mar 25, 2016 at 11:12 PM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: Dear professor. Thank you for your   good
+
+Christopher   Hobson
+
+Categories
+
+Inbox
+
+3/25/2016
+
+Question about Routing of Hiring Materials
+
+Hi Dinorah, I   hope everything is good and that you are regaining full health and mobility--and   that we'll see you back before too long. Liselle is doing an excellent job, but   we want you back! I have a question about routing of faculty hiring   packet
+
+William   Gillis
+
+Categories
+
+Inbox
+
+3/25/2016
+
+Faculty Senate Calendar
+
+HI Dinorah, Is   there a schedule/calendar for faculty senate available? Many Thanks -Bill Gillis   **********************************************************************************   William Gillis Assistant Professor of Organismal Biology State Univ
+
+Wayne   Edwards
+
+Categories
+
+Inbox
+
+3/25/2016
+
+Re: APC Agenda Items for 4/8 FS
+
+Hello Peter   &amp; All, Sorry I missed our last APC meeting. I was off-campus the entire day.   For what it's worth, I'm in agreement with language of proposals (1) and (2),   and look forward to continued discussion of (3). Enjoy Spring Break! Wayne   Sin
+
+Calvin   Butts
+
+Categories
+
+Inbox
+
+3/24/2016
+
+A Message From the College President
+
+Good evening,   Today an event on campus occurred that may lead some to question the College's   commitment to the rights afforded under the First Amendment to the U.S.   Constitution for those who attend and work at SUNY Old Westbury. As an   institution o
+
+Peter   Ikeler
+
+Categories
+
+Inbox
+
+3/24/2016
+
+APC Agenda Items for 4/8 FS
+
+Dear Kathleen, I   hope all is well. I just wanted to forward you three items that the APC has been   working on and would like to bring up for discussion and possible vote at the   next meeting of the Faculty Senate on April 8. 1) Is a proposal for autom
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+3/24/2016
+
+The Current - March 24, 2016
+
+​March 24, 2016   Celebrating Feminist Activism: A Memorial for Rosalyn Baxandall (Submitted by   Carol Quirke, American Studies) A MacArthur genius award-winner, a founder of   one of the nation’s largest reproductive justice organizations, authors and
+
+Ellen   Macconnoran
+
+Categories
+
+Inbox
+
+3/21/2016
+
+Joan Akin Tantaquidegeon
+
+Good afternoon,   I have an invoice for $76.15 for Kraft envelopes (they charged shipping of   $12.95 )  .  Is the mdse received and may I pay? Ellen Mac Connoran | Revenue   Accounting | SUNY College at Old Westbury P:  516-876-3095| F:   516-876-3914
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+3/21/2016
+
+The Current - March 21, 2016
+
+​​March 21, 2016   Summer Book Orders Due March 31 (Submitted by Andrea Gentle, Old Westbury   Bookstore) Just a friendly reminder, all Summer 2016 book orders are due   Thursday, March 31. Please continue to use https://www.facultyenlight.com to   submit
+
+Robert   Shields
+
+Categories
+
+Inbox
+
+3/20/2016
+
+Re: Urgent.
+
+Hi Dinorah,  are   you back at work? Bob On Sun, Mar 20, 2016 at 6:10 PM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: Thank you Bob. I appreciate in much   your efficiency. Dinorah I. Martinez Faculty Senate Secretary NAB Room 2040   Phone:
+
+Robert   Shields
+
+Categories
+
+Inbox
+
+3/20/2016
+
+Re: Urgent.
+
+I   sent Kate a note on Friday telling her that I scheduled 1100 A &amp; B. Bob On   Sun, Mar 20, 2016 at 5:29 PM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt;   wrote: There is an urgent meeting with the Faculty Senate and Dr. Butts. They   ask for the NAB Ro
+
+Kathleen   Velsor
+
+Categories
+
+Inbox
+
+3/20/2016
+
+Re: Senate Meeting
+
+Hi Just found   this If you can facilitate this on Monday that would be great The normal meeting   room is best Hope you feeling better Thank you Kate Kathleen G. Velsor Ed.D.   Faculty Senate Chair Director of The Underground Teaching Partnership A
+
+Minna   Barrett
+
+Categories
+
+Inbox
+
+3/19/2016
+
+Re: Senate Meeting
+
+Also mine said   March 31 at the top while it states March 21 in the text! Minna Barrett, Ph.D.   Distinguished Service Professor Department of Psychology Room 2055 New Academic   Building State University of New York Old Westbury, New York 11568 barre
+
+Kathleen   Greenberg
+
+Categories
+
+Inbox
+
+3/18/2016
+
+Re: Senate Meeting
+
+And, this may be   beside the point, but there is still an error in the email regarding the date.   It's Monday March 21st, not Friday. Kathie = On Friday, March 18, 2016, Minna   Barrett &lt;barrettm@oldwestbury.edu&gt; wrote: This seems a very truncated   notic
+
+Minna   Barrett
+
+Categories
+
+Inbox
+
+3/18/2016
+
+Re: Senate Meeting
+
+This seems a   very truncated notice. How can this be ok? I find this odd and inappropriate. I   think we should tell him we can meet with him, if we can, but, we can not expect   a Senate meeting. People have all kinds of research, teaching meetings scheduled
+
+Peter   Ikeler
+
+Categories
+
+Inbox
+
+3/18/2016
+
+APC Meeting Agenda
+
+Hi Everyone, As   promised, just sending along an agenda for our meeting on Monday (2:30, NAB   2046) in attachment. There's one additional agenda point and document (also   attached), from Jacob Heller (should be brief though). We'll try to begin as   close t
+
+Peter   Ikeler
+
+Categories
+
+Inbox
+
+3/18/2016
+
+Re: Correction: This Friday, March 21, 2016
+
+Hi Dinorah, I   think you mean Friday, March 25, since the 21st is not a Friday. All best, Peter   On Friday, March 18, 2016, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt;   wrote: Please, note that in the last announcement for this meeting I made a   m
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/18/2016
+
+Re: labels
+
+Some temp On   Fri, Mar 18, 2016 at 11:55 AM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: Who is the replacement? Dinorah I.   Martinez Faculty Senate Secretary NAB Room 2040 Phone: 516-876-3117 Fax:   516-876-8219 martinezd@oldwestbury.edu
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/18/2016
+
+Re: labels
+
+Shes just   folding now.  I wanted to ask you first. On Fri, Mar 18, 2016 at 11:51 AM,   Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: Did you get it right   the way I explained it? Dinorah I. Martinez Faculty Senate Secretary NAB Room   2040 Phon
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/18/2016
+
+Re: labels
+
+We got the new   envelopes.  The temp is folding them now.  I just wanted to tell her the right   thing and it sounded strange when I explained it. Thanks On Fri, Mar 18, 2016 at   11:43 AM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: The same   enve
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/18/2016
+
+labels
+
+Which envelope   gets the signature label.  The envelope with ballot stamped on it?  Or the   envelope addressed to the campus? Werner -- Werner Sbaschnik Catalog/Systems   Librarian SUNY College at Old Westbury P.O. Box 229 Old Westbury, NY   11568-0229
+
+Kathleen   Velsor
+
+Categories
+
+Inbox
+
+3/18/2016
+
+Senate Meeting
+
+The Senate   Meeting is Monday 21 not 31 Can you please send  another announcement with the   21 date? Thank you Kathleen G. Velsor Ed.D. Faculty Senate Chair Director of The   Underground Teaching Partnership Associate Professor School of Education
+
+Colleen   Woods
+
+Categories
+
+Inbox
+
+3/18/2016
+
+RE: Senate meeting on March 31, 2016 (&lt;--WRONG DATE)
+
+Dear Dinorah,   Please note that the date in the subject of your email is incorrect. The date   is this Monday, March 21, which you accurately included in the body of your   email. When you send out the room assignment, please clarify that the meeting   tak
+
+Jillian   Crocker
+
+Categories
+
+Inbox
+
+3/17/2016
+
+Re: Senate meeting on March 31, 2016
+
+We miss you   Dinorah! On Thursday, March 17, 2016, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: Please, be advise that there will be a   meeting of the Senate on Monday March 21 during common hour. Dr, Butts would   like to continue the discuss
+
+Kathleen   Velsor
+
+Categories
+
+Inbox
+
+3/17/2016
+
+Re: Senate Meeting
+
+No Thank you   Shields is out Mona just called last night Thanks Kathleen G. Velsor Ed.D.   Faculty Senate Chair Director of The Underground Teaching Partnership Associate   Professor School of Education SUNY College @ Old Westbury On Thu, Mar 17,
+
+Kathleen   Velsor
+
+Categories
+
+Inbox
+
+3/17/2016
+
+Senate Meeting
+
+Hi Could you   please send out an announcement for a senate meeting? There will be a meeting of   the Senate on Monday March 21 during common hour. Dr, Butts would like to   continue the discussion of the Newsday ad. The room assignment will follow.   Th
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+3/17/2016
+
+The Current - March 17, 2016
+
+​March 17, 2016   Summer Book Orders Due March 31 (Submitted by Andrea Gentle, Old Westbury   Bookstore) Just a friendly reminder, all Summer 2016 book orders are due   Thursday, March 31, 2016. Please continue to use https://www.facultyenlight.com   to su
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/16/2016
+
+Re: New Label
+
+Nope, I have   other work to focus on. On Wed, Mar 16, 2016 at 12:09 PM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: The counting votes documents also    printed? Dinorah I. Martinez Faculty Senate Secretary NAB Room 2040 Phone:   516-876-3117
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/16/2016
+
+Re: New Label
+
+All done and   printed.  Amanda is checking to see where the new envelopes are. Werner On Wed,   Mar 16, 2016 at 11:32 AM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt;   wrote: ​Did you already do it? I can fix the document to this new way and sent   it back
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/16/2016
+
+New Label
+
+I   had to create a new label because we could not read the signatures last year.    This only goes to voters that has a label without a printed name on it. Please   have handy next year. Werner -- Werner Sbaschnik Catalog/Systems Librarian SUNY   Colle
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/16/2016
+
+Re: Question
+
+Dont know yet.    Haven't created ballots yet. Werner On Tue, Mar 15, 2016 at 3:24 PM, Dinorah   Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: When are you planning to do   the counting? Dinorah I. Martinez Faculty Senate Secretary NAB Room 2040   Phone:
+
+Amanda   Gist
+
+Categories
+
+Inbox
+
+3/15/2016
+
+Fwd: The Raising of America
+
+FYI Amanda Gist   Assistant to the Provost and Senior Vice President     for Academic Affairs   SUNY College at Old Westbury PO Box 210 Old Westbury, NY  11568 516.876.3135   (V) 516.876.3256 (F) www.oldwestbury.edu ---------- Forwarded message -
+
+Amanda   Gist
+
+Categories
+
+Inbox
+
+3/14/2016
+
+Re: Dinorah Please: Distribute Faculty Survey ReL Center   forSocial Justice and Sustainability.
+
+Hi Dinorah, I   hope you are feeling better.  We put someone in your office temporarily. Amanda   ​ Amanda Gist Assistant to the Provost and Senior Vice President     for   Academic Affairs SUNY College at Old Westbury PO Box 210 Old Westbury, N
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+3/14/2016
+
+The Current - March 14, 2016
+
+​​March 14, 2016   'SUNY Old Westbury: A Retrospective' Set for April 12, 2016 (Submitted by   Zenaida Madurka and Michael Kinane, 50th Anniversary Co-Chairs) As SUNY Old   Westbury continues to celebrate its 50th anniversary through the ongoing   "Celebra
+
+Peter   Ikeler
+
+Categories
+
+Inbox
+
+3/14/2016
+
+Next APC Meeting: March 21 @ 2:30 pm
+
+Dear All, This   is just a reminder about our next APC meeting to be held on Monday, March 21 at   2:30 pm in NAB 2046 (Sociology conference room). We will have a full agenda   (forthcoming) that revolves around the attached documents: 1) ASC results   from
+
+Kathleen   Velsor
+
+Categories
+
+Inbox
+
+3/13/2016
+
+nine CAP proposals
+
+Dear Anthony I   am attaching the 9 CAP proposals that have been approved by the senate this   academic year. Have a great day Kate Two are under Environmental Science.   Kathleen G. Velsor Ed.D. Faculty Senate Chair Director of The Underground   Teaching
+
+Minna   Barrett
+
+Categories
+
+Inbox
+
+3/12/2016
+
+Re: Dinorah Please: Distribute Faculty Survey ReL Centerfor   Social Justice and Sustainability.
+
+Please add the   following to the message I sent you moments before asking you to send the   attachment to the Faculty.  Dear Colleagues,  Please find the brief survey with   regard to developing a Center for Social Justice and Sustainability. Those who   a
+
+Minna   Barrett
+
+Categories
+
+Inbox
+
+3/12/2016
+
+Dinorah Please: Distribute Faculty Survey ReL Center for   SocialJustice and Sustainability.
+
+Minna Barrett,   Ph.D. Distinguished Service Professor Department of Psychology NAB 2055   Executive Committee Faculty Senate barrettm@oldwestbury.edu
+
+Duncan   Quarless
+
+Categories
+
+Inbox
+
+3/11/2016
+
+Re: all the documents
+
+Thank you. On   Fri, Mar 11, 2016 at 7:34 PM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt;   wrote: Chris Hobson, from English Department. Dinorah I. Martinez Faculty Senate   Secretary NAB Room 2040 Phone: 516-876-3117 Fax: 516-876-8219 martinezd@o
+
+Duncan   Quarless
+
+Categories
+
+Inbox
+
+3/11/2016
+
+Re: all the documents
+
+Hi Dinorah, Can   you tell me who is the chair of arpt?  Thanks. Duncan On Tue, Mar 8, 2016 at   7:51 PM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: Next Faculty   Senate meeting will take place at the NAB Room 1100 from 12:30 to 2:30 pm this   F
+
+Yogesh   More
+
+Categories
+
+Inbox
+
+3/10/2016
+
+Re: 3/11
+
+Ok got it,   thanks. On Thursday, March 10, 2016, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: John Kleinman, one of our senators from   EOP justified his absence at the meeting tomorrow. Dinorah I. Martinez Faculty   Senate Secretary NAB Room 2
+
+Danielle   Collins
+
+Categories
+
+Inbox
+
+3/10/2016
+
+The Current - March 10, 2016
+
+​   March 10, 2016 Blackboard Online Tutoring for Students (Submitted by Ed Bever,   Distance Learning) With Midterms approaching, please remind your students that   tutoring help is available online. The College is making available up to SIX   hours of f
+
+Minna   Barrett
+
+Categories
+
+Inbox
+
+3/9/2016
+
+STARTUP NY for Faculty Distribution
+
+Dinorah, Please   distribute to the entire faculty with the following lead information. Dear   Colleagues,  Please find attached a brief survey for anyone who might be able to   provide the Executive Committee/the Adhoc StartUp NY Faculty Coordinating   G
+
+Christopher   Hobson
+
+Categories
+
+Inbox
+
+3/9/2016
+
+Re: FS meeting room busy
+
+Thanks, Dinorah!   CH On Wed, Mar 9, 2016 at 1:59 PM, Dinorah Martinez   &lt;martinezd@oldwestbury.edu&gt; wrote: Hello. This is to make you aware that   the Faculty Senate meeting room is going to be busy with a meeting on Monday,   March 14 from 1.:00 pm to 2
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/9/2016
+
+Re: Comment
+
+I   get that. The envelopes that get mailed back to campus.  Are there stamps on   them or does the faculty have to put the stamps on them? On Wed, Mar 9, 2016 at   12:58 PM, Dinorah Martinez &lt;martinezd@oldwestbury.edu&gt; wrote: One of the   boxes have half
+
+Werner   Sbaschnik
+
+Categories
+
+Inbox
+
+3/9/2016
+
+Re: Comment
+
+I   hope thats true.  How about blank labels? I do have a question, the envelopes   that get mailed back to campus.  Are there stamps on them or does the faculty   have to put the stamps on them? On Wed, Mar 9, 2016 at 11:01 AM, Dinorah   Martinez &lt;martinez
+
+If you didn't find what you were looking for, try again   using more specific search terms.
+
+9565 total items, 92 unread items loaded in Inbox 
+folder
+
+Fwd: Time for the April 8th FS   meeting (No   subject)
+
+YM
+
+Yogesh   More
+
+0
+
+Reply all  |
+
+Wed 4/6/2016, 
+8:33 PM
+
+...
+
+Dinorah Martinez;
+
+Kathleen Velsor
+
+This message was sent   with high importance.
+
+-
+-
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| You're editing this          ResolutionforMinorinDigitalDesignMarketing.pdf 36         KBSent by mail    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.      Canceling...           Cancel Download Pending...  36         KB | You're editing this          ResolutionforProgramProposalMSChildhoodSpecialEducation.pdf 42         KBSent by mail    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.      Canceling...           Cancel Download Pending...  42         KB | You're editing this          Proposal to CAP_         DigDesMarkMinor.docx 19         KBSent by mail    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.      Canceling...           Cancel Download Pending...  19         KB | You're editing this          Institutional Response to External         ReviewersDS2-16.pdf 805         KBSent by mail    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.      Canceling...           Cancel Download Pending...  805         KB | You're editing this          FINAL-Special Education Masters         Proposal2-2016.pdf 2         MBSent by mail    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.      Canceling...           Cancel Download Pending...  2         MB | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+You're editing this
+
+ResolutionforMinorinDigitalDesignMarketing.pdf    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+36   KBSent by mail
+
+Cancel Download Pending...
+
+36   KB
+
+You're editing this
+
+ResolutionforProgramProposalMSChildhoodSpecialEducation.pdf    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+42   KBSent by mail
+
+Cancel Download Pending...
+
+42   KB
+
+You're editing this
+
+Proposal to CAP_   DigDesMarkMinor.docx    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+19   KBSent by mail
+
+Cancel Download Pending...
+
+19   KB
+
+You're editing this
+
+Institutional Response to External   ReviewersDS2-16.pdf    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+805   KBSent by mail
+
+Cancel Download Pending...
+
+805   KB
+
+You're editing this
+
+FINAL-Special Education Masters   Proposal2-2016.pdf    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+2   MBSent by mail
+
+Cancel Download Pending...
+
+2   MB
+
+Show all 5   attachments (3 MB)  5   attachments (3 MB) Download all
+
+Save all to OneDrive - SUNY Old   Westbury
+
+Hi Dinorah,
+
+These attachments should go out in advance of the April 8th senate 
+meeting.
+
+Yogesh
+
+---------- Forwarded message ---------- From: sanacoryf &lt;sanacoryf@oldwestbury.edu&gt; Date:   Sun, Mar 20, 2016 at 8:04 PM Subject: Time for the April 8th FS meeting   To: Kathleen Velsor &lt;velsork@oldwestbury.edu&gt;, Yogesh More &lt;morey@oldwestbury.edu&gt;
+
+Dear Kate, I have two resolutions for the April   8th meeting I would like to present from CAP.
+
+Digital Design Marketing Minor and
+
+MS in Childhood Special Ed
+
+I have attached the resolutions and the supporting documents.  Please   schedlule me  for the meeting or let me know when I ca be scheduled.
+
+Thank you,
+
+Frank
+
+Message sent
+
+ .....
+
+Fwd: Time for the April 8th FS   meeting (No   subject)
+
+YM
+
+Yogesh   More
+
+0
+
+Reply   all  |
+
+Wed 4/6/2016, 
+8:33 PM
+
+...
+
+Dinorah Martinez;
+
+Kathleen Velsor
+
+This message was sent   with high importance.
+
+You're editing this
+
+ResolutionforMinorinDigitalDesignMarketing.pdf    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+36   KBSent by mail
+
+Cancel Download Pending...
+
+36   KB
+
+You're editing this
+
+ResolutionforProgramProposalMSChildhoodSpecialEducation.pdf    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+42   KBSent by mail
+
+Cancel Download Pending...
+
+42   KB
+
+You're editing this
+
+Proposal to CAP_   DigDesMarkMinor.docx    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+19   KBSent by mail
+
+Cancel Download Pending...
+
+19   KB
+
+You're editing this
+
+Institutional Response to External   ReviewersDS2-16.pdf    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+805   KBSent by mail
+
+Cancel Download Pending...
+
+805   KB
+
+You're editing this
+
+FINAL-Special Education Masters   Proposal2-2016.pdf    Save to OneDrive - SUNY Old Westbury Saved to OneDrive - SUNY Old Westbury.    Canceling...
+
+2   MBSent by mail
+
+Cancel Download Pending...
+
+2   MB
+
+5   attachments (3 MB) Download all
+
+Save all to OneDrive - SUNY Old   Westbury
+
+Hi Dinorah,
+
+These attachments should go out in advance of the April 8th senate 
+meeting.
+
+Yogesh
+
+---------- Forwarded message ---------- From: sanacoryf &lt;sanacoryf@oldwestbury.edu&gt; Date:   Sun, Mar 20, 2016 at 8:04 PM Subject: Time for the April 8th FS meeting   To: Kathleen Velsor &lt;velsork@oldwestbury.edu&gt;, Yogesh More &lt;morey@oldwestbury.edu&gt;
+
+Dear Kate, I have two resolutions for the April   8th meeting I would like to present from CAP.
+
+Digital Design Marketing Minor and
+
+MS in Childhood Special Ed
+
+I have attached the resolutions and the supporting documents.  Please   schedlule me  for the meeting or let me know when I ca be scheduled.
+
+Thank you,
+
+Frank
+
+Download  Print   Hide email
+
+Something went wrong while the document preview was being   created. Please try again later.
+
+Edit and   reply
+
+Download  Hide email

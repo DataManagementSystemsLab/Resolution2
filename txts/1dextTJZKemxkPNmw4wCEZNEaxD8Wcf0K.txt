@@ -1,0 +1,1824 @@
+SUNY Micro‐Credentialing
+Task Force
+Report and Recommendations
+January 2018
+
+TABLE OF CONTENTS
+
+I.
+
+Introduction……………………..………………………………………………………………………………….…………
+
+1
+
+II.
+
+What are Micro‐Credentials?...........................................................................................
+
+2
+
+Recommended SUNY Micro‐Credential Definition………………………………..…………………….
+
+3
+
+III.
+
+Guiding Principles for Micro‐Credentials at SUNY…………..………………………………………..
+
+4
+
+IV.
+
+Common Types of Micro‐Credentials…………………….……………………………………………………
+
+6
+
+V.
+
+How are Micro‐Credentials Used Across SUNY Now?..................................................
+
+11
+
+VI.
+
+How are Micro‐Credentials Used Nationally?...............................................................
+
+13
+
+VII.
+
+Best Practices to Consider When Developing Micro‐Credentials…………………...………
+
+16
+
+VIII.
+
+Program Approval and Micro‐Credentials………………………………………………………………….
+
+19
+
+IX.
+
+Who Should be Involved in Developing Micro‐Credentials?...................................
+
+20
+
+X.
+
+Recommendations………………………………………………………………………………………………………...
+
+22
+
+Appendix A: Glossary of Terms……………………………………………………………………………………….………..
+
+26
+
+Appendix B: Electronic Transcripts…………………………………………………………………………………………..
+
+28
+
+Appendix C: Resources……………………………………………………………………………………….……………………..
+
+31
+
+Appendix D: Micro‐Credentialing Task Force Members…………………..…………………………………..
+
+34
+
+I.
+
+INTRODUCTION
+
+Today’s employers are increasingly looking for candidates with more than a college degree;
+they are seeking individuals with detailed and easily accessible credentials that verify skill
+competencies specific to their hiring needs. In response, institutions of higher education are
+embracing the micro‐credential as a means of both meeting business and industry expectations
+and supporting and preparing well‐rounded students with highly marketable skills.
+As the pace of technological developments continues to increase, higher education has a
+responsibility to provide cutting‐edge teaching and learning that prepares students for the
+workforce. A combination of applied learning experiences, credentialing, and a quality degree
+stack the competencies needed for graduates to succeed in today’s highly competitive job
+market. Further, we know that micro‐credentials can contribute to lifelong learning and
+professional development. As higher education and industry work together to bridge the gap of
+student preparedness for the workforce, the micro‐credential adds a stackable skill set to the
+foundational college degree.
+The SUNY system should emerge as a leader in affirming the credibility of quality micro‐
+credentialing. Industry has already ventured into this domain; however, higher education plays
+a critical role in validating the student learning outcomes associated with micro‐credentials.
+SUNY can ensure academic rigor, faculty engagement, organization, and a common language as
+it accepts the task of framing the high‐quality micro‐credential.
+
+About the Micro‐Credentialing Task Force
+The SUNY Micro‐Credentialing Task Force (“Task Force”) was charged with the following:
+1. Review of the current literature and growing national dialogue on micro‐credentials,
+including evidence‐based best practices and ongoing efforts to define and translate
+micro‐credentials;
+2. Examine work currently underway across SUNY’s 64 campuses to develop and/or
+implement micro‐credentials; and
+3. Review of relevant SUNY policies, with the goal of identifying possible barriers, as well
+as potential opportunities for renewed policy, to enable campuses to more effectively
+support student access and success through micro‐credentialing.
+The Task Force membership included broad representation from across SUNY: presidents,
+provosts, faculty governance, student governance, registrars, business officers, institutional
+researchers, and continuing education officers (see Appendix D).
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+1
+
+From the start, the Task Force acknowledged the potential of micro‐credentials to:
+
+
+enable campuses to more quickly respond to student needs and industry demands;
+
+
+
+establish new academic/industry partnerships;
+
+
+
+motivate students to persist toward academic and career goals; and
+
+
+
+bridge noncredit and credit‐bearing coursework and experiences.
+
+These are all efforts that support SUNY’s ongoing commitment to providing New Yorkers with
+the credentials they need to continue their education, find a job and/or advance in their
+careers. Central to the work of the Task Force is SUNY’s ongoing commitment to ensuring
+academic rigor and quality of all credentials offered by SUNY.
+
+II.
+
+WHAT ARE MICRO‐CREDENTIALS?
+
+At the most basic level, micro‐credentials verify,
+validate, and attest that specific skills and/or
+competencies have been achieved. They differ
+from traditional degrees and certificates in that
+they are generally offered in shorter or more
+flexible timespans and tend to be more narrowly
+focused. Micro‐credentials can be offered online,
+on‐campus, or via a hybrid of both.
+Despite national efforts by Lumina and others to
+establish universal definitions around micro‐
+credentialing, there remain inconsistencies. The
+Task Force has provided a comprehensive
+definition of terms (see Appendix A) that it
+recommends be used to provide a consistent
+taxonomy across SUNY. However, nationally,
+terms are often used interchangeably. For
+example, badging, a type of micro‐credential, is
+often used synonymously with the term micro‐
+credential itself.
+
+Micro‐Credential Benefits
+ Motivate students toward completion of a
+
+credential or degree program by
+highlighting progressive attainment of
+competencies.
+ Support academic/industry partnerships
+
+through credentials that meet industry
+requirements and/or are designed to
+meet a specific need.
+ Provide more specificity to potential
+
+employers about skills and competencies
+learned.
+ Supplement an existing degree program
+
+with complementary skill sets.
+ Ladder from noncredit to credit.
+ Ladder from a stand‐alone credential to a
+
+degree program.
+ Provide short‐term, immediate
+
+competency development opportunities
+valuable for ongoing professional
+development.
+
+Notably absent from most definitions of micro‐credentials, perhaps because they are offered
+within and outside of the University setting, is recognition of faculty purview over curriculum
+and standards. The Task Force addresses this specifically, seeking to ensure that the awarding
+of micro‐credentials across SUNY is consistent with the University’s commitment to shared
+governance, particularly, the role and responsibility of the faculty.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+2
+
+Also missing from most definitions is specific recognition of students’ best interests. Given the
+wide variety of micro‐credentials that can be offered, campuses hold a particular responsibility
+to provide clarity about what any given micro‐credential is and is not. Clarity regarding cost,
+eligibility for financial aid, transferability, competencies mastered, and applicability to a degree
+program are examples of issues that must be addressed. If a micro‐credential is a partial
+representation of the set of courses within one or more credit‐bearing curricula, students
+should be made aware of all options to stack the credential(s) toward a registered certificate or
+degree program.
+As a result, this Task Force recommends the following definition of micro‐credentials,
+and associated taxonomy of terms, for use across SUNY:
+
+Recommended SUNY Micro‐Credential Definition
+SUNY Micro‐Credential Definition:
+Micro‐credentials verify, validate and attest that specific skills and/or
+competencies have been achieved and are endorsed by the issuing institution,
+having been developed through established faculty governance processes and
+designed to be meaningful and high quality.
+Expanded Detail:
+Micro‐credentials may represent the content of credit or noncredit study; they
+may take the form of a digital badge or micro‐award, and can be offered
+online, on‐campus, or a hybrid of both. Micro‐credentials may be specifically
+recognized by certain industries, in which case they may have the advantage of
+providing validation and attestation of industry‐specified and frequently highly
+sought‐after competencies.
+Each micro‐credential awarded must be represented clearly and accurately,
+addressing all associated costs, financial aid, transferability, and applicability
+(e.g., stack‐ability) toward a formal award(s) (i.e., registered degree,
+certificate).
+Micro‐credentials can be used to highlight competencies earned as part of a
+credit‐bearing program (motivating students to persist and distinguishing
+students among prospective employers); serve as an introduction or entry point
+to a degree program (stackable); be issued as a stand‐alone credential and/or
+complement a degree program (e.g., an English major may benefit from a
+micro‐credential in computer science; a computer science major may benefit
+from a micro‐credential in business writing; a computer science alum may
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+3
+
+benefit from a micro‐credential on the newest programming language; and/or
+an education major may seek continuing professional development via a micro‐
+credential, etc.).
+Taxonomy of Terms:
+To provide the SUNY community with a common taxonomy around micro‐
+credentials, a list of definitions for common micro‐credentialing terms is
+provided as Appendix A of this report. This list may be expanded or revised over
+time and will be maintained online at: http://system.suny.edu/academic‐
+affairs/microcredentials.
+
+III.
+
+GUIDING PRINCIPLES FOR CREATING MICRO‐CREDENTIALS AT SUNY
+
+The principles outlined below guided the work of the Task Force and also constitute Task Force
+recommendations to guide the development of micro‐credentials at SUNY.
+1. Academic quality is paramount for micro‐credentials, and faculty governance
+participation is required.
+SUNY micro‐credentials must meet high standards of academic rigor. Appropriate
+channels for shared governance must be employed for credit‐bearing micro‐credentials
+to enjoy legitimate, academic status. Thus, curriculum committees and/or local faculty
+governance bodies must be involved in the development and approval of micro‐
+credentials, as appropriate at each campus, and consistent with SUNY policy and New
+York State regulations.
+2. Micro‐credentials are initiated locally, developed, and approved according to local
+campus policies and procedures, consistent with campus mission and strategic goals.
+Part of the power of micro‐credentials is that they take advantage of local opportunities
+and local expertise. Campuses are encouraged to develop micro‐credentials that serve
+their local constituencies, rather than appeal to a generic, standardized set of goals. The
+Task Force does strongly recommend that campuses consult with their liaison in the
+SUNY System Program Review and Planning Office when developing micro‐credentials.
+3. Micro‐credentials designed to meet market needs should be informed by current data
+from appropriate markets and align with relevant industry/sector standards.
+The power of micro‐credentials—open digital badges, in particular—is in their ability to
+easily showcase to employers the skills and competencies of applicants. Because they
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+4
+
+generally align to specific market needs, data regarding those needs and industry
+standards should be incorporated into micro‐credential planning and development.
+4. Micro‐credentials can provide opportunities for industry/education connections and
+partnerships.
+Because micro‐credentials are intended to highlight specific skills and competencies,
+they should be created with substantial input from industry partners and other
+employers whenever possible. These might include meeting with representatives of
+business and industry and soliciting initial ideas from local employers. Micro‐credentials
+are most successful when they are reflections of academy‐industry partnerships.
+5. Micro‐credentials are inherently more flexible and innovative.
+As they are smaller‐scale than full degrees, micro‐credentials have fewer standardized
+requirements. Thus, micro‐credentials often more easily lend themselves to innovation.
+Micro‐credentials may lead to creation of new, creative courses and programs. They can
+meet market needs with responsiveness, agility, and dexterity. Micro‐credentials can
+take advantage of unique partnerships and technology.
+6. Micro‐credentials should be portable.
+A micro‐credential should be useful beyond the particular context in which it was
+earned. That is, micro‐credentials should assist students in earning employment (or
+advancement) in a particular field and/or should count toward a higher‐level credential
+that may be delivered at the same or other academic institutions. Portability applies to
+the usefulness of the credential in the workplace and to its transferability.
+7. Micro‐credentials should be stackable.
+Micro‐credentials should stack toward a registered certificate or degree. Stackable
+credentials are part of a sequence of credentials that can be accumulated over time to
+build up an individual’s qualifications and help that individual move along a career
+pathway and further education.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+5
+
+IV.
+
+COMMON TYPES OF MICRO‐CREDENTIALS
+
+Digital Badges
+The term ‘micro‐credential’ is often used interchangeably with the terms ‘badge,’ or ‘digital
+badge,’ as badges are one of the most common types of micro‐credentials issued today.
+Badges represent mastery of specific skills and competencies, earned by meeting specific
+learning outcomes.
+They are generally web‐based and “clickable,” linking viewers to
+extensive meta‐data that provides detail on requirements for earning
+the badge. The most effective badges link to actual student work or
+portfolios of work as well as the assessments used to verify
+competencies. Badges should always be verifiable, including a link to
+the relevant webpages on the issuer’s website.
+One of the reasons badges have gained popularity is that they can be
+displayed online in personal pages on LinkedIn, Twitter, Facebook,
+etc. There are a number of companies who host badges such as
+Credly, Mozilla Backpack, Accredible, GlobalSign,1 etc.
+
+A screen shot of a badge
+offered by Stony Brook
+University in Design Thinking
+(http://www.stonybrook.edu/c
+ommcms/spd/badges/catalog.
+php).
+
+Several SUNY campuses have begun to offer badges. Stony Brook
+University has developed a catalogue of badges; some are noncredit
+for professional development purposes, while others award graduate credits and can be used
+toward a graduate certificate or degree program. Students not enrolled in the related degree
+program need departmental permission. For example, Stony Brook’s graduate level “Social
+Entrepreneurship Badge” demonstrates that a student has completed three for‐credit courses
+covering specific skill sets in the areas of entrepreneurship, leadership, team effectiveness,
+communications, advocacy, marketing, etc. In this case, the stackable credential can stand on
+its own as a value‐added credential for students or professionals, or it can also be applied (once
+admitted) toward an advanced graduate certificate and then toward a master’s degree. Receipt
+of the initial credential (the badge) may motivate students to continue toward completion of
+the certificate or degree.
+A number of SUNY campuses award badges for student participation in extra‐curricular
+activities or to recognize meritorious achievement. The Task Force recommends that campuses
+be careful to differentiate between badges that represent completion of learning standards
+(the focus of this report) and those that reflect service.
+
+1
+
+Mention here in no way constitutes an endorsement. Company names are provided for informational purposes.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+6
+
+Stackable Credentials
+Stackable credentials can be earned over time and serve as a bridge or ladder to advance
+individuals toward a degree, further career goals, or open up new job opportunities. Unlike the
+transition from the associate degree to the baccalaureate, stackable credentials are generally
+offered in smaller pieces, on flexible schedules, and via non‐traditional modalities. Credentials
+can be stacked on top of one another to achieve the student’s overall goals.
+
+For Credit
+As these courses are part of approved degree programs, much in the way a minor would be
+developed, they do not require NYSED registration. However, the Task Force does strongly
+recommend that campuses consult with their liaison in the SUNY System Program Review and
+Planning Office when developing micro‐credentials, as discussed in Section VII of this report.
+Stony Brook University, as noted above, offers both for‐credit and professional development
+badges (http://www.stonybrook.edu/spd/badges/index). One example is Stony Brook’s
+“Corporate Financial Management Badge,” comprised of two courses: FIN 552 Mergers &
+Acquisitions and FIN 536 Financial Management, for which students earn graduate credit. The
+badge can stand on its own or stack toward a finance or MBA degree. Students not in Stony
+Brook’s Finance Advanced Graduate Certificate or MBA program need consent of the program
+director to register.
+
+Noncredit‐to‐Credit Pathways
+Some stackable credentials provide pathways from noncredit to credit, allowing students to
+develop competencies within industry‐related areas and then continue on in a degree program.
+Noncredit micro‐credentials are best developed with consultation between continuing
+education professionals and faculty in the relevant field, with input from industry or community
+partners. To that end, existing SUNY policy expects academic consultation and shared
+governance procedures for noncredit courses and credentials that articulate to a credit‐bearing
+course or credential. The initial determination of whether a micro‐credential may be credit‐
+bearing must be determined by faculty in the relevant field. If the credential is thus determined
+to be credit‐bearing, then ultimate approval of the course or credential should emanate from a
+curriculum committee or similar academic governance body.
+SUNY campus examples of noncredit‐to‐credit articulation follow. Note that these could also be
+classified as a career pathway approach to micro‐credentials:
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+7
+
+1. At SUNY Orange, after successful completion of the A+ Computer Repair Technician
+curriculum and obtaining industry certification, there is an articulation with the Applied
+Technician Department to receive college credit.
+2. Certified Production Technician is approved for three credits in SUNY Ulster’s Industrial
+Design and Manufacturing Certificate program.
+3. SUNY Sullivan developed and piloted a Hospitality bridge program with a 2015‐16 SUNY
+Workforce Development demonstration grant. The hospitality faculty have proposed
+that graduates of that program be granted one credit if they subsequently matriculate
+into a hospitality‐related certificate or degree program at Sullivan.
+4. At Dutchess Community College, there is an articulation agreement for the HSE
+Construction Skills Program for four credits into its associate degree program in
+Construction Management, provided that students complete the skills certificate.
+Many SUNY institutions have articulation agreements with Boards of Cooperative Educational
+Services (BOCES), which grant credit for noncredit work assessed by faculty to be equivalent.
+
+Massive Open Online Course (MOOC)
+According to Educause, a massive open online course (MOOC) is a model for delivering learning
+content online to any person who wants to take a course, with no limit on class size. A MOOC in
+and of itself is not a micro‐credential; however, MOOCs have become popular delivery vehicles
+for micro‐credentials. SUNY has established a relationship with Coursera to support faculty
+interested in offering MOOCS, see: https://www.coursera.org/suny; and,
+(http://commons.suny.edu/opensuny/mooc‐faq/).
+A group of six University at Buffalo professors, for example, partnered with the Chicago‐based,
+public/private partnership, Digital Manufacturing and Design innovation Institute (DMDII), to
+design a “Digital Manufacturing & Design Technology Specialization” delivered by MOOC. This
+10‐course MOOC, which students can take in the suggested order or as they prefer, includes a
+series of project‐based assignments. Participating students receive a course completion
+designation that can be featured in a resume or LinkedIn.
+UB describes the specialization as appropriate for a wide audience, “Whether you’re a high
+school graduate exploring manufacturing careers, or an operations manager hungry for an
+understanding of the newest manufacturing technologies, this specialization will provide a
+foundation in how digital advances are changing the landscape and capabilities of factories. Ten
+courses – developed with input from the manufacturing industry – touch on digital
+manufacturing and design practices, the concept of the digital thread, the Internet of Things
+and Big Data.”
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+8
+
+Another example of a noncredit micro‐credential delivered by MOOC is at SUNY is Buffalo State
+College’s, “Ignite Your Everyday Creativity.” The six‐week program recognizes that: “Creativity
+is an essential skill for the 21st Century that is innate in all people and can be nurtured...The
+goal of this course is to help you recognize, develop and act upon the creativity that you already
+possess...Upon completion of this course participants will: recognize the inherent creativity in
+yourself and others, identify characteristics of a creative person that relate to yourself, develop
+creative problem‐solving skills using the basic elements of the creative process, examine
+qualities of a creative environment in real world settings, and evaluate an idea using the
+creative product criteria.” Participating students receive a completion designation that can be
+featured in a resume or LinkedIn.
+Micro‐credentials delivered by MOOC can be important gateways to introduce a campus and its
+faculty to entirely new audiences; generating interest for continued study.
+
+Industry‐Recognized Credentials
+Industry recognized credentials are a type of micro‐credential that can be incorporated into
+relevant degree programs to add even more value to applied degrees and give students
+additional portability of learning outcomes mastery.
+These micro‐credentials are sought out by employers because they attest that students have
+attained skills and knowledge that are verified by an assessment created by professionals in the
+designated field. Students who attain these credentials can demonstrate that they have
+mastered professional competencies, and colleges with high pass rates are viewed favorably by
+industry. In many cases, faculty who have worked in industry bring these opportunities to
+students because they recognize that attainment of these certifications gives students an
+advantage in the job search.
+For example, Alfred State faculty in many areas provide students with the opportunity to gain
+industry certifications during their course of study. In the trades, welding students can
+complete both level 1 and 2 from the American Welding Society, and automotive students can
+gain American Service Excellence (ASE) Certification. Students at both associate and
+baccalaureate level in Computer Information Technology can gain a broad range of
+certifications including A+, Net+, CISCO, Microsoft, JAVA, CIW Web, CompTIA+, and COMP TIA
+NW+. Finally, students in the civil engineering department can gain entry‐level certifications in
+both surveying and construction management. In each case, employers can be confident that
+Alfred State students have knowledge and skills that are critical to success in the industry.
+Several SUNY institutions accept evaluated credits for professional training, licenses and
+certifications that have been reviewed by the American Council on Education (ACE) (see
+http://www.alternativecreditproject.com/) and the National College Credit Recommendation
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+9
+
+Service (NCCRS) (see http://www.alternativecreditproject.com/). With an increased focus on
+preparing students for the workforce, there is a demand for recognizing industry learning
+within higher education.
+Many institutions nationally assess workplace training, certifications and licenses for college
+credit. SUNY Empire State College is one of six founding institutions for the Consortium for the
+Assessment of College Equivalency (CACE), which has developed standards for the assessment
+of workplace training and industry‐recognized credentials for college credit. The college has
+many examples of assessing industry learning for credits and integrating these credits into the
+curriculum. At Empire State, these are called Professional Learning Evaluations (PLE).
+
+Licensure
+In general, micro‐credentials are not licensure qualifying, meaning they don’t lead to initial
+state licensure in a profession. However, micro‐credentials may help support ongoing
+requirements for maintaining licensure, for example, in meeting continuing education
+requirements for a given profession. In general, these types of credentials undergo professional
+body review for Continuing Education Unit worthiness. Campuses are encouraged to confer
+with the professional body and/or NYSED Office of the Professions.
+
+Prior Learning Assessment and Micro‐credentials
+Prior learning assessment is an academic process whereby verifiable learning acquired outside
+of traditional learning environments is assessed for college‐level credit. Many methods can be
+used to assess prior learning, such as:
+
+
+Standardized examinations (e.g., CLEP, AP, DSST);
+
+
+
+Military training and occupations evaluated by the American Council on Education
+(ACE);
+
+
+
+Industry training, certifications and licenses evaluated by ACE, National Credit
+Recommendation Service (NCCRS), or regionally accredited institutions;
+
+
+
+Individualized portfolio assessment conducted by faculty at an institution; and
+
+
+
+Challenge examinations developed and assessed by faculty at an institution.
+
+These approaches can also be used to evaluate learning acquired through micro‐credentials not
+already assessed for college credit. A prior learning assessment process could be employed to
+assess micro‐credentials to determine the level of learning, title of learning, credit amounts and
+any other designations appropriate to the learning (e.g., liberal arts, advanced level).
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+10
+
+The process by which prior learning assessment is conducted should be approved through
+campus shared governance decision‐making.
+
+V.
+
+HOW ARE MICRO‐CREDENTIALS IN USE ACROSS SUNY NOW?
+
+The Task Force conducted an informal survey of micro‐credential offerings across SUNY
+campuses and found considerable variability. Some campuses focus on noncredit offerings,
+some on credit‐bearing activity, and others on the articulation of noncredit to credit.
+The following table summarizes the number of institutions across each sector offering various
+types of alternative credentials, based on campus responses (39 responding):
+Table 1: Number of Campuses within Sectors offering Alternative Credentials by Type
+Industry
+Certifications
+
+Licensure
+Related
+
+Badges
+
+Noncredit
+Certifications
+
+Community Colleges (n=16)
+
+8
+
+14
+
+0
+
+9
+
+Colleges of Technology (n=4)
+
+4
+
+4
+
+0
+
+4
+
+Comprehensive Colleges (n=8)
+
+3
+
+3
+
+1
+
+2
+
+Doctoral Institutions (n=11)2
+
+4
+
+7
+
+2
+
+4
+
+19
+
+28
+
+3
+
+19
+
+Total Institutions (N=39)
+
+Total # of Campuses
+Offering Each Type:
+
+As shown in Table 1, the majority of industry certification (both credit and noncredit) and
+licensure‐related micro‐credentials are offered through community colleges, although these
+types of micro‐credentials can be found in all sectors.
+Campus respondents indicated that most industry certifications and licensure‐related
+credentials are directly connected to credit‐bearing academic programs. The number of
+campuses awarding badges seems to be limited, with only three campuses reporting these
+offerings.
+2
+
+Each one of the four New York State statutory colleges at Cornell University provided information and are
+counted independently here.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+11
+
+Table 2: Micro‐Credential Disciplinary Areas Reported by SUNY Campuses (n = 39)
+Micro‐Credentials Areas
+
+Industry
+Certifications
+
+Licensure
+Related
+
+Accounting
+Building Trades
+
+Badges
+
+3
+12
+
+4
+
+Business/Entrepreneurial
+
+4
+
+Computers, Networking, Engineering
+
+12
+
+4
+
+Education
+
+7
+
+94
+
+Engineering Fields
+16
+
+Human Resources
+
+1
+
+Industry Trades, Technology and Adv.
+Manufacturing
+
+17
+
+Legal
+Mental Health
+
+3
+
+Protective Services
+
+5
+
+71
+
+19
+7
+
+15
+
+25
+
+Health Care
+
+4
+1
+
+1
+
+10
+
+2
+
+2
+16
+
+1
+
+3
+
+9
+
+1
+9
+
+Quality Control
+Safety
+
+Noncredit
+Certifications
+
+8
+3
+
+8
+
+Veterinary Sciences
+
+4
+
+Other
+
+4
+
+18
+1
+
+As shown in Table 2, SUNY campuses offer micro‐credentials across a wide range of disciplinary
+areas.
+The most common areas for Industry Certifications are in Industry Trades (including technology
+and advanced manufacturing); Health Care; and Computers, Networking, and Engineering. The
+majority of licensure‐related offerings are within Education and Health Care.
+There are some licensure‐related micro‐credential offerings reported in the engineering fields.
+Noncredit certifications were most commonly identified in Business/Entrepreneurial, Industry
+Trades, and Health Care. Badges were most frequently reported in Education.
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+12
+
+VI.
+
+HOW ARE MICRO‐CREDENTIALS USED NATIONALLY?
+
+The following is a sampling of how micro‐credentials are currently being used across the
+country. It is by no means a comprehensive list and is provided for informational purposes only.
+Similar types of offerings may be found across SUNY campuses.
+
+University‐Based
+
+
+The University Learning Store (http://universitylearningstore.org/) is a collaboration
+between the Georgia Institute of Technology; University of California, Davis; University
+of California, Irvine; UCLA; University of Wisconsin‐Extension; and, University of
+Washington Continuum College.
+The University Learning Store offers skills‐focused, non‐credit, online‐learning
+credentials that each have required assessments. From Communicating and Deliberating
+in Work Teams to Creating a Stakeholder Management Plan for Projects, course options
+are grouped into the following categories: Power Skills, Technical Skills, Career
+Advancement, and Compliance (http://universitylearningstore.org/course/). Course‐
+takers have the option to move straight to the assessment if they feel they have already
+mastered the competencies. The awarded credential, which can be accessed online and
+has a badge‐like appearance, contains a detailed summary of the skill‐sets mastered and
+features the name of the partner university offering the course.
+The University Learning Store offers two types of credentials, each available for $25:
+“verified competency” represents completion of one badge assessment, and “skills
+certifications” for completing a series of assessments
+(http://universitylearningstore.org/faqs/). College credit is not currently available.
+
+
+
+The University of Utah’s Degree Plus Certificates are noncredit credentials designed to
+give graduates a skill‐set outside of their degree program that can help distinguish them
+in the job market. The program webpage invites students to “take their history degree
+into the creative fields of web design or digital marketing,” or to “discover that the
+interests that led you to a degree in English may also be a great match for a career in operations
+or project management (http://degreeplus.utah.edu/#programs).” Certificates are currently
+offered in the following areas: Data Analysis for the Modern Workforce, Instructional Design,
+Content Marketing and Management, Operations Analyst, and Digital Communication Tools for
+Creative Professionals.
+The program description for the Data Analysis for the Modern Workforce program, for example,
+notes that data analysis is a field unto itself, yet recognizes that being able to interpret and
+analyze data is considered a valuable skill in countless professions. The program runs for eight‐
+weeks and includes a capstone project. Students who successfully complete the capstone
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+13
+
+project and complete required one‐on‐one career counseling that advises them about how to
+use the credential will earn a digital badge that can be displayed on various social media
+platforms (http://degreeplus.utah.edu/certificate_programs/data‐analysis/).
+
+
+Students in Purdue University’s online Master of Science in Education – Learning
+Design and Technology have the opportunity to pursue a series of digital badges on
+specific technology tools either for credit via a special one‐week, full‐day, three‐credit
+course during the summer or noncredit on a self‐paced basis. Badges are available on a
+wide range of technology tools including: Adobe Captivate and Premiere, Animoto,
+Camtasia, Evernote, iMovie, Mendeley, Poll Everywhere, Prezi, Socrative and more. The
+badges are kept in Passport, an e‐portfolio system, and can be displayed in Mozilla
+Backpack, LinkedIn and Facebook (http://online.purdue.edu/ldt/learning‐design‐
+technology/digital‐badges).
+
+
+
+Earning admissions to the Illinois State Honors Program grants students access to an
+electronic portfolio on Credly to showcase specific achievements and competencies
+(https://honors.illinoisstate.edu/opportunities/badging/). Designed to build skill level
+and motivate student progression, the badge program provides both stand‐alone and
+stackable value. For example, students earn badges for completion of specialized one‐
+credit Presidential Scholar Seminars on such topics as: Innovation and Inquiry;
+Interdisciplinary Investigations; and Leadership in Action as well as completion of Honors
+Experiences on topics such as Human and Computer Interaction, and the Legend of
+Faust. Maintaining a certain GPA and completion of three Honors Learning Experiences
+earns a Program Scholar badge. Badges can also be earned for international travel,
+completing a series of Mindset seminars, and community service.
+
+
+
+The University of Michigan has named its digital badging program “Mblem” and it
+operates at the department or program levels. For example, the Engineering Program
+of M‐STEM Academies developed a series of badges to “recognize, validate and share
+undergraduate engineering students’ co‐curricular learning…”
+(http://www.mblem.umich.edu/v/badges).
+The department defined eight broad categories of badges: community service, cross‐
+cultural experiences, entrepreneurial mindset, ethics, intellectual curiosity, leadership,
+professional development, and science and engineering research
+(http://www.mblem.umich.edu/v/badges). Mblems are stackable and recognize
+different levels of competency. The badges are awarded after specific evidence has
+been presented—written, video, or other forms of reflection; badges link to that
+provided evidence. The University maintains a webpage for employers explaining their
+value (http://www.mblem.umich.edu/v/employers).
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+14
+
+Non‐Profit Partnerships with Higher Education
+
+
+edX, founded and governed by colleges and universities, is a non‐profit entity that
+supports the offering of MOOCs on an open‐access platform (https://www.edx.org/).
+According to its website, edX now offers over 1,300 humanities, mathematics, and
+computer science courses to more than 10 million individual leaders. Some courses are
+offered at specific times and others are self‐paced. Some courses are credit‐eligible,
+others lead to a verified digital certificate that can be included in a resume or on
+LinkedIn. In addition, EdX offers over 30 MicroMaster’s programs—a name they have
+trademarked—that can be stacked toward a degree (often requires some onsite work at
+the instructing University).
+Among edX’s 52 original founding university partners are MIT, Harvard, University of
+California Berkeley, the University of Texas System, Arizona State University, the
+University System of Maryland, and Cornell University. Membership has expanded to
+include dozens more U.S. and international universities as well as for‐profit and non‐
+profit partners who offer MOOCs including Amnesty International and Microsoft.
+
+
+
+The non‐profit Digital Promise offers a series of micro‐credentials targeted at educators
+that they categorize as “competency‐based recognition for professional learning”
+(http://digitalpromise.org/initiative/educator‐micro‐credentials/). Each credential
+focuses on a single competency and includes a scoring guide for “evidence” that must
+be provided by the participant, including lesson plans, student‐work samples, and/or
+classroom video.
+Digital Promise recently partnered with a number of Universities to “offer graduate
+level‐credit for select micro‐credentials.” Participating universities include: Fresno
+Pacific University; Brandman University; Portland State University; and the University of
+the Pacific (https://bloomboard.com/microcredential/provider/ac2f23c8‐274d‐449d‐
+ac3f‐6ad29e399737).
+The Micro‐Credential Advisory Board for Digital Promise includes representatives from
+Stanford, the Center for Teaching Quality, the Tennessee Department of Education and
+more (http://digitalpromise.org/initiative/educator‐micro‐credentials/micro‐
+credentials‐advisory‐board/).
+
+For‐Profit Offerings
+Udacity is one example of many for‐profit credential providers. Its inclusion here is provided for
+informational purposes to give a glimpse of the national for‐profit environment for micro‐
+credentials.
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+15
+
+
+
+If students earning a Udacity Nanodegree Plus credential (Udacity has copyrighted the
+term nanodegree) are not employed six months after graduation, they receive 100% of
+their tuition back. There are four qualifying programs: Machine Learning Engineer; Full
+Stack Web Developer; Becoming an iOS Developer; and Data Analyst. All Udacity nano‐
+degree programs are co‐created via partnerships with two or three well‐known industry
+partners such as Google, Facebook, Amazon, IBM, nvidia, and DiDi
+(https://www.udacity.com/nanodegree/plus).
+Successful completion of one of the Nanodegree Plus programs earns students a job‐
+ready project portfolio and a “verified nanodegree credential.” There are some pre‐
+requisites and requirements to qualify for the plus guarantee including beginning
+experiences in the programming language Python as well as Git for version control (if
+you don’t have that experience Udacity offers options for getting it), a computer with a
+broadband connection, and English fluency. There are also terms and conditions related
+to the rigor of the participant’s job search (https://www.udacity.com/nanodegree/plus).
+Udacity offers a range of non‐Plus programs as well, both full‐immersion and self‐paced
+programs, as well as project‐based free courses (https://www.udacity.com). Udacity
+posts a candidate profile for each student noting their credentials and linking to work
+product that can be accessed by potential employers through Talent Source, a
+proprietary directory (http://blog.udacity.com/2016/04/how‐your‐new‐udacity‐profile‐
+can‐get‐you‐a‐job.html).
+
+VII.
+
+BEST PRACTICES TO CONSIDER WHEN DEVELOPING MICRO‐CREDENTIALS
+
+According to the American Council on Education’s report Quality Dimensions for Connected
+Credentials (http://www.acenet.edu/news‐room/Documents/Quality‐Dimensions‐for‐
+Connected‐Credentials.pdf), the six dimensions of quality that support connected credentials
+are the inter‐related concepts of transparency, modularity, portability, relevance, validity, and
+equity, which the Task Force has summarized below:
+
+
+Transparency ‐ This includes, for the benefit of a perspective employer and the student,
+clearly defining competencies (knowledge and specialized skills, soft skills such as
+written and verbal communication, teamwork, independent work, research, etc.). In
+addition, all possible connections from a given micro‐credential to others should be
+highlighted, i.e., a path to earn credit, a path to another credential, entry into a degree
+program, etc.
+
+
+
+Modularity ‐ This is the important feature that the credential can be stackable, that
+additional credentials can be added to offer value.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+16
+
+
+
+Portability ‐ Portability is essentially effort to ensure that the credential has value
+locally, nationally and/or beyond. The transferring of credit or noncredit micro‐
+credentials follows SUNY Policy 1008 Transfer and Articulation and MTP 13‐3 Seamless
+Transfer.
+Within SUNY, the Task Force notes that the articulation of noncredit to credit needs to
+involve the evaluation of learning outcomes, i.e., not be awarded for the experience
+alone. The process for articulating noncredit to credit is an academic process and
+should be conducted through established shared governance procedures within the
+institution.
+
+
+
+Relevance ‐ One of the key discussions of the Task Force was that micro‐credentials at
+SUNY should be meaningful, providing benefit to students that helps them to advance
+their educational, professional and/or life goals. SUNY micro‐credentials should add
+sufficient value that they are respected and recognized by relevant stakeholders, from
+the campus community to perspective employers.
+
+
+
+Validity ‐ Development of micro‐credentials must take into consideration the means by
+which validity can be confirmed; much in the way that employers or academic
+institutions seek to confirm degree attainment, micro‐credentials must also be
+verifiable. In the discussion above on badges, the inclusion of meta‐data tied to distinct
+learning outcomes mastered and links to the institution are listed as ways to establish
+both relevance and validity. For other types of micro‐credentials, there should also be
+documented assessment of learning outcomes and means of assessment. The ACE
+report, Quality Dimensions for Connected Credentials, recommends consideration of
+what it refers to as predictive validity and concurrent validity (Everhart, Ganzglass,
+Casilli, Hickey, and Muramatsu, 2016). ACE definitions are provided here in their entirety
+for reference:
+-
+
+Predictive Validity: “There is evidence that the claims made by the credential have
+been borne out in reality. This means that there is evidence that the assessments for
+attaining the credential accurately predict an individual’s ability to do something in
+the future, on the job, or in a community of practice. Evidence of predictive validity
+is typically gathered by studying whether individuals who earn a passing score on an
+assessment or who earn the credential actually know or can actually accomplish
+what was claimed.”
+
+-
+
+Concurrent Validity: “There is parallel evidence supporting the claims made in the
+credential. Evidence of concurrent validity is typically gathered by looking at other
+sources of evidence that the individual knows something documented in an
+assessment and/or can carry out the job claimed by the credential.”
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+17
+
+
+
+Equity ‐ Because micro‐credentials can be used as a means to provide a pathway into
+for‐credit coursework and/or job advancement, there should be appropriate supports to
+ensure that all students have an equal opportunity to succeed.
+
+The Task Force offers the following additional guidance regarding transparency and portability
+for SUNY micro‐credentials:
+
+
+Tuition ‐ For credit‐bearing micro‐credentials, tuition will be charged at the current
+approved rate for all other credit‐bearing offerings. For noncredit micro‐credentials,
+tuition is charged based on standard noncredit practices at the campus. Total costs
+should be made public and easily accessible.
+
+
+
+Transfer ‐ The articulation of noncredit to credit needs to involve the evaluation of
+learning outcomes and not be awarded for experience alone. The process for
+articulating noncredit to credit is an academic process and should be conducted through
+established shared governance procedures within the institution. The transferring of
+credit or noncredit micro‐credentials follows SUNY Policy 1008 Transfer and Articulation
+and MTP 13‐3 Seamless Transfer.
+
+
+
+Transcripts ‐ Issues of transcript development for micro‐credentials and industry‐
+recognized credentials, as well as noncredit‐to‐credit pathways need to be addressed to
+facilitate portability of these credentials. New initiatives have been launched by a
+variety of colleges and universities across the nation for the purpose of developing a
+comprehensive student record (CSR), a digitized format that aims to expand beyond the
+traditional chronological transcript record of course titles, credits, and grades by
+documenting validated evidence of a student’s learning outcomes, competencies, and
+related learning outside the classroom. Appendix B highlights multiple examples for
+review.
+
+
+
+Marketing ‐ Because of the varying definitions around micro‐credentials, campuses
+should strive for clarity and transparency in their marketing efforts. Policies, procedures
+and criteria applied to micro‐credentials, such as fee structure and any pertinent
+financial aid information, should be accurately described, fully disclosed, and
+prominently available to prospective and enrolled students (as well as faculty and staff
+involved in the assessment process), and be included in academic catalogs and on
+college websites.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+18
+
+VIII. PROGRAM APPROVALS AND MICRO‐CREDENTIALS
+Since all academic offerings—credit, noncredit, full programs, or partial programs—are subject
+to SUNY Board of Trustees policy, New York State rules and regulations, federal laws, and
+regional accreditation standards, care must be taken in their development and implementation.
+Review and approval of noncredit micro‐credentials is largely local, must adhere to campus
+faculty governance procedures for approval as well as course evaluation and prior learning
+assessment protocols, and be entirely consistent with SUNY policies and state and federal
+regulations.
+In most cases, review and approval of for‐credit micro‐credentials can be treated in the same
+way that development of a minor would be treated, which would not typically require off‐
+campus approvals. However, since credit‐bearing micro‐credentials represent a subset of
+courses that may contribute toward the partial completion of one or more formal curricula
+(that is, a set of registered educational requirements in either a Certificate or Degree program),
+care must be exercised in determining potential issues, especially with respect to student
+financial aid eligibility, academic advisement, credential title, and advertising.
+As a general principle, campuses should keep their liaison in the SUNY System Program Review
+and Planning Office (http://system.suny.edu/academic‐affairs/acaproplan/app/find‐your‐
+campus‐reviewer/) apprised of their plans to develop and offer micro‐credentials. The program
+reviewer can provide support to campus faculty, staff, and administration.
+Some specific examples are provided below:
+
+
+Micro‐Credentials Comprised of For‐Credit Courses in One or More Existing, Registered
+Program(s)
+Consistent with the core principles identified in this report, micro‐credentials ideally
+stack toward a degree program and may be comprised of for‐credit courses that are
+part of one or more existing, registered degree program(s).
+In this case there is no approval required from the System Program Review and Planning
+office or beyond. Campuses should, however, note the following:
+-
+
+The credential must go through appropriate local faculty governance procedures.
+
+-
+
+A planned micro‐credential may not have the same title as a registered degree or
+certificate program. For example. a micro‐credential in a discipline related to
+classroom teaching, educational leadership, or pupil personnel services for which
+there exists a P‐12 educator certificate title issued by the New York State Education
+Department, care must be taken in the selection of the micro‐credential title so that
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+19
+
+it is not misleading to candidates or employers. The micro‐credential title should not
+be exactly the same as a P‐12 educator certificate title, but instead should represent
+the specific skill or competency in the discipline. And, candidates should be made
+aware that the micro‐credential, in and of itself, does not lead to the issuance of a P‐
+12 educator certificate title.
+-
+
+These types of micro‐credentials can be earned as part of the degree program,
+marking accomplishments at a certain point in time and motivating students to
+continue. They can also be marketed as a way to capture the interest of potential
+students, introducing them to the campus and the program using smaller portions of
+curricula.
+
+-
+
+These types of micro‐credentials are distinct from a registered certificate. Consistent
+with New York State regulation, note that if a cluster of courses proposed for a
+micro‐credential is 24 credits or more, campuses should explore with their Program
+Review liaison SUNY approval and NYSED registration of a free‐standing certificate.
+
+Again, while they may not need to approve these types of micro‐credentials, your
+System Program Reviewer (http://system.suny.edu/academic‐affairs/acaproplan/app/
+find‐your‐campus‐reviewer/) can be a valuable resource in the design phase of a micro‐
+credential; particularly in addressing the points above. They can help identify potential
+pathways for students and/or advise when an idea might be better as a registered
+certificate.
+
+
+IX.
+
+Micro‐Credentials Designed to Provide Professional Development or Continuing
+Education
+-
+
+There is also demand for stand‐alone professional development, career‐oriented
+micro‐credentials. As noted above, some of these types of micro‐credentials might
+be offered on the credit and/or non‐credit side.
+
+-
+
+Note that admission into a given program may be required in order for student
+pursuing the micro‐credential to be financial aid eligible.
+
+WHO SHOULD BE INVOLVED IN DEVELOPING MICRO‐CREDENTIALS?
+
+Ideas for micro‐credentials can come from any number of sources. SUNY campuses have begun
+to develop micro‐credentials in response to an idea from an individual faculty member, a
+department working together as a team, even a special President’s Task Force charged with
+discussing micro‐credentials with campus business and industry partners. It could be students
+or alumni who have identified a need, the enrollment or admissions offices that are getting
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+20
+
+frequent requests about credentials in a certain area, or career development officers who have
+made a new industry contact.
+No matter what the source of the idea, the Task Force wants to emphasize the importance and
+value of collaborative design, quality assurance, and a thoughtful marketing/communications
+plan—this is true whether the intent is non‐credit, non‐credit to credit, or a for‐credit
+credential.
+Figure X. Example: Possible Campus Engagement Strategy for the Micro‐Credential Design,
+Campus Review, and Implementation Process
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+21
+
+X.
+
+RECOMMENDATIONS
+
+1. The System Provost should encourage and support campus development of micro‐
+credentials consistent with the core principles identified in this report:
+
+
+Academic quality is paramount for micro‐credentials, and faculty governance
+participation is required;
+
+
+
+Micro‐credentials should be initiated, developed, and approved according to local
+campus missions, policies, strengths, and guidelines.
+
+
+
+Micro‐credentials designed to meet market needs should be informed by data from
+appropriate markets and align with industry standards.
+
+
+
+Micro‐credentials should provide opportunities for industry connections and
+partnerships.
+
+
+
+Micro‐credentials should be flexible and innovative, and planning should ensure their
+portability.
+
+
+
+Micro‐credentials should be stackable.
+
+2. Campuses should develop criteria for a process by which micro‐credential articulations
+may be developed, and the role which shared governance should play in this process.
+Consideration might be given to articulating:
+
+
+Existing noncredit into existing credit courses;
+
+
+
+Existing noncredit into new credit courses;
+
+
+
+New noncredit into existing credit courses; and
+
+
+
+New noncredit into new credit courses.
+
+3. Strong partnerships between Continuing Education/Workforce Development and
+Academic Affairs may be necessary to achieve optimum results in the development of
+certain micro‐credentials. Examples of issues to consider include:
+
+
+Assessment of student learning outcomes and alignment of these between noncredit
+and credit.
+
+
+
+Establishment of business/financial guidelines to ensure financial viability and program
+sustainability and renewal.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+22
+
+
+
+Identification of the role of noncredit instructors and campus faculty in the
+determination of noncredit to credit micro‐credentials, involving shared governance
+where appropriate.
+
+
+
+Guidelines and standards for faculty and curriculum that are consistent across the
+institution, as called for by MSCHE.
+
+
+
+Inclusion of industry standards in the assessment of programs which are linked to
+industry‐recognized credentials.
+
+
+
+Business and industry involvement as a part of development, assessment, and ongoing
+support of such programs.
+
+4. Campuses are encouraged to consider the six dimensions of quality that support
+connected credentials as described in this report and by the American Council on
+Education’s document Quality Dimensions for Connected Credentials: transparency,
+modularity, portability, relevance, validity, and equity. In both attracting students and in
+verifying the credentials, campuses must provide clarity for students around tuition,
+financial aid, learning outcomes, assessments, and any connection to other credentials.
+5. For purposes of clarity and transparency across the SUNY System, campuses are
+encouraged to consider the Recommended SUNY Definition of Micro‐Credentials (and
+associated taxonomy of terms provided in this document):
+SUNY Micro‐Credential Definition:
+Micro‐credentials verify, validate and attest that specific skills and/or competencies have
+been achieved and are endorsed by the issuing institution, having been developed through
+established faculty governance processes and designed to be meaningful and high quality.
+Expanded Detail:
+Micro‐credentials may represent the content of credit or noncredit study; they may take the
+form of digital badge or micro‐award, and can be offered online, on‐campus, or a hybrid of
+both. Micro‐credentials may be specifically recognized by certain industries, in which case
+they may have the advantage of providing validation and attestation of industry‐specified
+and frequently highly sought‐after competencies.
+Each micro‐credential awarded must be represented clearly and accurately, addressing all
+associated costs, financial aid, transferability, and applicability (e.g., stack‐ability) toward a
+formal award(s) (i.e., registered degree, certificate).
+Micro‐credentials can be used to highlight competencies earned as part of a credit‐bearing
+program (motivating students to persist and distinguishing students among prospective
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+23
+
+employers); serve as an introduction or entry point to a degree program (stackable); or be
+issued as a stand‐alone credential and/or one complementary to a degree program (an
+English major may benefit from a micro‐credential in computer science; a computer science
+major may benefit from a micro‐credential in business writing; a computer science alum
+may benefit from a micro‐credential on the newest programming language; and/or an
+education major may seek continuing professional development via a micro‐credential, etc.).
+Taxonomy of Terms:
+To provide the SUNY community with a common taxonomy around micro‐credentials, a list
+of definitions for common micro‐credentialing terms is provided as Appendix A of this report.
+This list may be expanded or revised over time and will be maintained online at:
+http://system.suny.edu/academic‐affairs/microcredentials.
+6. While there is local flexibility in developing micro‐credentials, campuses are strongly
+encouraged to seek support and counsel from their liaison in the System Program Review
+and Planning Office (http://system.suny.edu/academic‐affairs/acaproplan/app/find‐your‐
+campus‐reviewer/) when planning micro‐credentials.
+7. In the course of its work, the Task Force assigned a sub‐committee to review and identify
+existing System, campus, or federal policies that may provide barriers, as well as potential
+opportunities, to campus development of micro‐credentials. Upon review of the sub‐
+committee’s work, the Task Force recommends that the Provost consider a formal policy
+review process to include a System‐wide Task Force or Committee with representation
+from faculty and student governance and an open‐comment period for any proposed
+policy revision, for the following SUNY Trustee policies:
+
+
+1305 Credit/Contact Hour ‐ The policy is centered on the framework of the Carnegie
+Unit and time. Possible revisions for consideration include the introduction of language
+on learning outcomes and competencies as a function of the awarding of credit.
+
+
+
+1301 Continuing Education Unit ‐ Possible revisions for consideration include the
+introduction of language that CEUs and other credentials be vetted through the
+awarding institutions’ shared governance process in order to enable the creation and
+conferral of micro‐credentials that award CEUs as well as college credit.
+
+
+
+MTP 13‐3 Seamless Transfer ‐ Possible revisions for consideration include language to
+specifically note what the Provost has already indicated; that transferring of for‐credit
+or noncredit micro‐credentials follows SUNY Policy 1008 Transfer and Articulation and
+MTP 13‐3 Seamless Transfer.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+24
+
+
+
+1300 Award of Academic Credit by Evaluation – As prior learning assessment can be
+used to evaluate learning acquired through micro‐credentials not already assessed for
+college credit, the Task Force has reviewed the Report of the SUNY TAACCT Grant Prior
+Learning Assessment Advisory Board and found several of relevant recommendations.
+The Task Force recommends that this report be assessed and reviewed via a formal
+policy review process.
+
+8. The Task Force recommends that SUNY join in efforts to advocate for the consideration of
+micro‐credentials as allowable activities for the purposes of state and federal financial
+aid; explore a system‐wide approach to digital transcripts that include micro‐credentials;
+and provide any needed specificity around the transfer and portability of digital badges.
+9. The System Provost should charge the SUNY Faculty Advisory Council on Teaching and
+Technology (FACT2), and/or other relevant representative group, with development of a
+readiness assessment and resources to support faculty in the development and
+successfully delivery of micro‐credentials.
+10. In the interests of accountability, transparency and portability of micro‐credentials, it is
+essential to communicate and report the development of these at a System level. It is
+recommended that reporting structures in SIRIS be developed to ensure consistency of
+data definitions and facilitate reporting.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+25
+
+APPENDIX A: GLOSSARY OF TERMS
+The following list provides the SUNY community with a common taxonomy around micro‐
+credentials, building on the quality work of the Lumina Foundation and others.3 Note: This list
+may be expanded or revised over time and will be maintained online at:
+http://system.suny.edu/academic‐affairs/microcredentials.
+
+
+Badge: use of digital technologies to represent competencies and various learning
+achievements; electronic badges should include meta‐data on the evidence of learning and
+link back to sponsoring institution and evaluation criteria.
+
+
+
+Certificate: a credential issued by an institution in recognition of the completion of a
+curriculum that usually represents a smaller domain of knowledge than established
+degrees. Credit bearing certificates must be approved by SUNY and registered with the
+State Education Department. These certificates typically contain fewer credits than a degree
+program. All credits must be applicable toward a degree program at the issuing institution.
+Noncredit certificates need no external approval and must be identified as such.
+
+
+
+Certification: mastery of or competency in specific knowledge, skills or processes that can
+be measured against a set of accepted standards, usually established by a recognized entity
+such as NYSED in the case of licensure requirements or an industry organization such as
+Microsoft.
+
+
+
+Competency: Learnable, measurable and/or observable knowledge and skill‐sets gained;
+
+
+
+Degree: title given by an institution (usually a college or university) that has been granted
+the authority by a state, a recognized Native American tribe, or the federal government to
+confer such credentials. A degree represents satisfactory accomplishments within an
+accepted body of knowledge.
+
+
+
+Infrastructure: including but not limited to student support systems, transcripting, student
+information systems, assessment, marketing, fee structures, portability: the credential has
+value locally, nationally and perhaps internationally in labor markets, education systems,
+and/or other contexts.
+
+
+
+License: legal permission, typically granted by a government agency, to allow an individual
+to perform certain regulated tasks or occupations. Licenses are based on pre‐determined,
+standardized criteria, involving educational programs of study, assessments, and/or work
+experience and are time‐limited requiring periodic review and renewal.
+
+3
+
+All definitions are based on Lumina/Connecting Credentials, save certificate (New York State Education
+Department); and MOOC (Educause)
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+26
+
+
+
+Learning Outcome: that which a learner is expected to know, understand, or be able to do
+after successful completion of a planned process of learning.
+
+
+
+Micro‐credential: Micro‐credentials verify, validate and attest that specific skills and/or
+competencies have been achieved and are endorsed by the issuing institution, having been
+developed through established faculty governance processes and designed to be
+meaningful and high quality.
+
+
+
+MOOC: A massive open online course (MOOC) is a model for delivering learning content
+online to any person who wants to take a course, with no limit on attendance. MOOCs are
+increasingly used as vehicles to deliver micro‐credentials.
+
+
+
+Qualification: the formal outcome of an assessment and validation process which is
+obtained when a competent body determines that an individual has achieved learning
+outcomes to given standards (e.g. European Qualifications Framework)
+
+
+
+Stackable Credential or Career Pathway: part of a sequence of credentials that can be
+accumulated over time to build up an individual’s qualifications and help that individual
+move along a career pathway and further education.
+
+
+
+Transparency: easy to understand and compare, clear learning outcomes and/or
+competencies.
+
+Examples of Trademarked Micro‐Credential Titles
+
+
+Udacity owns the trademark for Nanodegree.
+
+
+
+The nonprofit edX, founded by MIT and Harvard University to deliver online courses by a
+consortium of colleges, applied for a trademark on the word MicroMasters.
+
+
+
+MicroDegree is trademarked by Edevate.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+27
+
+APPENDIX B: ELECTRONIC TRANSCRIPTS
+Work underway at eleven colleges/universities selected to participate in the comprehensive
+student record project, funded by a grant from the Lumina Foundation and directed by AACRAO
+(American Association of College Registrars and Admissions Officers) and NASPA (Student
+Affairs Professionals in Higher Education), showcase sample prototypes for documenting in a
+reliable, verifiable way student learning, competencies, and experiences from a variety of
+learning venues. Prototypes like these should facilitate the further work that is needed to
+document and incorporate validated evidence of student learning that results from completion
+of micro‐credentials, industry recognized credentials and related noncredit to credit pathways
+programs. Summaries of six of the individual projects developed by selected institutions
+participating in the comprehensive student record project are detailed below.
+1. Borough of Manhattan CC (BMCC) has developed a co‐curricular transcript, which is
+validated by the Division of Student Affairs. The supplemental transcript includes
+individual student participation in activities categorized under Athletics; Clubs or
+Organizations; Community Service; Honor and Awards; Leadership Training; Workshops
+and Seminars. In the future, the institution plans to investigate how to be more granular
+about skills developed in each of the designated categories.
+2. University of Central Oklahoma (UCO) has been working on the development of a
+“second transcript” that is designed to record students’ growth and learning beyond
+aptitude in their major. Called the Student Transformative Learning Record (STLR), the
+purpose of the transcript is to track, document and verify student learning across five of
+the institution’s Six Core Value Tenets. The first five value tenet are Global and Cultural
+Competencies; Health and Wellness; Leadership; Research, Creative and Scholarly
+Activities; and Service Learning and Civic Engagement. The sixth Tenet, Discipline
+Knowledge, is recorded in the traditional academic transcript. Students have a mobile
+student dashboard on which they can track their own badging achievement in each of
+the core tenets, Data are backed up by faculty and staff assessment of the
+transformative experiences. The assessments are based on AACU’s Value rubrics.
+3. Elon University has transformed a longstanding co‐curricular transcript by building, with
+the assistance of the software vendor Parchment, a user‐friendly visual co‐curricular
+transcript, a web platform where student information and experiences can be uploaded
+as an Excel spreadsheet to create a PDF infographic. Each experience has a code and
+associated icon. The front page of the visual transcript uses those icons to present a
+summary of each experience, and the second page presents that data as a visualization.
+The goal is to make the visual transcript something that is easily digestible for readers as
+well as sharable via social media.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+28
+
+4. University of Maryland University College, an online state university, is developing a
+competency‐based, visual record of performance; an extended transcript that can be
+shared with and understood by employers. The new transcript reflects UMUC’s
+curriculum, which focuses on program‐level professional skills and goals, not individual
+courses. Rather than documenting the classes a student took and the grades earned, the
+record describes and contextualize a student’s knowledge, giving specific evidence of
+learning in particular areas. UMUC’s curriculum consists of program‐level competencies,
+which are further broken down into specific skills and abilities. Courses then require
+projects and simulations where students must demonstrate those competencies, with
+assessments that aim to replicate what students will experience in the workforce.
+Students are responsible for incorporating faculty feedback and resubmitting. The goal
+is mastery of learning; students cannot pass until they’ve mastered the competencies
+associated with a project. The associated learning artifacts—projects, papers, speeches
+will be archived in the student record, beginning in fall 2017. To leverage resources,
+UMUC worked closely with the University of Wisconsin‐Extension, another institution
+involved in the comprehensive student record project, to develop access to the record.
+Both schools serve similar student populations, have the same learning management
+system, and will deliver the transcript as a digital webpage from which the viewer can
+link through to many different portals, rather than a piece of paper.
+Over the last 18 months, UMUC worked with IMS Global on CBE (competency based
+education) and digital credentialing and is now working with the recent Cengage
+acquisition Learning Objects Inc. to create the visual extended transcript with an
+appropriate learner interface.
+5. University of South Carolina has an extended transcript project, "Beyond the Classroom
+Matters," involving staff from student affairs, academic affairs, information technology,
+and the registrar’s office. Staff from these areas built a catalog of “Beyond the
+Classroom” learning programs, including community service, undergraduate research,
+career coaching, supplemental instruction, leadership experiences, and peer education.
+Each program is aligned with high impact practices and the educational purpose of each
+activity is clearly defined in the new database. This catalog has a web interface through
+which student participation is recorded.
+6. Stanford University has developed a “certified electronic certificate” which includes in a
+digital format the skills/outcomes achieved by the student allowing employers or other
+colleges to see at a glance what capacities the student has developed and where he or
+she learned them. Using a digital file with an electronic signature, students are able to
+convey their credentials to prospective employers and to share them on career‐building
+sites. The PDF certificate contains a data file that articulates the program and course
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+29
+
+learning outcomes. Stanford officials are currently working with PESC, Postsecondary
+Electronic Standard Council, to establish a credential standard.
+Other noteworthy efforts include the Lumina Foundation’s Connecting Credentials initiative
+(www.connectingcredentials.org). In addition, several other vendors and nonprofits have done
+extensive work with digital repositories for student knowledge including efforts by: Parchment;
+the National Student Clearinghouse and Student Labs; Merit Pages; Degreed, a learning portal
+company; and, Mozilla Foundation’s Open Badges.
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+30
+
+APPENDIX C: RESOURCES
+ACE. (2015). Rethinking Credentialing. American Council of Education. Retrieved online at:
+http://www.acenet.edu/news‐room/Pages/Rethinking‐Higher‐Education‐Credentialing.aspx
+ACE. (2015). Connecting Credentials [Webinar]. American Council of Education. Retrieved online
+at: http://www.acenet.edu/news‐room/Pages/Rethinking‐Higher‐Education‐Credentialing.aspx
+ACE. (n.d.). College Credit Recommendation Service. [Prior Learning Assessment]. American
+Council of Education. Retrieved online at:
+http://www2.acenet.edu/credit/?fuseaction=browse.main
+Adult Learning Focused Institution (ALFI) initiative. (n.d.). Retrieved from the Council for Adult
+and Experiential Learning (CAEL) website: www.cael.org/whom‐we‐serve/colleges‐and‐
+universities/adult‐student‐services/alfi‐assessment‐tools/heading‐1
+Berry, B., Airhart, K., Byrd, P. (2016). Microcredentials. Phi Delta Kappan. Vol 98, Issue 3, pp. 34
+– 40. Retrieved online at:
+http://journals.sagepub.com/doi/abs/10.1177/0031721716677260#articleCitationDownloadCo
+ntainer
+Brown, J., Kurzweil, M. (2017). The Complex Universe of Alternative Postsecondary Credentials
+and Pathways. American Academy of Arts and Sciences. Retrieved online at:
+https://www.amacad.org/content/publications/publication.aspx?d=22786
+Buban, J. (2017). Alternative Credentials, Prior Learning 2.0. [Attracting the adult learner].
+Online Learning Consortium’s Center for Research in Digital Learning & Leadership. Retrieved
+online at: https://onlinelearningconsortium.org/read/deac‐study‐alternative‐credentials/
+Carnevale, A., Strohl, J. and Gulesh, A. (2015). College Is Just The Beginning: Employers’ Role in
+the $1.1 Trillion Postsecondary Education and Training System. Center on Education and the
+Workforce. McCourt School of Public Policy. Retrieved from: https://cew.georgetown.edu/wp‐
+content/uploads/2015/02/Trillion‐Dollar‐Training‐System‐.pdf
+Center for Teaching Quality, Digital Promise. (2016). Micro‐credentials: Driving teacher learning
+and leadership. Retrieved online at: https://www.teachingquality.org/microcredentials
+ConnectingCredentials.org. (2016). Connecting Credentials, From National Dialogue to
+Collective Action. Lumina Foundation. Retrieved online at:
+http://connectingcredentials.org/resources/connecting‐credentials‐national‐dialogue‐
+collective‐action/
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+31
+
+Grant, S. (2016). Building Collective Belief in Badges: Designing Trust Networks. Foundation for
+Digital Badges and Micro‐Credentials, pp. 97‐114.
+Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., Knight, E. (2015). Education and Information
+Technologies. V. 20, Issue 2, pp 403‐410. Retrieved online at:
+https://link.springer.com/article/10.1007/s10639‐013‐9291‐7
+“Educating Nontraditional Students: A selection of Inside Higher Ed Articles and Essays.”
+(2014). Inside Higher Ed. Retrieved from: https://www.insidehighered.com/content/educating‐
+nontraditional‐students
+Erisman, W. and Steele, P. (2015). Adult College Completion in the 21st Century: What We Know
+and What We Don’t. Higher Ed Insight. Retrieved from:
+http://www.adultcollegecompletion.org/sites/files/documents/images/Adult%20College%20Co
+mpletion%20in%20the%2021st%20Century.pdf
+Everhart, D., Ganzglass, E., Casilli, C., Hickey, D., Muramatsu, B. (2016). Quality Dimensions for
+Connected Credentials. American Council on Education. Retrieved online at:
+http://www.acenet.edu/news‐room/Pages/Quality‐Dimensions‐for‐Connected‐Credentials.aspx
+Everhart, D., Bushway, D., and Schejbal, D. (2016). Communicating the Value of Competencies.
+American Council on Education. Retrieved online at: http://www.acenet.edu/news‐
+room/Pages/Communicating‐the‐Value‐of‐Competencies.aspx
+Fain, P. (2013). “Transformation from Within.” Inside Higher Ed. Retrieved from:
+https://www.insidehighered.com/news/2013/01/21/ace‐commissioned‐report‐disruption‐and‐
+adult‐students
+Ganzglass, E. (2014). Scaling “Stackable Credentials”: Implications for Implementation and
+Policy. Center for Postsecondary and Economic Success. Retrieved from:
+http://www.clasp.org/resources‐and‐publications/files/2014‐03‐21‐Stackable‐Credentials‐
+Paper‐FINAL.pdf
+Getting Smart, Bloomboard. (2016). Moving PD from Seat‐Time to Demonstrated Competency
+Using Micro‐credentials. Retrieved online at:
+http://www.gettingsmart.com/publication/moving‐pd‐from‐seat‐time‐to‐demonstrated‐
+competency‐using‐micro‐credentials/
+Hall‐Ellis, S. D. (2016). Stackable micro‐credentials – a framework for the future. The Bottom
+Line, Vol. 29 Issue: 4, pp.233‐236. Retrieved online at: https://doi.org/10.1108/BL‐02‐2016‐
+0006
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+32
+
+Lumina Foundation (2016). Connecting Credentials, Lessons from the National Summit on
+Credentialing and Next Steps in the National Dialogue. Retrieved online at:
+http://connectingcredentials.org/resources/connecting‐credentials‐lessons‐from‐national‐
+summit‐on‐credentialing/
+Lumina Foundation (2015). Connecting Credentials. Making the Case for Reforming the U.S.
+Credentialing System. Retrieved online at: http://connectingcredentials.org/resources/making‐
+case‐reforming‐u‐s‐credentialing‐system/
+Newby, T., Wright, C., Besser, E., Beese, E. (2016). Passport to Designing, Developing and
+Issuing Digital Instructional Badges. Foundation of Digital Badges and Micro‐Credentials, pp.
+179‐201.
+University of Utah. Degree Plus Certificate Series [Brochure]. Retrieved online at:
+http://degreeplus.utah.edu/program‐details/
+U.S. Chamber of Commerce. (2016). Changing the Debate on Quality Assurance in Higher
+Education. Retrieved online at: https://www.uschamberfoundation.org/reports/changing‐
+debate‐quality‐assurance‐higher‐education
+U.S. Department of Education. (2014). Availability of Data on Noncredit Education and
+Postsecondary Certifications: an analysis of selected state‐level data systems. Retrieved from
+http://s3.amazonaws.com/NCICTE/pdf/NCICTE_Availability_of_Data_Final_Report.pdf
+Van Noy, M., Jacobs, J., Korey, S., Bailey, T. and Hughes, K. (2008). Noncredit Enrollment in
+Workforce Education: State Policies and Community College Practices. American Association of
+Community Colleges. Retrieved from:
+http://www.aacc.nche.edu/Publications/Reports/Documents/noncredit.pdf
+Notes:
+
+
+Lumina’s Connecting Credentials website contains a good repository of resources:
+http://connectingcredentials.org/
+
+
+
+Credential Engine (grew out of the Credit Transparency Initiative) is a 501C3 non‐profit
+organization whose mission is to: “improve transparency in the credentialing
+marketplace.” They maintain an open‐licensed, “Credential Registry (CR) and Credential
+Transparency Description Language (CTDL).” http://www.credentialengine.org/
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+33
+
+APPENDIX D: MICRO‐CREDENTIALING TASK FORCE MEMBERS
+Diane Bliss
+Governance Committee Chair, Faculty Council of
+Community Colleges
+Professor of English and Adjunct Coordinator
+Orange County Community College
+115 South Street
+Middletown, New York 1094
+diane.bliss@sunyorange.edu
+Susan Deer, Ph.D.
+Vice President of Academic Affairs
+Rockland Community College
+145 College Road, Library 4305
+Suffern, New York 10901
+sdeer@sunyrockland.edu
+David Duryea
+Vice President for Finance and Management
+SUNY Cortland
+P.O. Box 2000
+Cortland, New York 13045
+david.duryea@cortland.edu
+Christy Fogal
+Vice President, Faculty Council of Community
+Colleges
+Professor of Mathematics
+Monroe Community College
+1000 East Henrietta Road
+Rochester, New York 14623
+cfogal@monroecc.edu
+Jane Hammond
+Associate Dean for Curriculum and Academic
+Records
+Tompkins‐Cortland Community College
+170 North Street, P.O. Box 139
+Dryden, New York 13053
+HammonJ@tc3.edu
+Alex George
+SUNY Student Assembly
+c/o SUNY Plaza
+Albany, New York 12246
+alex.george@sunysa.org
+
+Gwen Kay, Ph.D.
+Vice President, University Faculty Senate
+Professor, Graduate Program Director
+SUNY Oswego
+7060 Route 104
+Oswego, New York 13126‐3599
+gwen.kay@oswego.edu
+Minahil Khan
+Student Assembly President
+University at Buffalo
+Buffalo, New York 14260
+minahilk@buffalo.edu
+David Kohn
+Director, Continuing and Professional Education
+Orange County Community College
+Continuing Education
+115 South St
+Middletown, New York 10940
+david.kohn@sunyorange.edu
+Ken Lindblom, Ph.D.
+Associate Dean
+Stony Brook University
+Social & Behavioral Sciences Building
+Stony Brook, New York 11794‐4310
+kenneth.lindblom@stonybrook.edu
+Jill Pippin
+Dean for Extended Learning
+SUNY Oswego
+7060 Route 104
+Oswego, New York 13126‐3599
+315‐312‐3077
+jill.pippin@oswego.edu
+Kristin R. Poppo, Ph.D.
+Provost
+State University College of Technology at Alfred
+Huntington Administration Building, Room 201
+10 Upper College Drive
+Alfred, New York 14802
+PoppoKR@alfredstate.edu
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+34
+
+Kathleen M. Schiefen, Ph.D.
+Executive Vice President for Academic Affairs
+Genesee Community College
+One College Road
+Batavia, New York 14020
+kmschiefen@genesee.edu
+Karen Spellacy
+Professor of Economics
+SUNY Canton
+34 Cornell Drive
+Canton, New York 13617
+spellacy@canton.edu
+James Stellar, Ph.D.
+Sr. Vice President for Academic Affairs
+and Provost
+University at Albany
+University Hall 308
+1400 Washington Avenue
+Albany, New York 12222
+jstellar@albany.edu
+
+Nina Tamrowski
+SUNY Trustee and President, Faculty Council of
+Community Colleges
+Professor, Political Science
+Chair, Social Sciences Department
+Onondaga Community College
+4585 West Seneca Turnpike
+Syracuse, New York 13215
+nina.tamrowski@suny.edu
+Marion Terenzio, Ph.D.
+President
+SUNY Cobleskill
+106 Suffolk Circle, Room 202 Knapp Hall
+Cobleskill, New York 12043
+terenzma@cobleskill.edu
+Nan Travers, Ph.D.
+Director, Ctr. for Leadership in Credentialing
+Learning
+SUNY Empire State College
+Two Union Avenue
+Saratoga Springs, NY 12866
+Nan.Travers@esc.edu
+
+System Administration Liaisons
+Elizabeth Bringsjord, Ph.D., Vice Provost and Vice Chancellor for Academic Affairs
+Carey Hatch, Interim Senior Associate Provost for Academic Technology and Information Services
+Fred Hildebrand, Ph.D., Associate Provost, Academic Programs and Planning
+Deborah Moeckel, Ph.D., Assistant Provost for Community College Education
+Cynthia Proctor, Director of Communications and Academic Policy Development
+Special thanks to the following individuals who contributed to the early work of the Task Force:
+Craig Billie, Institutional Research Associate, Office of IR and Data Analytics
+Mike Hegarty, SUNY Student Assembly, Executive Committee Representative
+John Nader, Ph.D., President, State University College of Technology at Farmingdale
+
+SUNY Micro‐Credentialing Task Force Report and Recommendations
+
+35

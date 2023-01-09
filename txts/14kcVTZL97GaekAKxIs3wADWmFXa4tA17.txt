@@ -1,0 +1,423 @@
+Ad Hoc Open Educational Resources Committee
+Fall 2018 Report
+Submitted by Joanne Spadaro
+November 30, 2018
+I. Membership
+The membership of the Ad Hoc Open Educational Resources Committee consists of two fulltime, tenure-stream faculty who have taught more than one OER course, the OER Librarian
+(tenured), a full-time, tenure-streamed librarian with knowledge of OER, a student
+representative designated by the SGA Executive Board, the College’s Instructional Designer, and
+the OER liaison for Academic Affairs. Veronika Dolar and Joanne Spadaro serve as co-chairs,
+and Christa DeVirgilio is the secretary.
+Members
+Jillian Crocker
+Christa DeVirgilio
+Veronika Dolar
+Jessica T. Smith
+
+Departments
+Sociology
+Library
+Politics, Economics & Law
+Student Government Association
+
+Ex-Officio Members
+Joanne Spadaro (voting member)
+Chandra Shehigian (non-voting member)
+Duncan Quarless (non-voting member)
+
+Library, OER Librarian
+Information Technology, Instructional Designer
+Academic Affairs
+
+II. Activities
+Meetings
+During fall 2018, the Committee held monthly face-to-face meetings, and online discussions.
+Three members of the Committee (C. DeVirgilio, D. Quarless, J. Spadaro,) also serve as Leads for
+SUNY’s OER funded initiatives on campus and attend SUNY OER Services online meetings twice
+monthly.
+SUNY OER Funding, Proposals for New OER Courses, & Faculty Stipends
+SUNY received $4 million from the State of New York Excelsior Scholarship to support the
+adoption and creation of open educational resources in the 2018-2019 academic year. SUNY
+approved our campus’ application for funding, and has renewed funding for OER initiatives at
+Old Westbury for 2018-2019. This fall Old Westbury received $12,000 from SUNY. This amount
+includes $10,000 baseline funding for having a minimum requirement of 5 new OER course
+sections and a FTE under 10,000, plus $2000 additional for course section funding ($300 per
+section for course sections that exceed the campus 5 course minimum, $500 per section for a
+course if all sections are converted to OER). The College may receive an additional $1,000$2000 in spring 2019, depending on the number of new OER sections posted in the course
+registration system. We also have $2224 in rolled-over funds from the prior funding cycle.
+On June 1, 2018 the OER Ad Hoc Committee sent out a call for proposals for the development
+of new OER courses for fall 2018. We received, reviewed, and approved 10 course proposals (5
+at the adopt, 3 at the adapt, 2 at the create development levels). Proposals are reviewed by
+faculty members of the Committee and the Instructional Designer. The total amount of faculty
+incentive stipends awarded for the ten courses is $8500. Stipends will be disbursed when the
+courses are taught.
+Page 1
+
+Fall 2018 New OER Course Development Awards
+OER Courses
+
+Recipients
+
+HI 6530-G01 CRN 5605 Econ: Theories, Tools &
+Debates
+IR 3415-NE1 CRN 4966 Labor Economics
+MA 3330-001 CRN 4985 Calculus & Analytic
+Geometry III
+PE 2420-002 CRN 5809 Microeconomics
+PE 2430-HON CRN 5971 Principles of
+Macroeconomics
+PE 3410-C05 CRN 4751 Contemp US Political Econ
+PE 4430-001 CRN 5726 Health Economics
+PY 2010-F20 CRN 5324 Intro to Psychology
+SY 4520-003 CRN 5874 Research Methods I
+SY 4570-002 CRN 6032 Research Methods II
+Summary: 10 OER course proposals
+(5 adopt, 3 adapt, 2 create)
+
+Development
+Levels
+
+Awards
+
+T. DelGiudice
+
+Adopt
+
+$500
+
+V. Dolar
+J. D’Ambroise
+
+Create
+Adopt
+
+$1500
+$500
+
+T. DelGiudice
+V. Dolar
+
+Adopt
+Adapt
+
+$500
+$1000
+
+T. DelGiudice
+V. Dolar
+B.R. Mukherji
+J. Crocker
+R. Yamamoto
+
+Adopt
+Create
+Adopt
+Adapt
+Adapt
+
+$500
+$1500
+$500
+$1000
+$1000
+$8500
+
+Total
+
+On November 8, 2018 the Committee sent out a call for proposals for new OER courses in
+spring 2019. That application process is still open and available for all faculty.
+OER Course Tagging
+The Committee also reviewed OER course syllabi and course materials (for funded and
+unfunded courses) to determine whether they meet SUNY’s requirements to be labeled as an
+OER course and tagged with the OER attribute in the course registration system. The following
+tables represents all the OER courses that were tagged from summer 2018 to present. We are
+still accepting spring 2019 OER course syllabi for tagging.
+CRN
+2607
+
+Summer 2018
+Subject Course Section Title
+PE
+2420
+021
+Principles of Macroeconomics
+
+Professor
+T. DelGiudice
+
+Fall 2018
+CRN
+5605
+
+Subject Course Section Title
+HI
+6530
+G01
+Econ: Theories, Tools, & Debates
+
+Professor
+T. DelGiudice
+
+4966
+
+IR
+
+3415
+
+NE1
+
+Labor Economics
+
+V. Dolar
+
+4985
+
+MA
+
+3330
+
+001
+
+Calculus & Analytic Geometry III
+
+J. D’Ambroise
+
+5809
+
+PE
+
+2420
+
+002
+
+Principles of Microeconomics
+
+T. DelGiudice
+
+5811
+
+PE
+
+2430
+
+F17
+
+Principles of Macroeconomics
+
+V. Dolar
+
+5971
+
+PE
+
+2430
+
+HON
+
+Principles of Macroeconomics
+
+V. Dolar
+
+Page 2
+
+4751
+
+PE
+
+3410
+
+C05
+
+Fall 2018 continued
+Contemporary US Political Economy
+
+5726
+
+PE
+
+4430
+
+001
+
+Health Economics
+
+V. Dolar
+
+5324
+
+PY
+
+2010
+
+F20
+
+Intro to Psychology
+
+B.R. Mukherji
+
+5874
+
+SY
+
+4520
+
+003
+
+Research Methods I
+
+J. Crocker
+
+6032
+
+SY
+
+4570
+
+002
+
+Research Methods II
+
+R. Yamamoto
+
+5919
+
+SY
+
+5990
+
+003
+
+Senior Seminar
+
+R. Yamamoto
+
+T. DelGiudice
+
+Winter 2019
+CRN
+6556
+
+Subject Course Section Title
+PE
+2430
+NE1
+Principles of Macroeconomics
+
+Professor
+V. Dolar
+
+Spring 2019
+CRN
+8008
+
+Subject Course Section Title
+PE
+2420
+HN
+Principles of Microeconomics-HON
+
+Professor
+V. Dolar
+
+7341
+
+PE
+
+2430
+
+C21
+
+Principles of Macroeconomics
+
+V. Dolar
+
+8678
+
+PE
+
+2430
+
+NE5
+
+Principles of Macroeconomics
+
+V. Dolar
+
+8920
+
+PE
+
+4440
+
+WO1
+
+Food and Wine Economics
+
+V. Dolar
+
+7370
+
+PE
+
+3410
+
+001
+
+Contemporary US Political Economy
+
+T. Delgiudice
+
+8170
+
+PE
+
+3410
+
+002
+
+Contemporary US Political Economy
+
+T. Delgiudice
+
+7172
+
+PY
+
+2010
+
+C19
+
+Intro to Psychology
+
+B.R. Mukherji
+
+8529
+
+SY
+
+4520
+
+003
+
+Research Methods I
+
+J. Crocker
+
+Faculty Roundtable
+The Ad Hoc OER Committee and Teaching and Learning Resources Committee collaborated on
+the faculty roundtable “Open Pedagogy Issues of Access, Equity, and Engagement in the Use of
+Open Educational Resources” on October 25, 2018.
+III. Future Planning
+
+
+
+
+
+
+Survey of faculty teaching fall 2018 OER courses
+Sustainability plan
+Refine evaluation process for reviewing new course proposals
+Provide professional development opportunities
+Student outreach – provide information about OER courses and how to register for them
+
+Page 3

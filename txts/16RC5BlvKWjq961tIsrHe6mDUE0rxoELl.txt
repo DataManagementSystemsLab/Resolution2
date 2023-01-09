@@ -1,0 +1,397 @@
+Program Announcement:
+                                                Undergraduate Degree Program
+                                                                     Form 1A
+
+Before submitting a proposal for a new program leading to an undergraduate
+degree, a SUNY campus must submit a cover letter signed by the Chief
+Executive or Chief Academic Officer and a completed Program Announcement
+(PA) to the SUNY Provost at program.review@.suny.edu.  The PA procedure is
+described at the end of this form.
+
+
+|Section 1. General Information                                                      |
+|Item        |Response (type in the requested information)                           |
+|            |List each campus (and its 6-digit SED Institution Code) where the      |
+|Institutiona|entire program will be offered:                                        |
+|l           |State University of New York, College at Old Westbury                  |
+|Information |                                                                       |
+|b)          |List the name and address of each off-campus location (e.g., extension |
+|Program     |site or extension center) where courses (but not the entire program)   |
+|Locations   |will offered, or check here [     ] if not applicable.                 |
+|            |                                                                       |
+|            |If applicable, send documentation to show that SUNY policy on          |
+|            |off-campus locations has been followed.                                |
+|            |Will 50% or more of the program be offered at a distance?    [    ] Yes|
+|            |[ X  ] No                                                              |
+|c)          |Program Title:        |Economics                                       |
+|Proposed    |                      |                                                |
+|Program     |                      |                                                |
+|Information |                      |                                                |
+|            |Award(s) (e.g.,       |Bachelor of Science                             |
+|            |A.A.S., B.A.):        |                                                |
+|            |Number of Required    |Minimum [120     ]      If tracks or options,   |
+|            |Credits:              |largest minimum  [      ]                       |
+|            |Proposed Program      |HEGIS Code   [  2204.00  ]        6-digit CIP   |
+|            |Codes:                |2010 Code   [45.0601 ]                          |
+|            |If the program will be accredited, list the accrediting agency and     |
+|            |expected date of accreditation:                                        |
+|            |If applicable, list the New York State certificate title(s) and type(s)|
+|            |to which the program leads:                                            |
+|            |If applicable, list the New York State professional licensure title(s) |
+|            |to which the program leads:                                            |
+|d)          |Name and title: Thomas DelGiudice                                      |
+|Contact     |                                                                       |
+|Person for  |Telephone:                                    E-mail:                  |
+|Proposal    |delgiudicet@oldwestbury.edu                                            |
+|e)          |Name and title: Dr. Patrick O’Sullivan, Provost and Vice President for |
+|Chief       |Academic Affairs                                                       |
+|Executive or|Email for receiving comments:  OsullivanP@oldwestbury.edu              |
+|Chief       |Date:                                                                  |
+|Academic    |                                                                       |
+|Officer     |                                                                       |
+|Approval    |                                                                       |
+|            |If the intended program will be offered jointly with one or more other |
+|            |institutions, provide the following information for each institution:  |
+|            |Partner institution’s name, CEO’s name and title:                      |
+
+
+                                                          Version 2013-10-15
+
+
+
+
+
+
+
+
+
+|Section 2.  Program Summary                                                         |
+
+
+In 300  or  fewer  words,  describe  the  proposed  program,  including  its
+purpose, content, structure, and duration.
+   The proposed degree of Bachelor Science in Economics will enable students
+at Old Westbury to earn  a  degree  in  Economics  in  an  interdisciplinary
+Liberal Arts program that focuses on politics, economics, and  law.  Besides
+offering a new degree option to liberal  arts  and  business  students,  the
+Economics Degrees  will  expand  the  elective  choices  available  to  both
+Politics, Economics & Law and Business majors.
+   The 48 credit B.S. program in economics requires students to take math up
+to Calculus  I,  five  core  courses  in  economics  and  statistics;  three
+interdisciplinary courses in political economy and thought; and three  upper
+division electives. Students  will  also  be  required  to  either  take  an
+Econometrics or do  an  independent  quantitative  based  research  project.
+Students can group their three upper division electives in  either  economic
+policy,  international  economic  theory  and  global  economic  history  or
+monetary theory.
+
+|Expected Enrollment       |When Program Begins |In Year 5             |
+|Full-time students        |25                  |50                    |
+|Part-time students        |15                  |20                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|Section 3.  Curriculum                                                              |
+
+
+ Provide a list of all courses in the curriculum, including (Liberal Arts
+ and Sciences, SUNY General Education Requirement, Transfer Path courses)
+ to show the entire structure and content of the program.  Expand or
+ duplicate the table as needed for tracks, concentrations and
+ specializations.
+    • Requirements Core and Upper Division Electives
+    • Liberal Arts, General Education & Transfer Path Course Listings
+
+
+   Requirements Core and Upper Division Electives
+
+|Lower Division                         |  |Upper Division (as applicable)       |
+|Course Title                     |Credi|  |Course Title                   |Credi|
+|                                 |ts   |  |                               |ts   |
+|Required Courses                 |     |  |Choose One Course from         |4    |
+|Math Prerequisites               |     |  |PE3400 Political Economy of the|     |
+|                                 |     |  |Third World                    |     |
+|MA 2080 Precalc/Bus. & Econ. or  |4    |  |PE4580Origins of the Capitalist|     |
+|                                 |     |  |Economy                        |     |
+|MA 2090 Precalculus              |     |  |PE4590 Global Economy in the   |     |
+|                                 |     |  |20th                           |     |
+|MA 2300 Calc/Business & Econ*  or|4    |  |                               |     |
+|MA 2310 Calc & Analytical        |     |  |Three Upper Division Electives |12   |
+|Geometry I *                     |     |  |                               |     |
+|                                 |     |  |See List of Electives Below    |     |
+|Core Econ Requirements           |     |  |                               |     |
+|PE2420 Principles of             |4    |  |Applied Econometrics (4000) or |4    |
+|Microeconomics*                  |     |  |Independent                    |     |
+|PE 2430 Principles of            |4    |  |Quantitative Research Project  |     |
+|Macroeconomics*                  |     |  |                               |     |
+|Upper Division Core              |     |  |                               |     |
+|PE3201 Statistics or MA3210 Intro|4    |  |                               |     |
+|to Prob & Statistics             |     |  |                               |     |
+|PE3425 Economic Analysis         |4    |  |                               |     |
+|Microeconomics*                  |     |  |                               |     |
+|PE3435 Economic Analysis         |4    |  |                               |     |
+|Macroeconomics*                  |     |  |                               |     |
+|PE 3410 Contemporary Political   |4    |  |                               |     |
+|Economy                          |     |  |                               |     |
+|PE4470 History of Economic       |4    |  |                               |     |
+|Thought                          |     |  |                               |     |
+|                                 |     |  |Total Econ  (BS)               |48   |
+
+
+|Upper Division Electives organized by  Interest  |Credits  |
+|Areas                                            |         |
+|                                                 |         |
+|Choose Three Upper Division                      |12       |
+|PE4409 Urban Economics                           |         |
+|IR 3415 Labor Economics                          |         |
+|PE4430 Health Economics                          |         |
+|PE4290 Environmental Economics                   |         |
+|PE 3400 Political Economy of the Third World     |         |
+|PE4580 Origins of the Capitalist Economy         |         |
+|PE4590 Global Economy in the 20th                |         |
+|PE3440 International Economics                   |         |
+|PE4100 Int’l. Institutions in the Global Economy |         |
+|PE4455 Economic Development                      |         |
+|IR3860 Development of Modern Corporation         |         |
+|BU4450 Money and Banking                         |         |
+|PE4460 International Finance                     |         |
+|PE4600 Depression Economics                      |         |
+|BU4774 Financial Markets & Institutions          |         |
+|Total Credits for B.S. Economics                 |48       |
+
+
+
+
+Integration of Four Year Degree with Liberal Arts, General Education &
+Transfer Path Requirements
+
+|Lower Division                         |  |Upper Division                           |
+|Course Title                     |Credi|  |Course Title                      |Credi|
+|                                 |ts   |  |                                  |ts   |
+|General Education Courses        |     |  |Upper Division Core               |     |
+|EL 1000 English Composition I    |4    |  |PE3201 Statistics or MA3210 Intro |4    |
+|                                 |     |  |to Prob & Statistics              |     |
+|MA1020 or (Math Proficiency)     |4    |  |PE3425 Economic Analysis          |4    |
+|                                 |     |  |Microeconomics*                   |     |
+|GE Western Tradition: PE 4580 or |4    |  |PE3435 Economic Analysis          |4    |
+|PE4470 complete in major         |     |  |Macroeconomics*                   |     |
+|GE Major Cultures: PE 3400       |4    |  |PE 3410 Contemporary Political    |4    |
+|complete in major                |     |  |Economy                           |     |
+|GE American Experience: PE 3410  |4    |  |PE4470 History of Economic Thought|4    |
+|complete in major                |     |  |                                  |     |
+|GE Social Science: PE 2420 or    |4    |  |                                  |     |
+|PE2430 complete in major         |     |  |                                  |     |
+|GE Foreign Language:             |4    |  |Choose One Course from            |4    |
+|GE Natural Science:              |4    |  |PE3400 Political Economy of the   |     |
+|                                 |     |  |Third World                       |     |
+|Total Gen Ed                     |32   |  |PE4580Origins of the Capitalist   |     |
+|                                 |     |  |Economy                           |     |
+|                                 |     |  |PE4590 Global Economy in the 20th |     |
+|College Liberal Arts Requirements|     |  |                                  |     |
+|FY 1000 Freshmen Seminar         |4    |  |Choose Three Upper Division       |12   |
+|(Diversity)                      |     |  |                                  |     |
+|EL22xx English Composition II    |4    |  |BU4450 Money and Banking          |     |
+|                                 |     |  |PE4460 International Finance      |     |
+|Math Prerequisites               |     |  |PE4600 Depression Economics       |     |
+|MA 2080 Precalc/Bus. & Econ. or  |4    |  |BU4774 Financial Markets &        |     |
+|                                 |     |  |Institutions                      |     |
+|MA 2090 Precalculus              |     |  |PE4409 Urban Economics            |     |
+|MA 2300 Calc/Business & Econ*  or|4    |  |IR 3415 Labor Economics           |     |
+|MA 2310 Calc & Analytical        |     |  |IR3860 Development of Modern      |     |
+|Geometry I *                     |     |  |Corporation                       |     |
+|                                 |     |  |PE4430 Health Economics           |     |
+|Core Econ Requirements           |     |  |PE4290 Environmental Economics    |     |
+|PE2420 Principles of             |4    |  |PE 3400 Political Economy of the  |     |
+|Microeconomics*                  |     |  |Third World                       |     |
+|PE 2430 Principles of            |4    |  |PE4580 Origins of the Capitalist  |     |
+|Macroeconomics*                  |     |  |Economy                           |     |
+|                                 |     |  |PE4590 Global Economy in the 20th |     |
+|                                 |     |  |PE3440 International Economics    |     |
+|                                 |     |  |PE4100 Int’l. Institutions in the |     |
+|                                 |     |  |Global Economy                    |     |
+|                                 |     |  |PE4455 Economic Development       |     |
+|                                 |     |  |                                  |     |
+|                                 |     |  |Capstone                          |     |
+|                                 |     |  |PE4275 Applied Econometrics or    |4    |
+|                                 |     |  |Independent Quantitative Research |     |
+|                                 |     |  |Project                           |     |
+|                                 |     |  |                                  |     |
+|                                 |     |  |Total Economic Major Requirements |48   |
+|                                 |     |  |College Liberal Arts Requirements |8    |
+|                                 |     |  |General Education Courses         |32   |
+|                                 |     |  |Math Prerequisites*               |8    |
+|                                 |     |  |*Assumes student needs to do both |     |
+|                                 |     |  |Precal and Calc at the College.   |     |
+|                                 |     |  |General Electives                 |24   |
+|*Transfer Path Courses for       |     |  |Total Degree Requirements         |120  |
+|Economics                        |     |  |                                  |     |
+
+
+
+
+
+
+
+
+                Optional, Illustrative Questions to Consider:
+       For other SUNY campuses responding to the Program Announcement
+
+● Do you have a similar or related program?   ●What has been your
+experience with the program?    ●Would the introduction of this program
+have any effect, positive or negative, on your institution?   If so, please
+specify.   ●Do you perceive a need for this kind of program?   ●Does the
+program offer an opportunity for articulation or inter-institutional
+cooperation?
+
+Your response must be in writing, from your President, and addressed to the
+President of the proposing campus, with a copy to the SUNY Provost at
+program.review@.suny.edu.
+
+Currently the College of  Arts  and  Sciences  offers  an  interdisciplinary
+degree in Politics, Economics and Law (PEL). SUNY College  at  Old  Westbury
+was one of the pioneers in interdisciplinary  studies  dating  back  to  the
+late 1960s. Over the past several decades the academic emphasis in the  Arts
+and Sciences has oscillated between an  appreciation  for  interdisciplinary
+insight to more of an emphasis of disciplinary literacy and application  and
+back  again.  The  College   has   always   maintained   the   priority   of
+interdisciplinary curricula and the program of PEL will continue to do so.
+
+This is  an  excellent  program  for  students  looking  to  continue  their
+education in the areas  of  law,  teacher  education,  business  and  policy
+studies. Its emphasis is to provide students a rigorous  background  in  the
+mainstream disciplines  of  politics,  economics  while  also  offering  the
+student the historical and institutional  insight  of  the  intersection  of
+these areas of society.  Students  gain  the  conceptual  knowledge  of  the
+discipline but also how these areas affect each other over time  and  across
+cultures. The interests and skills and interests required  are  varied  from
+historical, critical thinking, analytical  writing  and  reasoning  to  some
+quantitative problem solving. The program has added programs in the area  of
+Industrial and Labor Relations  which  has  been  very  successful  offering
+students’ career paths in labor relations, human resources and law.
+
+However increasingly students come to us who  are  not  sure  they  want  to
+commit to a business degree but  who  have  interests  in  the  economy  and
+skills which are weighted more in the mathematical and  quantitative  areas.
+Each year students who thought they might want to do a  business  curriculum
+come to us looking for a  degree  with  more  of  an  emphasis  in  economic
+related areas that could provide them  a  path  to  law,  public  policy  or
+business graduate studies in finance and economics. We are looking  to  take
+our economist resources and combine them with some of the resources  serving
+business and math departments to provide a degree in  economics.  The  focus
+will emphasize more intensive economic  theory  and  application  and  serve
+students with more  mathematics  and  quantitative  skill  capabilities.  We
+don’t anticipate adding any additional  staff  but  utilizing  our  existing
+faculty and many courses we already  offering  bundling  a  curriculum  that
+expands the options of our students.
+
+
+The Economics degree will promote the College’s goals in five  ways.  First,
+it will enhance the College’s social science curriculum  by  adding  to  the
+quality and quantity of course  offerings  in  economics.  Second,  it  will
+provide students interested in a quantitative  major  option  an  additional
+choice. Third, it will fill  gaps  in  the  college’s  course  offerings  by
+providing interested non-majors access to intermediate  and  upper  division
+courses in economics. Specifically students interested  in  minors  such  as
+environmental studies, public policy  and  global  studies  will  have  more
+offerings to fill out their study and skills.
+
+Fourth, it will enrich the course offerings  for  the  majors  in  Politics,
+Economics & Law and Industrial Labor Relations majors as  well  as  Business
+majors, who will now have access to a broad array  of  economics  electives.
+And fifth with minorities underrepresented in the economics  profession  the
+College of Old Westbury’s student body can offer an  opportunity  for  these
+students to travel down the path to economic related professions.
+
+Procedure for Program Announcements (PA)
+
+   1. SCOPE.  A SUNY campus must send a PA to the SUNY Provost at
+      program.review@suny.edu before submitting a proposal for a new program
+      leading to an undergraduate degree.  Unless requested by the SUNY
+      Provost, a PA is not required for a program leading to an
+      undergraduate certificate, for a new program being created by
+      combining existing registered programs (e.g., multi-award programs
+      and/or multi-institution programs), or for a new program being created
+      from a track, specialization, or concentration in a registered
+      program.
+
+   2. SUNY PROVOST’S REVIEW.  The SUNY Provost’s Office reviews each PA for
+      accuracy and completeness as well as for substantive issues, such as
+      alignment with campus mission and SUNY policy, and requests changes
+      when needed.
+
+   3. PUBLICATION FOR COMMENTS.  Once a PA is acceptable to the SUNY
+      Provost, it is announced on the SUNY Program Review listserv in a
+      weekly Program Review Update, which starts a 30-day intra-SUNY comment
+      period.  The listserv includes all campus presidents, chief academic
+      officers, and others upon request.  The PA enables other SUNY campuses
+      – particularly those with experience with related programs – to
+      provide information to the proposing campus that can be used to
+      construct a sound program proposal.
+
+   4. COMMENTS FROM OTHER CAMPUSES.  The President of each interested campus
+      must send comments within 30 days of a PA’s publication in the Program
+      Review Update to the President of the proposing campus, with a copy to
+      the Provost at program.review@suny.edu.  Comments may include advice
+      and suggestions about possible articulation opportunities, enrollment
+      trends in related programs, and opportunities for cooperation, as well
+      as concerns or objections.
+
+   5. FOLLOWING THE COMMENT PERIOD.  Once the 30-day comment period for a PA
+      ends, and any concerns and/or objections have been resolved, the
+      campus may prepare a full proposal for the SUNY Provost and, when
+      required, begin the external evaluation process.
+
+
+   6. EXPIRATION.  A PA expires one year after its publication in the
+      Program Review Update.   If the proposing campus does not submit a
+      program proposal to the SUNY Provost before a PA expires, the campus
+      must submit another PA to start the process again.

@@ -1,0 +1,1888 @@
+Micro-Credential Task Force Proposal
+November 7, 2018
+
+Executive Summary
+Micro-Credentials are recognitions issued for specifics sets of skills and competencies
+achieved through study and activities in credit- or non-credit bearing courses. (pp. 6-7 in
+the this report) Micro-Credentials have roots in training programs, certification and
+licensures of business and are currently utilized in business, the non-profit sector, P-12
+institutions and increasingly institutions of higher education. (pp. 7-8) SUNY campuses
+have been leaders in developing credit-bearing Micro-Credentials, with Albany, Alfred
+State, Buffalo, Orange, and Stony Brook currently offering them and a number of other
+campuses considering them. (pp. 8-10)
+SUNY’s system administration has embraced Micro-Credentials. In October of 2015 it
+created a Task Force on Micro-Credentials that included campus presidents, provosts,
+faculty governance representatives, student governance leaders, registrars, business
+officers, institutional researchers and continuing education officers. The Task Force
+reviewed work underway nationally and across SUNY campuses and issued a Report
+and Recommendations that was endorsed by the SUNY Board of Trustees in January
+2018 that included purposes, recommendations, and requirements for Micro-Credentials
+in SUNY. (pp. 10-13)
+The Purposes these documents identify for Micro-Credentials include that they:
+a) Certify skills for employers,
+b) Motivate students toward completion,
+c) Encourage students to explore and broaden their experience and skill sets,
+d) Differentiate students in the job market,
+e) Promote partnerships with industry/other educational institutions,
+f) Provide short term competency training for professional development, and
+g) Ladder from non-credit to credit and from stand-alone credential to degree
+program.
+The Requirements that SUNY has set for Micro-Credentials are that:
+
+Micro-Credentials Task Force Proposal
+a) Faculty governance participation is required to create Micro-Credentials as a
+category of campus-issued credentials, to determine if a particular MicroCredential should be credit-bearing, and if so to approve it.
+b) Like minors, Micro-Credentials are locally developed and approved as a category
+of credential and in individual instances, so long as they are consistent with
+SUNY policies and State and Federal regulations.
+c) Cost, financial aid, learning outcomes, assessment and stackability must be
+clearly delineated.
+d) Non-credit articulation to credit must reflect learning outcomes, not experience
+alone.
+e) They must be portable to other SUNYs per SUNY Policy 1008 Transfer and
+Articulation and MTP 13-3 Seamless Transfer.
+f) They may not have same title as a registered program.
+g) Tuition must be charged at the approved rate if they are credit-bearing.
+Micro-Credentials are strongly associated with on-line representations in social media
+such as on LinkedIn, and while it would theoretically be possible for an institution such
+as Old Westbury to create its own platform to perform these operations, as well as
+maintain records of credentials issued, even venerable organizations like Microsoft and
+Cisco, not to mention Open SUNY, use third party vendors for their certificates. Third
+party vendors, such as Credly, are externally maintained platforms with tools to create
+and support Micro-Credentials, and are used by most if not all of the SUNY institutions
+that currently offer Micro-Credentials. (pp. 14-15)
+In Fall 2017 the Provost tasked the Director of the School of Professional Studies with
+monitoring SUNY’s emerging policies related to Micro-Credentials. The Director met
+with CAP in Fall 2017 to report on the SUNY Task Force’s Draft Report and in Spring
+2018 to report on its Final Report and to submit a proposal for a Micro-Credential to be
+offered by the SPS. CAP discussed the report and proposal and decided to refer the
+matter, along with a summary of its discussion, to the Senate Executive Committee.
+The Executive Committee arranged for Dr. Bever to give a presentation on MicroCredentials to the Full Faculty Meeting in May of 2018, and then set up a Task Force to
+2
+
+Micro-Credentials Task Force Proposal
+create a proposal on whether and if so how to introduce Micro-Credentials at Old
+Westbury. The Task Force met a in June and formed working groups that worked over
+the Summer, and then drafted and approved a Report and Recommendations that were
+presented at CAP on October 16, 2018. (pp. 15-17)
+In the summary of its discussion CAP sent to the Senate, it raised a number of issues
+that the Task Force’s Report and Recommendations address in its body:
+
+
+Relationship to the College’s Mission: As a Comprehensive College that serves
+students at the undergraduate and graduate levels, Micro-Credentials align with
+our mission by providing our students with motivational value to persist and
+explore in ways that can enhance academic and co-curricular experiences, lead
+to the development of specific in-demand skills and competencies, and pathways
+to programs of study in which they can establish themselves and demonstrate
+their potential (pp. 17-19).
+
+
+
+Marketability: In some industries digital Micro-Credentials are already established
+and valued. In addition, in a survey conducted as part of the Task Force’s work,
+employers agreed that applicants with Micro-Credentials could help them screen
+candidates more quickly to identify qualified candidates (pp. 20-21).
+
+
+
+Financial Aid: Courses included in credit-bearing Micro-Credentials, like courses
+in Minors, would be eligible for State and/or Federal aid so long as they
+contribute to the fulfillment of a student’s degree program’s General Education,
+Major, or General Elective requirements. SUNY system administration has a
+Task Force working on encompassing Micro-Credentials more explicitly in
+Financial Aid structures. (pp. 21-23).
+
+
+
+Resource Demands: Adding a new type of credential would increase the
+demands on some administrative offices including registrar, enrollment services,
+academic advising and financial aid (pp. 23-24).
+
+
+
+Implications for Academic Programs: The implications for academic programs
+seem minimal in terms of staffing and strains on academic resources since in
+general the courses they will involve already exist, and other specific issues
+would be determined on a case-by-case basis (pp.24-25).
+3
+
+Micro-Credentials Task Force Proposal
+
+
+Additional, issues raised by CAP would be addressed by each department on a
+case-by-case basis since decisions about the types and nature of MicroCredentials would be left to each department’s discretion (pp. 25-27).
+
+
+
+Finally, offering Micro-Credentials at SUNY Old Westbury could contribute to
+Goal 1 Foster Student Success (Objective A and C) and Goal 4 Strengthen
+Institutional Effectiveness (Objective C) of the Strategic Plan (pp. 27-28).
+
+The Task Force concluded that in offering Micro-Credentials students would benefit
+from motivation, employable skills, the rewards of exploration, and adding a secondary
+specialization while the College would benefit from higher completion rates, enhanced
+academic and co-curricular experiences to students, new and sustainable revenue
+streams from non-matriculated students some of whom would be provided with a ladder
+into degree programs, and a new form of credential that can be added or removed on its
+own initiative without necessity of approval from SUNY System Administration or the
+State Education Department (pp. 28-29). There are potential issues that accompany
+offering Micro-Credentials that include, uncertainty about student interest, financial aid,
+marketability, impact on existing academic programs, costs of administrative support for
+them, and the call in the Strategic Plan for Micro-Credentials to be considered in the
+context of overall assessment of the College’s academic offerings and the creating of
+guiding principles for development of new programs (pp. 29).
+After exploring and weighing the potential benefits against the issues, the MicroCredentials Task Force recommends that the College begin offering Micro-Credentials
+(pp. 29-31) under the following conditions:
+
+
+Credit-bearing Micro-Credentials would be modeled on the existing proposal
+structure of Minors and submit a proposal to CAP.
+
+
+
+Students would need to apply for a Micro-Credential in order to earn the
+credential.
+
+
+
+A third-party vendor like Credly would be contracted to provide the infrastructure
+to support Micro-Credentials.
+
+
+
+The School of Professional Studies in conjunction with Academic Affairs and the
+Registrar would create the infrastructure to support Micro-Credentials.
+4
+
+Micro-Credentials Task Force Proposal
+
+
+The proposed timeline is for CAP to introduce the Micro-Credentials Task Force
+Proposal with resolution to adopt to Faculty Senate on 11/16/18 so the Senate
+can discuss and vote on the CAP resolution on 12/7/18. If adopted, the Proposal
+would be submitted to College Administration for endorsement, a platform vendor
+would be contracted and programs would begin submitting proposals for MicroCredentials to CAP in Spring 2019.
+
+5
+
+Micro-Credentials Task Force Proposal
+
+Introduction
+This Proposal consists of two parts. The first part is a Report giving information on
+Micro-Credentials in general and in SUNY plus the consideration that has been given to
+them thus far at Old Westbury. The second part contains the Task Force’s
+Recommendations.
+
+I. Report
+A. What are Micro-Credentials?
+There is no universally accepted definition of Micro-Credentials, but in general they are
+free-standing credentials given for the achievement of specific sets of skills or
+competencies.
+The skills or competencies can be achieved through credit or non-credit work. This
+work can be distributed across a variety of courses or activities and measured by
+performance on specific assessments, or contained in a defined set of courses or
+activities and measured by their correspondence to the courses’ learning outcomes or
+the activities’ general objectives.
+Micro-Credentials are named for specific industry-specified certifications or professional
+accreditations when they align with their requirements, or are more generically referred
+to as “badges,” a name derived from clickable digital icons embedded in online resumes
+or LinkedIn profiles linking to pages with validating information.
+Credit-bearing Micro-Credentials generally involve a smaller number of credits than a
+regular free-standing credentials, while non-credit Micro-Credentials represent the
+outcome of a similarly focused set of activities.
+
+6
+
+Micro-Credentials Task Force Proposal
+Note that a SUNY Micro-Credentialing Task Force issued a “Report and
+Recommendations” in January 2018 that was endorsed by the Board of Trustees in the
+same month that includes a “Recommended SUNY Micro-Credential Definition.” That
+more specific definition is considered below, in the section on the SUNY context of this
+initiative.
+
+B. Background and Context
+
+1) National Context
+Micro-Credentials have their roots in the training programs, certifications, and licensures
+of businesses. These were traditionally recognized with paper credentials, but with the
+rise of the internet and social media, some businesses, particularly in the tech industry,
+borrowed the concept of Micro-Credentials from online gaming and began issuing their
+certifications in this form. Currently Microsoft, IBM, Adobe, Citrix, Cisco, Verizon, Home
+Depot, and Disney, among numerous others, use the leading digital Micro-Credentials
+platform, Credly to issue in-house as well as “certified developer”-type credentials. As
+their use has spread, so too did their acceptance, although the extent to which they are
+known, understood, and valued by businesses varies considerably. More specific
+information about the local situation on Long Island is given below.
+K-12 educational institutions were relatively quick to adopt Micro-Credentials to both
+recognize and reward students’ incremental accomplishments and teachers’
+professional development. Higher Education has responded more slowly, although
+initiatives have by now been undertaken across the country.
+Some of this adoption was driven by disruptive educational initiatives like Udacity, a forprofit enterprise which offers “Nanodegrees” (which it has copyrighted) and works in
+partnership with companies like Google, Facebook, Amazon, IBM, and Nvidia, and edX,
+a non-profit founded and governed by more than 50 university partners including MIT,
+Harvard, Berkeley, the University of Texas system, Arizona State, and the University of
+7
+
+Micro-Credentials Task Force Proposal
+Maryland system. It offers, among other credentials, over 30 “MicroMasters” (again
+copyrighted) that can contribute to (“stack toward”) a degree at a participating university.
+Other initiatives were designed to supplement the traditional academic degree by
+highlighting skills, proficiencies and accomplishments that transcripts don’t capture.
+Illinois State University was an early adopter of Micro-Credentials – in 2015, its Honors
+Program began to offer a series of Micro-Credentials through Credly’s digital platform to
+recognize student achievements and participation in co-curricular activities and
+community events. Similarly, the Mblem program at University of Michigan utilizes
+Mozilla Backpack as a platform to allow students to earn Micro-Credentials for cocurricular experiences in community service, cross cultural experience, entrepreneurial
+mindset, ethics, intellectual curiosity, leadership and professional development. By
+2016, a survey of 190 colleges conducted by the University Professional Continuing
+Education Association and Pearson, one in five colleges have issued digital MicroCredentials. Most of these colleges worked with an outside company to provide
+infrastructure for the alternative credentials.
+While many of the Higher Education Micro-Credential initiatives have been non-credit,
+some non-credit Micro-Credentials can stack toward credit-bearing certifications, like
+the edX MicroMasters mentioned above, and there is an increasing trend toward creditbearing Micro-Credentials. One example is an online MS in Education at Purdue
+University, which gives students the opportunity to pursue a series of digital MicroCredentials for credit. However, some of most advanced initiatives in this area are
+actually being undertaken within SUNY.
+
+2) Other SUNYs
+SUNY institutions already make a robust use of non-credit Micro-Credentials. SUNY
+Albany’s University Library system offers a collection of four Micro-Credentials that
+combine to form a Meta-Literacy Badge. Alfred State has a pilot Micro-Credential
+program that is being used to improve career readiness for student employees by
+8
+
+Micro-Credentials Task Force Proposal
+fostering career readiness competencies. SUNY Orange has a credential in alcohol
+and substance abuse counseling, and Stony Brook and SUNY Buffalo offer a number of
+non-credit Micro-Credentials as well.
+However, it is in the area of credit-bearing Micro-Credentials that SUNY stands out as a
+leader. Stony Brook was an early national as well as SUNY entrant into this area, and it
+offers far more for-credit than non-credit Micro-Credentials. These are at the graduate
+level, generally include 2-4 courses, can be applied to a larger graduate certificate or
+degree, and offer students the opportunity to gain knowledge and skills without
+committing to a full graduate program. The areas of study include Education, Business,
+Health, and Human Services, and the 31 Micro-Credentials include Teaching
+Adolescents, Educational Technology Curriculum Design, Diverse Literatures, Financial
+Analysis, Food Literacy, and Employee Relations. To date the school has awarded
+approximately 350 Micro-Credentials from these programs.
+(https://www.stonybrook.edu/commcms/spd/badges/index)
+SUNY Buffalo has just begun to offer nine different Micro-Credentials, seven of which
+are for-credit, 4 four of which are at the undergraduate level, three of which are at the
+graduate level, and two of which are open to students at both levels. Topics include
+Public Health Disparities, Child Advocacy Studies, Clinical Pharmacy Research,
+Communications Campaigns, and Understanding Diversity Through Sociology.
+(https://www.buffalo.edu/micro-credentials/offerings.html) The Hudson Valley
+Educational Consortium, which consists of six community colleges and has a history of
+innovation, has implemented a Micro-Credential that incorporates existing courses
+offered by culinary and hospitality oriented AAS programs into a for-credit MicroCredential in Restaurant Management. Ulster Community College offers a 16 credit
+Web Application Developer Micro-Credential, and has recently approved a for-credit
+Micro-Credential n Accounting and Computer Skills, which combines four classes
+offered by its Business program.
+
+9
+
+Micro-Credentials Task Force Proposal
+In addition to these ongoing programs, other SUNY institutions appear to be considering
+offering Micro-Credentials. They have demonstrated their interest in Micro-Credentials
+through their strong attendance at a SUNY workshop on Micro-Credentials held last
+November in Saratoga Springs and participation in a series of FACT(2) webinars in the
+Spring 2018. For example, SUNY Geneseo, another of the system’s comprehensive
+colleges, is preparing to introduce Micro-Credentials soon, as is, closer to home, SUNY
+Farmingdale. All of this activity led the SUNY Provosts’ office to issue a request for
+information on pending programs during the early Fall of 2018.
+
+3) The SUNY System and Micro-Credentials
+Both a result of and an impetus to these initiatives is the interest shown by SUNY’s top
+leadership and system administration. In October 2015, then-Chancellor Zimpfer
+announced the creation of a SUNY Task Force on Micro-Credentials consisting of
+“broad representation from across SUNY: presidents, provosts, faculty governance,
+student governance, registrars, business officers, institutional researchers, and
+continuing education officers.” (https://www.suny.edu/suny-news/pressreleases/october-2015/10-29-15-micro-credentials/ Task Force Report and
+Recommendations, p. 1) It’s charge was to “review the current literature and growing
+national dialogue on Micro‐Credentials, examine work currently underway across
+SUNY’s 64 campuses to develop and/or implement Micro‐Credentials, and review
+relevant SUNY policies” that might impact attempts to create them. It circulated a draft
+report with recommendations to campuses for feedback in September of 2017 and, as
+mentioned above, issued its final “Report and Recommendations” in January of 2018.
+The SUNY Board of Trustees considered and endorsed this document at its January
+2018 meeting, the SUNY Chancellor informed campuses shortly thereafter, and the
+SUNY Provost’s office organized follow-up activities to support it, most notably the
+creation of a website (http://system.suny.edu/academic-affairs/microcredentials/) and
+the formation of four policy implementation teams focusing on Transferability and
+Portability; Data Reporting; Policy and Financial Aid; and Readiness, Training, and
+Assessment.
+10
+
+Micro-Credentials Task Force Proposal
+
+A result of all this activity has been a proliferation of statements about SUNY system
+administration’s requirements, recommendations, expectations, and suggestions for
+Micro-Credentials. However, review of the principle sources for SUNY policies reveals
+a number of purposes, characteristics, and requirements, and recommendations they
+have in common.
+The principle sources for SUNY Policies are:
+a) The Chancellor’s January 23, 2018 memo on SUNY Micro-Credentialing
+Implementation, which includes the SUNY Board of Trustee’s Resolution.
+b) The SUNY Provost’s cover email on February 7 for the Final Report of the
+Micro-Credentialing Task Force and the SUNY Trustee Endorsement.
+c) The January 2018 Report and Recommendations of the SUNY MicroCredentialing Task Force, including a Highlights and Notes document
+circulated by the Provost and Excerpts included with the Chancellor’s memo.
+d) The University Faculty Senate Resolution on Faculty Oversight of MicroCredentials.
+e) Materials at the SUNY Academic Affairs Micro-Credentials website.
+The Purposes these documents identify for Micro-Credentials include that they:
+h) Certify skills for employers,
+i) Motivate students toward completion,
+j) Encourage students to explore and broaden their experience and skill sets,
+k) Differentiate students in the job market,
+l) Promote partnerships with industry/other educational institutions,
+m) Provide short term competency training for professional development, and
+n) Ladder from non-credit to credit and from stand-alone credential to degree
+program.
+
+11
+
+Micro-Credentials Task Force Proposal
+The Characteristics they identify of Micro-Credentials include that they are:
+a) Rigorous (“Academic quality is paramount” and they should be “meaningful
+and high quality”);
+b) Competency-based and verified;
+c) Manifold (they can be credit bearing or non-credit bearing, a digital MicroCredential or industry credential, offered online, traditional, or hybrid);
+d) Relevant (informed by current market data / align with industry standards);
+e) Quick to create and modify;
+f) Stackable;
+g) Portable;
+h) Innovative; and
+i) Endorsed by the issuing campus and campus leadership.
+j) They generally do not lead to licensure.
+The Requirements that SUNY has set for Micro-Credentials are that:
+h) Faculty governance participation is required:
+i. to create Micro-Credentials as a category of campus-issued credentials
+and
+ii. to determine if a proposed Micro-Credential should be credit-bearing.
+a. If so, established governance procedures must be used to approve it.
+b. If not, faculty involvement should be as appropriate given the nature of
+the credential (if it involves a skill for which faculty expertise is relevant,
+faculty should be involved in its creation and implementation or
+oversight; if not, the applicability of this requirement is unclear).
+i) Like minors, Micro-Credentials are locally developed and approved:
+i. as a category of credential and
+ii. individual credentials
+iii. consistent with SUNY policies and State and Federal regulations.
+
+12
+
+Micro-Credentials Task Force Proposal
+j) Cost, financial aid, learning outcomes, assessment and stackability must be
+clearly delineated.
+k) Non-credit articulation to credit must reflect learning outcomes, not experience
+alone.
+l) They must be portable to other SUNYs per SUNY Policy 1008 Transfer and
+Articulation and MTP 13-3 Seamless Transfer.
+m) They may not have same title as a registered program.
+n) Tuition must be charged at the approved rate if they are credit-bearing.
+Finally, in addition to the requirements that SUNY stipulates for Micro-Credentials, it
+also makes a number of recommendations. It recommends that campuses:
+1) Seek support and counsel from SUNY Program Review and Planning Office
+and their System Program Reviewer;
+2) Follow SUNY Micro-Credential Task Force definitions, taxonomy, guiding
+principles, and recommendations;
+3) Consider ACE Quality Dimensions for Connected Credentials (Transparency
+(it is clear what they attest to), Modularity (stackability), Portability, Relevance
+(they add tangible value for student), Validity (evidence is given for
+effectiveness of skills they attest to), Equity (support is given so all students
+have equal opportunity to succeed);
+4) Record and Report Data (SIRUS);
+5) Use SUNY readiness assessment tools (which a SUNY Working Group is
+creating);
+6) Allow for incorporation of Prior Learning via assessment;
+7) Charge tuition at standard campus non-credit rate if the instruction or activity
+is not credit-bearing;
+8) Make a program that involves 24 or more credits a registered certificate rather
+than a Micro-Credential.
+
+13
+
+Micro-Credentials Task Force Proposal
+C. Digital Infrastructures for Recording and Presenting Micro-Credentials
+While there is no necessary connection between a credential recognizing some
+achievement and the physical form that the credential takes, Micro-Credentials are so
+strongly associated with online representations in social media that consideration
+offering them inevitably leads to the question of whether they should be embodied in
+this way. Furthermore, the creation of this class of credential has the potential to
+multiply by several times the number of credentials the institution will offer, both the
+quantity and number of different types of credentials.
+There are at least three potential infrastructures for the recording and representation of
+Micro-Credentials: ad hoc, existing institutional, and third-party.
+What is meant by ad hoc is the use of general-purpose tools like Excel to create custom
+databases to record Micro-Credentials that have been issued and similar tools like
+Microsoft Publisher to create the actual physical representation that will be bestowed on
+the recipient. The advantages of this approach are the low cost in terms of materials.
+Stony Brook’s School of Professional Development uses an ad hoc method to
+administer Micro-Credentials, and a third party to record and display them.
+The possible disadvantages include the difficulty of keeping track of credentials issued,
+both across campus and over time; the difficulty of integrating them with other student
+records; and the difficulty of validating the representations of these credentials. The
+disadvantages of this approach seem to outweigh the advantages so strongly that it will
+not be further considered.
+The existing institutional infrastructure for recording and auditing degree bearing
+courses at Old Westbury includes Banner and Degree Works. Banner is currently used
+to record for-credit activity earned by students at the College on their academic
+transcript, while Degree Works is used to evaluate students’ academic records in terms
+of degree requirements. Banner’s ability to incorporate Micro-Credentials into student
+transcripts, and Degree Works’ ability to analyze students’ completion of their
+14
+
+Micro-Credentials Task Force Proposal
+requirements requires further research. Banner is capable of recording non-credit
+activity as well, and there has been some consideration of creating co-curricular
+transcripts using a third party.
+Third-party infrastructures such as Credly are externally developed and maintained
+tools designed to create and support Micro-Credentials. Most if not all such
+infrastructures are web-based platforms and the leading ones conform to the Open
+Badge Specifications pioneered by Mozilla with support from the MacArthur Foundation,
+and now administered by IMS Global Learning Consortium. These platforms enable
+issuers to create digital images representing Micro-Credentials, issue them to
+individuals who have earned them, and link them to pages validating them in terms of
+the learning they represent, the measures used to judge that that learning took place,
+and the legitimacy of the issuer. While it would theoretically be possible for an institution
+such as Old Westbury to create its own platform to perform these operations, as well as
+maintain records of credentials issued, even venerable organizations like Microsoft and
+Cisco, not to mention Open SUNY, use third party vendors for their certificates. The
+advantage of using such vendors is thus the outsourcing of the complex tasks that
+creating and maintaining the software needed to record and display the MicroCredentials in a way that is consistent with expectations about them involve. The
+disadvantage may be the separation of Micro-Credentials from the student’s academic
+record.
+
+D) Micro-Credentials and Old Westbury
+
+1) The Process of Consideration
+Old Westbury’s institutional consideration of Micro-Credentials was set in motion when,
+in September 2017, SUNY system administration circulated the SUNY MicroCredentials Task Force’s draft report. Provost O’Sullivan tasked Dr. Edward Bever,
+Director of the School of Professional Studies, with monitoring SUNY’s emerging
+policies related to Micro-Credentials. In keeping with SUNY’s emphasis on the
+15
+
+Micro-Credentials Task Force Proposal
+importance of involving Faculty Governance in them, Dr. Bever gave a report on them to
+the Curriculum and Academic Planning committee at its October meeting. He gave a
+second presentation to CAP at its March 9, 2018 meeting, this time in support of a
+proposal by the School of Professional Studies to create the College’s first MicroCredential in Non-Profit Management involving two Professional Studies courses.
+Since this proposal involved the creation of an entirely new credit-bearing credential by
+the College, the CAP committee decided that rather than make a decision on it on its
+own, it would hold a discussion of Micro-Credentials at its March 9 meeting and then
+refer the matter to the Senate Executive committee so the faculty could consider the
+matter as a body. The Chair of CAP conveyed a summary of CAP’s discussion along
+with referral of the matter to the Executive Committee. The Executive Committee
+arranged for Dr. Bever to give a presentation on Micro-Credentials to the Full Faculty
+meeting on May 11, and then arranged for a Task Force to be formed of volunteers
+representing the four Schools (2 SAS, 1 from each of the others), Academic Affairs,
+Student Affairs, Student Government, Academic Advising, and the Registrar’s office.
+The Executive Committee instructed the Task Force “to discuss the introduction of
+Micro-Credentials at Old Westbury” in order to present “a proposal to CAP and the
+Executive Committee of the Senate for subsequent approval by the Senate” addressing
+the question “should Old Westbury allow Micro-Credentials? And if so, how?” (email
+from Andrew Mattson, Chair of the Faculty Senate, to Deans, Chairs, Senators, Faculty,
+and Administrators, May 15, 2018) The Task Force met on June 1 and elected Dr.
+Anissa Lynch and Dr. Edward Bever co-chairs. It met again on June 14 and formed
+four sub-groups to conduct research over the summer into the use and reception of
+Micro-Credentials in SUNY and beyond, the potential infrastructures to record and
+report Micro-Credentials earned, interest in the use of non-credit Micro-Credentials on
+campus, and the framework for Micro-Credentials at Old Westbury provided by the
+SUNY initiative, on the one hand, and the issues that CAP conveyed to the Executive
+Committee, on the other. The sub-groups submitted reports on their results in early
+August, and the Task Force met to discuss them and plan its activities for the Fall on
+16
+
+Micro-Credentials Task Force Proposal
+August 23. During September a draft of this proposal was prepared and circulated to
+the members of the Task Force, who emailed comments and corrections and met to
+discuss it on September 26. A revised version incorporating the comments, corrections,
+and discussion was then prepared and, as agreed at the September 26 meeting,
+circulated by email on October 10 for a “yea-or-nay” vote on the revised Proposal by
+email that concluded on October 16 unanimously in favor of adopting it. The Proposal
+was considered by CAP at its November 2 meeting, and CAP voted to support the
+Proposal pending several changes that it stipulated. The changes were made, and the
+document was circulated to the Task Force members by email on November 8 for a
+“yea-or-nay” email vote on the further revised Proposal to be concluded on November
+12. The revisions were approved unanimously except for one member who did not
+respond to the email.
+
+2) Issues and Answers
+CAP’s discussion raised issues that call for two types of responses. One type of
+response is information; the other is a decision. The issues raised will be presented
+here, and information will be provided where appropriate. Where a decision is called
+for, recommendations will be incorporated into the second part of this Proposal, the
+Recommendations of the Task Force on how it thinks the College should proceed.
+
+a) Micro-Credentials and the Mission and Vision of the College at Old Westbury
+Old Westbury is a Comprehensive College with approximately 5,000 undergraduate and
+graduate students in four Schools: Arts and Sciences, Business, Education, and
+Professional Studies. It’s mission and vision are to serve as a regional academic leader
+that provides a dynamic, high quality educational experience to help students grow
+personally and prepare them “to embrace the social and environmental responsibilities
+of our 21st century global community.” Consideration of the purposes for MicroCredentials put forth by SUNY and laid out above indicates that they will help fulfill the
+College’s mission and vision in a variety of ways.
+17
+
+Micro-Credentials Task Force Proposal
+
+First and foremost is their motivational value. For credit-bearing work, by recognizing
+student achievement beyond the scope of one course but more immediately than the
+attainment of a four-year degree, they can provide an important motivation, an
+attainable goal, for students to persist at their studies, and a sense of accomplishment
+that can fuel further effort toward the degree. For non-credit work, because Old
+Westbury enrolls a high proportion of commuter students with many commitments
+outside of school, Micro-Credentials can provide a tangible reward that helps increase
+participation in co-curricular activities and boost student engagement.
+Micro-Credentials can not only motivate students to persist at courses of study and cocurricular activities they are already embarked on, but also to explore and broaden their
+experiences and skill sets, another of the purposes SUNY identifies. Furthermore, while
+the Micro-Credential can serve as a culminating reward for the students’ exploration,
+since they are stackable they can draw students to ladder from a non-credit to a credit
+program or from the Micro-Credential into a certificate or degree program, yet another of
+the purposes SUNY identifies.
+Our College Mission states that we are a “ dynamic and diverse public liberal arts
+college”. The goals of Micro-Credentials at both the undergraduate and graduate level
+align with the social justice mission of SUNY Old Westbury and its mission of being a
+“dynamic and diverse public liberal arts college” because Micro-Credentials are being
+developed to reflect the demand for training in specific competences that will help make
+our students readily employable.
+Micro-Credentials’ can differentiate Old Westbury students in the job market by
+highlighting specific skills and competencies to potential employers not only upon
+completion of the degree, but also while still studying, to help them get internships and
+better jobs. Where appropriate, the Micro-Credentials can be developed in partnership
+with industry or other educational institutions, but they can also more attest to skills and
+competencies employers value more generally.
+18
+
+Micro-Credentials Task Force Proposal
+
+Micro-Credentials can enhance the educational experience of students already
+matriculated at Old Westbury, but also can attract and reward non-matriculated
+students. At the graduate level, Micro-Credentials provide opportunities for students
+who would not otherwise be considered for admission to our master’s programs
+because they do not meet admissions criteria a pathway to a earning a graduate degree
+from SUNY Old Westbury. This not only opens a potential new source of students for
+the College, but also creates a new relationship between it and the community more
+tailored to the 21st century, with its declining pool of 18-22 year olds and rising need for
+continuous, or at least periodic, upgrading of skills and retraining of adults, thus fulfilling
+its commitment to be a “dynamic … regional academic leader”. And, once again,
+stackable Micro-Credentials can draw such students to ladder from a non-credit to a
+credit program or from the Micro-Credential into a certificate or degree program.
+When Dr. Bever attended the CAP meeting, members raised questions of whether
+adding additional sections of or new courses so the College can offer Micro-Credentials
+would lead to an increase in the number of courses taught by adjuncts and if so, how
+this would support social justice. At this point in time, the Sample Micro-Credential
+Proposals contain courses within exiting majors and programs that are taught by current
+faculty and adjuncts. The Task Force is unable to address future staffing needs and
+how those would be addressed since these issues would be addressed on a case-bycase basis and would be factored into the department’s decision to propose and faculty
+governance to approve (or not) Micro-Credentials.
+In sum, Micro-Credentials motivational value can enhance both the academic and the
+co-curricular experiences of students, encouraging them to persist and explore, while
+leading them to develop specific skills and competencies to help open doors to positions
+in the economy and society where they can carry out the responsibilities Old Westbury
+has prepared them for.
+
+19
+
+Micro-Credentials Task Force Proposal
+
+b) The Marketability of Micro-Credentials
+The extent to which Micro-Credentials will help open doors for students is another issue
+raised in the discussion in CAP. Since Micro-Credentials are a very recent
+development, there is very little systematic research on the extent to which employers
+recognize and value them. Assessment of their potential to help students thus must
+currently rest on more informal evidence and logical consideration of their potential.
+First of all, it should be recognized that in some industries digital Micro-Credentials are
+already well established and highly valued. In the technology sector, in particular, longstanding Cisco and Microsoft certifications are now available as digital MicroCredentials, for example, making this type of certification a highly valued form of
+recognition. IBM, Adobe, Citrix, and other denizens of Silicone Valley also award digital
+Micro-Credentials to recognize completion of their internal training programs. However,
+digital Micro-Credentials are not just being used by computer companies. They are
+being used to certify internal training by businesses further afield like Verizon, Disney,
+and Home Depot. Professions in which regular professional development is required
+like accounting are seeing increased use and recognition of them, particularly at the
+graduate level. On another level, District Council 37, New York City’s largest publicsector union, began offering Micro-Credentials for completion of its Education Fund’s
+education and training programs in June 2018.
+Beyond this spreading use of digital Micro-Credentials in businesses themselves, there
+is some face validity to the concept in that students may be able to ‘package’
+themselves better for specific employment opportunities if the Micro-Credentials make
+specific training/skills more visible to potential employers or open up career pathways
+where those skills and competencies add value. This logic was backed up, at least
+informally, by a phone survey conducted by the Assistant Director of the School of
+Professional Studies. He phoned twenty companies at random and asked to speak with
+their Human Resources department or hiring manager. Four agreed to speak with him,
+20
+
+Micro-Credentials Task Force Proposal
+and they were uniformly positive about the potential of Micro-Credentials. One said it
+sounded like a minor, and that would be a good idea, while the other three related it to
+their ability to screen candidates more quickly, saying that it would save time and
+increase their ability to identify qualified candidates. One volunteered that even for a
+receptionist position, if a candidate “had a credential” in a pertinent skill, “they would be
+considered ahead of non-credentialed applicants.”
+Finally, the effects of SUNY’s endorsement of Micro-Credentials itself must be
+considered. The fact that System Administration is actively fostering their use and
+promoting partnerships with businesses will likely increase their visibility to and
+acceptance by the business community in New York. This enhances both the likelihood
+that they will be marketable and also that students seeking employment who don’t have
+them will be less marketable.
+c) Financial Aid
+Currently, most financial aid is for full-time work toward the requirements for a degree,
+and there is increasing emphasis on completing specific requirements like General
+Education and major requirements before taking electives. This is already problematic
+for students’ ability to pursue a minor since their courses are considered general college
+electives for financial aid purposes. The same issue will be raised by courses taken by
+matriculated students toward Micro-Credentials.
+However, one of the SUNY Provost’s Micro-Credentialing Implementation Groups is
+entitled “Policy/Financial Aid Implementation Group,” has among its members the SUNY
+System’s Director of Student Financial Aid Services, and is charged with providing
+“additional guidance related to tuition and fees, and also financial aid.” (SUNY website).
+The most updated information and guidance provided by this group to SUNY Financial
+Aid Directors follows:
+State and Federal Financial Aid
+21
+
+Micro-Credentials Task Force Proposal
+Eligibility requirements for State and federally administered financial aid programs are
+statutory and regulatory and governed by the New York State Education Department
+(some programs rules are governed by HESC) and the US Department of Education
+respectively. Both State and federal financial aid programs require students to be
+matriculated in an approved program of study.
+Enrollment Status
+State financial aid programs: full-time study requirement - a student must be enrolled in
+credit-bearing courses applicable to their approved program of study, for at least 12
+semester hours for a semester not less than 15 weeks or 100 days, inclusive of
+examination periods. Part-time awards require the student to be enrolled in creditbearing courses applicable to the student program of study for the same timeframe.
+Federal financial aid programs: require a student to be enrolled or accepted for
+enrollment in an eligible institution for the purpose of obtaining a degree or certificate
+offered by the school. FSA’s minimum standards for full-time enrollment require an
+undergraduate to enroll in 12 semester hours in a (approved) program per semester. A
+student must be enrolled at least half-time to be eligible for Direct student
+loans. Enrollment status affects the amount of Pell a student receives. If a student is
+enrolled in courses that do not count toward his degree, certificate, or other recognized
+credential, they cannot be used to determine enrollment status unless they are eligible
+remedial courses. Regular (matriculated) students may receive FSA funds for
+Continuing Education if the courses apply to their degree or certificate program.
+Non-credit bearing Micro-Credentials
+Noncredit-bearing Micro-Credentials (MC) do not meet the requirements to be aid
+eligible (State and Federal) and cannot be used to meet the full-time requirement for
+financial aid. Any noncredit Micro-Credential course-work must be taken above the 12
+credit minimum requirement for full-time.
+As with full-time awards, noncredit-bearing Micro-Credentials are not eligible for State or
+federal part-time aid awards.
+22
+
+Micro-Credentials Task Force Proposal
+
+Credit Bearing Micro-Credentials included in the Approved Program of Study
+Credit-bearing Micro-Credentials, depending on how they are approved and
+applied, may be eligible for State and/or federal financial aid programs.
+Credit bearing Micro-Credentials that are part of the approved program are eligible for
+both State and federal financial aid administered programs.
+Credit-bearing Micro-Credentials that are not part of an approved program, are not aid
+eligible, however if the student has available electives, credit-bearing Micro-Credentials
+can be slotted in and are eligible for aid. If the student has satisfied all electives, MicroCredential cannot be used in the 12 credit minimum requirement for full-time, and will
+not be eligible for aid and must be taken above the 12 credit minimum.
+
+d) Resource Demands of Administering Micro-Credentials
+Adding a new type of credential to the mix of degrees, minors and credentials currently
+offered by the College, particularly one that consists of fewer courses, that can stack
+towards (and thus nest within) a larger credentials, and that students will potentially be
+encouraged to take both to broaden and deepen their certifiable competencies will
+undoubtedly increase the demands on many of the administrative offices. In particular:
+i.
+
+Registrar: The Registrar’s office is the one that will undoubtedly experience the
+biggest impact from the adoption of credit bearing Micro-Credentials. Adding
+Micro-Credentials has the potential to increase the number of degrees conferred
+and credentials and certificates earned on our campus significantly. The number
+of individual degrees conferred and credentials and certificates earned would
+also increase correspondingly. Specific recommendations for how to handle this
+at Old Westbury are given in the Recommendations Section below.
+
+ii.
+
+Enrollment Services: Enrollment Services will not only need to understand the
+new credentials and what the ways that they can help recruit new students, but
+23
+
+Micro-Credentials Task Force Proposal
+also be ready to recruit non-traditional students on non-traditional recruitment
+timelines for shorter enrollment periods.
+iii.
+
+Academic Advising: Advisors will need to be versed not only in the opportunities
+that the new credentials represent for students, but also the potential difficulties
+they will present in terms of meeting financial aid requirements.
+
+iv.
+
+Financial Aid: Will need to handle increased inquiries about aid for non-traditional
+and for non-matriculated students as well as monitoring the compliance to
+regular aid requirements by matriculated students pursuing Micro-Credentials.
+
+e) Implications for Academic Programs
+CAP raised a number of questions relating to possible impacts on existing Academic
+Programs. The Task Force’s best answers are given after each in italics.
+
+i
+
+Would additional resources be required for offering Programs/Departments? In
+general terms, students who pursue Micro-Credentials would enroll in existing
+courses where space is available. Staffing and strains on academic resources
+would not be greatly affected since these courses already exist, have instructors
+assigned, classroom space, etc. Specific issues related to staffing and resources
+would be determined on a case-by-case basis, and the answer would be factored
+into the program’s decision to propose the Micro-Credential and Governance’s
+decision whether to approve it.
+a How do Micro-Credentials impact support for existing majors? There is no
+reason to expect that Micro-Credentials will impact existing majors
+significantly, except to possibly attract students who wouldn’t consider the
+major to try out a limited set of offerings and based on that experience
+possibly go on in it.
+b How does a Micro-Credential program impact enrollment in existing
+majors? Minors? The answer to the previous bullet point addresses the
+question about majors. As for minors, some students may take a MicroCredential rather than a minor, but many of those taking Micro-Credentials
+24
+
+Micro-Credentials Task Force Proposal
+will be students who couldn’t have taken a minor anyway, and some of
+them will presumably go on from the Micro-Credential to the minor since
+they are stackable.
+ii
+
+Does the Micro-Credential devalue existing majors? Minors? There is no reason
+to think Micro-Credentials will devalue existing majors, and they may be entrypoints to some for students who wouldn’t otherwise consider trying them out. As
+for minors, some students may prefer Micro-Credentials over minors because
+they are more manageable and/or because they offer more immediate and
+tangible rewards, but since they are stackable they may also lead students to
+complete the minor before graduating to have the larger credential on their
+record.
+
+iii Would Micro-Credentials require hiring additional faculty? This is a resource
+issue that would be decided on a case-by-case basis and would be factored into
+department’s decisions to propose and Governance’s decision to approve the
+Micro-Credential.
+iv Does this increase adjunct/full faculty ratios? Again, this is a resource issue that
+departments will need to consider before proposing them and Governance will
+need to consider before approving them.
+v Does this impact faculty teaching loads? No.
+vi Since there will be a need to ensure Micro-Credential coursework can be
+completed in timely manner, courses related to Micro-Credential will need to be
+offered in specified rotations. How does this affect delivery of curriculum for
+existing majors? This would be something departments will need to consider
+before proposing a Micro-Credential and Governance will need to consider
+before approving them.
+
+f) Other Issues raised by CAP
+The following are issues that do not fit neatly into above categories or are implied by
+issues raised by CAP. As with e), above, the issue is stated here first, and the Task
+Force’s response is then given in italics.
+25
+
+Micro-Credentials Task Force Proposal
+
+i.
+
+Should Micro-Credentials be credit-bearing? Non-credit bearing? Curricular?
+Non-curricular? This is a policy issue, not an informational one. The Task
+Force’s recommendations are given below.
+
+ii.
+
+Should Micro-Credentials be considered only for undergraduate programs or only
+for graduate programs? This is a policy issue, not an informational one. The
+Task Force’s recommendations are given below.
+
+iii.
+
+Do graduate Micro-Credentials hold similar benefits in terms of ‘marketability’?
+Stony Brook’s experience suggests that graduate level Micro-Credentials are
+quite marketable.
+
+iv.
+
+Should Micro-Credentials be tied to specific Departments/Programs? If not, how
+will they be managed? This issue is similar to the management of
+Interdisciplinary Minors and raises similar resource allocation issues. This is a
+policy issue, not an informational one. The Task Force’s recommendations are
+given below.
+
+v.
+
+Micro-Credentials are more obvious for some programs/disciplines than for
+others, especially at the graduate levels. Which Departments/Programs would
+want to pursue Micro-Credentials? This is a decision that individual
+departments/programs can best answer.
+
+vi.
+
+Can we use Micro-Credentials as a method to reach out to community partners?
+Can we develop Micro-Credentials with a community partner in mind, such as a
+non-profit organization? What are the dangers of tying a program to an external
+partner? Similar dangers exist as with the establishment of other types of
+partnerships and would be managed on a case-by-case basis. It seems that
+indeed Micro-Credentials could be a way to establish community partnerships
+and in fact that is one of the purposes specified by SUNY for offering MicroCredentials.
+
+vii.
+
+Should the College issue digital Micro-Credentials? The Task Force’s specific
+recommendations are given below.
+
+26
+
+Micro-Credentials Task Force Proposal
+viii.
+
+Are Micro-Credentials available for non-matriculating students? This is a policy
+issue, not an informational one. The Task Force’s recommendations are given
+below.
+
+ix.
+
+Should transfer classes be countable toward Micro-Credentials? This is a policy
+issue, not an informational one. The Task Force’s recommendations are given
+below.
+
+3) Micro-Credentials and the Strategic Plan
+Micro-Credentials are discussed specifically in two places in the Strategic Plan’s
+Implementation Plan:
+Goal 2, Promote Academic Excellence, Objective B: Enrich/Optimize Academic
+Offerings, Strategy 1, Analyze the current state of the academic programs at the
+College, identify areas for developing new academic programs, continue support
+for previously established high growth/needs areas … and formulate a set of
+guiding principles for future academic program development, Part C, Possible
+future programs, and
+Goal 4, Objective A, Strategy 4, Develop new, sustainable revenue streams, item 1.
+Create and Implement Certificate and Micro-Credential Programs (referencing
+Goal 2, Objective G, Strategy 1).
+In addition the foregoing discussion suggests that Micro-Credentials can contribute
+significantly to a number of other Goals and Objectives. Specifically, use of MicroCredentials can contribute to:
+Goal 1, Foster Student Success
+
+27
+
+Micro-Credentials Task Force Proposal
+Objective A: Improve Student Retention and Completion, by creating a more
+immediate and tangible reward structure for students’ progress through the four
+year Bachelors program.
+Objective C: Strengthen Students’ College Experience, by creating an incentive
+and reward for student participation in co-curricular activities.
+Goal 4, Strengthen Institutional Effectiveness
+Objective B: Raise Campus Profile, by drawing to campus members of the Long
+Island community who would not otherwise have any reason to come to campus.
+
+II. Recommendations
+A. Considerations
+
+1) Reasons to Offer Micro-Credentials
+The foregoing discussion suggests that there will be a variety of benefits to students
+and to the College from offering Micro-Credentials. Students will benefit from:
+a) the motivation to move toward completion they can provide,
+b) the employable skills they will cultivate and certify,
+c) the rewards for exploration they will bestow (a stand-alone certification for
+accomplishment or entre into an area of study they would not have investigated
+otherwise), and
+d) one or more manageable secondary specializations (in light of requirements for
+degree completion and/or financial aid).
+The College will benefit from:
+
+28
+
+Micro-Credentials Task Force Proposal
+a) higher completion rates,
+b) the ability to offer enhanced academic and co-curricular experiences to students,
+c) new, sustainable revenue streams from non-matriculated students
+d) increase enrollments from non-matriculated students who ladder into degree
+programs,
+e) a new form of credential it can add programs to or remove them from purely on
+its own initiative, without having to get approval from SUNY System
+Administration or the State Education Department
+
+2) Potential Problems from Offering Micro-Credentials
+However, there are some potentially problematic issues raised by offering MicroCredentials. These include:
+a) Uncertain student interest,
+b) Uncertain financial aid support,
+c) Uncertain marketability,
+d) Uncertain impact on existing academic programs,
+e) Costs of supporting them administratively,
+f) Fact that the Strategic Plan calls for them to be considered in the context of an
+overall assessment of the College’s academic offerings, including creation of
+guiding principles for developing new programs.
+
+B. Recommendation:
+Weighing the numerous benefits that offering Micro-Credentials could bring against the
+various potentially problematic issues that they raise, the Micro-Credential Task Force
+recommends that the College begin offering Micro-Credentials under the following
+terms:
+
+29
+
+Micro-Credentials Task Force Proposal
+1) Since credit-bearing Micro-Credentials are similar to minors in being campusdefined and governed credentials, proposals for Micro-Credentials will be
+modeled on the existing proposal structure for Minors at the campus. Programs
+proposing to offer them will submit a proposal to CAP with sections explaining
+their Purpose, the Demand for them, and their Resource needs, but with
+additional sections reflecting the SUNY requirements enumerated above
+including:
+a. Specification of the learning outcomes the Micro-Credentials will accomplish
+b. Criteria by which students will be judged to have met them
+c. Potential for financial aid
+d. Cost
+e. Stackability
+f. Potential portability and
+g. that the titles for Micro-Credentials are not the same as those of existing
+programs.
+2) Students will need to apply for a Micro-Credential they are eligible for in order to
+earn the credential.
+3) A third-party vendor like Credly will be contracted to provide the infrastructure to
+support the Micro-Credentials. Support of the Micro-Credentials will consist of
+providing a platform capable of:
+a. Designing the visual representation of the credential as a clickable icon,
+b. Displaying validating information on Old Westbury, the program bestowing the
+Micro-Credential, and the skills that were demonstrated in order to achieve it,
+c. Recording the recipients of the Micro-Credential,
+d. Informing the recipients of their credential and providing links and instructions
+for displaying it online,
+e. Maintaining records of all recipients of all Micro-Credentials earned at the
+College, and
+f. Providing access to these records, as well as the visual representations and
+validating information for all the College’s Micro-Credentials.
+
+30
+
+Micro-Credentials Task Force Proposal
+4) The creation of the infrastructure to support Micro-Credentials will be
+administered by the School of Professional Studies in conjunction with Academic
+Affairs and the Registrar’s office.
+5) Proposed timeline:
+a. 11/16/2018: CAP introduces Micro-Credentials Task Force Proposal with
+resolution to adopt to Faculty Senate.
+b. 12/7/2018: Senate votes on CAP resolution.
+c. 12/2018: If adopted Proposal, submitted to College administration for
+endorsement.
+d. Spring 2019: Contract platform vendor and set up technological and
+administrative infrastructure.
+e. Spring 2019: Programs begin submitting proposals for Micro-Credentials to
+CAP.
+
+31
+
+Micro-Credentials Task Force Proposal
+
+Appendices
+
+Appendix A
+Micro-Credential Task Force members
+Co-Chairs: Edward Bever (SPS) and Anissa Wicktor Lynch (SOE)
+Jamie Jones (Student Affairs)
+Jon Kleinman (Advising)
+Cary Lange (SOB)
+Joe Manfredi (ASMC/Student Media)
+Runi Mukherji (SAS)
+Duncan Quarless (AA)
+Evan Rufrano/ Atqiya Syed (SGA)
+Regina Scarbrough (Registrar)
+Pat Smith (Registrar)
+
+32
+
+Micro-Credentials Task Force Proposal
+
+Appendix B
+Draft Catalog Entry
+
+MICRO-CREDENTIALS
+General Information
+A Micro-Credential certifies that a student has attained a specified competency or skill set,
+generally by completing a group of 2 to 4 related courses with a grade of B or better. The
+courses can be at the undergraduate or graduate level; can be taken within or outside a
+student’s major, minor, or degree program; and the Micro-Credential can be awarded to nonmatriculated as well as matriculated students. Upon completion of a Micro-Credential’s
+requirements, students will be issued a digital icon from a Micro-Credential platform that can
+be embedded in social media (e.g. LinkedIn) and electronic résumés. These icons will be linked
+to pages with validating information. Micro-Credentials allow students to study topics that
+broaden their experiences and skill sets and highlight specific competencies gained through
+coursework and activities when applying for employment or further study.
+Following is a list of available micro-credentials, with descriptions and specific requirements of
+each:
+
+33
+
+Micro-Credentials Task Force Proposal
+
+APPENDIX C
+SAMPLE MICRO-CREDENTIAL PROPOSALS
+
+(Note that these proposals are included as examples
+of possible Micro-Credentials. They have been discussed
+but not formally endorsed by their respective programs.)
+
+34
+
+Micro-Credentials Task Force Proposal
+_____________________________________________________________________
+
+MEMORANDUM
+TO:
+FROM:
+SUBJ:
+DATE:
+
+Chair, CAP Committee
+Edward Bever, Director, School of Professional Studies
+DRAFT Proposal for Micro-Credential in Management of Non-Profits
+October 9, 2018
+
+____________________________________________________________________________
+
+A. Purpose
+The Micro-Credential in Management of Non-Profits is designed for students holding or
+aspiring to leadership positions in non-profit organizations. Its courses cultivate the
+basic skills and competences needed to manage the administrative, financial, and
+governance aspects of non-profits. The Micro-Credential will be available to currently
+enrolled students as well as members of the larger Long Island community with a desire
+to gain certified enhancement their skills in these area.
+B. Demand
+The New York/Long Island region is home to thousands of non-profit organizations that
+provide a wide variety of invaluable services to the community. In the five eastern-most
+towns of Suffolk County alone there are “over 1,075 registered nonprofit organizations
+that provide basic needs, leadership on sustainability and environmental issues,
+preservation and presentation of arts and culture, and educational support.” 1 To provide
+these services, the non-profits employ over 100,000 people and pay over $5,000,000 in
+wages and salaries.2 To maintain their staffing, non-profits on Long Island collectively
+recruit hundreds of new employees at any one time: currently one online jobs site lists
+4,778 jobs in non-profits within 25 miles of Old Westbury (including New York City) and
+450 within 15 miles of campus.3 A second site concurs, with 454 jobs listed within 15
+miles of Old Westbury, and 356 of them are full-time.4
+In terms of employer demand for the specific skills and competencies certified by the
+Micro-Credential, the two courses it will include, Nonprofit Stewardship and Financial
+Administration of Nonprofits, were designed by the consultants contracted to help create
+the Congregational Leadership minor, one of whom managed several congregations
+over the course of 15 years and ended his career as the executive director of the Long
+Island Council of Churches, the other of whom earned an MBA from Malloy College with
+a specialization in non-profit management and has since held several management
+positions in non-profit organizations. In addition, an informal telephone survey was
+conducted with administrators at randomly selected non-profits, and of the four who
+1
+
+http://www.aftee.org/not-for-profits/. Accessed 3/2/18.
+Long Island’s Not-For-Profit Sector: Doing More with Less During a Period of Economic Change”, The
+Long Island Association, Inc., June, 2011, p. 6. Available at
+http://www.licf.org/Portals/0/Uploads/Documents/latest_non_profit_study_lo_res.pdf. Accessed 3/2/18.
+3 https://www.indeed.com/q-Non-Profit-l-Long-Island,-NY-jobs.html. Accessed 3/2/18.
+4 https://www.simplyhired.com/search?q=non-profit&l=long+island%2C+ny&job=YwNI00OgViaDLTSTyTwV8cdsR_AUEI8FtFPkVRtapYZPQpA6P0xA. Accessed 3/2/18.
+
+2
+
+35
+
+Micro-Credentials Task Force Proposal
+agreed to respond, all agreed that the Micro-Credential would be helpful to both
+distinguish a candidate and make the selection process more efficient. As one said, “it
+would help the candidate to have the credential and could make the hiring process go
+more quickly.”
+Considering Old Westbury’s venerable commitment to promoting social justice and
+community engagement, it seems natural that the College would support students’
+ability to translate their good intentions into effective action.
+C. Resources
+Courses offered by the School of Professional Studies for the Micro-Credential are
+already being offered as part of the Congregational Leadership minor, which populates
+them enough to sustain them but not to fill them. These classes are scheduled on the
+weekends, when the physical facilities of the College are under-utilized, and they are
+taught by adjunct faculty, so instructional costs are modest and easily met on a classby-class basis. These courses also serve as major electives in the BPS in Professional
+Studies program.
+D. Cost, Financial Aid, Stackability, and Portability
+Since the Management of Non-Profits Micro-Credential will involve two for-credit
+courses, the cost will be the regular per-credit cost for these. Financial aid will be
+available for matriculated students who take the two classes as part of their degree
+program (similar to a minor), but not for non-matriculated students. The MicroCredential will be stackable to the minor in Congregational Leadership and one class
+can count as the major elective for students in the BPS in Professional Studies
+program. Students will be able to apply one transferred course toward the MicroCredential, but will need to take at least one course at Old Westbury. The courses it
+includes are regular for-credit Old Westbury classes, and therefore will be transferrable
+to other SUNY institutions normally. Information about these items will be included in all
+marketing materials publicizing this.
+E. Title
+The name “Management of Non-Profits” is not the title of any registered degree or
+certificate program.
+F. Assessment
+The Micro-Credential will be assessed along with the other programs of the School of
+Professional Studies as part of its regular five year reviews.
+G. Additional Materials
+Following is catalog copy for the Micro-Credential, modeled on the catalog copy for
+minors.
+
+36
+
+Micro-Credentials Task Force Proposal
+
+Management of Non-Profits Micro-Credential - DRAFT
+Sponsoring school: Professional Studies
+The Micro-Credential in Management of Non-Profits is designed for students holding or
+aspiring to leadership positions in non-profit organizations. It consists of two courses,
+one on the managerial and the other on financial issues that leaders of nonprofit
+organizations face. Students successfully completing the requirements of the MicroCredential will be prepared to help manage a nonprofit organization’s operations,
+finances, and planning.
+
+Requirements
+Students are required to take 8 credits by completing both of the following courses with
+a grade of B or higher:
+PS3625
+PS4630
+
+Nonprofit Stewardship
+Financial Administration of Nonprofits
+
+4 credits
+4 credits
+
+Skills and Competencies to be Gained
+Students who complete these courses at the stipulated level will:
+
+
+Understand the role and structure of the nonprofit sector in contemporary society.
+
+
+
+Know the management issues that arise within nonprofit organizations and how to
+use this knowledge to successfully lead one.
+
+
+
+Understand public governance and how to participate in and contribute to public
+policy-making as a leader of a nonprofit organization.
+
+
+
+Have a knowledge of basic accounting principles, financial statements, financial
+planning processes, and audit and reporting requirements as they pertain to
+nonprofit organizations.
+
+
+
+Demonstrate an ability to use that knowledge to perform basic analyses of
+nonprofits’ finances and use them in operations and planning.
+
+
+
+Be able to communicate this knowledge and the results of these analyses to
+organizational leadership, board members, and community stakeholders.
+
+Other Considerations
+At most one of the two classes can be transferred from another institution. Both classes
+can count toward the Congregational Leadership minor, and one can count as the major
+elective in the BPS in Professional Studies major.
+37
+
+Micro-Credentials Task Force Proposal
+______________________________________________________________________
+
+MEMORANDUM
+Chair, CAP Committee
+Runi Mukherji, Professor, Psychology
+Marty Cooper, Assistant Professor, Psychology/Mental Health Counseling
+SUBJ:
+DRAFT Proposal for Micro-Credential in Foundational Counseling Skills
+DATE:
+September 19, 2018
+______________________________________________________________________
+TO:
+FROM:
+
+A. Purpose
+The Micro-Credential in Foundational Counseling Skills is designed for students
+considering professions that require interviewing/intake skills or those seeking to pursue
+the licensed or certified counseling professions. The course sequence is designed to
+engage students in basic interviewing and preliminary assessment skills, which are
+foundational and required by our own and many other mental health counseling
+graduate programs. The knowledge obtained from this Micro-Credential may be
+required to obtain internships during their academic studies or counseling-related jobs
+during or after their undergraduate degree. These skills are also applicable to many
+other career pathways such as social work, and many health-related service delivery
+settings. The Micro-Credential will be available to currently enrolled students as well as
+members of the larger Long Island community with a desire to gain certified
+enhancement their skills in this specific area.
+B. Demand
+Health Resources & Services Association (HRSA, 2018) suggests that the demand for
+mental health counselors will grow by 15% between 2013 and 2025. The Bureau of
+Labor Statistics (BLS, 2018) suggests a 23% increase in demand. Regardless, of which
+statistics we utilize the increased demand for counselors is evident. The national
+median income, according to BLS (2017), is $43,860. The US Department of Labor
+suggests that the growth in Mental Health Counseling in New York is expected to be
+25%, exceeding the national growth rate. Their findings also suggest that the median
+income in New York is $44,390 with a salary range between $27,320 and $74,160.
+C. Resources
+All courses required for the Micro-Credential are regularly offered courses in the
+Psychology department. Any additional resources would be dependent on the demand
+for additional sections of each course.
+D. Cost, Financial Aid, Stackability, and Portability
+Since the Foundational Counseling Skills Micro-Credential will involve three for-credit
+courses, the cost will be the regular per-credit cost for these. Financial aid will be
+available for matriculated students who take the three classes as part of their degree
+program (similar to a minor), but not for non-matriculated students.
+
+38
+
+Micro-Credentials Task Force Proposal
+The Foundational Counseling Skills Micro-Credential will be stackable to the B.A. and
+B.S. in Psychology, with PY 3310 counting as the Group B Platform Elective, PY 3311
+counting as a 3000/4000-level Elective, and PY 4320 counting as the 4000-level
+Elective. The Micro-Credential will be stackable to the Psychology minor, with PY 3310
+or PY 3311 filling one Part B requirement and PY 4320 fulfilling the other Part B
+requirement and the minor’s 4000-level course requirement as well. The MicroCredential will not be stackable to the Neuropsychology Minor.
+Students will be able to apply one transferred course toward the Micro-Credential, but
+will need to take the other two at Old Westbury. The courses it includes are regular forcredit Old Westbury classes, and therefore will be transferrable to other SUNY
+institutions normally. Information about these items will be included in all marketing
+materials publicizing this .
+E. Title
+The name “Foundational Counseling Skills” is not the title of any registered degree or
+certificate program.
+F. Assessment
+The Micro-Credential will be assessed along with the other programs of the Psychology
+Department as part of its regular five-year reviews.
+F. Additional Materials
+Following is catalog copy for the Micro-Credential, modeled on the catalog copy for
+minors.
+
+39
+
+Micro-Credentials Task Force Proposal
+
+Micro-Credential in Foundational Counseling Skills
+Sponsoring Department: Psychology
+The Micro-Credential in Foundational Counseling Skills is designed for students
+planning to work in, or applying for, post-baccalaureate educational or training programs
+in counseling and other mental health-related service delivery professions, and in
+professional settings.
+Students successfully completing the requirements of the Micro-Credential will be have
+the competency and skills required for basic interviewing and intake in mental health
+and counseling service delivery professions and professional settings.
+
+Requirements
+Students are required to take 12 credits by completing both of the following courses with
+a grade of B or higher:
+4 credits
+4 credits
+4 credits
+
+PY 3311 Theories of Personality
+PY 3310 Abnormal Psychology
+PY 4320 Counseling Psychology
+
+Skills and Competencies
+Students who complete these courses at the stipulated level will:
+
+
+
+
+
+
+
+
+The student will be able to state, describe, and demonstrate an understanding of
+the process of the identification of personality traits, the assessment of
+personality as well as understand personality disorders.
+The student will be able to recognize the symptoms of major categories of mental
+illness and other forms of abnormal behavior and be able to identify potential
+diagnoses using the current major systems of diagnosis.
+The student will develop basic ideas and issue description skills, to include
+defining the basic ideas and issues, describing competing ideas and issues,
+and the ability to consider and evaluate multiple points of view with regard to the
+various schools of thought and different kinds of psychotherapy.
+The student will demonstrate the ability to consider issues of diversity including
+race, ethnicity, gender, class, sexual orientation, religion and disability in the
+study of personality.
+The student will demonstrate the ability to consider issues of diversity including
+race, ethnicity, gender, class, sexual orientation, religion and disability in the
+identification of abnormality and mental illness.
+The student will demonstrate the ability to consider issues of diversity including
+race, ethnicity, gender, class, sexual orientation, religion and disability in
+providing psychotherapies.
+40
+
+Micro-Credentials Task Force Proposal
+
+
+The student will develop the skills to interview and provide preliminary
+assessments for interventions.
+
+Other Considerations
+At most one of the Foundational Counseling Skills Micro-Credential’s three classes can
+be transferred from another institution. The Foundational Counseling Skills MicroCredential will be stackable to the B.A. or B.S. in Psychology, with PY 3310 counting as
+the Group B Platform Elective, PY 3311 counting as a 3000/4000-level Elective, and PY
+4320 counting as the 4000-level Elective. The Micro-Credential will be stackable to the
+Psychology minor, with PY 3310 or PY 3311 filling one of the minor’s Section B
+requirement and PY 4320 fulfilling the other Section B requirement and the minor’s
+4000-level course requirement as well. The Micro-Credential will not be stackable to
+the Neuropsychology Minor..
+
+41
+
+Micro-Credentials Task Force Proposal
+______________________________________________________________________
+
+MEMORANDUM
+To:
+From:
+Subj:
+Date:
+
+Chair, CAP Committee
+Cary Lange, Director, School of Business Graduate Programs
+Proposal for Micro-Credential in Business Taxation
+September 25, 2018
+
+A. Purpose
+The Micro-Credential in Business Taxation is designed for individuals that are in, or are
+aspiring to be in, the field of taxation. The courses in this Micro-Credential will allow
+students to gain a solid grounding in business taxation. The Micro-Credential will be
+available to individuals with an undergraduate degree in accounting, who want to
+expand their portfolio of skills, but who may not yet be ready to commit to a full graduate
+program. Those individual with an undergraduate degree in a discipline other than
+accounting may undertake the credential upon completion of specified prerequisites
+prior to beginning the Micro-Credential program.
+B. Demand
+The New York State Department of Labor estimates that annual job growth in the field of
+accounting & auditing will be between 10% and 20% on Long Island and in New York City.
+Moreover, the workforce demand for such openings is reinforced by the 2014-2015 SUNY High
+Needs Program identifying accountants and auditors as a high need area with annual average
+openings in New York State projected to reach almost 3,600. Due to its close proximity to New
+York City, Old Westbury is fortunate to be in a geographic area containing hundreds of
+accounting and financial institutions with a demand for employees trained in accounting. The
+courses in this Micro-Credential can also be used to meet the 150 credit hour requirement
+necessary for licensure as a Certified Public Accountant (CPA) in New York State. In addition,
+CPAs can use courses offered in the Micro-Credential program to fulfill their continuing
+professional education (CPE) requirements. SUNY College at Old Westbury is an accredited
+NYS CPE sponsor (#0002067). CPA’s will receive 45 CPE credits in taxation for each course
+successfully completed.
+
+C. Resources
+Courses offered by the School of Business Graduate Programs for this Micro-Credential
+program are already being offered as part of the Master of Science in Taxation program.
+Therefore, there will be no additional resources required to implement this program.
+
+D. Cost, Financial Aid, Stackability, and Portability
+Since the Business Taxation Micro-Credential will involve three for-credit courses,
+the cost will be the regular per-credit cost for these. Financial aid is generally not
+available for graduate programs, although full-time students with loans will be able to
+use them to pay for these courses if they are part of their degree requirements. The
+Micro-Credential will be stackable to Old Westbury’s M.S. in Taxation. Students
+42
+
+Micro-Credentials Task Force Proposal
+must take all three courses from Old Westbury. The courses it includes are regular
+for-credit Old Westbury classes, and therefore will be transferrable to other SUNY
+institutions according to their relevant policies. Information about these items will be
+included in all marketing materials publicizing this program.
+E. Title
+The name “Business Taxation” is not the title of any registered degree or certificate
+program.
+F. Assessment
+The Micro-Credential will be assessed along with the other programs in the School
+of Business’ Graduate Program as part of its regular reviews.
+G. Additional Materials
+Following is catalog copy for the Micro-Credential, modeled on the catalog copy for
+minors.
+
+43
+
+Micro-Credentials Task Force Proposal
+
+Business Taxation Micro-Credential – DRAFT
+Sponsoring School: School of Business Graduate Programs
+The Micro-Credential in Business Taxation is designed for individuals that are in, or are
+aspiring to be in, the field of taxation. It consist of three courses: one giving an overview
+and grounding in the basics of business taxation, the second dealing with the taxation of
+pass-through entities, and the third covering corporate liquidations and reorganizations.
+Students successfully completing the requirements for the Micro-Credential in business
+taxation will have a solid education in business taxation and will be prepared to work in
+the tax department of public accounting firms or other business organizations.
+
+Requirements
+Students are required to take 9 credits by completing all three of the following courses
+with a grade of B or higher:
+BU7570 Tax for Corporate Managers
+BU7572 Taxation of S Corps, Partnerships, and LLCs
+BU7575 Taxation of Reorganizations & Liquidations
+
+Skills and Competencies to be Gained
+Students who complete these courses at the required level will:
+
+
+
+
+
+Demonstrate a broad and in depth knowledge of business taxation principles,
+theories and practice. This knowledge should enable students to develop solutions
+to complex issues utilizing critical thinking skills.
+Be prepared to become socially responsible business leaders able to recognize
+ethical dilemmas and achieve resolutions in a socially and professionally
+responsible manner.
+Understand the role of taxation in business and society.
+Be able to communicate this knowledge effectively.
+
+Other Considerations
+All three classes must be taken at Old Westbury. All three can count toward Old
+Westbury’s MS in Taxation
+
+44
+
+Micro-Credentials Task Force Proposal
+______________________________________________________________________
+
+MEMORANDUM
+To:
+From:
+Subj:
+Date:
+
+Chair, CAP Committee
+Cary Lange, Director, School of Business Graduate Programs
+Proposal for Micro-Credential in Estate, Gift & Trust Taxation
+September 25, 2018
+
+A. Purpose
+The Micro-Credential in Estate, Gift & Trust Taxation is designed for individuals that
+are in, or are aspiring to be in, the specialized field of estate, gift & trust taxation. The
+courses in this Micro-Credential will allow students to gain a solid grounding in this
+specialized field. The Micro-Credential will be available to individuals with an
+undergraduate degree in accounting, who want to expand their portfolio of skills, but
+who may not yet be ready to commit to a full graduate program. Those individual with
+an undergraduate degree in a discipline other than accounting may undertake the
+credential upon completion of specified prerequisites prior to beginning the MicroCredential program.
+B. Demand
+The New York State Department of Labor estimates that annual job growth in the field of
+accounting & auditing will be between 10% and 20% on Long Island and in New York City.
+Moreover, the workforce demand for such openings is reinforced by the 2014-2015 SUNY High
+Needs Program identifying accountants and auditors as a high need area with annual average
+openings in New York State projected to reach almost 3,600. Due to its close proximity to New
+York City, Old Westbury is fortunate to be in a geographic area containing hundreds of
+accounting and financial institutions with a demand for employees trained in accounting. The
+courses in this Micro-Credential can also be used to meet the 150 credit hour requirement
+necessary for licensure as a Certified Public Accountant (CPA) in New York State. In addition,
+CPAs can use courses offered in the Micro-Credential program to fulfill their continuing
+professional education (CPE) requirements. SUNY College at Old Westbury is an accredited
+NYS CPE sponsor (#0002067). CPA’s will receive 45 CPE credits in taxation for each course
+successfully completed.
+
+C. Resources
+Courses offered by the School of Business Graduate Programs for this Micro-Credential
+program are already being offered as part of the Master of Science in Taxation program.
+Therefore, there will be no additional resources required to implement this program.
+
+D. Cost, Financial Aid, Stackability, and Portability
+Since the Estate, Gift & Trust Taxation Micro-Credential will involve two for-credit
+courses, the cost will be the regular per-credit cost for these. Financial aid is
+generally not available for graduate programs, although full-time students with loans
+will be able to use them to pay for these courses if they are part of their degree
+requirements. The Micro-Credential will be stackable to Old Westbury’s M.S. in
+45
+
+Micro-Credentials Task Force Proposal
+Taxation. Students must take both courses from Old Westbury. The courses it
+includes are regular for-credit Old Westbury classes, and therefore will be
+transferrable to other SUNY institutions according to their relevant policies.
+Information about these items will be included in all marketing materials publicizing
+this program.
+E. Title
+The name “Estate, Gift & Trust Taxation” is not the title of any registered degree or
+certificate program.
+F. Assessment
+The Micro-Credential will be assessed along with the other programs in the School
+of Business’ Graduate Program as part of its regular reviews.
+G. Additional Materials
+Following is catalog copy for the Micro-Credential, modeled on the catalog copy for
+minors.
+
+46
+
+Micro-Credentials Task Force Proposal
+
+Estate, Gift & Trust Taxation -Credential – DRAFT
+Sponsoring School: School of Business Graduate Programs
+The Micro-Credential in Estate, Gift & Trust Taxation is designed for individuals that are
+in, or are aspiring to be in, the specialized field of estate, gift & trust taxation. It consists
+of two courses: one giving an overview and grounding in the basics of estate & gift
+taxation, the second dealing with the income taxation of estates & trusts. Students
+successfully completing the requirements for the Micro-Credential in estate, gift & trust
+taxation will have a solid education in this specialized field of taxation and will be prepared
+to work in the tax department of public accounting firms, law firms and other financial
+services firms
+
+Requirements
+Students are required to take 6 credits by completing both of the following courses with a
+grade of B or higher:
+BU7574 Estate & Gift Taxation
+BU7581 Taxation of Estates & Trusts
+
+Skills and Competencies to be Gained
+Students who complete these courses at the required level will:
+
+
+
+
+
+Demonstrate a broad and in depth knowledge of estate, gift & trust taxation
+principles, theories and practice. This knowledge should enable students to
+develop solutions to complex issues utilizing critical thinking skills.
+Be prepared to become socially responsible leaders able to recognize ethical
+dilemmas and achieve resolutions in a socially and professionally responsible
+manner.
+Understand the role of taxation in business and society.
+Be able to communicate this knowledge effectively.
+
+Other Considerations
+Both classes must be taken at Old Westbury. Both can count toward Old Westbury’s
+MS in Taxation
+
+47
+
+Micro-Credentials Task Force Proposal
+
+APPENDIX D
+CREDLY PROPOSAL
+(For Reference; has pricing agreement with SUNY,
+but other vendors are available)
+
+48
+
+September 20, 2018
+Edward Bever, Ph.D.
+Director, School of Professional Studies
+SUNY College at Old Westbury
+Old Westbury, NY 11568
+RE:
+
+John Boyle
+Director of Strategic Partnerships
+CREDLY
+349 5th Avenue
+Suite 726
+New York, NY 10016
+Tel: (570)460-3623
+Email: jboyle@credly.com
+
+Credly Digital Credential Proposal
+
+Dear Edward,
+We are pleased to have the opportunity to support the efforts of SUNY College at Old Westbury
+(Westbury) in validating the skills and achievements of your earners and staff in broadening their
+careers and enriching their knowledge. Credly is a leader in the digital credential movement. We help
+empower the certification of competencies, abilities, and knowledge for thousands of organizations
+focused on education and workforce development, such as EDUCAUSE, the American Institute of
+CPAs, Harvard, New York City Department of Education, SUNY, and Adobe. Credly’s platforms are
+complemented by our expertise in credential and instructional design, badge system development,
+implementation, systems integration, and communication and outreach.
+Please note that Credly will honor these terms until December 31, 2018. This proposal and its terms
+are confidential and the property of Credly.
+I am happy to answer any questions you may have about this proposal and to provide additional
+information as needed. Thank you very much for your consideration and we are excited to be on this
+journey with you.
+Sincerely,
+John Boyle
+
+Credly Proposal for SUNY College at Old Westbury:
+About Credly and Acclaim
+Credly was founded to empower organizations and individuals to recognize, communicate, and track
+verified achievements. As leaders of the Open Badge movement, Credly is based on the idea that
+digital credentials should be stackable, portable, and live with the learner. The combination of Credly
+and Acclaim is unique in its market leadership, which includes some of the world's most widelyrecognized credentials and certifications, and reaches nearly everywhere learning takes place,
+including: schools and higher education and continuing/professional education; employers and
+businesses both large and small; industry and professional associations; and other membership and
+social organizations. Credly and Acclaim have issued more than 15 million badges, continuing our
+mission to connect learners and professionals across the world with recognition that can lead to
+relevant opportunities and learning pathways.
+
+Our Understanding of Your Need
+SUNY College at Old Westbury is looking to leverage a digital credential strategy and program to
+achieve several goals and yield multiple benefits for its learners and the communities it serves. A
+verified digital credential innovates the means to celebrate that distinction and puts new power in the
+hands of your earners. For Westbury, a digital credential provides a new way to stay connected and
+gain additional data and insights regarding their earners and program participants. Overall, an
+Westbury credential is a powerful tool to signal to the market valued skills and knowledge.
+For the SUNY College at Old Westbury community, a digital credentialing program yields many
+benefits and achieves several goals, including;
+•
+•
+•
+•
+•
+•
+
+Secure valuable marketing impressions and brand awareness with every credential shared
+Secure new data and insights based on how, where and when they share their credential.
+Provide an opportunity to connect with additional learners to gain insight on activity and career
+progression
+Further frame the relevance of an Westbury credentinal and experience in the context of indemand career-ready skills.
+Provide earners with a pathway and understanding of the value of their skills via access to
+labor market data and direct links to employment
+Provide a means to search and/or stay engaged with award recipients for future participation
+as mentors, speakers or other alumni programs and opportunities
+
+A digital credentialing program yields many benefits for participating learners as well, including;
+•
+•
+•
+
+Underscore to the earner themselves what this credential means: this is far more than getting a
+bumper sticker for your parent’s car! Help them understand the value of the award.
+Enhance your learner’s digital ‘brand’; a digital credential may be the first positive social media
+asset they have earned that they can share that distinguishes them from others.
+Create a personal ‘professional credential/designation’ digital credential portfolio to begin
+collecting their ‘signals of competency’ and authority in their space
+
+•
+
+Provide a means to advocate for themselves.
+
+The Acclaim platform is uniquely equipped to support your credential implementation and your
+learners in the following ways:
+●
+
+●
+
+●
+
+●
+
+●
+
+Labor Market Data — Acclaim can display real-time descriptive labor market data related
+to your skills and credentials to demonstrate to your learners the market value of their new
+Westbury App developer credentials. Your learners can explore job titles, industries and
+link to actual job opportunities that value their skills, accomplishments and competencies.
+Analytics and Reporting — Acclaim’s robust reporting capabilities allow you to analyze
+the ROI of your program, including the acceptance and sharing behaviors of your badge
+earners.
+Badge Sharing Workflow — Acclaim makes it easy for your badge earners to share their
+credentials across the web, including to social media sites, via personal blog or website,
+and over email or email signature. Because Acclaim badges are Open Badge 2.0
+compliant, they are easily shared with other platforms that support the standard.
+Recommendations Engine —Acclaim’s recommendation capabilities allow you to define
+and communicate next steps for your learners from within their badges. Whether a link to
+additional Westbury services or partner programs, this feature could allow you to identify
+‘stacks’ of credentials that signal a developer’s progress on their learning pathway.
+Professional Ecosystem — Align your brand with a badging network of respected
+technical skills issuers who provide earners with meaningful recognition for their
+professional and educational accomplishments. Westbury credentials would be featured
+alongside Microsoft, Cisco, IBM, PMI and other leading verified credentials, giving your
+earners a complete view as they build their professional skills.
+
+Acclaim Badging Standards and Services
+The Acclaim platform was built on the Open Badges standard developed originally by the Mozilla
+Foundation. We are an enterprise-class badging
+platform with comprehensive services and features
+that help you deliver recognition for earners
+accomplishments and achievements of distinction.
+Leveraging Acclaim will allow Westbury to:
+●
+
+●
+
+●
+
+●
+
+●
+
+Increase brand visibility and identify potential
+marketing channels and stories as Westbury
+badges are shared across social networks
+Provide Westbury with additional earner insights
+and data based on their utilization of their badge,
+and a valid means to stay connected to your
+members
+Reduce the risk of fraudulent claims on
+credentials and the distribution of personally
+identifiable information (PII)
+Streamline the achievement verification process
+for potential employers considering your badge
+earners or education institutions reviewing their
+portfolio
+Take advantage of the benefits of issuing badges
+through the leading, most innovative and
+constantly adapting recognition platform in this
+emerging field
+
+Figure 1. Shown above is an example of the metadata built in
+to an Autodesk Certified User badge, including badge name,
+description, criteria, date issued, and tags.
+
+Implementation Process
+Implementation begins with an introductory meeting and customized evaluation by a Credly Client
+Success Consultant, who will help you define your goals for your badging initiative and guide you
+through the development process for an effective and timely launch. You will receive dedicated
+support, training, and toolkit materials each week leading up to your launch date to help you navigate
+the Acclaim platform, leverage all its features and reports, and cultivate brand recognition for your
+business.
+Here is a summary of the services you will have access to:
+●
+●
+●
+●
+●
+●
+
+Regularly scheduled meetings with your Credly Client Success Consultant
+Custom design services and metadata support
+Marketing and communications tools and frameworks
+Assistance in issuing retroactive badges to establish an immediate badge community
+Portfolio of online support resources and documentation
+Post-launch program analysis and strategy planning
+
+Our Client Success team relies on best practices gained from experience in launching hundreds of
+clients to help you build a successful badging program.
+
+Benefits and ROI
+Adopting the Acclaim platform will benefit your Westbury recognition program and provide
+meaningful return on your investment in multiple ways:
+● Tap into the global scale and proven success of the world’s leading digital recognition and
+credentialing company
+● Access an emerging ecosystem that utilizes learning outcomes across our growing network
+of education organizations, training partners and professional organizations
+● Gain feedback directly from the market through badge performance analytics based on
+user behaviors, badge sharing and generated views
+● Increase earner engagement and cultivate meaningful testimonials from badge earners who
+discover further learning and professional advancement by utilizing their badges from
+Westbury
+
+Labor Market Data
+Acclaim’s labor market data provides real-time labor market data directly related to your app
+developer credentials. The data is sourced from more than 65,000 global job boards and career sites
+as well as job profile information from the US Census Bureau and the Bureau of Labor Statistics. With
+this data, your credential earners will be able to connect, and therefore appreciate, the market value
+of their Westbury/Android designation and the additional skill development opportunities.
+
+Pricing and Investment Estimates
+As discussed, I have provided pricing information for the initial phase and then broader roll-out to the
+next phase below. Credly is committed to deliver business impact for your organization that exceeds
+your investment in our platform. If you have additional thoughts on how we can work within your
+constraints, we encourage a dialogue.
+
+License Services and Pricing
+Credly’s Acclaim product pricing uses a SaaS model comprised of an initial one-time setup fee and
+an annual license fee. There are three primary components involved in establishing our pricing to
+Issuer Organizations:
+● Implementation fee for initial setup, training and implementation (including badge system
+metadata and visual design, plus implementation of some number of templates at launch).
+● Annual license based on your expected annual issuing volume for new badges and the
+number of Authorized Issuers you may designate to have their own badge issuing permissions
+under your primary account.
+o Annual license includes platform maintenance, analytics and reports, API access and
+frequent feature enhancements; a dedicated client success manager who provides
+long-term comprehensive program support, analysis, and training; end user support
+
+for your badge earners, and badge storage and management on behalf of your
+earners.
+o
+
+●
+
+Authorized Issuers could be third party Partners or legal Affiliates, such as local
+chapters, each able to be granted various permissions to create, issue and manage
+badges, along with segmented views of data unique to the permissions granted them,
+under the primary Westbury account.
+
+Historical (‘retroactive’) badge issuing creates an immediate community of Westbury badge
+earners to jump-start the messaging, ‘buzz’, sharing, branding and benefits to your members.
+These are usually uploaded in bulk from a csv file and issued as a group. Our Customer
+Success team can help with setting a messaging and marketing strategy for the
+announcement of the badge program to be distributed with or in advance of this distribution.
+
+SERVICE
+DESCRIPTION
+A. Implementation Credly will provide the following services to Issuer
+(not to exceed four (4) hours):
+• Provide Issuer access to the Credly System;
+• Virtual training;
+• Badge template development services;
+• Marketing support;
+• Technical integration support;
+• Assist Issuer in planning their badging system; and
+Provide feedback to Issuer for alignment with best
+practices.
+B. Additional
+Additional time that Issuer can request from Credly
+Implementation to provide additional Implementation services.
+Services
+Available in two hour increments.
+C. Badge
+Badge templates developed in collaboration with
+Template
+Credly (up to two design feedback cycles). There is
+Designs
+no fee associated with Badge templates developed
+Included
+solely by the Issuer.
+D. Additional
+The amount charged for Badge templates developed
+Badge
+by Credly in excess of 10 Badge templates. There is
+Template
+no fee associated with Badge templates developed
+Design
+solely by the Issuer.
+
+FEE
+Implementation fees are
+detailed in row E below to
+their corresponding license
+
+$500 for up to two (2) hours
+of additional time
+
+Up to 2 Badge templates
+
+$500 per additional Badge
+Template
+
+E.
+
+Annual
+License Fee
+
+Annual License / Setup
+The fee paid for access to the Credly System.
+
+Unlimited earners
+
+$5,000 / $10,000
+(setup fee waived until Dec 31)
+
+F.
+
+Excess Active
+Earner Fee
+
+G. Authorized
+Issuer Annual
+License
+
+Amount charged for each additional Active Earner
+issued in excess of the Active Earner Allowance
+Limit.
+Amount charged for each Authorized Issuer added to
+the Account; such Issuer is granted permission by
+the primary Account holder to create additional
+badges on behalf of the primary, to issue primary
+holder’s badges on their behalf, is granted a
+separate landing page from the primary Account (and
+therefore able to see segmented analytics on only
+their Authorized Issuer account activity)
+
+$3.00
+
+$2,000 per Contract Year
+(optional; depending on
+how you may want to
+delegate authority)
+
+Summary
+Credly is honored to help Westbury leverage the power of digital credentials and real-time labor
+market data through our Acclaim badging platform. Our team includes several long-time leaders of
+the open credentials movement devoted to growing the use of digital, verified credentials and
+empowering individuals. Having implemented similar programs for many other global technology
+leaders, we are confident in the impact of leveraging this emerging technology for the recognition of
+professional achievements, and we are excited to partner with you on this new initiative to drive
+engagement, talent development, growth and value for your programs.
+If you have any questions or require further explanation on any of the items in this proposal, please
+do not hesitate to ask.

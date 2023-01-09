@@ -1,0 +1,474 @@
+Resolution for Program Announcement for
+A BS in Public Health
+WHEREAS, the Public Health Department composed a Program Announcement for a BS in
+Public Health, and
+WHEREAS, the Public Health Department has been offering a BS in Health and Society, and
+WHEREAS, the existing Health and Society program is accredited by the Council on Education
+in Public Health, and
+WHEREAS, the name “Public Health” reflects and communicates the content of the program
+more adequately, and
+WHEREAS, changing the program name to “Public Health” requires the change of the Higher
+Education General Information System (HEGIS) Code, and
+WHEREAS, these changes necessitate the submission of a new program application to SUNY,
+and
+WHEREAS, curricula requirements of the proposed program is identical with the existing
+Health and Society program, and
+WHEREAS, the curriculum includes courses from Politics, Economics & Law, Psychology and
+Sociology, and
+WHEREAS, all of these Academic Departments voted to support this Program Announcement,
+
+THEREFORE, BE IT RESOLVED that the Faculty Senate approve the Program
+Announcement for a BS in Public Health
+
+Submitted by Curriculum and Academic Planning Committee (CAP), March 12, 2021
+The Program Announcement approved by CAP on March 12, 2021
+[CAP Membership]
+Tejas Bouklas, Svetlana Jovic, Yu Lei, Matthew Lippert, Anissa Wicktor Lynch, Sheyi Oladipo,
+Dana Sinclair, Kerry Weir, and Ryoko Yamamoto (Chair)
+
+Program Announcement:
+Undergraduate Degree Program
+Form 1A
+Version 2017-03-27
+
+Before submitting a proposal for a new program leading to an undergraduate degree, a SUNY campus must submit a
+cover letter signed by the Chief Executive or Chief Academic Officer and a completed Program Announcement (PA) to
+the SUNY Provost at program.review@.suny.edu. The PA procedure is described at the end of this form.
+Section 1. General Information
+a)
+Institutional
+Information
+
+List each campus (and its 6-digit SED Institution Code) where the entire program will be offered:
+SUNY at Old Westbury, 234000
+
+b)
+Program
+Locations
+
+List the name and address of each off-campus location (e.g., extension site or extension center) where
+courses (but not the entire program) will offered, or check here [ X ] if not applicable.
+If applicable, send documentation to show that SUNY policy on off-campus locations has been followed.
+Will 50% or more of the program be offered at a distance? [ ] Yes [ X ] No
+
+c)
+Proposed
+Program
+Information
+
+Program Title: Public Health
+Award(s) (e.g., A.A.S., B.A.): B.S.
+Number of Required Credits: Minimum [120 ]
+
+If tracks or options, largest minimum [
+
+Proposed Program Codes: HEGIS Code [1214
+
+]
+
+]
+
+6-digit CIP 2010 Code [ 51.2208 ]
+
+If the program will be accredited, list the accrediting agency and expected date of accreditation: Council
+on Education for Public Health (CEPH), Stand-alone Baccalaureate Program (SBP) accreditation August
+17, 2017.
+If applicable, list the New York State certificate title(s) and type(s) to which the program leads: n/a
+If applicable, list the New York State professional licensure title(s) to which the program leads: n/a
+Name and title: Duncan Quarless, Provost and Senior Vice President Academic Affairs
+d)
+Campus Contact
+Telephone: 516 (876)-3135
+E-mail: quarlessd@oldwestbury.edu
+e)
+Chief Executive
+or Chief
+Academic
+Officer Approval
+
+Signature affirms that the proposal has met all applicable campus administrative and shared governance
+procedures for consultation, and the institution’s commitment to support the proposed program.
+E-signatures are acceptable.
+
+Name and title: Duncan Quarless, Provost and Senior Vice President for Academic Affairs
+Signature and date:
+If the intended program will be offered jointly with one or more other institutions, provide the
+following information for each institution:
+Partner institution’s name and 6-digit SED Code: n/a
+Name, title, and signature of partner institution’s CEO (or append a signed letter indicating approval of
+this proposal): n/a
+
+Section 2. Program Summary
+In 300 or fewer words, describe the proposed program, including its purpose, content, structure and duration.
+
+The Public Health department at SUNY Old Westbury has offered a B.S. degree in Health and Society since
+1975. The mission of our program is to educate students with a social determinants of health perspective,
+identifying the economic and social context within which individuals make health choices; to examine social
+forces that shape individuals’ destinies; and to plan, implement, evaluate and advocate for health programs and
+policies. Our students learn to understand the philosophy, history, core values, and fundamental concepts of
+public health, and to apply this understanding in public health research, practice and prevention; to identify the
+key components of health care systems; to define and use key epidemiological principles; to communicate
+public health information orally and in writing; to conduct independent research; and to integrate ethical
+practices and a social justice perspective into public health practice.
+The program prepares students for entry into a broad range of public health professions at the local, state, and
+national levels. Our students go on to graduate school in public health and other health-related disciplines, enter
+professions in hospitals and local non-profit health agencies, and obtain training in health professions including
+medicine and nursing. We are nationally accredited by the Council on Education in Public Health (CEPH). We
+believe, as does CEPH, that students receive an education in public health in our program. Yet we cannot
+currently call it public health. We are applying for this “new program” in order to replace the program’s name,
+Health and Society.
+Our 120 credit-hour B.S. degree requires students to meet all SUNY-wide and local general and liberal
+education requirements, to take seven core courses and three elective courses in Public Health, and to complete
+4 to 8 credits in Biology and 4 credits in Applied Statistics. Full-time students can complete our program in four
+years.
+Expected Enrollment
+
+When Program Begins
+
+In Year 5
+
+Full-time students
+
+160
+
+215
+
+Part-time students
+
+40
+
+45
+
+Section 3. Curriculum
+Provide a list of all courses in the curriculum (including Liberal Arts and Sciences, SUNY General Education
+Requirement, Transfer Path courses) to show the entire structure and content of the program. Expand or duplicate this
+table as needed for tracks, concentrations and specializations.
+General Education
+Course Title
+
+Credits
+
+EL1000: English Composition I
+American Experience*
+Creativity and the Arts*
+Foreign Languages
+Humanities*
+Major Cultures*
+Mathematics**
+
+4
+4
+4
+4
+4
+4
+4
+2 of 5
+
+GER
+4
+4*
+4
+4
+4
+4*
+4**
+
+LAS
+
+MAJ
+4
+4
+4
+4
+4
+4
+4
+
+TPath
+
+Natural Sciences
+Social Sciences*
+Western Traditions
+
+4
+4
+4
+40
+
+Credit Totals
+
+4*
+4*
+4
+40
+
+4
+4
+4
+40
+
+4
+4***
+
+10
+4
+
+Additional College Requirements
+10
+4
+
+FY1000 First Year Seminar: The Ethics of
+Engagement***
+CL2000 Community Learning Seminar and Placement
+EL22xx English Composition II
+MA 1020, 2000, or 2050 (Math Proficiency) **
+General Electives****, *****
+Credit Totals
+
+2
+4
+4**
+
+2
+4
+4
+
+14
+
+4
+
+14
+
+Core Public Health Requirements
+Course Title
+Biological Sciences I or II (BS 2400, BS 2410),
+Anatomy and Physiology I or II (BS 2300, BS 2310),
+or Bio for Non-Sci. Majors (BS 2100)
+MA 2000 Applied Statistics
+PH 3600 Social Determinants of Health**
+PH 3610 U.S. Health Care System
+PH 4670 Biostatistics
+PH 4800 Epidemiology
+PH 4900 Field Placement (internship)
+PH 5900 Research Methods
+PH 5920 Senior Seminar
+Credit Totals
+
+Credits
+
+GER
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+36
+
+MAJ
+
+LAS
+
+4
+4
+4
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+36
+
+12
+
+TPath
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+36
+
+Public Health Elective Requirements
+Course Title
+Students must complete three electives.
+PH 2900 Black Lives Matter: Health Inequities in the US
+PH 3200 Nutrition, Health, and the Food System
+PH 3700 Medical Anthropology
+PH 4450 Human Sexuality
+PH 4600 Health Program Planning and Evaluation
+PH 4610 Women’s Health
+PH 4631 Mental Health: Current Topics &Systems of Care
+PH 4650 Substance Use: Social and Structural Determinants
+PH 4661 Health Education
+PH 4750 Aging and Social Policy
+PH 4760 Health Administration
+3 of 5
+
+Credits
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+GER
+
+MAJ
+
+LAS
+4
+4
+
+4
+
+4
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+TPath
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+PH 4770 Occupational Health
+PH 4790 Health Policy
+PH 4810 Ethics in Public Health
+PH 4820 Health Law
+PH 4850 Global Health
+PH 4890 Environmental Justice
+PH 4920 Special Topics in Public Health
+PH 4930 Immigrant and Refugee Health
+PE 4430 Health Economics******
+PY 3020 Health Psychology******
+SY 3750 Medical Sociology******
+Credit Totals
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+88
+
+4
+
+4
+24
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+88
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+88
+
+* Course may be taken as a major elective; if not, GER will need to be satisfied by taking another course.
+** All students are required to achieve Math Proficiency, a campus-specific requirement beyond the SUNY GER, which
+can be satisfied by MA1020, MA2000, or MA2050. MA 2000 is required for the major.
+*** All entering first year students are required to take FY1000. Majors and transfer students also satisfy the campusspecific Diversity and Social Justice requirement with PH 3600 Social Determinants of Health.
+**** Must include sufficient number of upper division credits to satisfy college’s 45 credit requirement.
+***** Must include at least sufficient Liberal Arts and Sciences credits to satisfy the 90 credit requirement.
+****** Offered by other departments, and accepted by our department to satisfy program electives.
+
+Optional, Illustrative Questions to Consider:
+For other SUNY campuses responding to the Program Announcement
+● Do you have a similar or related program? ●What has been your experience with the program? ●Would the
+introduction of this program have any effect, positive or negative, on your institution? If so, please specify. ●Do you
+perceive a need for this kind of program? ●Does the program offer an opportunity for articulation or inter-institutional
+cooperation?
+Your response must be in writing, from your President, and addressed to the President of the proposing campus,
+with a copy to the SUNY Provost at program.review@.suny.edu.
+Procedure for Program Announcements (PA)
+1. SCOPE. A SUNY campus must send a PA to the SUNY Provost at program.review@suny.edu before submitting
+a proposal for a new program leading to an undergraduate degree. Unless requested by the SUNY Provost, a PA
+is not required for a program leading to an undergraduate certificate, for a new program being created by
+combining existing registered programs (e.g., multi-award programs and/or multi-institution programs), or for a
+new program being created from a track, specialization, or concentration in a registered program.
+2. SUNY PROVOST’S REVIEW. The SUNY Provost’s Office reviews each PA for accuracy and completeness as
+well as for substantive issues, such as alignment with campus mission and SUNY policy, and requests changes
+when needed.
+3. PUBLICATION FOR COMMENTS. Once a PA is acceptable to the SUNY Provost, it is announced on the
+SUNY Program Review listserv in a weekly Program Review Update, which starts a 30-day intra-SUNY
+4 of 5
+
+comment period. The listserv includes all campus presidents, chief academic officers, and others upon request.
+The PA enables other SUNY campuses – particularly those with experience with related programs – to provide
+information to the proposing campus that can be used to construct a sound program proposal.
+4. COMMENTS FROM OTHER CAMPUSES. The President of each interested campus must send comments
+within 30 days of a PA’s publication in the Program Review Update to the President of the proposing campus,
+with a copy to the Provost at program.review@suny.edu. Comments may include advice and suggestions about
+possible articulation opportunities, enrollment trends in related programs, and opportunities for cooperation, as
+well as concerns or objections.
+5. FOLLOWING THE COMMENT PERIOD. Once the 30-day comment period for a PA ends, and any concerns
+and/or objections have been resolved, the campus may prepare a full proposal for the SUNY Provost and, when
+required, begin the external evaluation process.
+6. EXPIRATION. A PA expires one year after its publication in the Program Review Update. If the proposing
+campus does not submit a program proposal to the SUNY Provost before a PA expires, the campus must submit
+another PA to start the process again.
+
+5 of 5

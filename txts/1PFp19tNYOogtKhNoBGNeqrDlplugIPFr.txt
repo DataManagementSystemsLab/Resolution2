@@ -1,0 +1,3898 @@
+New Program Proposal:
+Graduate Degree Program
+Form 2B
+This form should be used to seek SUNY’s approval and the State Education Department’s (SED) registration of a proposed
+new academic program leading to a graduate degree. Approval and registration are both required before a proposed program
+can be promoted or advertised, or can enroll students. The campus Chief Executive or Chief Academic Officer should send a
+signed cover letter and this completed form (unless a different form applies1), which should include appended items that
+may be required for Sections 1 through 10 and MPA-1 of this form, to the SUNY Provost at program.review@suny.edu. The
+completed form and appended items should be sent as a single, continuously paginated document.2 Guidance on academic
+program planning is available at http://www.suny.edu/provost/academic_affairs/app/main.cfm.
+
+Table of Contents
+NOTE: Please update this Table of Contents automatically after the form has been completed. To do this, put the cursor
+anywhere over the Table of Contents, right click, and, on the pop-up menus, select “Update Field” and then “Update Page
+Numbers Only.” The last item in the Table of Contents is the List of Appended and/or Accompanying Items, but the actual
+appended items should continue the pagination.
+Section 1. General Information ................................................................................................................................................ 2
+Section 2. Program Information .............................................................................................................................................. 4
+2.1. Program Format .................................................................................................................................................. 4
+2.2. Diploma Program ................................................................................................................................................ 4
+2.3. Program Description, Purposes and Planning ..................................................................................................... 4
+2.4. Admissions........................................................................................................................................................ 13
+2.5. Academic and Other Support Services ............................................................................................................... 15
+2.6. Prior Learning Assessment ............................................................................................................................... 16
+2.7. Program Assessment and Improvement ............................................................................................................ 16
+Section 3. Sample Program Schedule and Curriculum ........................................................................................................ 17
+Section 4. Faculty.................................................................................................................................................................. 20
+Section 5. Financial Resources and Instructional Facilities ................................................................................................. 23
+Section 6. Library Resources ............................................................................................................................................... 24
+Section 7. External Evaluation ............................................................................................................................................. 25
+Section 8. Institutional Response to External Evaluator Reports......................................................................................... 26
+Section 9. SUNY Undergraduate Transfer........................................................................................................................... 26
+Section 10. Application for Distance Education .................................................................................................................. 26
+Section MPA-1. Need for Master Plan Amendment and/or Degree Authorization ............................................................. 26
+List of Appended and/or Accompanying Items .................................................................................................................... 26
+
+1Use
+
+a different form if the proposed new program will lead to an undergraduate degree or any credit-bearing certificate; be a
+combination of existing registered programs (i.e. for a multi-award or multi-institution program); be a breakout of a registered track or
+option in an existing registered program; or lead to certification as a classroom teacher, school or district leader, or pupil personnel
+services professional (e.g., school counselor).
+2
+This email address limits attachments to 25 MB. If a file with the proposal and appended materials exceeds that limit, it should be
+emailed in parts.
+
+1
+
+Section 1. General Information
+Item
+a)
+Institutional
+Information
+
+Response (type in the requested information)
+Date of Proposal: September 30, 2015
+Institution’s 6-digit SED Code: 234000
+Institution’s Name: SUNY College at Old Westbury
+Address: P.O. Box 210, Old Westbury, NY 11568
+Dept of Labor/Regent’s Region: Long Island
+
+b)
+Program
+Locations
+
+c)
+Proposed
+Program
+Information
+
+List each campus where the entire program will be offered (with each institutional or branch campus
+6-digit SED Code): Old Westbury - 234000
+List the name and address of off-campus locations (i.e., extension sites or extension centers) where
+courses will offered, or check here [ x ] if not applicable:
+Program Title: Healthcare Management
+Award(s) (e.g., M.S., Ph.D.): Master of Science (M.S.)
+Number of Required Credits: Minimum [ 30 ] If tracks or options, largest minimum [
+
+]
+
+Proposed HEGIS Code: 0599
+Proposed 6-digit CIP 2010 Code: 51.0701
+If the program will be accredited, list the accrediting agency and expected date of accreditation:
+
+AACSB (Association to Advance Collegiate Schools of Business). Will be accredited during
+the first 5-year accreditation reaffirmation visit after the degree is offered. Possible accreditation
+through the Commission of Accreditation of Healthcare Management Education (CAHME)
+after seven years.
+If applicable, list the SED professional licensure title(s)3 to which the program leads: N/A
+d)
+Name and title: Patrick O’Sullivan, Provost and Senior Vice President for Academic Affairs
+Contact Person
+for This
+Proposal
+Telephone: 516-876-3135
+E-mail: osullivanp@oldwestbury.edu
+e)
+Chief Executive
+or Chief
+Academic
+Officer
+Approval
+
+Signature affirms that the proposal has met all applicable campus administrative and shared governance
+procedures for consultation, and the institution’s commitment to support the proposed program.
+E-signatures are acceptable.
+
+Name and title: Patrick O'Sullivan, Provost and Senior Vice President for Academic Affairs
+
+Email for receiving comments: osullivanp@oldwestbury.edu
+Signature and date:
+If the program will be registered jointly4 with one or more other institutions, provide the following
+information for each institution:
+Partner institution’s name and 6-digit SED Code: N/A
+Name and title of partner institution’s CEO: N/A
+
+3
+4
+
+If the proposed program leads to a professional license, a specialized form for the specific profession may need to accompany this proposal.
+If the partner institution is non-degree-granting, see SED’s CEO Memo 94-04.
+
+2
+
+Signature of partner institution’s CEO (or append a signed letter indicating approval of this proposal):
+Version 2013-10-15
+
+3
+
+Section 2. Program Information
+2.1. Program Format
+Check all SED-defined format, mode and other program features that apply to the entire program.
+a) Format(s): [ ]Day [ X ]Evening [ ]Weekend
+
+[ ]Evening/Weekend
+
+[ ]Not Full-Time
+
+b) Modes: [ X ]Standard [ ]Independent Study [ ]External [ ]Accelerated [ ]Distance Education
+NOTE: If the program is designed to enable students to complete 50% or more of the course requirements through
+distance education, check Distance Education, see Section 10, and append a Distance Education Format Proposal.
+c) Other: [ ] Bilingual [ ] Language Other Than English [ ] Upper Division [ ] Cooperative [ ] 4.5 year [ ] 5 year
+2.2. Diploma Program
+NOTE: This section is not applicable to a program leading to a graduate degree.
+2.3 Program Description, Purposes and Planning
+a) What is the description of the program as it will appear in the institution’s catalog?
+
+The M.S. in Healthcare Management is a thirty credit-hour program that may be completed in one academic year
+(Fall, Spring, and Summer) and is designed for students seeking a career in healthcare management. The program
+prepares clinicians and others starting a career in healthcare with a solid foundation in real–world healthcare
+management opportunities. The focus of the program is to provide an in-depth exposure to the legal, operational,
+financial, and policy issues affecting healthcare organizations. Career opportunities include medical/dental clinic
+management and hospital department management. The program helps students develop a career anchor that will
+assist them as they move up with increasing responsibility in a healthcare organization. Healthcare reform, an
+aging population, and increasing use of technology contribute to the need for well-trained individuals wishing to
+take a leadership role in the healthcare management field.
+Classes will be scheduled from 5:30 pm to 10:30 pm to accommodate both full and part-time students. Students
+with an undergraduate degree who pursue the M.S. in Healthcare Management full-time can complete all the
+requirements in one academic year. Students entering the program are expected to have an undergraduate degree
+from an accredited college or university. The curriculum contains a “Professional Business Core” of six courses
+(18 credits), “Professional Electives” of 3 courses (9 credits) and a capstone course (3 credits).
+Admission will be based on evidence of a candidate’s ability and motivation for graduate-level work. The
+students’ GPA in graduate-level courses for the M.S. in Healthcare Management must average 3.0 or higher for
+successful completion of the program. A minimum of twenty-four credit hours in graduate-level work must be
+completed in the School of Business.
+
+4
+
+b) What are the program’s educational and, if appropriate, career objectives, and the program’s primary
+
+student learning outcomes (SLOs)? NOTE: SLOs are defined by the Middle States Commission on
+Higher Education in the Characteristics of Excellence in Higher Education as “clearly articulated written
+statements, expressed in observable terms, of key learning outcomes: the knowledge, skills and
+competencies that students are expected to exhibit upon completion of the program.”
+
+The program is designed for students who want to expand their portfolio of skills by pursuing advanced study in
+healthcare management and it is especially well suited for those who have an undergraduate degree in clinical
+services as well as students seeking a career change. The M.S. in Healthcare Management will provide access,
+opportunity, and training to area residents at a time when there is a growing demand for professionals with indepth knowledge of healthcare management. The curriculum recognizes recent events impacting the profession
+including the passing of the Patient Protection and Affordable Care Act (Obamacare) signed into law in 2010. The
+program requires six courses in various areas of healthcare. The culminating experience is a supervised Research
+Project capstone in healthcare management. The program will allow the College to utilize current resources in a
+more cost-effective manner by incorporating already offered courses, while at the same time complementing the
+graduate Business degrees currently available. The program’s primary student learning outcomes align with the
+National Center for Healthcare Leadership (NCHL) Competency Model. The three domains – Transformation,
+Execution, and People – capture the competencies needed for healthcare managers. These domains are
+synthesized into the following competencies:
+
+
+Achievement Orientation: Demonstrate the ability to develop standards of excellence using an
+objective results oriented approach.
+
+
+
+Analytical Thinking: Develop the ability to understand a situation, issue, or problem and the
+implications to the organization.
+
+
+
+Financial Skills: Develop the ability to understand and explain healthcare financial and accounting
+information, prepare and manage budgets, and make sound long-term investment decisions.
+
+
+
+Innovative Thinking: Develop the ability to apply complex concepts, develop creative solutions, or
+adapt previous solutions in new ways for breakthrough thinking in the field.
+
+
+
+Strategic Orientation: Demonstrate the ability to draw implications and conclusions in light of the
+business, economic, and policy issues, and to use these insights to develop an evolving vision for the
+healthcare organization that results in long-term success and viability.
+
+c) How does the program relate to the institution’s and SUNY’s mission and strategic goals and priorities?
+
+What is the program’s importance to the institution, and its relationship to existing and/or projected
+programs and its expected impact on them? As applicable, how does the program reflect diversity and/or
+5
+
+international perspectives? For doctoral programs, what is this program’s potential to achieve national
+and/or international prominence and distinction?
+The M.S. in Healthcare Management degree fits well within the SUNY College at Old Westbury’s Strategic Plan
+2010-2015. The emphasis on practical-based learning supports Old Westbury’s ideal as “a dynamic and diverse
+public liberal arts college that fosters academic excellence through close interaction among students, faculty and
+staff.” The program aligns with Old Westbury’s Mission to foster “critical thinking, empathy, creativity and
+intercultural understanding,” as well as the College’s endeavor “to stimulate a passion for learning and a
+commitment to building a more just and sustainable world.”
+The program also upholds specific Guiding Principles of the Mission including “Sustainability” and “Social
+Justice.” As students gain an understanding of healthcare management they will also understand the ethical and
+social underpinnings of healthcare in today’s society. While most students will find careers in private healthcare
+systems some will use their skills as administrators in not-for-profit or public healthcare networks. These
+organizations support the needs of the indigent and underinsured.
+In addition to meeting the College’s Mission, the M.S. in Healthcare Management supports the College’s Strategic
+Plan’s planned growth in quality, enrollment, and new initiatives over the next few years. The degree upholds the
+commitment to the development of programs that move the College forward as “a competitive, comprehensive
+college offering quality undergraduate and graduate degrees in the arts and sciences and professional areas.” By
+enhancing the College‘s academic appeal and reputation, and the retention of self-motivated students, it also
+supports the targeted enrollment growth.
+The proposed M.S. in Healthcare Management is also consistent with the long-term plans of SUNY as stipulated
+in The Power of SUNY and the SUNY High Needs Program. Central to the Power of SUNY strategic plan is
+SUNY’s commitment to serve as a key engine of revitalization for New York State’s economy. The SUNY High
+Needs Program has consistently focused on healthcare, with annual average job openings for New York State
+currently projected to exceed 3,500.
+The College at Old Westbury continues to provide access and opportunity to those having the ability, motivation,
+and aspirations to benefit from educational programs that provide a skill set required in a highly competitive
+globalized economy. The implications and challenges of providing services to a diverse clientele with a diverse
+workforce are woven throughout the healthcare courses, e.g. BU 7630, BU 7131, BU7 132 and BU 7139.
+d) How were faculty involved in the program’s design?
+
+Faculty from the School of Business created a 4-person Task Force to develop the program. The basic design was
+reviewed and approved by the faculty from the School of Business and the College’s Faculty Senate. In the
+6
+
+development of the Proposal two additional faculty were added to the Task Force; an assistant professor from the
+Department of Public Health and an adjunct faculty member with a background as a healthcare lawyer.
+
+e) How did input, if any, from external partners (e.g., educational institutions and employers) or standards
+
+influence the program’s design? If the program is designed to meet specialized accreditation or other
+external standards, such as the educational requirements in Commissioner’s Regulations for the profession,
+append a side-by-side chart to show how the program’s components meet those external standards. If
+SED’s Office of the Professions requires a specialized form for the profession to which the proposed
+program leads, append a completed form at the end of this document.
+
+Prior to developing the program the Task Force interviewed knowledgeable individuals in healthcare including a
+regional vice president for a healthcare consulting company, several working professionals in healthcare audit, a
+student who recently completed a healthcare degree, and representatives from both the the American College of
+Healthcare Executives (ACHE) and the Association of University Programs in Health Administration (AUPHA).
+A Task Force member is an associate member of AUPHA. Through his access to AUPHA we reviewed
+curriculum from multiple Healthcare Management programs. In addition, with regular interactions with ACHE we
+received recommendations for books, course content, and core and elective courses.
+
+As part of the Task Force initiative, we examined available accreditation options. Based upon our review, we
+identified the Commission of Accreditation of Healthcare Management Education (CAHME) accreditation.
+CAHME is an interdisciplinary group of educational, professional, clinical, and other health sector organizations
+devoted to quality improvement of education for healthcare management and administration professionals. The
+CAHME accreditation meets our long term strategic goals for the program (at least 7 years after the program
+begins) to be assess against established standards.
+
+f) Enter anticipated enrollments for Years 1 through 5 in the table below. How were they determined, and
+
+what assumptions were used? What contingencies exist if anticipated enrollments are not achieved?
+
+Year
+1
+2
+3
+4
+5
+
+Anticipated Headcount Enrollment
+Full-time
+Part-time
+Total
+4
+16
+20
+4
+18
+22
+5
+25
+30
+5
+30
+35
+6
+40
+46
+
+Estimated
+FTE
+12
+13
+17.5
+20
+26
+
+The impact on future campus enrollment, based on the market need and demand factors will be modest in the first
+five years. The demand for the program will come from employment growth, our proximity to a major healthcare
+7
+
+institution, and our competitive advantage as compared to other intuitions in the area. The Bureau of Labor
+Statistics states that the demand for medical and health services managers will increase 22% in the next 10 years,
+which is larger than average.
+The College of Old Westbury is uniquely situated. Our campus is within five miles of the corporate headquarters
+of North Shore-LIJ Hospital system. North Shore-LIJ is the 14th largest healthcare system in the United States. Its
+service area encompasses more than seven million people throughout the New York metropolitan area through its
+hospitals, nursing facilities, and physician practice offices. This healthcare organization employs over 54,000
+individuals and hires over 7,000 people per year. According to the New York State Health Workforce Planning
+Data Guide of 2014, Long Island has the highest concentration of healthcare workers compared to any region in
+the State (7,079 healthcare employees per 100,000 pop.). The growth in this industry means that there is a demand
+for good business managers that understand the unique nature of the healthcare environment.
+Several private institutions on Long Island offer similar healthcare management degrees including Dowling
+College, Hofstra University, Long Island University-C.W. Post Campus, and St. John’s University. However,
+none of these schools offer a program that can be completed with 30 credits as we are offering. Old Westbury
+would offer local and regional residents the only conveniently-located, public-cost program of this kind that can
+be completed in a one-year period.
+
+g) Outline all curricular requirements for the proposed program, including prerequisite, core, specialization
+
+(track, concentration), internship, capstone, and any other relevant component requirements, but do not list
+each General Education course.
+
+To qualify for graduation, students must complete the below requirements totaling 30 credits. Two of the
+core business courses may be waived with an appropriate equivalent course from an undergraduate (for
+6000 level courses) or graduate program. We will consider offering online, weekend and hybrid classes as
+enrollment grows. This schedule strategy is used by other institutions, and to remain competitive we may
+need the flexibility of offering these alternative delivery formats.
+
+A. Business Core Courses (12 credits; 4 courses)
+Students are required to complete 12 credits of core business courses. These courses are all presently
+offered as a part of existing graduate Business programs.
+appropriate equivalent classes.
+
+B. Healthcare Functional Core Courses (6 credits; 2 courses)
+8
+
+Two courses may be waived with
+
+All students must take these two courses that define the operational, legal, and regulatory environment
+of health care.
+
+C. Concentration Electives (9 credits; 3 courses)
+Depending upon the students’ concentration they will choose three courses. This list will expand as the
+program develops. Besides the electives listed in the table, we will consider adding concentrations in
+healthcare finance, human resource management, and data analytics. An optional internship may be
+substituted for one of the elective courses, depending upon a student’s particular circumstances.
+
+D. Strategic Healthcare Management (3 credits; 1 course)
+This is a capstone course where students will write a thesis based on independent research, or complete
+an appropriate special project.
+
+Course Title
+A. Business Core Courses *
+*BU 6510 Financial Accounting
+*BU 7110 Organizational Behavior & Ethics
+*BU 7210 Statistics for Financial Analysis
+*BU 7320 Marketing Strategies & IT
+Total business core
+B. Healthcare Functional Core Courses
+BU 7630 Legal and Ethical Foundation of Healthcare
+BU 7131 Healthcare Policy
+Total functional core
+C. Electives**
+BU 7132 Human Resource Management in Healthcare
+BU 7133 Healthcare Financial Management for Planning and Analysis
+
+Credits
+3
+3
+3
+3
+12
+
+3
+3
+6
+
+Total electives (Required)
+
+3
+3
+3
+9
+
+D. Capstone
+BU 7139 Strategic Healthcare Management
+Capstone Course
+
+3
+
+Total Credits
+
+30
+
+BU 7134 Healthcare Operations Management
+
+* Already existing course offered as part of current graduate business
+programs.
+9
+
+** Students will choose 3 classes from the elective list. The list of
+electives will grow as the program develops. An optional internship may
+replace an elective course.
+h) Program Impact on SUNY and New York State
+h)(1)
+
+Need: What is the need for the proposed program in terms of the clientele it will serve and the educational and/or
+economic needs of the area and New York State? How was need determined? Why are similar programs, if any,
+not meeting the need?
+
+A region as large and diverse as Long Island needs local public graduate programs to serve its active residents,
+as well as to draw outstanding students from across the country and internationally. Old Westbury’s M.S. in
+Healthcare Management will provide an on-site, affordable, accessible, regional alternative for the talented,
+moderate-income residents of central and western Long Island and metropolitan New York City. According to
+New York State’s Department of Labor, demand for healthcare management and administration workers is
+classified as favorable to very favorable. The annual job growth is expected to be between 10-12%, with 570
+projected annual average job openings on Long Island and New York City. The College at Old Westbury is in a
+unique situation because of our close proximity to several large healthcare organizations, including the North
+Shore-Long Island Jewish Health System, which is the largest employer on Long Island. This healthcare
+organization employs over 54,000 individuals and hires over 7,000 people per year.
+The growth in this industry means that there is a demand for good business managers that understand the unique
+nature of the healthcare environment. Affordable graduate education in business-related fields such as
+healthcare management serves the region’s population economically, by helping to ease the financial burden the
+acquisition of such degrees places on talented but less affluent students in this region, and socially, by providing
+the trained workforce needed to provide the healthcare relied on by so many. More affordable and accessible
+Master’s degrees will benefit Long Island residents who gain these degrees and there will also be a benefit for
+New York State’s economy. According to the 2013 Census Bureau statistics, a Master’s degree adds $15,000 to
+a worker’s salary. Workers with Master’s degrees earned an average of $67,000 per year and unemployment is
+two percentage points lower than for those with just a bachelor’s degree. A recent Robert Half salary survey
+anticipates healthcare managers will see an approximate 4% increase in their salaries due to the increased
+demand.
+Recent healthcare reform actions, primarily through The ACA, has increased the complexity of patient care,
+billing, and management. Through the ACA the Center for Medicare and Medicaid Services (CMS) established
+the Hospital Value-Based Purchasing (VBP) Program, which changes the payment structure from a classic feefor-services to a pay-for-performance model. Healthcare organizations, including hospitals, now must focus on
+patient wellness from the perspective of community health and patient quality while managing costs. In
+10
+
+addition, legislation has mandated the implementation of the ICD-10 coding system. The coding system, which
+is required for billing represents a 479% increase in individual codes as compared to the current ICD-9
+diagnosis code set. Future healthcare managers must navigate in an ever increasingly complex environment.
+Furthermore, the New York State Department of Health is creating a five-year healthcare transformation plan
+(i.e. the Delivery System Reform Incentive Payment Program [DSRIP]) to fundamentally restore the Medicaid
+healthcare delivery system in New York State. It is estimated that this restructuring will require 25,000 new
+hires and the retraining of 118,000 healthcare workers. We believe that our program will help managers develop
+critical skills in a changing environment. Similar programs are discussed in Section 2.3(h)(3) below.
+h)(2)
+
+Employment: For programs designed to prepare graduates for immediate employment, use the table below to list
+potential employers of graduates that have requested establishment of the program and state their specific number of
+positions needed. If letters from employers support the program, they may be appended at the end of this form.
+Need: Projected positions
+In initial year
+In fifth year
+
+Employer
+
+Although not designed to satisfy any particular employers’ needs, this program will provide graduates with the
+skills needed to succeed in healthcare management. The Bureau of Labor Statistics (BLS) states that the
+demand for medical and health services managers will continue to be higher as compared to other industries.
+The demand for medical and health services managers is estimated to increase by 22% in the next 10 years.
+New York City has an aging population. Over 12 percent of the population of New York City is over the age of
+65, and another 17 percent is between the ages of 50 and 65, suggesting that nearly 30 percent of New York
+City could be 65 or older in 15 years. According to the BLS, the healthcare needs of the aging population drives
+growth in the healthcare jobs market.
+Given the complexities of healthcare management and reimbursement, leaders must be able to navigate in an
+ever changing environment. This requires that they stay current on the implications of the recently enacted
+healthcare reform. The M.S. in Healthcare Management positions future leaders to take advantage of the
+changes in the healthcare environment.
+h)(3)
+
+Similar Programs: Use the table below to list similar programs at other institutions, public and independent, in
+the service area, region and state, as appropriate. Expand the table as needed. NOTE: Detailed program-level
+information for SUNY institutions is available in the Academic Program Enterprise System (APES) or Academic
+Program Dashboards. Institutional research and information security officers at your campus should be able to
+help provide access to these password-protected sites. For non-SUNY programs, program titles and degree
+information – but no enrollment data – is available from SED’s Inventory of Registered Programs.
+
+11
+
+Institution
+Baruch
+Stony Brook
+Dowling College
+Hofstra University
+Long Island University
+
+Program Title
+Health Care Administration
+Health Systems Management
+Healthcare Management
+Health Services Management
+Healthcare Administration
+
+Degree
+MBA
+MBA
+MBA
+MBA
+MPA
+
+Enrollment
+57 (Fall 2015)
+36 (Fall 2014)
+
+Several SUNY campuses statewide currently offer a comparable degree. However, the masters’ degrees at
+SUNY Canton, Oswego, and Albany are too geographically distant to be competitive for regional commuter
+and working students. Stony Brook’s program is an MBA-based program and consists of 48 credits, geared to
+students with different career objectives than our projected students. While that school provides flexibility
+through on-line and weekend classes, on-site classes may be difficult to reach for Nassau County and New York
+City residents. We will explore the option of providing weekend and on-line courses in our M.S. in Healthcare
+Management, which will increase our appeal to working professionals, as enrollment grows.
+Four private institutions on Long Island offer similar healthcare management degrees including Dowling
+College, Hofstra University, and Long Island University-C.W. Post Campus. However, these are all MBA
+programs and none can be completed with 30 credits as we are offering. Columbia University and New York
+University attract higher enrollment with innovative and flexible graduate degrees, but are difficult for students
+working on Long Island to reach. Furthermore, they are all prohibitively expensive for middle class students.
+A Master’s degree can cost more than $50,000, well beyond the means of the regional residents who we expect
+would be interested in our M.S. in Healthcare Management degree.
+While CUNY Baruch College offers an MBA in healthcare management, this program primarily serves New
+York City residents, and is difficult for Long Island working students to attend. Old Westbury would offer local
+and regional residents the only conveniently-located, public-cost program of this kind with the intimacy of inclass seminar discussion and face-to-face intellectual exchange.
+h)(4)
+
+Collaboration: Did this program’s design benefit from consultation with other SUNY campuses? If so, what
+was that consultation and its result?
+
+The MS in Healthcare Management program design did not benefit from consultation with other SUNY
+campuses.
+h)(5)
+
+Concerns or Objections: If concerns and/or objections were raised by other SUNY campuses, how were they
+resolved?
+
+No concerns and/or objections were raised by other SUNY campuses.
+
+12
+
+2.4. Admissions
+
+a) What are all admission requirements for students in this program? Please note those that differ from the
+institution’s minimum admissions requirements and explain why they differ.
+
+Initially students will apply to enter the program each fall, but a small number of qualified students may be
+admitted each spring. All applications must include: transcripts of undergraduate and any graduate work
+with evidence of degree(s) conferred, GMAT scores, two letters of recommendation from professors or
+employers, and a brief personal statement of objectives.
+The Graduate Business Admissions Committee will make the final decision on admission of all applicants
+after appropriate files are complete and reviewed. Every student admitted will meet with an advisor (the
+Assistant Dean) to have transcripts analyzed, develop a plan for completion of degree, and select courses for
+the first semester. Students are required to complete an undergraduate degree before they enter the program.
+
+To enter the program applicants need a score of 1100 or better in the formula: 200 x GPA + GMAT score.
+For example, a score of 500 on the GMAT plus a GPA of 3.0 out of 4.0 would equal 1100. Students who
+have completed a business graduate degree will be waived from the GMAT requirement. The purpose of
+the GMAT is to have an external predictor of students’ probable success in the program.
+Admission will be based on evidence of a candidate’s ability and motivation for graduate-level work. The
+students’ GPA in graduate-level courses for the Master of Science in Healthcare Management must average
+3.0 or higher for successful completion of the program.
+
+A minimum of twenty-four credit hours in
+
+graduate-level work must be completed in the School of Business by every candidate.
+b) What is the process for evaluating exceptions to those requirements?
+
+The process for evaluating exceptions to the Admission requirements would be as follows: There is a 10%
+maximum disconformity to the articulated admissions standards. Such exceptions are reviewed and voted upon
+by the Graduate Business Admissions Committee (GBAC), consisting of the Director of the Graduate Business
+Programs, Dean, Assistant Dean, Accounting Department Chair, and a senior faculty member teaching in the
+graduate program.
+
+c) How will the institution encourage enrollment in this program by persons from groups historically
+underrepresented in the institution, discipline or occupation?
+
+13
+
+We would anticipate the diversity of this new graduate program to be similar to that in our current graduate
+business programs as shown in the tables below. The New York City metropolitan area contains a very diverse
+population that would be attracted to a graduate program offered by a reasonably priced public institution versus
+more expensive private alternatives. In addition, this program will participate in SUNY’s Graduate Diversity
+Fellowship Program. Furthermore, the healthcare market, which is the program’s application pool, traditionally
+hires women and minorities. The following table compares 2014 industry employment data with the 2014
+admission data from the Old Westbury M.S. programs in Accounting and Taxation.
+
+Hospitals*
+Health services excluding Hospitals*
+2014 Enrollment in M.S. Accounting and Tax
+Program
+
+Women
+76%
+79%
+
+Black or
+African
+American
+15%
+17%
+
+Asian
+8%
+6%
+
+Hispanic
+or Latino
+9%
+13%
+
+42%
+
+2%
+
+10%
+
+14%
+
+*Employed persons by detailed sex, race, and Hispanic or Latino ethnicity
+http://www.bls.gov/cps/cpsaat18.htm
+SUNY College at Old Westbury is a dynamic and diverse public college that fosters excellence in education
+for a diverse student body. Based upon the demographics of healthcare workers, we believe that the addition
+of the M.S. in Healthcare Management will enhance our ability to further increase our already diverse
+student body.
+d) What is the expected student body in terms of geographic origins (i.e., same county, same Regents Region,
+New York State, and out-of-state); academic origins; proportions of women and minority group members;
+and students for whom English is a second language?
+
+We anticipate that this graduate program will be at least as diverse as the current M.S. in Accounting and M.S. in
+Taxation graduate programs at Old Westbury as shown in the tables below. Since almost 42% of those students
+are women, we expect at least a similar proportion for the M.S. in Healthcare Management will also be women.
+
+Anticipated Student Body in the Proposed Program*
+
+Total
+
+N
+101
+
+%
+100%
+
+Gender:
+Female
+
+42
+
+42%
+
+14
+
+Male
+
+59
+
+56%
+
+Diversity:
+Black
+Asian
+White
+Hispanic
+Non-Resident Alien
+Unknown
+
+2
+10
+70
+14
+2
+3
+
+2%
+10%
+69%
+14%
+2%
+3%
+
+We anticipate that the geographic origin of the program will be similar to the current M.S. demographics. These
+programs attract over 90% of students the two counties surrounding our campus. There is also the possibility of a
+small number of out of state and international students.
+
+2014 Geographic Location of Current M.S.
+Students *
+Location
+Percentage
+Nassau
+Suffolk
+NYC
+Other New York State
+Out of State
+Foreign
+Total
+
+41%
+52%
+2%
+2%
+0%
+2%
+100%
+
+* Based on Student Profiles, Spring 2015 and Enrollment Trends Spring 2011 to Spring 2015.
+Office of Institutional Research and Assessment, March 2015
+
+2.5. Academic and Other Support Services
+a)
+
+Summarize the academic advising and support services available to help students succeed in the program.
+
+Academic advisement services are provided to all School of Business majors, undergraduate and graduate,
+by its office of Academic Support Services which is staffed by a full-time Assistant Dean and a full-time
+Secretary. All transcripts are analyzed by the Assistant Dean to, among other things, ascertain that
+prerequisite requirements in terms of content and credit hours are met. Each admitee meets face-to-face
+with the Assistant Dean before entry into the School of Business and receives a complete written
+advisement report which notes all requirements for the degree. This report is the basis for all future
+advisement sessions because it specifies all the requirements for the degree. The progress of students is
+monitored by the Director of Graduate Business Programs, and by the Graduate Business Admissions
+15
+
+Committee. Issues that arise regarding any student or program in the School of Business may be handled
+by one of two department chairs (Accounting and Management, Marketing, & Finance), the Assistant
+Dean, the Director of Graduate Business Programs or the Dean, or all of the above if such is required.
+
+b)
+
+Describe types, amounts and sources of student financial support anticipated. Indicate the proportion of the student
+body receiving each type of support, including those receiving no support.
+
+No institutional financial assistance will be offered to students beyond already existing programs, such as
+SUNY’s Graduate Diversity Fellowship Program. Accordingly, we anticipate that the overwhelming
+majority of students will receive no support. There are also some industry specific scholarships, such as
+from the ACHE, that students could apply for.
+2.6. Prior Learning Assessment
+If this program will grant credit based on Prior Learning Assessment, describe the methods of evaluating the learning and the
+maximum number of credits allowed, or check here [ X ] if not applicable.
+2.7. Program Assessment and Improvement
+
+Describe how this program’s achievement of its objectives will be assessed, in accordance with SUNY policy,
+including the date of the program’s initial assessment and the length (in years) of the assessment cycle. Explain
+plans for assessing achievement of students’ learning outcomes during the program and success after completion
+of the program. Append at the end of this form, a plan or curriculum map showing the courses in which the
+program’s educational and, if appropriate, career objectives – from Item 2.3(b) of this form – will be taught and
+assessed. NOTE: The University Faculty Senate’s Guide for the Evaluation of Undergraduate Programs is a
+helpful reference.
+
+The program will undergo periodic internal review, guided by the Director of Graduate Business
+Programs, in compliance with the College’s Five-Year Program Review process, including the hiring of an
+external reviewer, monitored by the Curriculum and Academic Planning Committee. The School of
+Business’s next scheduled Program Review is in 2019 – 2020.
+Furthermore, the Director of Graduate Business Programs will ascertain that the proposed program is in
+compliance with applicable standards of the Middle States Commission on Higher Education. Beyond
+Fundamental Elements for Colleges and Universities, the program will adhere to the Additional Elements
+outlined under Educational Offerings (Middle States, Standard 11) for graduate curricula, namely:
+
+
+
+graduate curricula providing for the development of research and independent thinking that studies
+at the advanced level presuppose;
+faculty with credentials appropriate to the graduate curricula; and
+16
+
+
+
+assessment of student learning and program outcomes relative to the goals and objectives of the
+graduate programs and the use of the results to improve student learning and program effectiveness.
+
+As discussed in section 2.3(b), the program’s primary student learning outcomes align with the National Center
+for Healthcare Leadership (NCHL) Competency Model:
+
+
+Achievement Orientation: Demonstrate the ability to develop standards of excellence using an
+objective results oriented approach.
+
+
+
+Analytical Thinking: Develop the ability to understand a situation, issue, or problem and the
+implications to the organization.
+
+
+
+Financial Skills: Develop the ability to understand and explain healthcare financial and accounting
+information, prepare and manage budgets, and make sound long-term investment decisions.
+
+
+
+Innovative Thinking: Develop the ability to apply complex concepts, develop creative solutions, or
+adapt previous solutions in new ways for breakthrough thinking in the field.
+
+
+
+Strategic Orientation: Demonstrate the ability to draw implications and conclusions in light of the
+business, economic, and policy issues, and to use these insights to develop an evolving vision for the
+healthcare organization that results in long-term success and viability.
+
+To insure continuity within the program, there will be an annual meeting of current and scheduled faculty to
+discuss courses, requirements, and standards every spring. A curriculum map indicating in which courses the
+student learning outcomes will be taught and assessed is attached as Appendix 1. The School of Business is in the
+process of seeking AACSB accreditation, therefore it has an established Assurance of Learning Program in which
+at least some of this degree’s learning outcomes will be assessed each year. After students’ graduation from the
+program, their success will be assessed through alumni surveys.
+
+Section 3. Sample Program Schedule and Curriculum
+Complete the SUNY Graduate Program Schedule to show how a typical student may progress through the program.
+Either complete the blank Schedule that appears in this section, or complete an Excel equivalent that computes all sums
+for you, and can be found at http://www.suny.edu/provost/academic_affairs/app/forms.cfm. Rows for terms that are not
+required can be deleted.
+NOTES: The Graduate Schedule must include all curriculum requirements and demonstrate that expectations from Part
+52.2(c)(8) through (10) of the Regulations of the Commissioner of Education are met.
+Special Cases for the Sample Program Schedules:
+ For a program with multiple tracks, or with multiple schedule options (such as full-time and part-time options), use
+one Program Schedule for each track or schedule option. Note that licensure qualifying and non-licensure qualifying
+options cannot be tracks; they must be separate programs.
+ When this form is used for a multi-award and/or multi-institution program that is not based entirely on existing
+programs, use the schedule to show how a sample student can complete the proposed program. NOTE: A different
+17
+
+form (for program revisions) should be used for new multi-award and/or multi-institution programs that are based
+entirely on existing programs. SUNY policy governs the awarding of two degrees at the same level.
+a) If the program will be offered through a nontraditional schedule (i.e., not on a semester calendar), what is
+
+the schedule and how does it impact financial aid eligibility? NOTE: Consult with your campus financial
+aid administrator for information about nontraditional schedules and financial aid eligibility.
+N/A
+b) For each existing course that is part of the proposed graduate program, append a catalog description at the
+
+end of this document.
+See Appendix 2.
+
+c) For each new course in the graduate program, append a syllabus at the end of this document. NOTE:
+
+Syllabi for all courses should be available upon request. Each syllabus should show that all work for credit
+is graduate level and of the appropriate rigor. Syllabi generally include a course description, prerequisites
+and corequisites, the number of lecture and/or other contact hours per week, credits allocated (consistent
+with SUNY policy on credit/contact hours), general course requirements, and expected student learning
+outcomes.
+See Appendix 3 for syllabi for the following new courses: BU 7630, BU 7131, BU 7132, BU 7133, BU 7134, and
+BU 7139
+
+d) If the program requires external instruction, such as clinical or field experience, agency placement, an
+
+internship, fieldwork, or cooperative education, append a completed External Instruction form at the end
+of this document.
+N/A
+
+18
+
+SUNY Graduate Sample Program Schedule (OPTION: Program/Track Title and Award:
+M.S. Healthcare Management
+Indicate academic calendar type: [ x ] Semester [ ] Quarter [ ] Trimester [ ] Other (describe):
+a) Label each term in sequence, consistent with the institution’s academic calendar (e.g., Fall 1, Spring 1, Fall 2)
+b) Use the table to show how a typical student may progress through the program; copy/expand the table as needed.
+c) Complete the last row to show program totals and comprehensive, culminating elements. Complete all columns that apply to a
+course.
+Term 1:Fall, 1
+
+Term 2:
+
+Spring 1
+
+Co/Prereq
+uisites
+
+Course Number & Title
+
+3
+
+BU3010
+
+Organization Behavior & Ethics
+(BU7110)
+
+Financial Accounting
+(BU6510)
+
+3
+
+Accounting
+Principles
+class
+
+Statistics for Financial Analysis
+(BU7210)
+
+3
+
+Healthcare Policy (BU 7131)
+
+3
+
+X
+
+Healthcare Financial
+Management for Planning and
+Analysis (BU 7133)
+
+3
+
+X
+
+Legal and Ethical Foundation
+of Healthcare (BU 7630)
+
+3
+
+X
+
+Healthcare Operations
+Management (BU 7134)
+
+3
+
+X
+
+Term credit total:
+
+12
+
+Course Number & Title
+
+Credits
+
+Marketing Strategies &
+Informational (BU7320)
+
+Term 3:
+
+New
+
+Term credit total:
+
+Summer 1
+Credits
+
+New
+
+Co/Prereq
+uisites
+
+Human Resource
+Management in Healthcare
+(BU 7132)
+
+3
+
+X
+
+BU7110
+
+X
+
+BU 7630,
+7131, 7132,
+7133, &
+7134 or
+equivalent
+
+Term credit total:
+Program Total:
+
+New
+
+Co/Prereq
+uisites
+
+3
+Principles
+of Statistics
+or
+equivalents
+BU6510
+
+12
+
+Term 4:
+
+Course Number & Title
+
+Strategic Healthcare
+Management (BU 7139)
+
+Credits
+
+3
+
+Course Number & Title
+
+6
+Total:
+30
+New: X if new course
+
+Credits
+
+New
+
+Co/Prereq
+uisites
+
+Term credit total:
+Identify the required comprehensive, culminating element(s), such as a
+thesis or examination, including course number(s), if applicable:
+Capstone BU 7139 Strategic Healthcare Management
+Prerequisite(s): list prerequisite(s) for the listed courses
+
+19
+
+Section 4. Faculty
+a) Complete the SUNY Faculty Table on the next page to describe current faculty and to-be-hired (TBH) faculty.
+b) Append at the end of this document position descriptions or announcements for each to-be-hired faculty member.
+See appendix 4
+NOTE: CVs for all faculty should be available upon request. Faculty CVs should include rank and employment status,
+educational and employment background, professional affiliations and activities, important awards and recognition,
+publications (noting refereed journal articles), and brief descriptions of research and other externally funded projects.
+New York State’s requirements for faculty qualifications are in Part 55.2(b) of the Regulations of the Commissioner of
+Education.
+c) What is the institution’s definition of “full-time” faculty?
+Service, scholarship, and teaching of three (3) courses a semester.
+
+20
+
+SUNY Faculty Table
+Provide information on current and prospective faculty members (identifying those at off-campus locations) who will be expected to teach any course in the
+graduate program. Expand the table as needed. Use a separate Faculty Table for each institution if the program is a multi-institution program.
+(a)
+
+Faculty Member Name and Title/Rank
+(Include and identify Program Director
+with an asterisk.)
+PART 1. Full-Time Faculty
+Costas Hadjicharalambous, Associate
+Professor
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+% of Time
+Dedicated
+to This
+Program
+
+Program
+Courses Which
+May Be Taught
+(Number and
+Title)
+
+Highest and Other
+Applicable Earned
+Degrees (include
+College or University)
+
+Discipline(s) of
+Highest and Other
+Applicable Earned
+Degrees
+
+Additional Qualifications: List related
+certifications, licenses and professional
+experience in field.
+
+17%
+
+Jim Fornaro, Associate Professor
+17%
+Lynn Walsh, Associate Professor
+17%
+Albert Murphy, Department Chair
+Management, Marketing, and Finance, and
+Associate Professor
+
+17%
+
+Roger Mayer, Assistant Professor
+17%
+
+Cary Lange, * Associate Professor and
+Director of Graduate Program
+
+Marketing
+Strategies &
+Informational
+Technology
+(BU7320)
+Financial
+Accounting
+(BU6510)
+Organization
+Behavior & Ethics
+(BU7110)
+Statistics for
+Financial
+Analysis
+(BU7210)
+
+Ph.D.
+The Graduate Center
+City University of
+New York
+
+Marketing
+
+DPS Pace
+University
+
+Accounting
+
+Ph.D.
+New York
+University
+Ph.D.
+The Graduate Center
+City University of
+New York
+
+Organizational
+Behavior
+
+Healthcare
+Financial
+Management for
+Planning and
+Analysis (BU
+7133)
+
+DBA, Nova Southeastern
+University
+
+Accounting &
+Marketing
+
+CPA, CIA, CRMA – Application approved
+for FACHE and healthcare experience. 30
+years of healthcare care experience
+including 10 years as director of auditing in
+hospital organizations
+
+Ph.D, Graduate
+Center, City
+University of NY
+
+Accounting
+
+CPA, CVA, CFP
+Consult in matters regarding taxation,
+compliance, and financial reporting for
+closely held businesses
+
+Law
+
+Legal counseling and HR training for health
+department.
+
+10%
+
+CPA, CMA, CFE
+
+Finance
+
+Part 2. Part-Time Faculty
+
+Jackie L. Gross, Adjunct
+
+75%
+
+Human Resource
+Management in
+Healthcare (BU
+7132)
+Legal and Ethical
+Foundation of
+Healthcare (BU
+7630)
+
+J.D., Esq. New York
+Law School
+
+21
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+% of Time
+Dedicated
+to This
+Program
+
+Program
+Courses Which
+May Be Taught
+(Number and
+Title)
+
+Highest and Other
+Applicable Earned
+Degrees (include
+College or University)
+
+Discipline(s) of
+Highest and Other
+Applicable Earned
+Degrees
+
+Additional Qualifications: List related
+certifications, licenses and professional
+experience in field.
+
+Faculty Member Name and Title/Rank
+(Include and identify Program Director
+with an asterisk.)
+Part 3. Faculty To-Be-Hired (List as
+TBH1, TBH2, etc., and provide title/rank
+and expected hiring date.)
+TBH1 (Adjunct) Fall 2017
+
+100%
+
+TBH2 (Adjunct) Fall 2017
+
+100%
+
+TBH (Adjunct) Spring 2017
+
+100%
+
+Healthcare Policy
+(BU 7131)
+Healthcare
+Operations
+Management (BU
+7134)
+Strategic
+Healthcare
+Management (BU
+7139)
+
+PhD
+PhD
+
+PhD
+
+22
+
+Section 5. Financial Resources and Instructional Facilities
+a) What is the resource plan for ensuring the success of the proposed program over time? Summarize the
+instructional facilities and equipment committed to ensure the success of the program. Please explain new
+and/or reallocated resources over the first five years for operations, including faculty and other personnel,
+the library, equipment, laboratories, and supplies. Also include resources for capital projects and other
+expenses.
+
+The initial cost of this proposed program is minimal since the major costs, such as new classrooms and
+computer labs, and updated technology, have already been incurred for the existing M.S. programs.
+Given the resources already in place, the M.S. in Healthcare program will allow the College to utilize
+its resources in a more cost effective manner. One of our goals is to distribute the fixed-costs over a
+larger number of students, thereby reducing unit costs of the programs and achieving greater cost
+efficiency and better resource utilization for the College at Old Westbury. This will also be achieved by
+incorporating four already-existing Business Core courses [see Section 2.3 (g)] into this program. No
+financial assistance will be offered to students beyond already existing programs, such as the SUNY
+Graduate Diversity Fellowship Program.
+
+Presently, Old Westbury has full-time faculty and adjunct faculty who would be especially qualified to
+teach in the M.S. Healthcare program. One full-time faculty has over 30 years in healthcare
+management experience. In addition, Old Westbury has three other full-time faculty who are qualified
+to teach specific courses within the M.S. in Healthcare program. Initially, adjunct faculty would be
+needed to cover undergraduate courses that the existing qualified faculty would be unable to teach at the
+start of the program as well as certain graduate courses requiring specialized knowledge and skills. As
+enrollment grows and demand warrants, we anticipate hiring an additional appropriately qualified fulltime faculty member.
+No additional library, equipment, laboratories, supplies, or capital projects are anticipated for this
+program other than some minor expenditures discussed in Section 6(a).
+
+b) Complete the five-year SUNY Program Expenses Table, below, consistent with the resource plan
+summary. Enter the anticipated academic years in the top row of this table. List all resources that will be
+engaged specifically as a result of the proposed program (e.g., a new faculty position or additional library
+resources). If they represent a continuing cost, new resources for a given year should be included in the
+subsequent year(s), with adjustments for inflation or negotiated compensation. Include explanatory notes
+as needed.
+
+Anticipated detailed cost for the proposed program for the first 5 years are below.
+
+23
+
+SUNY Program Expenses Table
+Expenses (in dollars)
+Academic
+Year 1:
+
+Academic
+Year 2:
+
+(a) Personnel (including faculty
+and all others)
+
+10,000
+
+20,000
+
+115,000
+
+145,000**
+
+150,000**
+
+(b) Library
+
+10,000
+
+10,000
+
+10,000
+
+10,000
+
+10,000
+
+1,000
+
+1,000
+
+1,000
+
+1,000
+
+1,000
+
+5,000
+
+5,000
+
+7,000
+
+7,000
+
+7,000
+
+10,000
+
+10,000
+
+10,000
+10,000
+
+10,000
+15,000
+
+10,000
+15,000
+
+36,000
+
+46,000
+
+153,000
+
+188,000
+
+193,000
+
+Program Expense Categories
+
+(c) Equipment
+
+Before
+Start
+
+Academic
+Year 3:
+
+Academic
+Year 4:
+
+Academic
+Year 5:
+
+(d) Laboratories
+(e) Supplies
+(f) Capital Expenses
+(g) Other (Specify):Marketing*
+Admissions Support*
+(h) Sum of Rows Above
+
+*To be shared with other existing and planned Business graduate programs.
+**Includes Support Staff to be shared with other existing and planned Business graduate programs,
+and the hiring of a full-time faculty member.
+
+Section 6. Library Resources
+a)
+
+Summarize the analysis of library collection resources and needs for this program by the collection
+librarian and program faculty. Include an assessment of existing library resources and accessibility to
+those resources for students enrolled in the program in all formats, including the institution’s
+implementation of SUNY Connect, the SUNY-wide electronic library program.
+
+The library currently provides electronic access to all major academic journals accessible (on
+site or electronically) via respected searchable databases in the area of healthcare including:
+Academic Search Complete, Electronic Collections Online, ABI/INFORM Complete, Alt
+HealthWatch, Accounting and Tax, Business Insights: Essentials, Business Source Complete,
+CCH Tax Research Network, Health Reference Center Academic, Health Source - Consumer
+
+24
+
+Edition, LexisNexis Academic, Mergent Online, Standard & Poor’s NetAdvantage, and the
+Wall Street Journal.
+The library has an extensive bundle of electronic resources and makes a substantial
+commitment of its funds toward the provision of additional electronic resources. Inflationary
+increases are factored into our funding needs to ensure long-term maintenance of the holdings.
+If there is an item in SUNY Connect that is not in the Old Westbury library collection, an
+interlibrary loan request may be placed to obtain the requested item. The library’s catalog is
+available online and most electronic resources are available from any web browser. The
+library owns over 140,000 electronic books, and is eager to increase its holdings, as these are
+particularly useful for students whose work and time commitments leave them little
+opportunity to consult materials in the traditional physical library. In addition, there is a
+Business Librarian dedicated to maintaining the library’s business resources and responding to
+the needs of the business programs, including this degree program.
+
+b)
+
+Describe the institution’s response to identified collection needs and its plan for library development.
+
+While current library resources are deemed sufficient for the needs of this program and its
+students, the library uses patron-driven acquisitions to determine future collection needs. In
+addition to librarian generated purchases, under patron-driven acquisitions, faculty and
+students serve as drivers to grow the library collection as needs dictate.
+Section 7. External Evaluation
+SUNY and SED require external evaluation of all proposed graduate degree programs. List below all SUNYapproved evaluators who conducted evaluations (adding rows as needed), and append at the end of this
+document each original, signed External Evaluation Report. NOTE: To select external evaluators, a campus
+sends 3-5 proposed evaluators’ names, titles and CVs to the assigned SUNY Program Reviewer, expresses its
+preferences and requests approval.
+Evaluator #1
+Name: Kevin D. Broom, PhD
+Title: Assistant Professor
+Institution: College for Public Health, Saint Louis
+University
+
+Evaluator #2
+Name: David B. Tataw , PhD, MMIS, MPA,
+FACHE
+Title: Chair and Director of Graduate Programs
+Institution: College of Saint Elizabeth; Morristown,
+NJ
+
+25
+
+Section 8. Institutional Response to External Evaluator Reports
+See campus response attached at Appendix 6.
+Section 9. SUNY Undergraduate Transfer
+NOTE: SUNY Undergraduate Transfer policy does not apply to graduate programs.
+Section 10. Application for Distance Education
+a) Does the program’s design enable students to complete 50% or more of the course requirements through
+distance education? [ X ] No [ ] Yes. If yes, append a completed SUNY Distance Education Format
+Proposal at the end of this proposal to apply for the program to be registered for the distance education
+format.
+b) Does the program’s design enable students to complete 100% of the course requirements through distance
+education? [ X ] No [ ] Yes
+Section MPA-1. Need for Master Plan Amendment and/or Degree Authorization
+a) Based on SUNY Guidance on Master Plan Amendments (in the Guide to Academic Program Planning),
+please indicate if this proposal requires a Master Plan Amendment.
+[ X ] No [ ] Yes, a completed Master Plan Amendment Form is appended at the end of this proposal.
+b) Based on SUNY Guidance on Degree Authorizations (below), please indicate if this proposal requires
+degree authorization.
+[ X ] No [ ] Yes, once the program is approved by the SUNY Provost, the campus will work with its
+Campus Reviewer to draft a resolution that the SUNY Chancellor will recommend to the SUNY Board of
+Trustees.
+SUNY Guidance on Degree Authorization. Degree authorization is required when a proposed program
+will lead to a new degree (e.g., B.F.A., M.P.H.) at an existing level of study (i.e., associate, baccalaureate,
+first-professional, master’s, and doctoral) in an existing disciplinary area at an institution, based on the
+New York State Taxonomy of Academic Programs. Degree authorization requires approval by the SUNY
+Provost, the SUNY Board of Trustees, SED and the Board of Regents.
+List of Appended Items
+Appended Items: Materials required in selected items in Sections 1 through 10 and MPA-1 of this form
+should be appended after this page, with continued pagination. In the first column of the chart below, please
+number the appended items, and append them in number order.
+Number
+N/A
+
+N/A
+
+Appended Items
+For multi-institution programs, a letter of approval from partner
+institution(s)
+For programs leading to professional licensure, a side-by-side chart
+showing how the program’s components meet the requirements of
+specialized accreditation, Commissioner’s Regulations for the
+profession, or other applicable external standards
+
+26
+
+Reference Items
+Section 1, Item (e)
+
+Section 2.3, Item (e)
+
+N/A
+N/A
+1
+2
+3
+N/A
+4
+5
+6
+N/A
+N/A
+
+For programs leading to licensure in selected professions for which
+the SED Office of Professions (OP) requires a specialized form, a
+completed version of that form
+OPTIONAL: For programs leading directly to employment, letters of
+support from employers, if available
+For all programs, a plan or curriculum map showing the courses in
+which the program’s educational and (if appropriate) career objectives
+will be taught and assessed
+For all programs, a catalog description for each existing course that is
+part of the proposed graduate major program
+For all programs with new courses, syllabi for all new courses in a
+proposed graduate program
+For programs requiring external instruction, a completed External
+Instruction Form and documentation required on that form
+For programs that will depend on new faculty, position descriptions or
+announcements for faculty to-be-hired
+For all programs, original, signed External Evaluation Reports from
+SUNY-approved evaluators
+For all programs, a single Institutional Response to External
+Evaluators’ Reports
+For programs designed to enable students to complete at least 50% of
+the course requirements at a distance, a Distance Education Format
+Proposal
+For programs requiring an MPA, a Master Plan Amendment form
+
+27
+
+Section 2.3, Item (e)
+Section 2, Item 2.3 (h)(2)
+Section 2, Item 7
+Section 3, Item (b)
+Section 3, Item (c)
+Section 3, Item (d)
+Section 4, Item (b)
+Section 7
+Section 8
+Section 10
+Section MPA-1
+
+Appendix 1 - Curriculum Map for the MS in Healthcare Management Degree
+in progress
+
+Legend
+P: Practiced/Reinforced
+A: Assessed
+
+Achievement Orientation
+Goal 1
+
+Demonstrate the ability to
+develop develop standards
+of excellence using an
+objective results oriented
+approach.
+
+School of Business Values and Learning Goals
+Financial Skills
+Analytical Thinking
+Innovative Thinking
+Goal 2
+Develop the ability to
+understand a situation,
+issue, or problem and the
+implications to the
+organization.
+
+Goal 3
+Develop the ability
+to understand and
+explain healthcare
+financial and
+accounting
+information, prepare
+and manage budgets,
+and make sound
+long-term
+investment
+decisions.
+
+Goal 4
+Develop the ability
+to apply complex
+concepts, develop
+creative solutions,
+or adapt previous
+solutions in new
+ways for
+breakthrough
+thinking in the field.
+
+Course Name and Number
+
+BU 6510 Financial Accounting
+BU 7110 Organizational Behavior &
+Ethics
+BU 7210 Statistics for Financial
+Analysis
+BU 7320 Marketing Strategies & IT
+BU 6510 Financial Accounting
+BU 7630 Legal and Ethical Foundation
+of Healthcare
+BU 7131 Healthcare Policy
+BU 7139 Strategic Healthcare
+Management
+BU 7132 Human Resource Management
+in Healthcare
+BU 7133 Healthcare Financial
+Management for Planning and Analysis
+BU 7134 Healthcare Operations
+Management
+
+Strategic Orientation
+
+Goal 5
+Strategic
+Orientation:
+Demonstrate the
+ability to draw
+implications and
+conclusions in light
+of the business,
+economic, and policy
+issues, and to use
+these insights to
+develop an evolving
+vision for the
+healthcare
+organization that
+results in long-term
+success
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+P
+
+P
+P
+
+P
+P
+
+P
+P
+
+P
+P
+
+P
+
+P,A
+
+P,A
+
+P
+
+P
+
+P, A
+
+P
+
+P
+
+P,A
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P, A
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+28
+
+29
+
+Appendix 2 – Catalog Course Descriptions
+
+BU 6510 Financial Accounting
+
+3 cr.
+
+This course introduces students to accounting theory and principles as it relates to accounting
+concepts, standard setting, financial statements, cash, receivables, inventories, property, plant
+and equipment, depreciation, intangible assets, current liabilities and long term liabilities.
+Offered once a year.
+Prerequisite: Accounting Principles class (3 credits) which includes the double-entry
+bookkeeping system.
+BU 7110 Organizational Behavior & Ethics
+
+3 cr.
+
+This course focuses on the interweaving of behavioral management and ethics. Through cases
+and experiential exercises, theory is bridged with practice. Topics include Personality,
+Perception, Motivation, Group Dynamics, Leadership, Decision Making, Culture, Whistle
+Blowing, Conflict of Interest, Privacy, Discrimination, and Health & Safety. The student will be
+required to research and develop a case on an organization that they have been or are employed
+by.
+Prerequisites: None
+BU 7210 Statistics for Financial Analysis
+
+3 cr.
+
+This course is concerned with statistical methods for the analysis of business problems. Students
+will learn statistical techniques such as correlation, regression, and survey sampling. The course
+deals with three main subject areas: (a) descriptive statistics are developed as a means of
+summarizing sample data and conveying information as well as a basis for understanding
+statistical inference, (b) probability is presented as the connection between populations and
+samples, and (c) statistical inference, a critical aspect of the course, builds on the concepts in
+descriptive statistics and probability and allows broad statements about a population of interest
+based on a small amount information. Excel and/ or a statistical software program will be used
+for problems that are large or complex. The course focuses on practical statistical applications
+that are relevant to management analysis in the business environment. It provides a basis for
+further academic work in production, finance, marketing, and healthcare.
+Prerequisites: Principles of Statistics or equivalents
+
+BU 7320 Marketing Strategies & Info. Technology
+
+3 cr.
+
+The course utilizes marketing strategy as a tool for optimizing organizational goals in the
+dynamic global marketing environment. It focuses on the marketer’s deployment of resources to
+
+30
+
+achieve stated goals in a competitive environment through following a unified, comprehensive,
+and integrated plan. Specifically the course is designed to give students understanding of (a) how
+information technology has created a fertile ground for the emergence of commerce on the
+Internet; (b) how firms are using the new technology to develop innovative offerings and sustain
+competitive advantage. The course utilizes the case method. Lectures and additional readings
+provide the basis for translating the cases into marketing strategy concepts.
+Prerequisites: Information Systems for Managers or equivalent
+
+BU 7630 Legal and Ethical Foundation of Healthcare
+
+3 cr.
+
+Students in this course will examine the most important legal and ethical issues in healthcare,
+and presents essential information that will help them learn to identify and tackle potential legal
+problems. Topic areas include:
+
+
+
+
+
+
+The Patient Protection and Affordable Care Act (ACA), including legal requirements about
+health insurance and health reform
+The 2012 Supreme Court decision regarding the individual mandate to buy health insurance,
+the penalty for not having insurance, and the expansion of Medicaid
+Ongoing legal challenges to mandated contraceptive coverage and whether federal subsidies
+may be provided for coverage that is purchased through a federally operated exchange
+New legal obligations for tax-exempt hospitals under the ACA and federal regulations
+Important changes to Medicare and Medicaid.
+
+Prerequisites: None
+
+BU 7131 Healthcare Policy
+
+3 cr.
+
+This course provides a framework for understanding the formulation, implementation, and
+modification of health policymaking at both the federal and state levels. Students will learn how
+policymaking relates to decisions that affect healthcare providers and patients. They will also
+gain insight into how they can influence the policymaking process. Incorporated in the course are
+congressional testimony, news stories, executive orders, legislation, and other documents related
+to real-world policy issues. The course will discuss the ACA with extensive examples and
+provide an analysis of court decisions in health policy and policymaking.
+Prerequisites: None
+
+BU 7132 Human Resource Management in Healthcare
+
+3 cr.
+
+This course presents the techniques and practices behind effective management of people—the
+healthcare profession’s most important asset. It provides the concepts and practical tools
+31
+
+necessary for meeting the unique challenges in today’s healthcare environment. Topic areas
+include:
+
+
+
+
+
+
+
+
+employment law and employee relations,
+credentialing of healthcare providers,
+staff recruitment, selection, and retention practices,
+performance management, including workplace bullying,
+workforce planning in a rapidly changing healthcare system, and
+staffing in healthcare organizations
+diversity in the workplace.
+
+Prerequisites: BU 7110 or equivalent
+
+BU 7133 Healthcare Financial Management for Planning and Analysis
+
+3 cr.
+
+This course provides the financial theory and the “nuts and bolts” tools managers need for
+managerial decision making. Included in the course are techniques for using spreadsheet
+analyses to make better financial decisions in a variety of provider settings. Real-world examples
+are used throughout to illustrate concepts. Specific topics include:
+
+
+
+
+
+
+
+
+Medicare reimbursement methods
+Pay-for-performance and consumer-directed health plans
+Revenue cycle
+Credit enhancement
+Business unit forecasting
+Merger activity in the health services industry
+Antitrust regulation.
+
+Prerequisites: BU 6510 or equivalent
+
+BU 7134 Healthcare Operations Management
+
+3 cr.
+
+The course covers the basics of operations management, and explains how operations and
+process improvement relate to contemporary healthcare trends, such as evidence-based medicine
+and pay-for-performance. Its practical approach includes real-world examples to illustrate
+concepts Students will understand Six Sigma, the Lean enterprise, project management and
+improving financial performance with operations management.
+Prerequisites: None
+
+32
+
+BU 7139 Strategic Healthcare Management
+
+3 cr.
+
+This is an integrative capstone course for the M.S. in Healthcare Management program which
+makes use of the content learned in prior courses. In this capstone course students will examine
+a health care organization using an integrated case study approach. The course is designed to
+provide a final experience in which students demonstrate mastery of content and allow an
+opportunity for closure and connection between courses. The purpose of this capstone course is
+to facilitate the integration and synthesis of content through critical thinking. Students have the
+option of identifying an organization for analysis or using a fictional organization assigned by
+the instructor. The case will be developed in a way to allow for a thorough examination; students
+will become familiar with a variety of healthcare settings and the challenges managers currently
+face. Students will develop the management, operational, and financial skills they need to
+succeed in real-world settings, bridging their current academic study with relevant professional
+practice.
+Co/Prerequisites: BU 7630, BU 7131, BU 7132, BU 7133, and BU 7134 or equivalents
+
+33
+
+Appendix 3 New Course Syllabi
+--------
+
+34
+
+STATE UNIVERSITY OF NEW YORK
+COLLEGE AT OLD WESTBURY
+Professor: TBH
+BU 7131 Healthcare Policy
+
+3 cr.
+
+COURSE DESCRIPTION
+This course provides a framework for understanding the formulation, implementation, and
+modification of health policymaking at both the federal and state levels. Students will learn how
+policymaking relates to decisions that affect healthcare providers and patients. They will also
+gain insight into how they can influence the policymaking process. Incorporated in the course are
+congressional testimony, news stories, executive orders, legislation, and other documents related
+to real-world policy issues. The course will discuss the ACA with extensive examples and
+provide an analysis of court decisions in health policy and policymaking.
+Prerequisites: None
+
+COURSE LEARNING OUTCOMES AND GOALS
+Students will learn to think critically about and manage the challenges facing healthcare in the
+United States. Upon completion of the course, students should be able to:
+
+
+
+
+
+
+
+
+
+
+describe the role of government in healthcare,
+identify the conceptual frameworks and theories of policymaking,
+describe the health insurance environment in the U.S. healthcare system,
+explain the current state of Medicare and Medicaid ,
+explain the role of the courts in healthcare policy,
+understand the implications of a shortage of physicians,
+describe how a diverse patient population and workforce impacts care delivery,
+explain how nonprofit hospitals and for-profit hospitals operate, and
+explain the issues with pricing and distribution of prescription drugs.
+
+REQUIRED TEXT:
+Paul J. Feldstein, PhD, Health Policy Issues: An Economic Perspective, Sixth Edition
+(ISBN: 978-1-56793-696-4)
+STUDENT RESPONSIBILITIES
+1.
+Assignments are due at the beginning of each class.
+2.
+Quality participation is expected in class discussion and group projects.
+3.
+Absences: maximum of two are allowed (two times arriving late or leaving early
+= one absence).
+4.
+Plagiarism: automatic “F” for the assignment.
+35
+
+Education is a process, and it requires personal responsibility, independence and discipline,
+maturity and seriousness. All classes will begin and end promptly. Attendance and informed
+participation in discussions and group work provide me with evidence that you completed
+assigned readings in advance and are engaged in the materials.
+People often have strong responses to legal, ethical and policy issues in the context of healthcare.
+While disagreements are not uncommon, an important skill in the legal and healthcare
+professions is the ability to discuss various viewpoints in an appropriate manner. Therefore, all
+comments made in class must be relevant and respectful of others.
+In addition, as a courtesy to fellow students (and your professor), please note that all pagers and
+cellphones must be turned to a silent mode during class. Also, please limit your in class
+computer use to note taking only unless you are requested to research something online.
+Checking mail, playing games or surfing the web during class are examples of behavior that are
+not only distracting but rude. Any such conduct will result in decreased participation points.
+Finally, if you missed a class and want to know what the next class assignment is, your first
+avenues of recourse should be to look at the current course calendar (on Blackboard) or ask other
+students. Your last recourse should be to send me an email as all emails to me can only be
+answered within two business days. The most efficient mode of communicating with me is via a
+personal visit during my office hours noted above.
+ASSESSMENT OF LEARNING OBJECTIVES AND GOALS
+Students’ learning outcomes and goals will be achieved through lectures and illustrations, class
+discussions and required reading assignments. Assessment of these goals will be through short
+and long form written exam questions, as well as class participation.
+GRADING:
+Participation – 10%
+Short answer assignments – 15%
+Final paper and presentation – 25%
+Final written essay exam – 50%
+
+SCHOOL OF BUSINESS INFORMATION
+The mission of the School of Business is to provide high quality education in a supportive
+learning community to a diverse student population, thereby developing effective and ethical
+business professionals for a global environment.
+
+OTHER NOTICES
+Office of Services for Students with Disabilities
+SUNY/Old Westbury is committed to assuring that all students have equal access to learning and
+extracurricular activities on campus. If you have, or suspect you may have a physical,
+psychological, medical or learning disability that may impact how you function academically
+
+36
+
+and/or your access to activities on campus, please contact Dr. Lisa Whitten, Director of the
+Office of Services for Students with Disabilities (OSSD). She will work with you to determine
+which accommodations you need, and provide you with documentation for your professors. The
+OSSD is located in the NAB, Room 2064. OSSD services are free and confidential. In addition,
+OSSD hires qualified note takers at $100.00 for the semester if you are enrolled in the course,
+and $9.00 an hour if you are not. You can reach Dr. Whitten at 516-876-3009 or
+whittenl@oldwestbury.edu.
+Student Code of Ethics
+See the SUNY Old Westbury catalog for the full Student Code of Ethics.
+1.
+Withdrawals
+Students wishing to withdraw from the course must deliver a signed withdrawal request to me,
+which then must be given to the Registrar for processing. Students who stop attending class
+without officially withdrawing will be assigned a FAILING grade.
+Student Contact Information
+Your contact information for this class is via your college e-mail address. All important class
+notices, including class communications, will be sent only to your Old Westbury email address.
+Course Calendar
+Date Class
+#
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Topic
+
+The role of government in healthcare
+Conceptual frameworks and theories of
+policymaking
+Health insurance in the U.S. healthcare system
+The current state of Medicare and Medicaid
+The role of the courts in healthcare policy
+The Impending shortage of physicians
+The changing practice of medicine
+Recurrent malpractice crises
+Nonprofit hospitals and for-profit hospitals
+Competition among hospitals: Does it raise or lower
+costs?
+Cost shifting in healthcare distribution
+The evolution of managed care
+Using competition to improve the U.S. healthcare
+system.
+Pricing and distribution of prescription drugs
+Student presentations
+
+Assignment Due at
+Start of Class
+Chapter 1
+Chapters 2
+Chapter 3
+Chapter 4
+Chapter 4
+Chapter 7
+Chapter 6
+Chapter 8
+Chapter 10
+Chapter 11
+Chapter 12
+Chapter 13
+Chapter 14
+Chapter 15
+
+37
+
+STATE UNIVERSITY OF NEW YORK
+COLLEGE AT OLD WESTBURY
+Professor: Jackie L. Gross, Esq.
+E-Mail: grossj@oldwestbury.edu
+BU 7132 Human Resource Management in Healthcare
+
+3 cr.
+
+COURSE DESCRIPTION
+This course presents the techniques and practices behind effective management of people—the
+healthcare profession’s most important asset. It provides the concepts and practical tools
+necessary for meeting the unique challenges in today’s healthcare environment. Topic areas
+include:
+ employment law and employee relations,
+ credentialing of healthcare providers,
+ staff recruitment, selection, and retention practices,
+ performance management, including workplace bullying,
+ workforce planning in a rapidly changing healthcare system, and
+ staffing in healthcare organizations
+ diversity in the workplace.
+Prerequisites: BU 7110 or equivalent
+
+COURSE LEARNING OUTCOMES AND GOALS
+Students will learn about the concepts and practical tools necessary for managing employees in the
+healthcare environment. Upon completion, students should be able to understand the complex
+factors influencing the management of workers in the unique and dynamic healthcare industry,
+including:
+
+
+
+
+
+
+
+
+
+
+Understanding the various healthcare labor force constituencies
+Employment laws applicable to the healthcare industry
+Best practices for recruitment, selection and retention efforts in healthcare
+organizations
+Performance management of high functioning individuals and teams
+Compensation in the management of skilled professionals balanced with the limits
+placed by third-party payers, including benefit packages and wellness programs in the
+competitive arena of healthcare
+Safety and preparedness standards
+Collective bargaining in the healthcare industry
+Managing a regional workforce
+Conflict resolution in healthcare management
+
+38
+
+REQUIRED TEXT:
+B.J. Fried and M.D. Fottler, Human Resources in Healthcare: Managing for Success – Fourth
+Edition (Health Administration Press 2015) (ISBN-13: 978-1-56793-708-4)
+
+STUDENT RESPONSIBILITIES
+5.
+Assignments are due at the beginning of each class.
+6.
+Quality participation is expected in class discussion and group projects.
+7.
+Absences: maximum of two are allowed (two times arriving late or leaving early
+= one absence).
+8.
+Plagiarism: automatic “F” for the assignment.
+Education is a process, and it requires personal responsibility, independence and discipline,
+maturity and seriousness. All classes will begin and end promptly. Attendance and informed
+participation in discussions and group work provide me with evidence that you completed
+assigned readings in advance and are engaged in the materials.
+People often have strong responses to legal, ethical and policy issues in the context of healthcare.
+While disagreements are not uncommon, an important skill in the legal and healthcare
+professions is the ability to discuss various viewpoints in an appropriate manner. Therefore, all
+comments made in class must be relevant and respectful of others.
+In addition, as a courtesy to fellow students (and your professor), please note that all pagers and
+cellphones must be turned to a silent mode during class. Also, please limit your in class
+computer use to note taking only unless you are requested to research something online.
+Checking mail, playing games or surfing the web during class are examples of behavior that are
+not only distracting but rude. Any such conduct will result in decreased participation points.
+Finally, if you missed a class and want to know what the next class assignment is, your first
+avenues of recourse should be to look at the current course calendar (on Blackboard) or ask other
+students. Your last recourse should be to send me an email as all emails to me can only be
+answered within two business days. The most efficient mode of communicating with me is via a
+personal visit during my office hours noted above.
+ASSESSMENT OF LEARNING OBJECTIVES AND GOALS
+Students’ learning outcomes and goals will be achieved through lectures and illustrations, class
+discussions and required reading assignments. Assessment of these goals will be through short
+and long form written exam questions, as well as class participation.
+GRADING:
+Participation – 10%
+Short answer assignments – 60%
+Final written essay exam – 30%
+
+39
+
+SCHOOL OF BUSINESS INFORMATION
+The mission of the School of Business is to provide high quality education in a supportive
+learning community to a diverse student population, thereby developing effective and ethical
+business professionals for a global environment.
+
+OTHER NOTICES
+Office of Services for Students with Disabilities
+SUNY/Old Westbury is committed to assuring that all students have equal access to learning and
+extracurricular activities on campus. If you have, or suspect you may have a physical,
+psychological, medical or learning disability that may impact how you function academically
+and/or your access to activities on campus, please contact Dr. Lisa Whitten, Director of the
+Office of Services for Students with Disabilities (OSSD). She will work with you to determine
+which accommodations you need, and provide you with documentation for your professors. The
+OSSD is located in the NAB, Room 2064. OSSD services are free and confidential. In addition,
+OSSD hires qualified note takers at $100.00 for the semester if you are enrolled in the course,
+and $9.00 an hour if you are not. You can reach Dr. Whitten at 516-876-3009 or
+whittenl@oldwestbury.edu.
+Student Code of Ethics
+See the SUNY Old Westbury catalog for the full Student Code of Ethics.
+2.
+Withdrawals
+Students wishing to withdraw from the course must deliver a signed withdrawal request to me,
+which then must be given to the Registrar for processing. Students who stop attending class
+without officially withdrawing will be assigned a FAILING grade.
+Student Contact Information
+Your contact information for this class is via your college e-mail address. All important class
+notices, including class communications, will be sent only to your Old Westbury email address.
+
+Course Calendar Appears on Next Page
+
+40
+
+Course Calendar
+(Subject to change – The most current calendar is posted on Blackboard)
+Human Resources in Healthcare - Professor Jackie L. Gross, Esq.
+Date Class
+#
+
+Topic
+
+Assignment Due at
+Start of Class
+(Fried & Fottler
+textbook unless
+otherwise noted)
+
+
+
+Class introductions, review syllabus, discuss
+expectations
+
+
+
+The Importance of Human Resources
+Management in the Healthcare Environment
+
+
+
+Strategic Human Resources Management
+
+Chapter 1
+
+2
+
+
+
+Employment Law, Employee Relations and
+Healthcare
+
+Chapter 2
+
+3
+
+
+
+Healthcare Professionals – Credentialing and
+Privileging
+
+Chapters 3 & 4
+
+4
+
+
+
+Workforce Diversity
+
+Chapter 5
+
+5
+
+
+
+Defining and designing health workers’ jobs
+
+Chapter 6
+
+6
+
+
+
+Recruitment, selection and retention
+
+Chapter 7
+
+7
+
+
+
+Performance Management
+
+Chapter 8
+
+8
+
+
+
+Compensation issues in the healthcare
+environment
+
+Chapter 9
+
+9
+
+
+
+Employee Benefits
+
+Chapter 10
+
+10
+
+
+
+Organizational Development and Learning
+
+Chapter 11
+
+11
+
+
+
+Health workforce planning in a changing
+environment
+
+Chapter 12
+
+12
+
+
+
+The nursing workforce – what’s so unique about
+it?
+
+Chapter 13
+
+1
+
+41
+
+Date Class
+#
+
+Topic
+
+13
+
+
+
+Managing quality and patient safety
+
+14
+
+
+
+Managing a regional workforce
+
+15
+
+
+
+Conflict Resolution in Healthcare Management
+
+Assignment Due at
+Start of Class
+(Fried & Fottler
+textbook unless
+otherwise noted)
+Chapter 14
+[Columbia-Williamette
+Study]
+[Lipcamon, J. D., and B.
+A. Mainwaring. "Conflict
+resolution in healthcare
+management." Radiology
+management 26.3
+(2003): 48-51]
+
+42
+
+STATE UNIVERSITY OF NEW YORK
+COLLEGE AT OLD WESTBURY
+
+BU 7133 Healthcare Financial Management for Planning and Analysis
+
+Prof. Dr. Roger Mayer, DBA, CPA, CIA,
+CRMA
+Office #: NAB 0027
+e-mail: mayerr@oldwestbury.edu
+Office Hours: TBD
+
+3 cr.
+
+Required Materials:
+See Text Information at end of Syllabus
+Course Meeting Schedule and Location:
+TBD
+
+COURSE DESCRIPTION
+GRADUATE COURSE - This course provides the financial theory and the “nuts and bolts” tools
+managers need for managerial decision making. Included in the course are techniques for using
+spreadsheet analyses to make better financial decisions in a variety of provider settings. Realworld examples are used throughout to illustrate concepts. Specific topics include:
+
+
+
+
+
+
+
+
+Medicare reimbursement methods
+Pay-for-performance and consumer-directed health plans
+Revenue cycle
+Credit enhancement
+Business unit forecasting
+Merger activity in the health services industry
+Antitrust regulation
+
+Prerequisites: BU 6510 or equivalent
+COURSE LEARNING OUTCOMES AND GOALS
+Students will learn to think critically about and manage the challenges facing healthcare managers.
+At the completion of this course, students should be able to:
+ Analyze and evaluate cost and revenue variables to assist in business decisions.
+ Analyze how various cost behaviors impact the profitability and strategic decisions of the
+organization.
+ Prepare and analyze operating, cash, and capital budgets.
+ Assess non-financial data when developing decision models.
+ Integrate the regulatory environment within the context of management decisions
+ Frame business decisions within the context of an healthcare ethical environment.
+
+43
+
+REQUIRED TEXT
+Understanding Healthcare Financial Management, Seventh Edition
+Louis C. Gapenski, PhD, & George H. Pink, PhD
+ISBN: 978-1-56793-706-0
+2015
+STUDENT RESPONSIBILITIES
+9.
+Assignments are due at the beginning of each class.
+10.
+Quality participation is expected in class discussion and group projects.
+11.
+Absences: maximum of two are allowed (two times arriving late or leaving early
+= one absence).
+12.
+Plagiarism: automatic “F” for the assignment.
+Education is a process, and it requires personal responsibility, independence and discipline,
+maturity and seriousness. All classes will begin and end promptly. Attendance and informed
+participation in discussions and group work provide me with evidence that you completed
+assigned readings in advance and are engaged in the materials.
+People often have strong responses to legal, ethical and policy issues in the context of healthcare.
+While disagreements are not uncommon, an important skill in the legal and healthcare
+professions is the ability to discuss various viewpoints in an appropriate manner. Therefore, all
+comments made in class must be relevant and respectful of others.
+In addition, as a courtesy to fellow students (and your professor), please note that all pagers and
+cellphones must be turned to a silent mode during class. Also, please limit your in class
+computer use to note taking only unless you are requested to research something online.
+Checking mail, playing games or surfing the web during class are examples of behavior that are
+not only distracting but rude. Any such conduct will result in decreased participation points.
+Finally, if you missed a class and want to know what the next class assignment is, your first
+avenues of recourse should be to look at the current course calendar (on Blackboard) or ask other
+students. Your last recourse should be to send me an email as all emails to me can only be
+answered within two business days. The most efficient mode of communicating with me is via a
+personal visit during my office hours noted above.
+ASSESSMENT OF LEARNING OBJECTIVES AND GOALS
+Students’ learning outcomes and goals will be achieved through lectures and illustrations, class
+discussions and required reading assignments. Assessment of these goals will be through short
+and long form written exam questions, as well as class participation.
+GRADING:
+Participation – 10%
+2 Exams 60%
+Final written exam – 30%
+
+44
+
+SCHOOL OF BUSINESS INFORMATION
+The mission of the School of Business is to provide high quality education in a supportive
+learning community to a diverse student population, thereby developing effective and ethical
+business professionals for a global environment.
+
+OTHER NOTICES
+Office of Services for Students with Disabilities
+SUNY/Old Westbury is committed to assuring that all students have equal access to learning and
+extracurricular activities on campus. If you have, or suspect you may have a physical,
+psychological, medical or learning disability that may impact how you function academically
+and/or your access to activities on campus, please contact Dr. Lisa Whitten, Director of the
+Office of Services for Students with Disabilities (OSSD). She will work with you to determine
+which accommodations you need, and provide you with documentation for your professors. The
+OSSD is located in the NAB, Room 2064. OSSD services are free and confidential. In addition,
+OSSD hires qualified note takers at $100.00 for the semester if you are enrolled in the course,
+and $9.00 an hour if you are not. You can reach Dr. Whitten at 516-876-3009 or
+whittenl@oldwestbury.edu.
+Student Code of Ethics
+See the SUNY Old Westbury catalog for the full Student Code of Ethics.
+3.
+Withdrawals
+Students wishing to withdraw from the course must deliver a signed withdrawal request to me,
+which then must be given to the Registrar for processing. Students who stop attending class
+without officially withdrawing will be assigned a FAILING grade.
+Student Contact Information
+Your contact information for this class is via your college e-mail address. All important class
+notices, including class communications, will be sent only to your Old Westbury email address.
+
+Course Calendar
+(Subject to change – The most current calendar is posted on Blackboard)
+THE HEALTHCARE ENVIRONMENT
+Chapter 1 Introduction to Healthcare Financial Management
+Week 1
+Chapter 2 The Third-Party-Payer System
+Week 2
+Chapter 3 Time Value Analysis
+Week 3
+Chapter 4 Financial Risk and Required Return
+Week 4
+Review and exam
+Week 5
+CAPITAL ACQUISITION
+Chapter 5 Debt Financing
+week 6
+Chapter 6 Equity Financing and Investment Banking
+week 7
+Chapter 7 Securities Valuation, Market Efficiency, and Debt Refunding
+week 8
+
+45
+
+Chapter 8 Lease Financing
+week 9
+Review and exam
+week 10
+CAPITAL ALLOCATION
+Chapter 11 The Basics of Capital Budgeting
+Week 11
+Chapter 12 Project Risk Analysis
+Week 12
+Chapter 13 Financial Condition Analysis
+Week 13
+Chapter 14 Financial Forecasting PART VII OTHER TOPICS
+Week 14
+Review and exam
+Week 15
+
+46
+
+STATE UNIVERSITY OF NEW YORK
+COLLEGE AT OLD WESTBURY
+Professor: TBH
+BU 7134 Healthcare Operations Management
+
+3 cr.
+
+COURSE DESCIPTION
+The course covers the basics of operations management, and explains how operations and
+process improvement relate to contemporary healthcare trends, such as evidence-based medicine
+and pay-for-performance. Its practical approach includes real-world examples to illustrate
+concepts Students will understand Six Sigma, the Lean enterprise, project management and
+improving financial performance with operations management.
+Prerequisites: None
+COURSE LEARNING OUTCOMES AND GOALS
+Students will learn to think critically about the management of healthcare organizations. Upon
+completion of the course, students should be able to:
+
+
+
+
+
+
+
+
+
+
+develop a performance review process,
+explain how value-based purchasing affects an organization,
+develop a balanced scorecard management assessment,
+identify specific tools for problem solving and decision making,
+develop statistical decision making models,
+use quality management tools such as six sigma and lean,
+understand process improvements in patient flow and scheduling,
+use operational tools to improve supply chain management, and
+improve financial performance with operations management tools.
+
+REQUIRED TEXT:
+Daniel B. McLaughlin & John R. Olson, PhD, Healthcare Operations Management, Second
+Edition (ISBN: 978-1-56793-444-1)
+STUDENT RESPONSIBILITIES
+13.
+Assignments are due at the beginning of each class.
+14.
+Quality participation is expected in class discussion and group projects.
+15.
+Absences: maximum of two are allowed (two times arriving late or leaving early
+= one absence).
+16.
+Plagiarism: automatic “F” for the assignment.
+Education is a process, and it requires personal responsibility, independence and discipline,
+maturity and seriousness. All classes will begin and end promptly. Attendance and informed
+participation in discussions and group work provide me with evidence that you completed
+
+47
+
+assigned readings in advance and are engaged in the materials.
+People often have strong responses to legal, ethical and policy issues in the context of healthcare.
+While disagreements are not uncommon, an important skill in the legal and healthcare
+professions is the ability to discuss various viewpoints in an appropriate manner. Therefore, all
+comments made in class must be relevant and respectful of others.
+In addition, as a courtesy to fellow students (and your professor), please note that all pagers and
+cellphones must be turned to a silent mode during class. Also, please limit your in class
+computer use to note taking only unless you are requested to research something online.
+Checking mail, playing games or surfing the web during class are examples of behavior that are
+not only distracting but rude. Any such conduct will result in decreased participation points.
+Finally, if you missed a class and want to know what the next class assignment is, your first
+avenues of recourse should be to look at the current course calendar (on Blackboard) or ask other
+students. Your last recourse should be to send me an email as all emails to me can only be
+answered within two business days. The most efficient mode of communicating with me is via a
+personal visit during my office hours noted above.
+ASSESSMENT OF LEARNING OBJECTIVES AND GOALS
+Students’ learning outcomes and goals will be achieved through lectures and illustrations, class
+discussions and required reading assignments. Assessment of these goals will be through short
+and long form written exam questions, as well as class participation.
+GRADING:
+Participation – 10%
+Short answer assignments – 20%
+Final paper and presentation – 35%
+Final written essay exam – 35%
+
+SCHOOL OF BUSINESS INFORMATION
+The mission of the School of Business is to provide high quality education in a supportive
+learning community to a diverse student population, thereby developing effective and ethical
+business professionals for a global environment.
+
+OTHER NOTICES
+Office of Services for Students with Disabilities
+SUNY/Old Westbury is committed to assuring that all students have equal access to learning and
+extracurricular activities on campus. If you have, or suspect you may have a physical,
+psychological, medical or learning disability that may impact how you function academically
+and/or your access to activities on campus, please contact Dr. Lisa Whitten, Director of the
+Office of Services for Students with Disabilities (OSSD). She will work with you to determine
+which accommodations you need, and provide you with documentation for your professors. The
+OSSD is located in the NAB, Room 2064. OSSD services are free and confidential. In addition,
+
+48
+
+OSSD hires qualified note takers at $100.00 for the semester if you are enrolled in the course,
+and $9.00 an hour if you are not. You can reach Dr. Whitten at 516-876-3009 or
+whittenl@oldwestbury.edu.
+Student Code of Ethics
+See the SUNY Old Westbury catalog for the full Student Code of Ethics.
+4.
+Withdrawals
+Students wishing to withdraw from the course must deliver a signed withdrawal request to me,
+which then must be given to the Registrar for processing. Students who stop attending class
+without officially withdrawing will be assigned a FAILING grade.
+Student Contact Information
+Your contact information for this class is via your college e-mail address. All important class
+notices, including class communications, will be sent only to your Old Westbury email address.
+Course Calendar
+Date Class
+#
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Topic
+The Challenge and the Opportunity
+History of Performance Improvement
+Evidence-Based Medicine and Value-Based Purchasing
+Strategy and the Balanced Scorecard
+Project Management
+Tools for Problem Solving and Decision Making
+Statistical Thinking and Statistical Problem Solving
+Quality Management: Focus on Six Sigma
+The Lean Enterprise Simulation
+Process Improvement and Patient Flow
+Scheduling and Capacity Management
+Supply Chain Management
+Improving Financial Performance with Operations
+Management
+The Challenge and the Opportunity
+Student presentations
+
+Chapter
+Chapter 1
+Chapters 2
+Chapter 3
+Chapter 4
+Chapter 4
+Chapter 7
+Chapter 6
+Chapter 8
+Chapter 10
+Chapter 11
+Chapter 12
+Chapter 13
+Chapter 14
+Chapter 15
+
+49
+
+STATE UNIVERSITY OF NEW YORK
+COLLEGE AT OLD WESTBURY
+Professor: TBH
+BU 7139 Strategic Healthcare Management
+
+3 cr.
+
+COURSE DESCIPTION
+This is an integrative capstone course for the M.S. in Healthcare Management program which
+makes use of the content learned in prior courses. In this capstone course students will examine
+a health care organization using an integrated case study approach. The course is designed to
+provide a final experience in which students demonstrate mastery of content and allow an
+opportunity for closure and connection between courses. The purpose of this capstone course is
+to facilitate the integration and synthesis of content through critical thinking. Students have the
+option of identifying an organization for analysis or using a fictional organization assigned by
+the instructor. The case will be developed in a way to allow for a thorough examination; students
+will become familiar with a variety of healthcare settings and the challenges managers currently
+face. Students will develop the management, operational, and financial skills they need to
+succeed in real-world settings, bridging their current academic study with relevant professional
+practice.
+Co/Prerequisites: BU 7630, BU 7131, BU 7132, BU 7133, and BU 7134 or equivalents
+
+COURSE LEARNING OUTCOMES AND GOALS
+Students will learn to think critically about how healthcare organizations can develop strategies to
+successfully navigate the new healthcare environment. Upon completion of the course, students
+should be able to:
+
+
+
+
+
+
+conduct an in-depth analysis of a health care organization,
+address multiple areas of the M.S. Healthcare curriculum in developing a strategy for a
+healthcare organization,
+identify and gain access to appropriate information to support analysis.
+integrate and apply prior knowledge to develop appropriate strategies or solutions, and
+assess the impact of recommended actions on the organization and its community.
+
+REQUIRED TEXT:
+Lee F. Seidel, PhD & James B. Lewis, ScD (2014). The Middleboro Casebook:
+Healthcare Strategy and Operations. (ISBN: 978-1-56793-628-5)
+STUDENT RESPONSIBILITIES
+17.
+Assignments are due at the beginning of each class.
+18.
+Quality participation is expected in class discussion and group projects.
+
+50
+
+19.
+20.
+
+Absences: maximum of two are allowed (two times arriving late or leaving early
+= one absence).
+Plagiarism: automatic “F” for the assignment.
+
+Education is a process, and it requires personal responsibility, independence and discipline,
+maturity and seriousness. All classes will begin and end promptly. Attendance and informed
+participation in discussions and group work provide me with evidence that you completed
+assigned readings in advance and are engaged in the materials.
+People often have strong responses to legal, ethical and policy issues in the context of healthcare.
+While disagreements are not uncommon, an important skill in the legal and healthcare
+professions is the ability to discuss various viewpoints in an appropriate manner. Therefore, all
+comments made in class must be relevant and respectful of others.
+In addition, as a courtesy to fellow students (and your professor), please note that all pagers and
+cellphones must be turned to a silent mode during class. Also, please limit your in class
+computer use to note taking only unless you are requested to research something online.
+Checking mail, playing games or surfing the web during class are examples of behavior that are
+not only distracting but rude. Any such conduct will result in decreased participation points.
+Finally, if you missed a class and want to know what the next class assignment is, your first
+avenues of recourse should be to look at the current course calendar (on Blackboard) or ask other
+students. Your last recourse should be to send me an email as all emails to me can only be
+answered within two business days. The most efficient mode of communicating with me is via a
+personal visit during my office hours noted above.
+ASSESSMENT OF LEARNING OBJECTIVES AND GOALS
+Students’ learning outcomes and goals will be achieved through lectures and illustrations, class
+discussions and required reading assignments. Assessment of these goals will be through short
+and long form written exam questions, as well as class participation.
+GRADING:
+Participation – 10%
+Short answer assignments – 20%
+Final paper and presentation – 70%
+SCHOOL OF BUSINESS INFORMATION
+The mission of the School of Business is to provide high quality education in a supportive
+learning community to a diverse student population, thereby developing effective and ethical
+business professionals for a global environment.
+
+OTHER NOTICES
+Office of Services for Students with Disabilities
+SUNY/Old Westbury is committed to assuring that all students have equal access to learning and
+extracurricular activities on campus. If you have, or suspect you may have a physical,
+
+51
+
+psychological, medical or learning disability that may impact how you function academically
+and/or your access to activities on campus, please contact Dr. Lisa Whitten, Director of the
+Office of Services for Students with Disabilities (OSSD). She will work with you to determine
+which accommodations you need, and provide you with documentation for your professors. The
+OSSD is located in the NAB, Room 2064. OSSD services are free and confidential. In addition,
+OSSD hires qualified note takers at $100.00 for the semester if you are enrolled in the course,
+and $9.00 an hour if you are not. You can reach Dr. Whitten at 516-876-3009 or
+whittenl@oldwestbury.edu.
+Student Code of Ethics
+See the SUNY Old Westbury catalog for the full Student Code of Ethics.
+Withdrawals
+Students wishing to withdraw from the course must deliver a signed withdrawal request to me,
+which then must be given to the Registrar for processing. Students who stop attending class
+without officially withdrawing will be assigned a FAILING grade.
+Student Contact Information
+Your contact information for this class is via your college e-mail address. All important class
+notices, including class communications, will be sent only to your Old Westbury email address.
+Course Calendar
+
+Week
+
+Assignments and Assessment
+
+Week 1-2
+
+Work with Capstone Mentor to develop an appropriate case for analysis
+
+Week 314
+
+Meet weekly with Capstone Mentor to organize case.
+Complete short answer assignments on key topics.
+Students must receive formal approval from the Capstone Mentor before
+beginning their Capstone work
+
+Week 15
+
+Schedule a presentation of the case and submit the final assignment
+
+52
+
+STATE UNIVERSITY OF NEW YORK
+COLLEGE AT OLD WESTBURY
+Professor: Jackie L. Gross, Esq.
+E-Mail: grossj@oldwestbury.edu
+
+BU 7630 Legal and Ethical Foundation of Healthcare
+
+3 cr.
+
+COURSE DESCRIPTION
+Students in this course will examine the most important legal and ethical issues in healthcare,
+and presents essential information that will help them learn to identify and tackle potential legal
+problems. Topic areas include:
+
+
+
+
+
+
+The Patient Protection and Affordable Care Act (ACA), including legal requirements about
+health insurance and health reform
+The 2012 Supreme Court decision regarding the individual mandate to buy health insurance,
+the penalty for not having insurance, and the expansion of Medicaid
+Ongoing legal challenges to mandated contraceptive coverage and whether federal subsidies
+may be provided for coverage that is purchased through a federally operated exchange
+New legal obligations for tax-exempt hospitals under the ACA and federal regulations
+Important changes to Medicare and Medicaid.
+
+Prerequisites: None
+
+COURSE LEARNING OUTCOMES AND GOALS
+Students will learn to think critically about and manage the challenges facing healthcare managers.
+Upon completion of the course, students should be able to:
+ Understand the legal landscape relating to healthcare administration, including:
+o An overview of the legal system and how to understand, interpret and convey
+the relevance of a law, regulation or court decision to others;
+o How federal, state and local laws regulate the healthcare profession;
+o The duty of governments to promote and protect the health of their citizens;
+o Criminal aspects of healthcare;
+o Legal liability for healthcare practitioners;
+o Contractual relationships relevant to healthcare providers;
+o The credentialing process and medical staff organization;
+o Various structures of healthcare practices;
+o The rights and responsibilities of patients;
+o Basic liability insurance concepts;
+o Labor and employment law issues in the healthcare workplace including
+diversity; and
+o Ethical challenges for healthcare providers, including
+ End of life decisions
+ Patient consent
+53
+
+
+
+The balancing of costs and services in the healthcare environment.
+
+REQUIRED TEXT:
+D.M. Harris, Contemporary Issues in Healthcare Law & Ethics – 4th Edition (Health
+Administration Press 2014) (ISBN-13: 978-1-56793-637-7).
+
+STUDENT RESPONSIBILITIES
+21.
+Assignments are due at the beginning of each class.
+22.
+Quality participation is expected in class discussion and group projects.
+23.
+Absences: maximum of two are allowed (two times arriving late or leaving early
+= one absence).
+24.
+Plagiarism: automatic “F” for the assignment.
+Education is a process, and it requires personal responsibility, independence and discipline,
+maturity and seriousness. All classes will begin and end promptly. Attendance and informed
+participation in discussions and group work provide me with evidence that you completed
+assigned readings in advance and are engaged in the materials.
+People often have strong responses to legal, ethical and policy issues in the context of healthcare.
+While disagreements are not uncommon, an important skill in the legal and healthcare
+professions is the ability to discuss various viewpoints in an appropriate manner. Therefore, all
+comments made in class must be relevant and respectful of others.
+In addition, as a courtesy to fellow students (and your professor), please note that all pagers and
+cellphones must be turned to a silent mode during class. Also, please limit your in class
+computer use to note taking only unless you are requested to research something online.
+Checking mail, playing games or surfing the web during class are examples of behavior that are
+not only distracting but rude. Any such conduct will result in decreased participation points.
+Finally, if you missed a class and want to know what the next class assignment is, your first
+avenues of recourse should be to look at the current course calendar (on Blackboard) or ask other
+students. Your last recourse should be to send me an email as all emails to me can only be
+answered within two business days. The most efficient mode of communicating with me is via a
+personal visit during my office hours noted above.
+ASSESSMENT OF LEARNING OBJECTIVES AND GOALS
+Students’ learning outcomes and goals will be achieved through lectures and illustrations, class
+discussions and required reading assignments. Assessment of these goals will be through short
+and long form written exam questions, as well as class participation.
+GRADING:
+Participation – 10%
+Short answer assignments – 60%
+Final written essay exam – 30%
+
+54
+
+SCHOOL OF BUSINESS INFORMATION
+The mission of the School of Business is to provide high quality education in a supportive
+learning community to a diverse student population, thereby developing effective and ethical
+business professionals for a global environment.
+
+OTHER NOTICES
+Office of Services for Students with Disabilities
+SUNY/Old Westbury is committed to assuring that all students have equal access to learning and
+extracurricular activities on campus. If you have, or suspect you may have a physical,
+psychological, medical or learning disability that may impact how you function academically
+and/or your access to activities on campus, please contact Dr. Lisa Whitten, Director of the
+Office of Services for Students with Disabilities (OSSD). She will work with you to determine
+which accommodations you need, and provide you with documentation for your professors. The
+OSSD is located in the NAB, Room 2064. OSSD services are free and confidential. In addition,
+OSSD hires qualified note takers at $100.00 for the semester if you are enrolled in the course,
+and $9.00 an hour if you are not. You can reach Dr. Whitten at 516-876-3009 or
+whittenl@oldwestbury.edu.
+Student Code of Ethics
+See the SUNY Old Westbury catalog for the full Student Code of Ethics.
+5.
+Withdrawals
+Students wishing to withdraw from the course must deliver a signed withdrawal request to me,
+which then must be given to the Registrar for processing. Students who stop attending class
+without officially withdrawing will be assigned a FAILING grade.
+Student Contact Information
+Your contact information for this class is via your college e-mail address. All important class
+notices, including class communications, will be sent only to your Old Westbury email address.
+
+Course Calendar Appears on Next Page
+
+55
+
+Course Calendar
+(Subject to change – The most current calendar is posted on Blackboard)
+Healthcare Law and Ethics - Professor Jackie L. Gross, Esq.
+Date Class
+#
+
+Topic
+
+Assignment Due at
+Start of Class
+(Harris textbook unless
+otherwise noted)
+
+ Class introductions, review syllabus, discuss
+expectations
+
+1
+
+ The Role of Law in the US Healthcare System
+2
+
+3
+
+4
+
+
+
+Using Law to Promote Policy Goals and Ethical
+Principles
+
+
+
+The American Legal System – An Overview
+
+
+
+Conducting Legal Research
+
+
+
+The Legal and Governance Structure of
+Healthcare Organizations
+
+Chapters 1 & 2
+
+
+
+Chapter 3
+
+
+
+[Handout]
+
+
+
+Chapter 4
+
+
+
+[Handout]
+
+
+
+Workplace Law in the Healthcare Context
+
+5
+
+
+
+Government Regulation of Health and
+Healthcare Services
+
+Chapter 5
+
+6
+
+
+
+Medical Staff - Credentialing and Clinical
+Privileges
+
+Chapter 7
+
+7
+
+
+
+Medical Privacy Issues – HIPAA, information
+management and electronic recordkeeping
+
+Chapter 6
+
+8
+
+
+
+Laws and regulations relating to Government
+Payment Programs, including Medicare,
+Medicaid
+
+Chapter 8
+
+
+
+Criminal Aspects of Healthcare: Fraud and
+Abuse of Government Payment Programs
+
+56
+
+Date Class
+#
+
+Topic
+
+Assignment Due at
+Start of Class
+(Harris textbook unless
+otherwise noted)
+Chapter 10
+[Handout]
+
+
+
+The Law of Torts in the Healthcare Setting
+
+
+
+Medical Malpractice and other Theories of
+Liability
+
+
+
+Alternatives to Litigation
+
+
+
+Introduction to “Bioethics”
+
+
+
+Legal and Ethical Obligations to Provide Care
+
+11
+
+
+
+Death and Dying: Termination of care, refusal
+of care, physician-assisted suicide and other
+complex ethical challenges
+
+Chapter 12
+
+12
+
+
+
+The impact of religious beliefs on healthcare
+choices, including reproductive health issues
+
+Chapter 13
+
+13
+
+
+
+Healthcare cost containment
+
+Chapter 14
+
+14
+
+
+
+The Patient Protection and Affordable Care Act
+and other health insurance issues
+
+Chapter 15
+
+15
+
+
+
+Bioethical quandaries going forward, including
+physical and biological interventions to control
+infectious disease; exploitation in biomedical
+research.
+
+[Mark A.
+Rothstein, Ebola,
+Quarantine and the
+Law, Hastings Center
+Report 45, no. 1
+(2015):5-6; Erik
+Malmqvist,
+"(Mis)Understanding
+Exploitation," IRB:
+Ethics & Human
+Research 33, no. 2
+(2011): 1-5]
+
+9
+
+10
+
+Chapter 11
+
+57
+
+Appendix 4 New Faculty Position Description
+Assistant Professor, Healthcare Management
+(Proposed TBH position)
+
+Description of Responsibilities: Academic assignment will include teaching graduate level
+courses in healthcare management; developing hybrid courses in such area; and mentoring
+graduate level students. In addition, this position will be expected to display a demonstrated
+potential for excellence in teaching and scholarly research, commitment to graduate education,
+and possess communication and interpersonal skills sufficient to work effectively with an
+increasingly diverse array of students and colleagues.
+
+Required qualifications include: Ph.D. or DBA in Health Care Management/Administration, or
+closely related field; good teaching skills, published.
+Preferred qualifications include: Experience teaching at the university level; certification by
+ACHE. Scholarly publications.
+
+Adjunct Healthcare Management
+(Proposed TBH position)
+The Graduate Program of the School of Business at SUNY College at Old Westbury seeks to
+hire adjunct instructors who will effectively teach healthcare graduate courses in healthcare
+policy, healthcare operations management and a capstone course covering strategic management.
+This position will be expected to display a demonstrated potential for excellence in teaching,
+commitment to graduate education, and possess communication and interpersonal skills
+sufficient to work effectively with an increasingly diverse array of students and colleagues.
+
+58
+
+Appendix 5 External Evaluation Reports
+Original, signed will be attached –
+
+59
+
+External Evaluation Report
+Form 2D
+Version 2014-11-17
+The External Evaluation Report is an important component of a new academic program proposal.
+The external evaluator’s task is to examine the program proposal and related materials, visit the
+campus to discuss the proposal with faculty and review related instructional resources and
+facilities, respond to the questions in this Report form, and submit to the institution a signed
+report that speaks to the quality of, and need for, the proposed program. The report should aim
+for completeness, accuracy and objectivity.
+The institution is expected to review each External Evaluation Report it receives, prepare a
+single institutional response to all reports, and, as appropriate, make changes to its program
+proposal and plan. Each separate External Evaluation Report and the Institutional Response
+become part of the full program proposal that the institution submits to SUNY for approval. If
+an external evaluation of the proposed program is required by the New York State Education
+Department (SED), SUNY includes the External Evaluation Reports and Institutional Response
+in the full proposal that it submits to SED for registration.
+Institution: SUNY College at Old Westbury
+Evaluator Name (Please print): David B. Tataw
+Evaluator Title and Institution: Chair and Director of Graduate Programs, College of
+Saint Elizabeth, Morristown, New Jersey
+Evaluator Signature:
+Proposed Program Title: Healthcare Management
+Degree: Master of Science (M.S.)
+Date of evaluation: July 28, 2015
+I. Program
+1. Assess the program’s purpose, structure, and requirements as well as formal mechanisms
+for program administration and evaluation. Address the program’s academic rigor and
+intellectual coherence.
+This proposed program comes with lot of strengths. I expand on the strength of the proposed
+program and improvement opportunities in the body of my report. The program will make a
+unique contribution to the local health care industry workforce development and will strengthen
+the local economy. The program also has the advantage of being located in a business school
+which has management-competencies that are key success factors for today’s health care
+60
+
+managers. Finally, the program enjoys the strong support of academic leadership at both the
+school and college level.
+This is a summary of my recommendations:
+1. Modify the purpose of the program to focus on early to mid-careerists
+2. Adopt and modify a competency-based model for use as student learning outcomes.
+Preferably, the adoption of no more than 10 competencies from National Healthcare
+Leadership Center Competency-Based model.
+3. Involve community and industry stake holders in refining and strengthening the program
+focus and content.
+4. Redesign the core business courses that make the bulk of the proposed 30 credit hours in
+the program, to include health care management content or create health care courses
+which are cross-listed with the business courses.
+5. Appoint a faculty coordinator to focus on the roll out of the program and manage it until
+a Director is appointed.
+6. Recruit an additional full time faculty with training or research background in health
+administration or policy.
+7. Include experiential learning in the program by redesigning the capstone course to
+include an internship or other field experience
+8. Clarify the strategy for outreach to minority and other underrepresent populations
+2. Comment on the special focus of this program, if any, as it relates to the discipline.
+The Program should consider adjusting the career level of its graduates. The current program
+proposal seeks to prepare students for leadership positions in the health care industry. It sounds
+like an executive leadership program. Based on the initial service area and potential student
+population identified in the proposal and in conversation with stake holders during the site visit, I
+will recommend that the program should consider targeting early and mid-level careerists in the
+health care industry.
+Graduates in the proposed program will find diverse job opportunities with a variety of health
+organizations, such as hospitals, pharmaceutical organizations, home health agencies, health
+insurance companies, life care facilities, managed care organizations, medical group practices,
+mental health agencies, and pharmaceutical industry and biomedical research companies. The
+strength of this program is clearly in preparing graduates to enter the provider environment but
+many of the skills in the provider environment are transferable to other industries albeit with
+limited competitiveness. The primary employment sector of the industry for the program
+graduates will be the provider environments such as hospitals and ambulatory care organizations.
+Other areas stated above are also viable alternatives for this program graduates, particularly
+given its location in a business program with core management competencies which key success
+factors for health care managers. Future reviews, revamps, and expanded course offerings can
+strengthen the competitiveness of graduates seeking to enter other sectors of the industry.
+If the program adopts an early to mid-level careerists focus, it should consider redesigning the
+capstone to provider flexibility for an internship or field training focus for some students. This
+
+61
+
+will be of particular importance for early careerists and to a lesser extent for mid-careerists
+seeking different opportunities in an evolving industry.
+
+In conclusion, the proposed structure and curriculum appears to be generally capable of
+producing “managers within the healthcare industry” with a focus on early and mid-level
+careerists. I recommend that the purpose of the program be restated to reflect an early to midcareerist focus.
+3. Comment on the plans and expectations for self-assessment and continuous improvement.
+Self-assessment and continuous improvement plans, as outlined in the proposal, are adequate.
+The adoption of an industry driven competency-based model that drives or becomes de facto
+student learning outcomes will strengthen the assessment process and align student learning
+outcomes to industry standards. I also recommend the creation of a broad-based Community
+Advisory Board made up of people in an out of the health care industry and smaller
+Executive Council of four to six industry leaders drawn from the Greater Long Island
+healthcare industry. The community Advisory Board will provide continuous oversight and
+guidance to the program while the Executive Council can review the program periodically to
+ensure curriculum alignment with industry trends. A two-year periodic review is a best practice.
+4. Discuss the relationship of this program to other programs of the institution and
+collaboration with other institutions, and assess available support from related programs.
+The present location of the program within the School of Business is a good fit and definite
+strength. Business related competencies needed in health management education will be
+strengthened and business training expands employment opportunities for the program graduates
+beyond the provider environment. It is admirable that there public health program was involved
+in the planning of this program but there appears to be a lack of health-related programs within
+the institution for more robust collaborations. The establishment of strong partnerships with
+local healthcare organizations is highly recommended.
+Twelve credits of the 30 credits in the program are business courses. To make these courses
+relevant to the health care management students and their careers, I recommend that the course
+be redesigned to include healthcare management education competencies and health care
+industry content. Another option, is to design entirely different health care management courses
+that are cross-listed with the business programs.
+5. What is the evidence of need and demand for the program locally, in the State, and in the
+field at large? What is the extent of occupational demand for graduates? What is the
+evidence that demand will continue?
+The proposal adequately presents evidence of need and demand for the program locally, in the
+state, and the industry at large. The changing demographics, BLS statistics, competitor analysis,
+etc., show that sufficient and sustainable demand exists within the target market on Long Island.
+Additional perspective can be brought to the demand and need analysis through strategic
+
+62
+
+partnership with the local health care industry and other stake holders and the creation of a
+Community Advisory Board and an Executive Council as discussed earlier. Adopting an
+industry driven competency-based curriculum in addition to continuous industry input, would
+produce graduates directly tied to the local healthcare industry’s needs.
+There are many competency-based models available for adoption. I personally recommend the
+National Center for Healthcare Leadership (NCHL) Competency Model) because it is flexible,
+industry driven, and has been successfully piloted in a number of flag ship health management
+programs in the country. The number of competencies in the NCHL Competency Model or
+any other model adopted should be reduced and aligned to the realities a 30-credit program.
+If you adopt the NCHL Competency Model, consider reducing the competencies to no more than
+10 and modify to fit your program mission and goals. The need to involve industry partners
+through the Community Advisory Board and an Executive Council in the process of narrowing
+the focus of the program and reducing the number of competencies adopted as learning outcomes
+cannot be overemphasized.
+The mainstream competency models are:
+1.
+2.
+3.
+4.
+
+National Center for Healthcare Leadership (NCHL) Competency Model
+Healthcare Leadership Alliance (HLA) Competency Model
+Saint Louis University Competency Model
+Joint Medical Executive Skills Model
+
+In addition, should the Program choose to eventually pursue specialized accreditation through
+the Commission on Accreditation for Healthcare Management Education (CAHME), a
+competency-based approach to curriculum development, which is a requirement for
+accreditation, would already be in place?
+Finally, the Program should assess future demand among existing undergraduate programs
+within the College and surrounding institutions, which may serve as feeder programs.
+Articulation agreements with undergraduate programs and community colleges for combined
+BS/MS tracks could provide additional pool of candidates for the program.
+II. Faculty
+6. Evaluate the faculty, individually and collectively, with regard to training, experience,
+research and publication, professional service, and recognition in the field.
+The existing faculty members are adequately qualified to pursue the proposed curriculum. The
+faculty needs might change as the program revises the student learning outcomes and transforms
+the proposed program into a competency-based program.
+7. Assess the faculty in terms of number and qualifications and plans for future staffing.
+Evaluate faculty responsibilities for the proposed program, taking into account their other
+institutional and programmatic commitments. Evaluate faculty activity in generating funds
+63
+
+for research, training, facilities, equipment, etc. Discuss any critical gaps and plans for
+addressing them.
+As outlined in the proposal, the existing and proposed faculty is adequate to start the
+implementation of the proposed curriculum. I recommend recruitment of one additional faculty
+with training or research background in health management or policy as program develops into
+full capacity. The specialization of this additional faculty member should be determined after the
+program completes a revision of student learning outcomes based on an adopted competencybased model. It would also be advisable to designate a graduate health care management
+coordinator from the existing faculty. Other institutional and programmatic commitments do not
+seem to impede the ability of faculty to implement the program as proposed.
+8. Evaluate credentials and involvement of adjunct faculty and support personnel.
+The credentials and involvement of adjunct faculty in the planning of this program is admirable.
+I recommend the expansion of the pool of adjunct faculty from within the health care industry. A
+scholar-practitioner model which makes practitioners in the field permanent members of the
+faculty is a best practice.
+III. Students
+9. Comment on the student population the program seeks to serve, and assess plans and
+projections for student recruitment and enrollment.
+The Program seeks to serve working adults from the healthcare industry on Long Island. This
+is an appropriate student population. Projections for student enrollment are reasonable. The
+potential student population can be expanded by marketing to undergraduate programs and
+appealing to professionals in other industries who want to transfer to the health care industry.
+10. What are the prospects that recruitment efforts and admissions criteria will supply a
+sufficient pool of highly qualified applicants and enrollees?
+The current recruitment efforts are sufficient to attract an ok class of initial applicants. The
+quality of the applicants should improve as the program establishes a reputation and increases the
+number of graduates working in the industry. The applicant pool can be strengthened by
+drawing from undergraduate programs in and outside the College and pipeline strategies such as
+combined BS/MS degrees in collaboration with undergraduate programs and community
+colleges.
+11. Comment on provisions for encouraging participation of persons from underrepresented
+groups. Is there adequate attention to the needs of part-time, minority, or disadvantaged
+students?
+The proposed program delivery accommodates part-time working students in general. However,
+there is no clearly articulated strategy of outreach and support to attract minority or
+disadvantaged populations. A well thought out targeted outreach to underrepresented groups
+
+64
+
+including some financial support (e.g. scholarship funding, tuition credits/discounts, graduate
+assistantships, etc.) is highly recommended...
+12. Assess the system for monitoring students’ progress and performance and for advising
+students regarding academic and career matters.
+Academic advising and career guidance seems centralized. I recommend a program specific
+academic advising and career guidance that will provide onsite counseling as well industry
+linkages through a structure mentors program. This is another reason for a faculty program
+coordinator.
+13. Discuss prospects for graduates’ post-completion success, whether employment, job
+advancement, future study, or other outcomes related to the program’s goals.
+The graduates of the proposed program have good prospects for employment or job
+advancement. These prospects would be strengthened if the capstone is redesigned to include an
+internship or field work option for students who will need health care industry experience for
+successful placement in permanent positions.
+IV. Resources
+14. Comment on the adequacy of physical resources and facilities, e.g., library, computer, and
+laboratory facilities; practice and internship sites or other experiential learning opportunities,
+such as co-ops or service learning; and support services for the program, including use of
+resources outside the institution.
+As currently proposed, physical resources and facilities are adequate. As proposed, the Program
+does not require any sort of experiential learning opportunity. An internship integrated into a
+redesigned capstone or residency program will strengthen experiential learning opportunities.
+15. What is the institution's commitment to the program as demonstrated by the operating
+budget, faculty salaries, the number of faculty lines relative to student numbers and
+workload, and discussions about administrative support with faculty and administrators?
+Based on the details in the proposal and conversations with leadership during the site visit, the
+institution is committed to the Program’s success. I recommend establishing a dedicated faculty
+program coordinator as the program is implemented (rather than having one person responsible
+for all of the graduate degree programs). The coordinator positions should be advanced to a
+Program Director as the program grows to full strength. Consider the potential of program
+leadership at a Director level when you hire a second dedicated faculty for the health care
+management program.
+V. Summary Comments and Additional Observations
+
+65
+
+16. Summarize the major strengths and weaknesses of the program as proposed with particular
+attention to feasibility of implementation and appropriateness of objectives for the degree
+offered.
+The major strengths are the leadership’s commitment to establishing a quality program and their
+desire to play a critical role in helping fill the needs of the Long Island healthcare industry. The
+weaknesses are a predominantly knowledge-based curriculum that may not meet industry needs
+and the limitations of the 30-credit ceiling. The recommendations in this report address the
+shortcomings of the program.
+17. If applicable, particularly for graduate programs, comment on the ways that this program will
+make a unique contribution to the field, and its likelihood of achieving State, regional
+and/or national prominence.
+The Program will make a unique contribution by playing a critical role in the healthcare industry
+workforce development and in engaging the local healthcare industry and community as partners
+in this endeavor. If the recommendations in this report are followed State and regional
+prominence is attainable. A key component of national prominence is CAHME accreditation.
+CAHME accreditation is required to be ranked, and all CAHME-accredited programs show up in
+the rankings.
+18. Include any further observations important to the evaluation of this program proposal and
+provide any recommendations for the proposed program.
+
+The proposed program comes with lot strengths. The program will make a unique contribution to
+local health care industry workforce development and will strengthen the local economy. The
+program also has the advantage of being located in a business school which has managementcompetencies that are key success factors for today’s health care managers. Finally, the program
+enjoys the strong support of academic leadership at both the school and college level.
+Key improvement opportunities are outlined below:
+1. Modify the purpose of the program to focus on early to mid-careerists.
+2. Adopt and modify a competency-based model for use as student learning outcomes.
+Preferably, the adoption of no more than 10 competencies from National Healthcare
+Leader Center Competency-Based model.
+3. Involve community and industry state holders in refining and strengthening the
+program focus and content.
+4. Redesign the core business courses that make the bulk of the 30 credit hours in the
+program to include health care management content or create health care courses
+which are cross-listed with the business courses.
+5. Appoint a faculty coordinator to focus on the roll out of the program and manage it
+until a Director is appointed.
+6. Recruit an additional full time faculty with training or research background in health
+administration or policy.
+
+66
+
+7. Include experiential learning in the program by redesigning the capstone course to
+include an internship or other field experience.
+8. Clarify outreach strategy for outreach to minority and other underrepresent
+populations.
+
+67
+
+External Evaluation Report
+Form 2D
+Version 2014-11-17
+
+The External Evaluation Report is an important component of a new academic program proposal. The
+external evaluator’s task is to examine the program proposal and related materials, visit the campus to
+discuss the proposal with faculty and review related instructional resources and facilities, respond to the
+questions in this Report form, and submit to the institution a signed report that speaks to the quality of,
+and need for, the proposed program. The report should aim for completeness, accuracy and objectivity.
+The institution is expected to review each External Evaluation Report it receives, prepare a single
+institutional response to all reports, and, as appropriate, make changes to its program proposal and plan.
+Each separate External Evaluation Report and the Institutional Response become part of the full program
+proposal that the institution submits to SUNY for approval. If an external evaluation of the proposed
+program is required by the New York State Education Department (SED), SUNY includes the External
+Evaluation Reports and Institutional Response in the full proposal that it submits to SED for registration.
+Institution: SUNY College at Old Westbury
+Evaluator Name (Please print): Kevin D. Broom
+Evaluator Title and Institution: Assistant Professor and Associate Director of Master of Health
+Administration Program, Saint Louis University
+Evaluator Signature:
+Proposed Program Title: Healthcare Management
+Degree: Master of Science (M.S.)
+Date of evaluation: July 28, 2015
+I. Program
+19. Assess the program’s purpose, structure, and requirements as well as formal mechanisms for
+program administration and evaluation. Address the program’s academic rigor and intellectual
+coherence.
+As currently outlined, the proposal represents an admirable attempt at establishing a quality program that
+should help meet the needs of healthcare industry within the Greater Long Island community for the
+foreseeable future. In an attempt to help improve the proposed degree program, I provide a number of
+recommendations within this report for consideration by the School of Business and SUNY College at
+Old Westbury. These recommendations are designed to improve the initial proposal, as well as to provide
+a framework for future enrollment growth and expansion towards a more robust program. Moreover, the
+recommendations will enable the future improvement of the program’s quality and reputation through
+achieving specialized accreditation (should the institution choose to pursue this level of accreditation).
+Specifically regarding the purpose, structure, and requirements, the Program’s stated purpose is broad and
+ambitious when compared with the more modest structure and requirements. Specifically regarding
+administration and evaluation, the proposal outlines a sufficient process for governance and evaluation. I
+
+68
+
+do provide recommendations to improve both within this report. The proposal’s academic rigor and
+intellectual coherence are adequate, but can be improved based on recommendations provided within this
+report that flow from establishing a more demand-based curriculum.
+20. Comment on the special focus of this program, if any, as it relates to the discipline.
+The Program should consider narrowing its focus to a more manageable emphasis that fits within the
+proposed footprint of 30 hours. Specifically, the proposal states that the Program seeks to prepare
+“industry leaders with a solid foundation in business analysis exposure to real–world healthcare
+management and rewarding professional development opportunities.” The key point of emphasis within
+this phrase is the terms “industry leaders”. As proposed, the structure and curriculum are more aligned
+with preparing “industry managers”, given the absence of a significant emphasis on leadership
+competencies such as critical thinking, change management, creativity, etc. Simply adjusting the purpose
+statement (to say “industry managers”) helps resolve this problem. Alternatively, the Program could
+significantly modify the structure and curriculum to create “industry leaders”. Given this alternative, the
+Program should establish admission requirements that seek students with significant management
+experience who are poised to assume key leadership roles, upon graduation, within the healthcare
+industry. Also, the Program should develop and implement a curriculum with a deeper and richer
+emphasis on leadership competencies. However, this approach would significantly reduce the pool of
+potential applicants. Given the comments articulated by key leaders during the site visit, my
+recommendation is to take the former approach by revising the purpose statement to more closely align
+with the existing proposed structure and academic requirements. Additionally, the Program description
+mentions career opportunities within consulting, pharmaceuticals, biotechnology, and government
+agencies. These opportunities almost exclusively fall outside of healthcare delivery (and in the nondelivery side of the broader health industry). Given the institutional constraints articulated during the site
+visit, namely the goal of minimizing the required number of credit hours, I recommend the Program focus
+its curriculum on the healthcare delivery side of the health industry. In conclusion, the proposed structure
+and curriculum appears to be generally capable of producing “managers within the healthcare industry”,
+but not “leaders across the full spectrum of the health industry”.
+21. Comment on the plans and expectations for self-assessment and continuous improvement.
+The plans for self-assessment and continuous improvement, as outlined in the proposal, are sufficient. I
+recommend improving upon the primary student learning outcomes by implementing an internally and
+externally validated competency model (see comments on Question #5 for further details). I also
+recommend adding an external review process, specifically using healthcare industry stakeholder
+feedback, as a means of ensuring that the program will continually meet the needs and expectations of the
+Greater Long Island healthcare industry.
+22. Discuss the relationship of this program to other programs of the institution and collaboration with
+other institutions, and assess available support from related programs.
+The proposed program appears to be a good fit within the School of Business. However, synergies and/or
+opportunities for collaboration with other schools and programs with SUNY College at Old Westbury
+appear minimal, given the lack of health-related programs within the institution. The Program would be
+well served to establish strategic partnerships with local healthcare organizations. Strategic partnerships
+with local healthcare organizations would ensure the Program’s structure and curriculum are relevant (and
+maintain relevancy) to today’s changing healthcare environment. These partnerships would also ensure
+that graduates are adequately meeting the industry’s needs. At a minimum, strategic partnerships can be
+established through the development of an Executive Advisory Board (EAB) that could be made up of
+senior leaders within the regional healthcare industry. The EAB would periodically provide insight on the
+
+69
+
+changing marketplace, make recommendations on academic content, and would help maintain the
+Program’s connection to the practitioner community. As these relationships evolve, strategic partnerships
+could provide the Program with prospective students, guest speakers, highly qualified adjunct faculty,
+internship opportunities and placement opportunities. These longer-term benefits will be difficult to
+achieve if the Program is not adequately linked to industry.
+23. What is the evidence of need and demand for the program locally, in the State, and in the field at
+large? What is the extent of occupational demand for graduates? What is the evidence that demand
+will continue?
+As outlined in the proposal, the supply-side analysis clearly indicates the faculty resources, areas of
+expertise, and courses that currently exist within the School of Business. Regarding the demand-side
+analysis, the proposal adequately addresses a number of macro-level indicators (changing demographics,
+BLS statistics, competitor analysis, etc.) showing that sufficient demand may exist within the target
+market on Long Island. I recommend further demand-side analysis to help the Program identify and
+develop a particular niche within the marketplace, thereby ensuring its relevancy and long-term success.
+Demand-side analysis can be improved through establishing an EAB and identifying a couple of industry
+partners, then leveraging those relationships to identify the competencies needed by future managers in
+the local healthcare industry. The Program should then use those competencies to pursue a competencybased approach to curriculum development in order to build those specific competencies for the
+healthcare industry. By using industry input to directly develop and implement a focused, competencybased curriculum, the Program would produce graduates directly tied to the local healthcare industry’s
+needs.
+To facilitate this process, I recommend the Program review a number of health management competency
+models that already exist within the field of healthcare management education. These competency
+models are broad in scope, so they should be reviewed, compared/contrasted, and reduced in order to
+identify the competencies that a) are most in need within the local marketplace and b) can be developed
+within a 30-credit footprint. The EAB, as well as any other strategic partners, should assist with this
+process of narrowing the focus of the Program to more directly address the industry’s most critical needs.
+The mainstream competency models are:
+-National Center for Healthcare Leadership (NCHL) Competency Model
+-Healthcare Leadership Alliance (HLA) Competency Model
+-Saint Louis University Competency Model
+-Joint Medical Executive Skills Model
+Furthermore, should the Program choose to eventually pursue specialized accreditation through the
+Commission on Accreditation for Healthcare Management Education (CAHME), a competency-based
+approach to curriculum development, which is a requirement for accreditation, would already be in place.
+Expanding the competency-based curriculum (to achieve CAHME accreditation) is a much easier shift
+than moving from a knowledge-based curriculum (which is outlined in the proposal) to a competencybased curriculum.
+Finally, the Program should assess future demand among existing undergraduate programs, which may
+serve as feeder programs. I also recommend assessing potential cannibalization effects on other graduate
+programs, such as assessing whether other current graduate students would have preferred pursuing the
+MS in Healthcare Management, if it had been available.
+
+70
+
+II. Faculty
+24. Evaluate the faculty, individually and collectively, with regard to training, experience, research and
+publication, professional service, and recognition in the field.
+As outlined in the proposal, the existing faculty members are adequately qualified to pursue the proposed
+curriculum. However, I recommend the key leaders within the School of Business reassess faculty
+qualifications after identifying the critical competencies that meet industry needs in the Long Island
+market. The demand-side analysis may indicate that critical competencies cannot be built with the
+identified faculty members. If these gaps do exist, other faculty within the School may be identified as
+being more useful to meeting industry needs (thereby necessitating changes to the mix of faculty teaching
+into the program).
+25. Assess the faculty in terms of number and qualifications and plans for future staffing. Evaluate
+faculty responsibilities for the proposed program, taking into account their other institutional and
+programmatic commitments. Evaluate faculty activity in generating funds for research, training,
+facilities, equipment, etc. Discuss any critical gaps and plans for addressing them.
+As outlined in the proposal, the existing and planned faculty is adequate to pursue the proposed
+curriculum. Further demand-side analysis may indicate that existing faculty may be insufficient to meet
+industry needs, thereby shaping how you identify and select future faculty. If the Program intends on
+targeting students currently working in the healthcare industry, the highest priority should be finding
+faculty who both a) have the qualifications necessary to enable the School achieve its goal of AACSB
+accreditation and b) have some management experience within the healthcare setting. Other institutional
+and programmatic commitments do not appear to have any detrimental impact on the ability to implement
+the program as proposed.
+26. Evaluate credentials and involvement of adjunct faculty and support personnel.
+As outlined in the proposal, the existing and planned adjunct faculty and support personnel are adequate
+to pursue the proposed curriculum. Specifically regarding the adjunct faculty, I recommend the Program
+place a strong emphasis on identifying a pool of potential adjunct faculty from within the healthcare
+industry. Students working within the healthcare industry (the stated target market) will want to
+immediately apply what they’re learning in their workplace. Full-time faculty who do not have ties to the
+industry will have difficulty bridging theoretical concepts with the complex reality of today’s healthcare
+setting. Adjunct faculty will fill this critical void.
+III. Students
+27. Comment on the student population the program seeks to serve, and assess plans and projections
+for student recruitment and enrollment.
+As outlined in the proposal, as well as articulated on the ground during the site visit, the Program seeks to
+target primarily working adults from the healthcare industry on Long Island. This target market is the
+appropriate student population. Projections for student enrollment are reasonable, although the earliest
+class projections may be ambitious given the limited institutional connection to the healthcare industry.
+28. What are the prospects that recruitment efforts and admissions criteria will supply a sufficient pool of
+highly qualified applicants and enrollees?
+
+71
+
+In the long-term, the recruiting efforts and admissions criteria appear to be sufficient. In the short-term,
+recruiting efforts will need to be more closely linked to identifying prospective students in the workforce
+(such as recruiting through employers and/or professional organizations) and avoiding potential
+cannibalization of other programs. Additionally, waivers to the admission standards may be necessary in
+the earliest classes in order to get the program up and running. Once graduates hit the street, and wordof-mouth advertising kicks in, the waivers can be reduced as the applicant pool increases.
+29. Comment on provisions for encouraging participation of persons from underrepresented groups.
+Is there adequate attention to the needs of part-time, minority, or disadvantaged students?
+Based on the proposal and on discussions during the site visit, I see no concerns with attracting a diverse
+student population. I recommend some consideration be given to building into the budget some financial
+support, in case problems arise with underrepresented groups (e.g. scholarship funding, tuition
+credits/discounts, graduate assistantships, etc.).
+30. Assess the system for monitoring students’ progress and performance and for advising students
+regarding academic and career matters.
+Based on the proposal, monitoring of student progress and performance, as well as advising, appear
+adequate. However, I recommend the Program consider also establishing a mentoring program.
+Advising focuses on the short-run (when to take classes in order to graduate on-time), whereas mentoring
+focuses on the long-run (positioning oneself for success after graduation). Given the centralized advising
+process, the Program should consider a decentralized mentoring process, with faculty who teach into the
+Program being designated as mentors.
+31. Discuss prospects for graduates’ post-completion success, whether employment, job advancement,
+future study, or other outcomes related to the program’s goals.
+As proposed, graduates should have good prospects for post-completion success, both in gaining
+employment and advancing within their careers. I recommend the program track graduation rates,
+placement rates, and advancement rates within 5 years of graduation. The graduation rate would be the
+percent of entering students who graduate within the normal timeline for degree completion (with 80%
+being the benchmark). The placement rate would be the percent of graduates with full-time employment
+in a healthcare management job within 90 days of graduation (with 80% being the benchmark). The
+advancement rate would be the percentage of graduates who receive a management promotion within five
+years of graduation (with 50% being the benchmark). The first two outcomes measure if students can
+successfully complete the program and gain desired employment within reasonable timelines. The last
+outcome measure quantifies the value of the degree program in facilitating career advancement (and
+tracking it ensures maintaining contact with alumni).
+IV. Resources
+32. Comment on the adequacy of physical resources and facilities, e.g., library, computer, and laboratory
+facilities; practica and internship sites or other experiential learning opportunities, such as co-ops or
+service learning; and support services for the program, including use of resources outside the
+institution.
+As currently proposed, physical resources and facilities are adequate. In the long-term, the Program
+should consider seeking internship and/or residency opportunities, specifically targeting students who do
+not already have work experience within the healthcare industry. As proposed, the Program does not
+require any sort of experiential learning opportunity.
+
+72
+
+33. What is the institution's commitment to the program as demonstrated by the operating budget,
+faculty salaries, the number of faculty lines relative to student numbers and workload, and discussions
+about administrative support with faculty and administrators?
+Based on the details in the proposal and the comments from leadership during the site visit, the institution
+is committed to the Program’s success. As the Program grows, I recommend establishing a dedicated
+Program Director (rather than having one person responsible for all of the graduate degree programs).
+V. Summary Comments and Additional Observations
+34. Summarize the major strengths and weaknesses of the program as proposed with particular
+attention to feasibility of implementation and appropriateness of objectives for the degree offered.
+The major strengths are the leadership’s commitment to establishing a quality program and their desire to
+play a critical role in helping fill the needs of the Long Island healthcare industry. The weaknesses are a
+predominantly knowledge-based curriculum that may not meet industry needs and the limitations of the
+~30-credit ceiling. The recommendations to adopt a competency-based curriculum and to focus on
+managers within the healthcare industry are aimed at eliminating these weaknesses.
+35. If applicable, particularly for graduate programs, comment on the ways that this program will make a
+unique contribution to the field, and its likelihood of achieving State, regional and/or national
+prominence.
+The Program will make a unique contribution by connecting directly with industry from the start,
+engaging their input in finalizing the program structure, and maintaining their involvement as the program
+grows and evolves. State and regional prominence can be attained through the recommendations within
+this report. National prominence may require expanding the scale and scope of the program in order to
+achieve CAHME accreditation. With CAHME accreditation, the program will gain national exposure and
+will be ranked in the U.S. News and World Report rankings for graduate programs in healthcare
+management. CAHME accreditation is required to be ranked, and all CAHME-accredited programs show
+up in the rankings.
+36. Include any further observations important to the evaluation of this program proposal and provide
+any recommendations for the proposed program.
+I can’t stress enough the importance of establishing the program’s link to industry, from the program’s
+infancy, and keeping industry engaged in providing external stakeholder feedback throughout the
+program’s life cycle. As long as the program is providing industry with the types of graduates they need,
+who have the critical competencies necessary to effectively manage in today’s healthcare environment,
+the program will be a success.
+
+73
+
+Appendix 6 Intuition’s Response to External Report
+On July 28, 2015 two reviewers met with Old Westbury business faculty, the Dean for the
+School of business, the Provost, and representatives from library services. David B. Tataw, PhD,
+MMIS, MPA, FACHE, Chair and Director of Graduate Programs from the College of Saint
+Elizabeth; Morristown, NJ and Kevin D. Broom, PhD, Assistant Professor from the College for
+Public Health, Saint Louis University provided significant feedback to the proposed program.
+Both reviewers provided a written report of their findings. These reports are in Appendix 5 of
+this proposal. Comments from these reports include the statement from Dr. Tataw that the
+program “…will make a unique contribution to the local health care industry workforce
+development and will strengthen the local economy.” Further Dr. Bloom stated, “the proposal
+represents an admirable attempt at establishing a quality program that should help meet the needs
+of healthcare industry within the Greater Long Island community for the foreseeable future.”
+From these two reports we identified eight comments that form the basis of our instution’s
+response to the external report.
+
+1. Modify the purpose of the program to focus on early to mid-careerists.
+This comment was expressed by both reviewers. We agree that our original draft included
+comments that extended the reach of the program beyond what is appropriate for our 30 hour
+M.S. program. The target for our program are individuals who have work experience and are
+interested in expanding their career options to move into management positions. We expect that
+most students will be targeting the next step in their careers as a move into mid-management,
+department head, or business unit director. Thus, we have adjusted the language in section 2.3(a)
+to address this revised focus.
+
+2. Adopt and modify a competency-based model for use as student learning outcomes.
+Preferably, the adoption of no more than 10 competencies from National Healthcare
+Leader Center Competency-Based model.
+The comments related to this recommendation were appreciated. We have revised the student
+learning outcomes to align with the competencies from the National Center for Healthcare
+
+74
+
+Leadership (NCHL) Competency Model. In Section 2.3(a) we have aligned the primary student
+learning outcomes with the NCHL Competency Model.
+3. Involve community and industry state holders in refining and strengthening the
+program focus and content.
+A reviewer stated: “I can’t stress enough the importance of establishing the program’s link to
+industry, from the program’s infancy, and keeping industry engaged in providing external
+stakeholder feedback throughout the program’s life cycle.” This recommendation is well
+received and is one that we will implement. Engaging the healthcare community is critical to our
+success.
+As we develop this program we anticipate that we will work with local healthcare institutions to
+strengthen and align the program to the needs of the market place. A task force member is a part
+of the local chapter of the ACHE leadership council. He will work with his contacts to develop
+relationships with local leaders in healthcare. Some of these leaders may also be able to teach
+classes as an adjunct faculty member. As noted in a following comment is the recommendation
+that a program coordinator be appointed. This role will include facilitating an outreach to the
+established medical community, including the possible creation of the recommended Advisory
+Board.
+4. Redesign the core business courses that make the bulk of the 30 credit hours in the
+program to include health care management content or create health care courses
+which are cross-listed with the business courses.
+In order to efficiently allocate resources within the graduate business program we are utilizing
+some core business courses. These classes as outlined in the proposal provide a framework for
+business. Both reviewers commented that it would be appropriate revise these courses for the
+M.S. in Healthcare Management so that they are reflective of the focus of the program. Faculty
+have discussed this and to the extent that it is appropriate they will assign specific coursework
+tailored to a healthcare management environment. As the program grows we will consider the
+creation of program specific business courses.
+5. Appoint a faculty coordinator to focus on the roll out of the program and manage it
+until a Director is appointed. Establish a student mentoring program
+
+75
+
+The School of Business has a Director of Graduate Programs. This position focuses on all the
+graduate programs within the School of Business. Appointing a program coordinator to work
+exclusively with the M.S. in Healthcare Management is an idea that has merit. This position will
+be critical to facilitate the necessary outreach to the medical community. In addition, the
+coordinator’s role will help make sure the needs of students are met. We agree that this role,
+which will be assigned to a current task force member, is an appropriate recommendation. The
+coordinator will investigate the feasibility of establishing a student mentoring program.
+6. Recruit an additional full time faculty with training or research background in health
+administration or policy.
+As indicated in Section 5.a,, we anticipate hiring an appropriately qualified full time faculty
+member in the 3rd year of the program. Appendix 4 provides a new faculty position description.
+We have explored a recommended requirements ad outlined by the AUPHA.
+7. Include experiential learning in the program by redesigning the capstone course to
+include an internship or other field experience.
+Many students entering into the program will be full time employees and may come with
+extensive healthcare experience. We believe that adding a required internship may place an
+unnecessary burden on students. However, we have added the option to choose an internship as
+one of the program’s electives. Through our department of Public Health and our Graduate
+Mental Health Counseling Program, we have extensive existing relationships with healthcare
+employers in the community.
+8. Clarify outreach strategy for outreach to minority and other underrepresent
+populations.
+We believe that our outreach to minorities and underrepresented populations is one of the
+strengths of our school. SUNY College at Old Westbury is a dynamic and diverse public college
+that fosters excellence in education for a diverse student body. Based upon the demographics of
+healthcare workers, we believe that the addition of the M.S. in Healthcare Management will
+enhance our ability to further increase our already diverse student body. We would anticipate
+that the diversity of this new graduate program will exceed that in our current graduate business
+programs.
+
+76

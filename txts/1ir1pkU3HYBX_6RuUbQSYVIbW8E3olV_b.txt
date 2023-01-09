@@ -1,0 +1,134 @@
+Resolution for the IT Governance and Advisory Committee
+WHEREAS, in May 2019, as a result of serious concerns raised by members of the faculty, the Faculty
+Senate formed a task force to investigate the state of shared governance in IT-related
+decision-making process at the College, and
+WHEREAS, the resulting faculty task force found shared governance in the IT governance to be
+insufficiently effective and recommended the College should replace the IT Governance
+Committee (ITGC) with a more effective model that will facilitate a transparent and
+collaborative decision-making process in IT policies, purchases, and resource allocations,
+and
+WHEREAS, in November 2019, the Faculty Senate accepted the recommendations and in collaboration
+with the campus administration formed the IT Governance Joint Task Force (ITG JTF) to
+design an improved model of IT Governance, and
+WHEREAS, after careful deliberation and consultation with offices and units across the campus, the ITG
+JTF proposed the establishment of IT Governance and Advisory Committee (ITGAC) as an
+improved replacement for the ITGC, and
+WHEREAS, the proposed Purview, Charge and Structure will facilitate a transparent and collaborative
+decision-making process in IT policies, purchases, and resource allocations by requiring the
+ITGAC:
+
+
+
+
+
+To establish a transparent process of technology-related purchases
+To facilitate regular and meaningful consultation with users of technologies
+To identify the training needs to take full advantage of IT resources
+To establish a democratic meeting process and a regular system of reporting to
+campus constituencies
+
+THEREFORE, BE IT RESOLVED that the Faculty Senate will support the establishment of the
+ITGAC as a replacement of the ITGC and accept the proposed Purview, Charge, Structure
+and related recommendations, and
+BE IT FORTHER RESOLVED that the Faculty Senate will start discussions regarding creating a
+standing committee whose focus is to advocate IT needs of faculty.
+
+Submitted by IT Governance Joint Task Force, May 7, 2021
+[IT Governance Joint Task Force]
+Anthony Barbera (Academic Affairs), Laura Chipley (Faculty), Jacob Heller (Inst. Effectiveness; CoChair), Michael Kinane (Public and Media Relations), Evan Kobolakis (CIO), Laurette Morris (Faculty;
+UF Senator), Werner Sbaschnik (Faculty), Ryoko Yamamoto (Faculty; Co-Chair)
+
+Purview, Charge and Structure for an IT Governance and Advisory Committee (ITGAC),
+to Replace the current IT Governance Committee
+May 7, 2021
+Proposed by
+The IT Governance Joint Task Force
+(Membership: Anthony Barbera , Laura Chipley, Jacob Heller, Michael Kinane, Evan Kobolakis,
+Laurette Morris, Werner Sbaschnik, Ryoko Yamamoto)
+
+Purview
+The IT Governance and Advisory Committee (ITGAC) shall serve as the mechanism of mutual
+consultation between Information Technology Services (ITS) and users of ITS [e.g., the Faculty,
+students, and operational units like the Library, Student Affairs, etc.], for continuous
+improvement of service in support of the Mission of the College. The ITGAC is not directly
+engaged with the technical aspects of ITS operations, but serves to align ITS initiatives and
+actions with campus users' needs.
+Charge
+In accordance with the IT Governance and Advisory Committee (ITGAC) Draft Purview, the
+ITGAC charge encompasses the following:
+1. To ensure that, for specific purchases,
+
+
+The College’s technology-related purchases that exceed the College’s prevailing
+cost threshold (https://www.oldwestbury.edu/policies/information-technologypurchasing) are prioritized based on service requirements as understood by the
+College's functional users, in alignment with the goals of the College’s Mission
+and current Strategic Planning documents, and
+
+
+
+There is a transparent process for submitting and approving technology related
+purchase requests (e.g., criteria considered for approval), and
+
+
+
+The submission process is publicized and includes prior ITS technical review and
+other recommended steps, as well as the criteria considered for approval, and
+
+2. To ensure that user requirements related to the effectiveness of technology purchases,
+their implementation, and maintenance are identified through regular and meaningful
+consultation that solicits and receives information from ITS functional user constituencies
+(e.g., regular surveys of user needs), and
+
+ITGAC Proposed Purview, Charge and Structure for ITGAC - (ITG JTF May 7, 2021) Page 1 of 3
+
+3. To ensure that systemic technical problems and maintenance needs are identified through
+adequate, regular, and meaningful consultation that solicits and receives information from
+ITS functional user constituencies (the ITGAC has neither authority nor responsibility for
+managing or interfering in ITS internal decision-making or functions), and
+4. To identify the training and staff development needed to take full advantage of IT
+resources, and
+5. To obtain regular updates from ITS regarding planned major initiatives or changes in a
+timely manner, as well as responses to ITGAC recommendations, and
+6. To conduct all meetings, processes, recommendations, and actions transparently and in
+accordance with Robert’s Rules of Order (e.g., agendas, minutes), and
+7. To make recommendations on its actions to the President, and make same available to the
+campus community; members of the ITGAC shall also report ITGAC recommendations
+to their constituencies, and
+8. To issue regular (e.g., each semester) reports to the College describing its actions.
+
+Structure and Operation:
+Membership, Leadership, Meetings, and Reporting, and Process
+1. Membership (14 voting, 1 non-voting):
+ Academic Affairs (1) Provost (ex officio) or designee;
+ Academic Heads of Schools (4), ex officio;
+ Assoc VP for Business Affairs/Controller (1) (ex officio) or designee;
+ Faculty (2) (selected by Faculty Governance);
+ Instructional Design (1) non-voting;
+ ITS (CIO) (1) (ex officio) ;
+ Library Director (1) (ex officio) or designee;
+ Media & Public Relations (1) VP Media & Public Relations (ex officio) or designee;
+ President's Office (1) President (ex officio) or designee;
+ SGA Representative (1) (selected by SGA Board);
+ Student Affairs (1) VP Student Affairs (ex officio) or designee.
+2. Leadership:
+ The ITGAC’s Chair, Vice-Chair, Recording Secretary shall be elected out of the voting
+membership by the voting members present at the election meeting
+ The term of the ITGAC’s Chair, Vice-Chair, Recording Secretary shall be one year
+3. Meetings: The ITGAC shall meet at least once each month.
+4. Reporting:
+ The ITGAC shall make recommendations resulting from meetings on an ongoing basis to
+the appropriate offices/entities
+ The ITGAC shall make a formal report at least once each semester to the College (e.g.,
+President, Faculty Senate, to the “data hub”)
+
+ITGAC Proposed Purview, Charge and Structure for ITGAC - (ITG JTF May 7, 2021) Page 2 of 3
+
+5. Process: The proceedings of the ITGAC will follow Robert’s Rules of Order.
+
+Related Recommendations
+1. The College’s purchasing processes should be revised to require that technology
+purchases include the ITGAC as a step in the existing process, as described above.
+2. The faculty governance structure should be modified to create a standing committee
+whose focus is to advocate IT needs of faculty.
+
+ITGAC Proposed Purview, Charge and Structure for ITGAC - (ITG JTF May 7, 2021) Page 3 of 3

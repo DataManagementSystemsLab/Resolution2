@@ -1,0 +1,116 @@
+IT Shared Governance Study: Executive Summary
+Instructional technology has nearly universal importance to teaching. Stable network connection
+and reliably functional classroom technology are essential, but these basic needs are often unmet.
+Almost all respondents to the Faculty Survey reported routinely using some instructional technology.
+Meanwhile, over 40% indicated technology in regular smart classrooms does not meet their teaching
+needs. Nearly 70% of survey respondents experienced IT problem in the first several weeks of F19, and
+about 40% of these problems inhibited their teaching in multiple class periods.
+Overall, faculty perceive the problems in instructional technology to be both systemic and fiscal.
+The faculty recognizes efforts made by individual ITS staff. Narrative comments from the survey and
+Faculty Rep Interviews acknowledge that IT problems are primarily due to the lack of resources and
+staffing or policy and purchasing decisions, and the situation is beyond the control of individual staff.
+Confidence in the current model of IT shared governance is low, both among faculty at large and
+among those who served on IT shared governance committees. Eighty three percent of survey
+respondents indicated that they do not have a voice in IT governance. Sixty nine percent do not feel that
+IT policies at the College are developed in a fair and transparent way and 71% do not feel that the
+allocation of IT resources is fair and transparent. These sentiments are stronger among tenure-track
+faculty. Faculty representatives who have served on IT shared governance committees felt they were
+unable to play a meaningful role because 1) committee meetings are not the site of decision-making, 2)
+the meeting agendas are dominated by administrative issues rather than pedagogical concerns, and 3)
+there is neither time nor an effective mechanism for representatives to consult with a larger faculty body.
+The lack of a culture of respect at meetings was also identified as an obstacle to meaningful participation,
+particularly by women and untenured faculty reps.
+
+Ineffective IT shared governance hinders teaching and the utilization of IT resources. Narrative
+comments in the survey and interviews pointed to multiple instances of technological mismatch, where
+new technology was incompatible with pedagogical needs and/or with existing technology. Faculty Rep
+Interviews revealed that the target users were not effectively involved in the decision-making; in cases
+where they were consulted, faculty learned their feedback had been ignored only after the technology had
+been installed or policy implemented. These technological mismatches result in the underutilization of
+new technology, and a negative impact on teaching. Furthermore, both interview and survey respondents
+noted cases of unutilized IT resources due to the lack of communication and/or instruction.
+IT policies that are misaligned with faculty needs hinders essential functions of the faculty and may
+heighten security risks. Both survey respondents and faculty representatives interviewed noted that a
+recent policy that deprives faculty administrative privileges to their college-issued laptop hinders daily
+functionality, especially in the context of limited tech support. When college-provided IT resources are
+inadequate to their needs, the faculty tend to sacrifice components of teaching or resort to using personal
+resources; 13% of survey respondents reported they had “given up” on using a college-issued personal
+device. If depriving administrative privileges turns more faculty to personally-owned devices it could
+potentially have an adversary impact on security.
+Forms of IT shared governance vary among SUNY campuses, but clear mechanism for faculty
+input with explicit connections to the Faculty Senate appears fundamental to all models.
+Transparent communication with stakeholders and aligning IT policies with user needs are
+generally considered key components of IT governance best practice.
+
+ITSGS Executive Summary and Recommendations (20191101) -1
+
+IT Shared Governance Study: Recommendations
+Based on findings from the study, the IT Shared Governance Study Task Force recommends following
+actions:
+1. The College will replace the IT Governance Committee with a more effective model.
+2. The Faculty Senate will coordinate with the Administration to form a joint faculty-admin task
+force to design an improved model of the IT governance by a clearly specified deadline.
+3. The Faculty Senate and the Administration will consider recommendations from the task force in
+spirit of shared governance and work together for an appropriate and timely implementation.
+
+The IT Shared Governance Study Task Force recommends that the new system of IT shared governance
+will:
+ Implement a transparent and collaborative decision-making process in IT policies,
+purchasing, and resource allocations
+ Build in time and mechanisms for meaningful consultation with stakeholders prior to
+major IT decisions
+ Assign clear roles and responsibilities to committees and representatives
+ Use common democratic process in meetings, e.g., circulate agendas and minutes in a
+timely manner, articulate action plan items and follow up on them
+ Consciously foster culture of respect in meetings
+ Create a mechanism that better aligns IT policies with pedagogical needs
+ Built in a mechanism that routinely gathers faculty input on IT issues
+ Identify ways to recognize and support bottom up faculty innovations and initiatives
+ Consider creating a tech incubator with an iterative process to pilot new instructional
+technology and test faculty initiatives
+ Institute a system that promotes accountability and evidence-based policy-making
+ Monitor the use of new technology after implementation and make the data accessible to
+stakeholders
+ Utilize assessment data and formal faculty input to reflect on past technology decisions and
+drive future resource allocation
+ Study and build on best practices for shared IT governance at other institutions
+ Establish the faculty governance structure that empowers those who represent the faculty on
+IT shared governance committees
+ Consider creating a standing committee whose focus is to advocate IT needs of faculty
+
+ITSGS Executive Summary and Recommendations (20191101) -2
+
+Resolution on a Study of IT Shared Governance
+WHEREAS Information Technology (IT) policies have a measurable impact on curriculum delivery and
+student learning experiences,
+WHEREAS the faculty bears the primary responsibility to deliver the curriculum and facilitate student
+learning,
+WHEREAS the presence of faculty representatives in IT related committees is necessary but is not in
+itself sufficient for meaningful faculty participation in IT policy making processes,
+WHEREAS concerns have been expressed that faculty input may not have been effectively utilized in IT
+decisions concerning policy, planning, purchasing, maintenance, and operations,
+WHEREAS meaningful faculty consultation in IT policy making aligns with two of the 2021 Middle
+States Self Study Institutional Priorities: 3. Encourage greater mutual understanding, collaboration, and
+transparency among campus units through an appreciation and respect for each other’s contributions
+towards achieving our shared student-centered goals and furthering the College Mission, and 4.
+Strengthen faculty governance and its relationship with the College’s administration for the benefit of
+students and the broader institution,
+WHEREAS best outcomes in shared governance occur when based on empirical data,
+
+THEREFORE, BE IT RESOLVED that the Faculty Senate will form a taskforce of faculty to
+investigate how faculty input has been provided and how this input has impacted IT decisions.
+BE IT FURTHER RESOLVED that the task force will document evidence of the faculty experience of
+IT shared governance through empirical data collection such as 1) interviews with those who have
+represented the faculty on IT-related issues and 2) a survey or focus groups with the broader faculty body,
+with appropriate institutional assistance,
+BE IT FURTHER RESOLVED that the task force will investigate, such as by contacting faculty
+governance at other SUNY comprehensive colleges and by researching best practices promulgated by
+relevant professional organizations, optimal forms of IT shared governance and the appropriate role of a
+college IT Governance Committee,
+BE IT FURTHER RESOLVED that the task force will report the outcome to the Faculty Senate by
+November 1, 2019.
+
+Submitted by Jillian Crocker, Patricia Harris, Yogesh More, Frank Sanacory, Samara Smith and Ryoko
+Yamamoto on April 26, 2019. Passed by the Faculty Senate on May 17, 2019.
+
+ITSGS Executive Summary and Recommendations (20191101) -3

@@ -1,0 +1,479 @@
+Program Revision Proposal:
+
+                            Creating New Program(s) from Existing Program(s)
+                                                                  EPP Form N
+
+This form should be used to seek SUNY’s approval to create one or more new
+programs from existing, registered programs.  A campus is not required to
+submit a Program Announcement (PA) or a Letter of Intent (LI) for these
+types of new programs.   The Chief Executive or Chief Academic Officer
+should submit a signed cover letter and this completed form to the SUNY
+Provost at program.review@suny.edu.
+
+|Section 1.  General Information                                                |
+|a)       |Institution Name: SUC  Old Westbury                                  |
+|Instituti|Institution’s 6-digit SED Institution Code:234000                    |
+|onal     |Institution’s Address:                                               |
+|Informati|                                                                     |
+|on       |Additional Information:  Specify each campus and its 6-digit SED     |
+|         |Institution Code where the program is registered and where the       |
+|         |proposed changes would apply:                                        |
+|b)       |Name and title:                                                      |
+|Contact  |                                                                     |
+|Person   |                                                                     |
+|for This |Telephone:         E-mail:                                           |
+|Proposal |                                                                     |
+|c)       |Signature affirms that the proposal has met all applicable campus    |
+|CEO (or  |administrative and shared governance procedures for consultation, and|
+|designee)|the institution’s commitment to support the program as revised.      |
+|Approval |Name and title:                                                      |
+|         |Signature and date:                                                  |
+|.        |                                                                     |
+|         |If the revised program will be registered jointly[1] with one more   |
+|         |other institutions, provide the following information for each       |
+|         |partner institution.  The signature confirms support of the changes. |
+|         |Partner institution’s name:                                          |
+|         |Name and title of partner institution’s CEO:                         |
+|         |Signature of partner institution’s CEO:                              |
+
+                                                          Version 2013-10-17
+
+|Section 2.  Multi-Award and Multi-Institution Programs                         |
+
+ Check one.
+
+[  X  ]     This proposal is for a multi-award program  that  leads  to  two
+      separate awards  (e.g.,  A.S./B.A.,  B.S./M.S.).   Complete  Part  2A,
+      below.    NOTE:  Such programs generally  involve  special  admissions
+      for students who have the capacity to complete all awards,  curricular
+      integration between the component  programs,  and  shortened  time  to
+      degree compared to taking the programs separately.
+
+ [    ]     This proposal is for a multi-institution program (also called  a
+      “jointly registered program”) to be offered jointly  by  two  or  more
+      institutions.  Complete Part B, below.   NOTE:  Such programs  involve
+      a formal agreement between two or more institutions to  offer  courses
+      leading to an award.
+
+[    ]      This proposal is for a  multi-institution,  multi-award  program
+      to be offered jointly by more two or more institutions and lead to two
+      separate  awards.   Provide  a  single,  consolidated  response   that
+      reflects all the items in Parts 2A and 2B, below.
+
+PART 2A – Multi-Award Program
+
+a) Program Title: Combined B.A. /M.A.T. in English Adolescence Education
+
+b) Program Awards ((e.g., B.A./M.S.) from existing  programs):  Bachelor  of
+   Arts in English/ M.A.T. in English Adolescence Education
+
+c) Proposed HEGIS Code: 2205.00
+
+d) Required Number of Credits:  Minimum    [  156     ]       If  tracks  or
+   options, largest minimum [      ]
+
+e) Format:  [ X ] Day    [ X ] Evening  [  ] Weekend     [  ]
+   Evening/Weekend     [  ] Not Full-Time
+
+f) Mode:    [X  ] Standard   [  ] Independent Study   [  ] External   [  ]
+   Accelerated
+
+      [  ]  Distance Education  (If 50% of more of the program can be
+   completed via distance education,
+
+      append a Distance Education Format Proposal at the end of this form.)
+
+
+
+g)   Other:    [  ] Bilingual  [  ] Language Other Than English   [  ]
+   Upper Division Program   [  ] Cooperative
+
+   4.5 year    [ X ] 5 year
+
+h)    List registered programs at the institution identified  in  Section  1
+   whose courses will contribute to this program.  Add rows as needed.
+|         |Program Title                    |Award     |SED Program Code |
+|Program 1|Bachelor of Arts in English      |B.A.      |92380            |
+|Program 2|Master of Arts  in Teaching      |M.A.T     |32469            |
+|         |English Adolescence Education    |          |                 |
+
+
+i) List all the courses required for each  existing  program,  and  indicate
+   which ones will be counted toward both awards. See attachment 1
+j) How long will it take for full-time students  to  complete  the  proposed
+   program? 5 years
+k) What are the admissions requirements for the new  program,  and  how  are
+   they related to student success?
+      Candidates must apply for the program by the end of Junior year. They
+      must have 12 credits of residency.  All candidates must show a GPA of
+      3.25 overall and 3.25 in the courses required for the English B.A.
+      degree.  An interview is required.
+      Transfer students ‘GPA must meet Old Westbury’s GPA requirements and
+      transfer courses must be calculated along with Old Westbury grades for
+      admission to this program.
+
+
+      Candidates must submit an application that includes
+       • An essay
+       • GRE scores
+       • Two letters of reference from faculty
+       • All college transcripts
+
+
+      Highly qualified candidates will complete the program in five years by
+      accelerating undergraduate coursework, and moving on to graduate study
+      in the fourth year.   Candidates must maintain a GPA of 3.25 (overall
+      and in the major) in each semester of study.  Additionally, no grades
+      of D are permitted for any required courses, and candidates must meet
+      requirements of the English major. These include a maximum of one
+      grade of C- in English content courses.  Those whose GPA falls below
+      3.25 will be placed on probation and will have one semester to bring
+      up their grades.    Candidates who fail to complete the five-year
+      program will be administratively transferred into the English major,
+      and will graduate with the B.A. degree.
+
+
+l) Complete a SUNY Sample Program Schedule to  show  how  students  will  be
+   able to  schedule  all  required  courses  to  complete  the  multi-award
+   program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Attachment 1
+
+|Program 1 Courses                                   |Credits  |Counted     |
+|                                                    |         |Toward Both |
+|                                                    |         |Awards      |
+|                                                    |         |√           |
+|Code         |Title                                 |         |            |
+|EL3010       |Linguistic Foundations                |4        |            |
+|EL3500, 3510 |Literary Analysis 1                   |4        |            |
+|or 4400      |                                      |         |            |
+|EL3500, 3510 |Literary Analysis 2                   |4        |            |
+|or 4400      |                                      |         |            |
+|             |Brit / US Lit Elective                |4        |            |
+|             |World Lit Elective                    |4        |            |
+|             |Multicultural Lit Elective            |4        |            |
+|             |Specialization Elective 1             |4        |            |
+|             |Specialization Elective 2             |4        |            |
+|             |Specialization Elective 3             |4        |            |
+|EL5000       |Senior Seminar Research               |4        |            |
+|EL5010       |Senior Seminar Thesis                 |4        |            |
+|FY1000       |First Year Exp                        |4        |            |
+|CE1000       |Community Engage                      |2        |            |
+|EL1XXX       |English Comp 1                        |4        |            |
+|EL22XX       |English Comp 2                        |4        |            |
+|             |Creativity                            |4        |            |
+|             |Western Traditions                    |4        |            |
+|             |American Experience                   |4        |            |
+|             |Major Cultures                        |4        |            |
+|             |Foreign Language                      |4        |            |
+|             |Lab Science                           |4        |            |
+|             |Diversity                             |4        |            |
+|PY2010       |Intro Psych                           |4        |            |
+|             |Math GE                               |4        |            |
+|             |Free Electives                        |26       |            |
+
+
+
+|Program 2 Courses                                   |Credits  |Counted     |
+|                                                    |         |Toward Both |
+|                                                    |         |Awards      |
+|                                                    |         |√           |
+|Code         |Title                                 |         |            |
+|ED6000       |Foundations of Ed                     |3        |            |
+|ED6001       |Human Growth & Devel                  |3        |            |
+|ED6002       |Foundations of Literacy               |3        |            |
+|ED6003       |Except Learner                        |3        |            |
+|ED6083       |Methods of Teaching English           |3        |            |
+|ED6093       |Literacy & Technology / English       |3        |            |
+|ED6901       |Student Teaching                      |6        |            |
+|EL6510       |Found US Literature                   |3        |√           |
+|EL6520       |Found English Lit                     |3        |√           |
+|EL6530       |Topics Multicult Literature           |3        |            |
+|EL6540       |Topics World Literature               |3        |            |
+|EL6550       |Rhetoric and Composition              |3        |            |
+|EL7500       |Literature in Classroom               |3        |            |
+SUNY Undergraduate Sample Program Schedule OPTION:  You can paste an Excel
+version of this schedule AFTER this line, and delete the rest of this
+page.)
+Program/Track Title and Award:_ Combined B.A. /M.A.T. in English
+Adolescence Education - Bachelor of Arts in English
+a) Indicate academic calendar type: [X  ] Semester   [  ] Quarter   [  ]
+   Trimester   [  ] Other (describe):
+b) Label each term in sequence, consistent with the institution’s academic
+   calendar (e.g., Fall 1, Spring 1, Fall 2)
+c) Name of SUNY Transfer Path, if one exists:
+   English_______________________________  See Transfer Path Requirement
+   Summary for details.
+d) Use the table to show how a typical student may progress through the
+   program; copy/expand the table as needed.  Complete all columns that
+   apply to a course.
+|Term 1: Fall 1                                                                                                  |
+SUNY Graduate Sample Program Schedule OPTION:  You can insert an Excel
+version of this schedule AFTER this line, and delete the rest of this
+page.)
+   Program/Track  Title  and  Award:_  Combined  B.A.  /M.A.T.  in   English
+   Adolescence Education - M.A.T. in English Adolescence Education
+
+a) Indicate academic calendar type: [ X ] Semester   [  ] Quarter   [  ]
+   Trimester   [  ] Other (describe):
+b) Label each term in sequence, consistent with the institution’s academic
+   calendar (e.g., Fall 1, Spring 1, Fall 2)
+c) Use the table to show how a typical student may progress through the
+   program; copy/expand the table as needed.
+d) Complete the last row to show program totals and comprehensive,
+   culminating elements.  Complete all columns that apply to a course.
+|                                                     | |Term 1:Spring 4                                        |
+|Course Number & Title                                |C|New                                                    |
+|                                                     |r|                                                       |
+|                                                     |e|                                                       |
+|                                                     |d|                                                       |
+|                                                     |i|                                                       |
+|                                                     |t|                                                       |
+|                                                     |s|                                                       |
+|Course Number &     |Credits     |New                                                                          |
+|Title               |            |                                                                             |
+|New: X  if new course    Prerequisite(s): list prerequisite(s) for the noted courses                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|For programs leading to initial certification, list all pedagogical courses in the|
+|proposed program in the Pedagogical Core Courses table below.   The Pedagogical   |
+|Core Courses Table is designed for a program leading to a single certificate or   |
+|multiple certificates. See example on Pedagogical Core Courses Table for an       |
+|inclusive childhood education program leading to Childhood Education 1-6 (Cert    |
+|Code: 02) and Teaching Students with Disabilities 1-6 (Cert Code: 06).            |
+|                                                                                  |
+|Step 1:                                                                           |
+|In the first four columns, identify each pedagogical course by course number,     |
+|title, number of credits, required (R) or elective (E), and the                   |
+|instructor(s)/status (full-time or part-time). See example on Pedagogical Core    |
+|Courses Table.                                                                    |
+|                                                                                  |
+|Step 2:                                                                           |
+|Use the Certification Area Codes listed immediately below to identify the         |
+|certificate area(s) the program leads to and insert the certificate area number   |
+|code(s) in the Cert Code column(s). For example, if a program prepares candidates |
+|for certification in Childhood Education 1-6 and Teaching Students with           |
+|Disabilities Childhood 1-6, mark 02 and 06 in the Cert Code columns. See example  |
+|on Pedagogical Core Courses Table.                                                |
+|                                                                                  |
+|Certification Area Code                                                           |
+|01. Early Childhood Education                                                     |
+|                                                                                  |
+|                                                                                  |
+|02. Childhood Education                                                           |
+|                                                                                  |
+|                                                                                  |
+|03. Middle Childhood Education                                                    |
+|                                                                                  |
+|                                                                                  |
+|04. Adolescence Education                                                         |
+|                                                                                  |
+|                                                                                  |
+|05. Teaching a Special Subject                                                    |
+|                                                                                  |
+|                                                                                  |
+|06. Teaching Students with Disabilities in Early Childhood and Childhood          |
+|                                                                                  |
+|                                                                                  |
+|07. Teaching Students with Disabilities 7-12 Generalist                           |
+|                                                                                  |
+|                                                                                  |
+|08. Teaching Students Who are Deaf and Hard of Hearing                            |
+|                                                                                  |
+|                                                                                  |
+|09 Teaching Students Who are Blind or Visually Impaired                           |
+|                                                                                  |
+|                                                                                  |
+|10. Teaching Students with Speech and Language Disabilities                       |
+|                                                                                  |
+|                                                                                  |
+|11. Teaching English to Speakers of Other Languages                               |
+|12. Literacy                                                                      |
+|                                                                                  |
+|                                                                                  |
+|13. Teaching the Career Field                                                     |
+|                                                                                  |
+|                                                                                  |
+|14. Teaching a Specific Career and Technical Subject                              |
+|                                                                                  |
+|                                                                                  |
+|15. Library Media Specialist                                                      |
+|                                                                                  |
+|                                                                                  |
+|16. Educational Technology Specialist                                             |
+|                                                                                  |
+|                                                                                  |
+|17. Bilingual Education Extensions*                                               |
+|                                                                                  |
+|                                                                                  |
+|18. Bilingual Education Extensions**                                              |
+|                                                                                  |
+|                                                                                  |
+|19. Grades 5 and 6 Extensions                                                     |
+|                                                                                  |
+|                                                                                  |
+|20. Grades 7 through 9 Extensions                                                 |
+|                                                                                  |
+|                                                                                  |
+|21. Gifted Education Extensions                                                   |
+|                                                                                  |
+|                                                                                  |
+|22. Coordination of Work-Based Learning Programs Extensions                       |
+|                                                                                  |
+|                                                                                  |
+|24. Teaching Students with Severe or Multiple Disabilities Extensions             |
+|                                                                                  |
+|                                                                                  |
+|* Bilingual education extensions for all with exception of library media          |
+|specialist and educational technology specialist.                                 |
+|** Bilingual education extensions for library media specialist and educational    |
+|technology specialist.                                                            |
+|                                                                                  |
+|                                                                                  |
+|Step 3:                                                                           |
+|Using the Roman numerals embedded in the Certification Area Codes above, identify |
+|the general and program-specific pedagogical core requirements addressed by the   |
+|course and insert the Roman numerals corresponding to the requirements in the     |
+|appropriate columns. See example on Pedagogical Core Courses Table. The general   |
+|and program-specific requirements can be found by clicking on the link to each    |
+|certification area. NOTE: The Roman numerals found in the Certification Area Codes|
+|(e.g., ii, vi, vii,) reflect the regulatory requirements for each certificate     |
+|title.  However, the Roman numerals used in the table and found in the links do   |
+|not always align with the Roman numerals in Section 52.21.  For purposes of       |
+|completing the Pedagogical Core Courses table, please use only the Roman numerals |
+|found within the Certification Area Codes above.                                  |
+|Step 4:                                                                           |
+|Provide a description of each existing pedagogical course for this program as it  |
+|appears in the college catalog by pasting it below, insuring that the description |
+|reflects alignment with the regulatory requirements:                              |
+|Step 5:                                                                           |
+|Attach syllabi for each new course.  Syllabi should include a course description  |
+|and identify course credit, objectives, topics, student outcomes, texts/resources |
+|and the basis for determining grades.                                             |
+|                                                                                  |
+
+
+Pedagogical Core Courses Table
+
+|Course Number   |Credit|R/E  |Instructor(s) /   |Pedagogical Core Requirements (PCR) |
+|and Title       |      |     |Status            |Addressed                           |
+|                |      |     |                  |General    |Program-Specific PCR    |
+|                |      |     |                  |PCR*       |                        |
+SUNY Faculty Table
+Provide information on current and prospective faculty members (identifying
+those at off-campus locations) who will be expected to teach any course in
+the graduate program. Expand the table as needed.  Use a separate Faculty
+Table for each institution if the program is a multi-institution program.
+
+|Faculty Member Name and    |% of Time      |Program Courses Which   |Highest and  |Discipl|Additional         |
+|Title/Rank                 |Dedicated to   |May Be Taught           |Other        |ine(s) |Qualifications:    |
+|(Include and identify      |This Program   |(Number and Title)      |Applicable   |of     |List related       |
+|Program Director with an   |               |                        |Earned       |Highest|certifications,    |
+|asterisk.)                 |               |                        |Degrees      |and    |licenses and       |
+|                           |               |                        |(include     |Other  |professional       |
+|                           |               |                        |College or   |Applica|experience in      |
+|                           |               |                        |University)  |ble    |field.             |
+|                           |               |                        |             |Earned |                   |
+|                           |               |                        |             |Degrees|                   |
+|Jacqueline Emery, Assistant|17% per        |EL6530 Topics in        |PhD, Temple  |English|                   |
+|Professor                  |academic year  |Multicultural Lit       |University   |       |                   |
+|                           |               |EL6550 Rhetoric and     |             |       |                   |
+|                           |               |Composition             |             |       |                   |
+|Amara Graf, Assistant      |17% per        |EL6530 Topics in        |PhD,         |English|                   |
+|Professor                  |academic year  |Multicultural Lit       |University of|       |                   |
+|                           |               |                        |Texas at     |       |                   |
+|                           |               |                        |Austin       |       |                   |
+|Narayan Hegde, Professor   |17% per        |EL6520 Foundations of   |PhD, SUNY    |English|                   |
+|                           |academic year  |English Lit             |Stony Brook  |       |                   |
+|                           |               |EL6540 Topics in World  |             |       |                   |
+|                           |               |Lit                     |             |       |                   |
+|Christopher Hobson,        |17% per        |EL6510 Foundations of US|PhD, City    |English|                   |
+|Professor                  |academic year  |Lit                     |University of|       |                   |
+|                           |               |EL6520 Foundations of   |New York     |       |                   |
+|                           |               |English Lit             |             |       |                   |
+|                           |               |EL6540 Topics in World  |             |       |                   |
+|                           |               |Lit                     |             |       |                   |
+|Nicholas Powers, Associate |17% per        |EL6510 Foundations of US|PhD,  City   |English|                   |
+|Professor                  |academic year  |Lit                     |University of|       |                   |
+|                           |               |EL6530 Topics in        |New York     |       |                   |
+|                           |               |Multicultural Lit       |             |       |                   |
+|*Nicole Sieben, Assistant  |50% per        |EL6550 Rhetoric and     |EdD, Hofstra |English|New York State     |
+|Professor and Coordinator  |academic year  |Composition EL7500 Lit  |University   |Educati|Teaching           |
+|of Program                 |               |in the Classroom        |             |on     |Certification—     |
+|                           |               |ED6083Methods of        |             |       |Adolescence English|
+|                           |               |Teaching English        |             |       |Education; Former  |
+|                           |               |ED6093 Literacy &       |             |       |Public High School |
+|                           |               |Technology / English    |             |       |English Language   |
+|                           |               |ED6091 Student Teaching |             |       |Arts Teacher in NY;|
+|                           |               |                        |             |       |National Council of|
+|                           |               |                        |             |       |Teachers of English|
+|                           |               |                        |             |       |Member, Presenter, |
+|                           |               |                        |             |       |Keynote Speaker;   |
+|                           |               |                        |             |       |GSEA Vice-Chair    |
+|Margaret Torrell, Associate|17% per        |EL6520 Foundations of   |DA, St.      |English|                   |
+|Professor                  |academic year  |English Lit             |John’s       |       |                   |
+|                           |               |EL6550 Rhetoric and     |University   |       |                   |
+|                           |               |Composition             |             |       |                   |
+|Julio Gonzalez             |17%            |ED6001 Human Growth &   |Ed.D.        |Child &|State of           |
+|                           |               |Developmnt              |University of|Familie|Massachusetts,     |
+|                           |               |                        |Massachusetts|s      |Certification      |
+|                           |               |                        |-Amherst     |Studies|special Education  |
+|                           |               |                        |             |Program|(1-12)             |
+|Stephanie Schneider        |               |ED6002: Foundations of  |Ph.D. Hofstra|Literac|NYSED Certification|
+|                           |17%            |Literacy                |University   |y      |(7-12) Social      |
+|                           |               |                        |             |Studies|Studies/ Special   |
+|                           |               |                        |             |       |Education          |
+|Sanja Cale                 |17%            |ED6003:Except Learner   |Ph.D. Stony  |Clinica|Board Certified    |
+|                           |               |                        |Brook        |l      |Behavior Analyst   |
+|                           |               |                        |University   |Psych. |                   |
+|Part 2.  Part-Time Faculty |               |                        |             |       |                   |
+|                           |               |                        |             |       |                   |
+|                           |               |                        |             |       |                   |
+|                           |               |                        |             |       |                   |
+|                           |               |                        |             |       |                   |
+|Part 3.  Faculty           |               |                        |             |       |                   |
+|To-Be-Hired (List as TBH1, |               |                        |             |       |                   |
+|TBH2, etc., and provide    |               |                        |             |       |                   |
+|title/rank and expected    |               |                        |             |       |                   |
+|hiring date.)              |               |                        |             |       |                   |
+|                           |               |                        |             |       |                   |
+|                           |               |                        |             |       |                   |
+
+
+-----------------------
+[1] If the partner institution is non-degree-granting, see SED CEO Memo 94-
+04. .

@@ -1,0 +1,858 @@
+Institutional Preference Survey
+P re p a re d f or [ R EDACT ED ]
+
+TABLE OF CONTENTS
+Introduction ............................................................................................... 2
+BEST PRACTICES IN SURVEY DESIGN ............................................................... 2
+Survey Instrument ...................................................................................... 4
+INTRODUCTION ............................................................................................ 4
+CONSENT TO DATA COLLECTION .................................................................... 4
+INCENTIVE OPT-OUT .................................................................................... 4
+SCREENERS .................................................................................................. 5
+IMPORTANT FACTORS .................................................................................... 5
+NPS ........................................................................................................... 6
+COMPETITION .............................................................................................. 6
+ENROLLMENT DECISIONS ............................................................................... 7
+FINANCIAL FACTORS ..................................................................................... 8
+COMMUNICATION ....................................................................................... 12
+DEMOGRAPHICS ......................................................................................... 13
+INCENTIVE DETAILS .................................................................................... 14
+About Hanover Research .......................................................................... 16
+
+©2019 Hanover Research
+
+1
+
+INTRODUCTION
+The following survey aims to collect perspectives from applicants and current
+students. When reviewing the survey instrument, p lease note the following structural
+aspects of the draft:
+Question numbers (e.g., Q3) pertain to the online survey programming numbers
+and may be non-linear.
+Dark red text is survey programming notes that are not seen by respondents.
+Questions are formatted into “Blocks” or core survey sections.
+“” denotes radio buttons where the respondent can only select one answer .
+“❑” denotes a check box where the respondent can select more than one answer
+option.
+“*” denotes questions that are mandatory for survey completion.
+
+BEST PRACTICES IN SURVEY DESIGN
+Hanover designs surveys that align with best practices in survey design. While we
+are sensitive to your needs and will make modifications as necessary, we strongly
+encourage you to maintain the following survey design standards m oving forward.
+Present matrix questions (e.g., Likert scales going from strongly disagree to
+strongly agree) from negative to positive.
+Randomize questions when multiple options are present to decrease “order effects,” which is common for questions of a similar structure.
+Balance Likert scales , for this survey, we primarily utilized three, four, and five point scales.
+Use “N/A” or “Don’t know” options when the question is either not relevant or
+the respondent is unsure. These are often consolidated becaus e there is not an
+analytical reason to separate these results. Moreover, extending the scale (i.e.,
+separating “N/A” and “Don’t know” as two different options) may encourage
+respondents to select more “positive” responses due to the relative physical
+position of the extended scale.
+Keep open-ended comments to a minimum. Respondents start providing
+redundant answers when faced with more than two or three open-ended
+responses.
+Use skip logic to ensure that respondents only answer questions pertinent to
+them.
+Avoid too many or too few questions in a single page . You may view these
+aesthetic aspects of the survey once the survey has been programmed into the
+online platform.
+Avoid questions with the following characteristics:
+o Avoid double-barreled questions (e.g., asking two question at once).
+o Avoid leading questions. For example, asking “Many staff members indicate
+that district buildings are clean. Is your building clean?” may lead a
+
+©2019 Hanover Research
+
+2
+
+o
+
+respondent to indicate that their building is clean regardless of their
+objective opinion. Asking leading questions makes respondents susceptible
+to social desirability. That is, respondents might then answer questions
+based on the question wording and not their objective opinion.
+Avoid subjective language for survey questions to en sure that all
+respondents will interpret the survey item the same way.
+
+©2019 Hanover Research
+
+3
+
+SURVEY INSTRUMENT
+INTRODUCTION
+Welcome to [REDACTED]'s Institutional Preference Survey
+[REDACTED] ([REDACTED]), in partnership with Hanover Research, is conducting a
+survey to understand the factors that influence students' decisions to enroll or not
+enroll at [REDACTED]. Your feedback will help [REDACTED] in its recruitment
+efforts over the coming years.
+The first [XXX] participants who qualify and complete this survey will be rewarded
+with a [INCENTIVE] as a thank you. If you qualify for the [INCENTIVE], you will be
+asked to provide your contact information at the end of the survey.
+This study is for research purposes only: all information you provide will be
+maintained on a confidential basis by Hanover Research and will only be reported
+to [REDACTED] in an anonymized form (i.e., your name and identifying information
+such as race and gender will not be shared with [REDACTED] or tied to your
+responses), so please be candid in your responses. Please note that you should not
+use your name or other identifying information in your open -ended responses.
+This survey should take about 10 to 15 minutes to complete. Thank you for your
+participation!
+Please click the arrow button to begin.
+
+CONSENT
+
+TO
+
+DATA COLLECTION
+
+1. Hanover Research takes protecting your personal information seriously. We use
+your data for research and analysis purposes only. Please see our Privacy
+Policy to learn how we collect and process your data. *
+I consent to having my personal data collected for this survey.
+I do not consent to having my personal data collected and wish to exit the
+survey. [Exit survey and delete data]
+
+I N C E N T I V E O P T -O U T
+Display this question to respondents who are not among the first [XXX]
+2. Unfortunately, you are not one of the first [XXX] participants to take this survey
+and are not eligible for the [INCENTIVE]; however, we would still greatly
+appreciate your feedback. Would you like to take the survey? *
+Yes, I understand I will not receive the [INCENTIVE], but I would like to
+participate in the survey.
+No, I would like to exit the survey now. [Exit survey]
+
+©2019 Hanover Research
+
+4
+
+SCREENERS
+3. Which of the following best describes your relationship to
+[REDACTED] ([REDACTED])?*
+I am currently enrolled as a student at [REDACTED] [Code as current student]
+I was accepted at [REDACTED], but I enrolled at a different college/university
+[Code as student enrolled elsewhere]
+I was accepted at [REDACTED], but I chose not to attend college at this time
+[Code as unenrolle d]
+None of the above [Disqualify]
+4. For which term did you apply to [REDACTED]?*
+Fall 2021
+Spring 2021
+Fall 2020
+Spring 2020
+Fall 2019 [Disqualify]
+Spring 2019 [Disqualify]
+Fall 2018 [Disqualify]
+Spring 2018 [Disqualify]
+Fall 2017 [Disqualify]
+Before Fall 2017 [Disqualify]
+
+IMPORTANT FACTORS
+5. Which of the following factors were most important to you when deciding where
+to apply for an undergraduate program? Please select up to five options.*
+❑ Proximity to family/home
+❑ Overall value for the cost
+❑ Financial aid package
+❑ Academic quality
+❑ Institutional reputation
+❑ Campus atmosphere
+❑ Cultural diversity
+❑ Varsity athletic opportunities
+❑ Student organizations, societies, and clubs
+❑ Recommendation of a friend
+❑ Availability of student services (e.g., tutoring, advising)
+❑ Parents' opinions
+❑ Offering of specific academic programs
+❑ Employment prospects after graduation
+❑ Off-campus opportunities (e.g., internships, study abroad programs)
+❑ Flexible program format (e.g., online courses, part -time study)
+❑ Outreach received from staff, faculty, or students of the institution
+❑ Religious affiliation
+❑ Transfer credit policies
+❑ Other (please specify): ________________________________________________*
+Note: Answer options are randomized to reduce order effects
+
+©2019 Hanover Research
+
+5
+
+6 . H o w w o u l d y o u r a t e [ R E D A C T E D ] i n t h e f o l l o w i n g a r e a [ s ] 1? *
+
+For quality
+control, please
+select "Poor"
+Selected factors
+from Q5 appear
+in rows
+
+DON'T
+KNOW/NO
+OPINION
+
+VERY
+POOR
+
+POOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAIR
+
+GOOD
+
+EXCELLENT
+
+Note: Answer options are randomized to reduce order effects
+
+NPS
+7. On a scale from 0-10, how likely are you to recommend [REDACTED] to a friend,
+family member, or colleague? *
+0-Not at All Likely
+1
+2
+3
+4
+5-Moderately Likely
+6
+7
+8
+9
+10-Extremely Likely
+
+COMPETITION
+8. If you applied to somewhere other than [REDACTED], how did [REDACTED] rank
+among all the schools to which you applied? *
+[REDACTED] was my first choice
+[REDACTED] was among my top choices
+[REDACTED] was "in the middle of the pack"
+[REDACTED] was among my bottom choices
+[REDACTED] was my last choice or "safety school"
+I did not apply to any schools other than [REDACTED] Display to current
+students and unenrolled respondents
+
+1
+
+The singular or plural tense will be shown depending on the number of factors respondents
+select in Q5.
+
+©2019 Hanover Research
+
+6
+
+Display this question to respondents who did not only apply to [REDACTED] in Q8
+9. Did you apply to any of the following universities? Please select all that apply. *
+❑ Competitor 1
+❑ Competitor 2
+❑ Competitor 3
+❑ Competitor 4
+❑ Competitor 5
+❑ Competitor 6
+❑ Competitor 7
+❑ Competitor 8
+❑ Competitor 9
+❑ Competitor 10
+❑ Fake School [For quality control]2
+None of the above
+Note: Answer options are randomized to reduce order effects
+
+10. How would you rate the overall quality of the following
+[ u n i v e r s i t y / u n i v e r s i t i e s ] 3? *
+
+[REDACTED]
+Selected
+competitor
+schools from Q9
+appear in rows
+
+VERY
+POOR
+
+POOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAIR
+
+GOOD
+
+EXCELLENT
+
+DON'T
+KNOW/NO
+OPINION
+
+
+
+Note: Answer options are randomized to reduce order effects
+
+ENROLLMENT DECISIONS
+Display this question to students enrolled elsewhere who applied to at least one
+competitor school in Q9
+11. Where did you end up enrolling? *
+Selected competitor schools from Q9 appear as answer options
+Other
+None of the above
+Note: Answer options are randomized to reduce order effects
+
+Display this question to students enrolled elsewhere who either did not apply to any
+competitor school in Q 9 or who said they enrolled at “Other” in Q 11
+12. Please enter the name of the u niversity in which you enrolled :.
+________________________________________________________________
+
+2
+
+3
+
+We recommend including a fake school for quality control pu rposes. If respondents select it,
+their response will be flagged for further review. The fake school will be hidden in Q 10-12.
+The plural tense is shown if the respondent applied to the listed competitor schools in Q 9;
+the singular tense is shown if they did not.
+
+©2019 Hanover Research
+
+7
+
+Display this question to current students and students enrolled elsewhere
+1 3 . W h y d i d y o u d e c i d e t o e n r o l l a t [ [ R E D A C T E D ] / s c h o o l f r o m Q 1 1 o r 1 2 ] 4? P l e a s e
+select all that apply. *
+❑ Affordability
+❑ Provides good value for the money
+❑ Offered a good financial aid package
+❑ Positive experience with the application process
+❑ Highest-ranked school to which I was accepted
+❑ Good fit for what I want to study
+❑ Availability or diversity of extracurricular activities
+❑ Campus social life
+❑ A friend or relative was attending
+❑ Close to where I want to live
+❑ Offered a spot on an athletics team
+❑ Flexible transfer credit policies
+❑ Other (please specify): ________________________________________________ *
+Note: Answer options are randomized to reduce order effects
+
+Display this question to students enrolled elsewhere and unenrolled respondents
+14. Why did you decide to not enroll at [REDACTED]? Please select all that apply. *
+Display these answer options to students enrolled elsewhere
+❑ I received a better financial aid package elsewhere
+❑ I was accepted to a higher-ranked school
+❑ Another school is a better fit for what I want to study
+❑ A friend or relative was attending elsewhere
+❑ Another school is closer to where I want to live
+❑ I was accepted to my first -choice school
+❑ Another school offered me a spot on an athletic team
+❑ I had trouble transferring prior academic credit to [REDACTED]
+Display these answer options to all
+❑ I cannot afford to attend
+❑ [REDACTED] does not provide good va lue for the money
+❑ I had a negative experience with the application process
+❑ [REDACTED] does not have the extracurricular activities I want to participate
+in
+❑ [REDACTED] does not have the campus social life I want
+❑ Other (please specify): _________________ _______________________________*
+Note: Answer options are randomized to reduce order effects
+
+COVID-19 IMPACT
+15.Did the current state of the COVID-19 pandemic impact your higher education
+plans for Fall 2021?
+
+4
+
+Current students at [PARTNER NAME] will see “[PARTNER NAME].” If students who said they
+enrolled elsewhere in Q 3 applied to and enrolled at a competitor school, they will see the
+school’s name they chose in Q11. If students enrolled elsewhere did either not apply to
+listed competitor schools in Q 9 or said they enrolled at “Other” in Q 11, they’ll see the text
+they entered in Q 12. If they entered no text, they’ll see “your current university.”
+
+©2019 Hanover Research
+
+8
+
+No, my plans remained the same
+Yes, my plans changed
+Display this question to respondents whose plans did not change as a result of COVID 19
+16.Did the current state of the COVID-19 pandemic lead you to consider doing any
+of the following? Please select all that apply.
+❑ Enrolling at a college or university that is less expensive than the institution I
+originally planned to attend
+❑ Enrolling at a college or university that is closer to home than the institution I
+originally planned to attend
+❑ Enrolling in a program that is entirely online/distance learning instead of one
+that is in-person or only partially online
+❑ Enrolling in a program that is part-time instead of full-time
+❑ Enrolling in a different degree program (e.g., an associate degree instead of a
+bachelor’s degree)
+❑ Postponing enrollment in Fall 2021 with plans to enroll in the future
+❑ Postponing enrollment in Fall 2021 with no plans to enroll in the future
+❑ Work full-time
+❑ Other (please specify): ________________________________________________*
+None of the above
+Display this question to respondents whose plans did change as a result of COVID -19
+17.Which of the following did you do based on the current state of the COVID -19
+pandemic? Please select all that apply.
+❑ Enrolled at a college or university that is less expensive than the institution I
+originally planned to attend
+❑ Enrolled at a college or university that is closer to home than the institution I
+originally planned to attend
+❑ Enrolled in a program that is entirely online/distance learning instead of one
+that is in-person or only partially online
+❑ Enrolled in a program that is part-time instead of full-time
+❑ Enrolled in a different degree program (e.g., an associate degree instead of a
+bachelor’s degree)
+❑ Postponed enrollment in Fall 2021 with plans to enroll in the future
+❑ Postponed enrollment in Fall 2021 with no plans to enroll in the future
+❑ Worked full-time
+❑ Other (please specify): ________________________________________________*
+Display this question to respondents whose plans did change as a result of COVID -19
+18.Which of the following factors related to the COVID -19 pandemic impacted
+your plans for the current academic year? Please select all that apply.
+
+©2019 Hanover Research
+
+9
+
+❑ I did not have the ability to pay for my education due to changing financial
+circumstances (e.g., loss of job, parents unable to provide financial support)
+❑ I did not have access to the tools and technology needed to take classes
+online or as distance learning
+❑ I did not feel prepared or comfortable enough with the tools and technology
+needed to take classes online or as distance learning
+❑ I did not feel my preferred college/university is technologically ready to
+conduct online/distance learning courses
+❑ My family circumstances have changed (e.g., caring for sick family members,
+caring for my child/children) as a resul t of the COVID-19 pandemic
+❑ Campus closures caused me to re-evaluate my educational plans
+❑ I am not able to concentrate on my studies at this time
+❑ I/My family does not see value in me enrolling in a degree program at this time
+❑ I did not know whether classes will be offered in an online or on -campus
+format in the fall
+❑ I did not know whether I would be able to live in a dorm/on campus
+❑ I did not know whether sports or other extracurricular activities w ould begin
+as planned
+❑ Other (please specify): ________________________________________________*
+Display this question to unenrolled respondents
+19. Given what has happened with COVID -19, do you think you are less or more
+likely to enroll in college?
+Much less likely
+Somewhat less likely
+About the same
+Somewhat more likely
+Much more likely
+Not sure
+
+FINANCIAL FACTORS
+Display this question to respondents who did not only apply to [REDACTED] in Q8
+20. Did you receive a financial aid package from any of the universities that you
+applied to other than [REDACTED]?*
+Yes
+No
+Display this question to respondents who did not only apply to [REDACTED] in Q8
+21. How influential were your [lack of]5 financial aid offers in your enrollment
+decision?*
+Not at All Influential
+Slightly Influential
+Moderately Influential
+Very Influential
+Extremely Influential
+
+5
+
+This text is shown to respondents who did not receive a financial aid offer in Q20.
+
+©2019 Hanover Research
+
+10
+
+22. Did you receive a financial aid offer from [REDACTED]?*
+Yes
+No
+Display this question if Q22 is “Yes”
+23. How would you rate your level of satisfaction with the financial aid offer you
+received from [REDACTED]?*
+Completely Dissatisfied
+Somewhat Dissatisfied
+Neither Satisfied nor Dissati sfied
+Somewhat Satisfied
+Completely Satisfied
+24. How influential [was/were]6 the following in your enrollment decision? *
+NOT AT ALL
+INFLUENTIAL
+Display if
+Q22 is “Yes”
+Financial aid
+package
+from
+[REDACTED]
+Annual
+tuition price
+at
+[REDACTED]
+
+SLIGHTLY
+INFLUENTIAL
+
+MODERATELY
+INFLUENTIAL
+
+VERY
+INFLUENTIAL
+
+EXTREMELY
+INFLUENTIAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: Answer options are randomized to reduce order effects
+
+Display this question to students enrolled elsewhere and unenrolled respondents
+25. What was your expected annual "out-of-pocket" cost to attend [REDACTED] if
+you chose to enroll there? *
+Under $10,000
+$10,000 to $14,999
+$15,000 to $19,999
+$20,000 to $24,999
+$25,000 to $29,999
+$30,000 to $34,999
+$35,000 or more
+Don't know/Not sure
+
+6
+
+Respondents see “was” if they did not receive a financial aid offer in Q 22 and “were” if they
+did.
+
+©2019 Hanover Research
+
+11
+
+Display this question to students enrolled elsewhere and unenrolled respondents
+26. Please rate your level of agreement with the following statements. *
+STRONGLY
+DISAGREE
+
+SOMEWHAT
+DISAGREE
+
+NEITHER
+AGREE
+NOR
+
+SOMEWHAT
+AGREE
+
+STRONGLY
+AGREE
+
+DISAGREE
+I would
+attend
+[REDACTED]
+if I received
+a stronger
+financial aid
+package.
+The cost of
+tuition is
+too high for
+the
+educational
+value
+[REDACTED]
+provides.
+
+DON'T
+KNOW/NO
+OPINION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: Answer options are randomized to reduce order effects
+
+27. On average, what annual tuition price would you expect a public, in-state college
+to charge you?*
+Under $20,000
+$20,000 to $24,999
+$25,000 to $29,999
+$30,000 to $34,999
+$35,000 to $39,999
+$40,000 to $44,999
+$45,000 or more
+Don't know/Not sure
+
+COMMUNICATION
+28. In which of the following ways would you prefer to receive communication from
+higher education institutions? Please select all that apply. *
+❑ Email
+❑ Postal mail
+❑ Telephone
+❑ Social media
+❑ Online newsletters
+❑ Other (please specify): ___________________________ _____________________ *
+I do not wish to be contacted by higher education institutions
+Note: Answer options are randomized to reduce order effects
+
+Display this question if Q28 is “Social media”
+
+©2019 Hanover Research
+
+12
+
+29. Please select the social media platforms through which you prefer to receive
+communication from higher education institutions. Please select all that apply. *
+❑ Facebook
+❑ Twitter
+❑ Instagram
+❑ LinkedIn
+❑ Other (please specify): ________________________________________________ *
+Note: Answer options are randomized to reduce order effects
+
+DEMOGRAPHICS
+30.With which of the following gender identities do you most identify ?*
+ Female
+ Male
+ Non-binary/Gender non-conforming
+ Not listed/Prefer to self-describe (specify, if desired) :_____________*
+ Prefer not to respond
+31.With which of the following categories do you identify? Select all that apply.*
+❑ Asian
+❑ American Indian or Alaskan Native
+❑ Black or African American
+❑ Hispanic or Latin(o/a/x)
+❑ Middle Eastern or North African
+❑ Native Hawaiian or Pacific Islander
+❑ White
+❑ Not listed/Prefer to self-describe (specify, if desired) :_____________*
+ Prefer not to respond
+32. What is your household's annual income? *
+Under $25,000
+$25,000 to $49,999
+$50,000 to $74,999
+$75,000 to $99,999
+$100,000 to $149,999
+$150,000 to $199,999
+$200,000 or more
+Prefer not to respond
+33. Did your parent(s) graduate from college? *
+Yes, both
+Yes, one parent
+No
+Don't know
+Prefer not to respond
+
+©2019 Hanover Research
+
+13
+
+34. What was your high school GPA? *
+Under 2.0
+2.0 to 2.4
+2.5 to 2.9
+3.0 to 3.4
+3.5 to 3.9
+4.0 or above
+Prefer not to respond
+35. What is the highest level of school you have completed or the highest degree
+you have received?*
+Less than high school degree
+High school graduate (high school diploma or equivalent including GED)
+Some college but no degree
+Associate degree in college (2-year)
+Bachelor's degree in college (4-year)
+Master's degree
+Doctoral degree
+Professional degree (JD, MD)
+Prefer not to respond
+36. In which country do you currently reside? *
+▼ Afghanistan ... Prefer not to respond
+
+Display this question to respondents in the United States
+37. In which state do you currently reside? *
+▼ Alabama ... Prefer not to respond
+
+INCENTIVE DETAILS
+Display this question to respondents who are among the first [XXX]
+38. As a thank you for completing the survey, we would like to send you a
+[INCENTIVE]. Please check the appropriate box below to indicate your
+preference with regards to the gift card. *
+Yes, please send me the [INCENTIVE]. I will enter my contact information in
+the next question.
+No, I prefer not to receive the gift card.
+Display this question to respondents who wish to receive the gift card in Q 38
+
+©2019 Hanover Research
+
+14
+
+39. Please enter your contact information below.
+Your survey responses will not be associated with your contact details in any way;
+we will only use it to distribute your gift card. Gift cards are s ent within four to six
+weeks of the survey's close by our partner, Tango Card.
+First name: ________________________________________________
+Last name: ________________________________________________
+Email address: ________________________________________________
+
+©2019 Hanover Research
+
+15
+
+ABOUT HANOVER RESEARCH
+Hanover Research provides high-quality, custom research and analytics through a
+cost-effective model that helps clients make informed decisions, identify and seize
+opportunities, and heighten their effectiveness.
+
+H A N O V E R ’ S H I G HE R E DU C A T I O N SO L U T I O N S
+Hanover enables higher education institutions to offer a world -class educational
+experience and operate an efficient and sustainable institution. Hanover’s Higher
+Education Solutions tackle the academic and administrative challenges facing every
+department at your institution—amplifying your individual efforts with our tried and
+tested suite of solutions. Our partners include higher education institutions of all
+varieties: from large to small, public and private, two -year, four-year, professional,
+graduate, and for-profit schools.
+
+ACADEMIC SOLUTIONS
+
+ADMINISTRATIVE SOLUTIONS
+
+• Enrollment Management:
+Target the optimal pool of
+students and maximize
+application and acceptance
+rates.
+
+• Finance:
+Increase revenue and dynamically
+evaluate costs to run an efficient,
+financially viable, and growthoriented institution.
+
+• Academic Development:
+Strengthen your academic
+portfolio through market
+analysis of existing and potential
+new programs.
+
+• Advancement:
+Highlight your institutional impact
+with donors and alumni.
+
+• Student Experience:
+Spot at-risk students early,
+identify the drivers of attrition,
+and pinpoint factors driving
+poor post-graduate outcomes.
+
+• Marketing:
+Reach the right audience at the right
+time with the right message.
+
+GRANTS SOLUTIONS
+• Grantseeking Capacity :
+Develop your organizational
+capacity to pursue grant
+funding.
+• Funding Research:
+Spot grant opportunities
+aligned to your funding needs.
+• Pre-Proposal Support:
+Facilitate the development of
+competitive project concepts
+prior to submission.
+• Proposal Review & Support:
+Provide review and revision to
+ensure robust proposal
+submissions.
+• Proposal Development:
+Engage full proposal
+development support.
+
+OUR BENEFITS
+
+©2019 Hanover Research
+
+16
+
+©2019 Hanover Research
+
+17
+
+©2019 Hanover Research
+
+18

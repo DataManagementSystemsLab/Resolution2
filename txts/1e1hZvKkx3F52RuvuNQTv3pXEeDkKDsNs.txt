@@ -1,0 +1,1131 @@
+Resolution for the Proposal for
+Advanced Certificate in Accounting
+WHEREAS, the School of Business Graduate Programs proposed to create an Advanced
+Certificate in Accounting, and
+WHEREAS, a proposed program consists of fifteen-credits of graduate-level coursework, and
+WHEREAS, a proposed program offers an opportunity for students to gain a knowledge of
+accounting and auditing, and
+WHEREAS, a proposed program offers a valuable credential to students who wish to pursue
+advanced study in the field, but may not be ready to commit to a Master’s program,
+and
+WHEREAS, courses accrued through a proposed program may be utilized towards the 150credit requirement for a Certified Public Accountant (CPA), if a student decides to
+pursue it, and
+WHEREAS, courses accrued through a proposed program may be utilized towards earning a
+MS in Accounting, if a student decides to pursue it, and
+WHEREAS, there is a growing labor market demand for accounting and auditing, and
+WHEREAS, there is no other public institution on Long Island that offers an advanced
+certificate in this field, and
+WHEREAS, the proposed program consists of courses within the existing MS in Accounting
+program and does not require any additional resources,
+
+THEREFORE, BE IT RESOLVED that the Faculty Senate approve the Proposal for
+Advanced Certificate in Accounting
+
+Submitted by Curriculum and Academic Planning Committee (CAP), May 8, 2021
+The Program Announcement approved by CAP, May 7, 2021
+[CAP Membership]
+Tejas Bouklas, Svetlana Jovic, Yu Lei, Matthew Lippert, Anissa Wicktor Lynch, Sheyi Oladipo,
+Dana Sinclair, Kerry Weir, and Ryoko Yamamoto (Chair)
+The Proposal approved by the Faculty Senate by unanimous consent on 5/14/2021.
+
+New Program Proposal:
+Certificate or Advanced Certificate Program
+Form 2C
+Version 2014-11-17
+
+This form should be used to seek SUNY’s approval and New York State Education Department’s (SED) registration of a
+proposed new academic program leading to an associate’s and/or bachelor’s degree. Approval and registration are both
+required before a proposed program can be promoted or advertised, or can enroll students. The campus Chief Executive or
+Chief Academic Officer should send a signed cover letter and this completed form (unless a different form applies1), which
+should include appended items that may be required for Sections 1 through 6, 9 and 10 and MPA-1 of this form, to the SUNY
+Provost at program.review@suny.edu. The completed form and appended items should be sent as a single, continuously
+paginated document.2 If Sections 7 and 8 of this form apply, External Evaluation Reports and a single Institutional Response
+should also be sent, but in a separate electronic document. Guidance on academic program planning is available here.
+
+Table of Contents
+NOTE: Please update this Table of Contents automatically after the form has been completed. To do this, put the
+cursor anywhere over the Table of Contents, right click, and, on the pop-up menus, select “Update Field” and then
+“Update Page Numbers Only.” The last item in the Table of Contents is the List of Appended and/or Accompanying Items,
+but the actual appended items should continue the pagination.
+Section 1. General Information ............................................................................................................................................... 2
+Section 2. Program Information .............................................................................................................................................. 3
+2.1. Program Format .................................................................................................................................................. 3
+2.2. Related Degree Programs.................................................................................................................................... 3
+2.3. Program Description, Purposes and Planning ..................................................................................................... 3
+2.4. Admissions.......................................................................................................................................................... 9
+2.5. Academic and Other Support Services ............................................................................................................... 9
+2.6. Prior Learning Assessment ............................................................................................................................... 10
+2.7. Program Assessment and Improvement ............................................................................................................ 10
+Section 3. Program Schedule and Curriculum ..................................................................................................................... 11
+Section 4. Faculty................................................................................................................................................................. 14
+Section 5. Financial Resources and Instructional Facilities ................................................................................................. 16
+Section 6. Library Resources ............................................................................................................................................... 16
+Section 7. External Evaluation ............................................................................................................................................. 16
+Section 8. Institutional Response to External Evaluator Reports......................................................................................... 16
+Section 9. SUNY Undergraduate Transfer........................................................................................................................... 17
+Section 10. Application for Distance Education .................................................................................................................. 18
+Section MPA-1. Need for Master Plan Amendment and/or Degree Authorization ............................................................. 18
+List of Appended Items ......................................................................................................................................................... 18
+
+1Use
+
+a different form if the proposed new program will lead to a graduate degree or any credit-bearing certificate; be a combination of
+existing registered programs (i.e. for a multi-award or multi-institution program); be a breakout of a registered track or option in an
+existing registered program; or lead to certification as a classroom teacher, school or district leader, or pupil personnel services
+professional (e.g., school counselor).
+2
+This email address limits attachments to 25 MB. If a file with the proposal and appended materials exceeds that limit, it should be
+emailed in parts.
+
+1
+
+Section 1. General Information
+a)
+Institutional
+Information
+
+Date of Proposal: May 1, 2021
+Institution’s 6-digit SED Code: 234000
+Institution’s Name: SUNY College at Old Westbury
+Address: P.O. Box 210, Old Westbury, NY 11568
+Dept of Labor/Regent’s Region: Long Island, New York
+
+b)
+Program
+Locations
+
+c)
+Proposed
+Program
+Information
+
+List each campus where the entire program will be offered (with each institutional or branch campus
+6-digit SED Code): Old Wesstbury 234000
+List the name and address of off-campus locations (i.e., extension sites or extension centers) where
+courses will offered, or check here [ X ] if not applicable:
+Program Title: Accounting
+Award(s) (e.g., Certificate.): Advanced Certificate
+Number of Required Credits: Minimum [ 15 ] If tracks or options, largest minimum [
+
+]
+
+Proposed HEGIS Code: 0502.10
+Proposed 6-digit CIP 2010 Code: 52.1601
+If the program will be accredited, list the accrediting agency and expected date of accreditation: N/A
+If applicable, list the SED professional licensure title(s)3 to which the program leads: N/A
+d)
+Campus
+Contact
+
+Name and title: Duncan Quarlass, Provost and Senior Vice President for Academic Affairs
+
+e)
+Chief Executive
+or Chief
+Academic
+Officer
+Approval
+
+Signature affirms that the proposal has met all applicable campus administrative and shared governance
+procedures for consultation, and the institution’s commitment to support the proposed program.
+E-signatures are acceptable.
+
+Telephone: 516-876-3135
+
+E-mail: quarlessd@oldwestbury.edu
+
+Name and title:
+Signature and date
+If the program will be registered jointly4 with one or more other institutions, provide the following
+information for each institution: N/A
+Partner institution’s name and 6-digit SED Code:
+Name, title, and signature of partner institution’s CEO (or append a signed letter indicating approval of
+this proposal):
+
+3
+4
+
+If the proposed program leads to a professional license, a specialized form for the specific profession may need to accompany this proposal.
+If the partner institution is non-degree-granting, see SED’s CEO Memo 94-04.
+
+2 of 21
+
+Section 2. Program Information
+2.1. Program Format
+Check all SED-defined formats, mode and other program features that apply to the entire program.
+a) Format(s): [ ]Day [ X ]Evening [ ]Weekend
+
+[ ]Evening/Weekend
+
+[ ]Not Full-Time
+
+b) Modes: [ ]Standard [ ]Independent Study [ ]External [ ]Accelerated [ X]Distance Education
+NOTE: If the program is designed to enable students to complete 50% or more of the course requirements through
+distance education, check Distance Education, see Section 10, and append a Distance Education Format Proposal
+c) Other: [ ] Bilingual [ ] Language Other Than English [ ] Upper Division [ ] Cooperative [ ] 4.5 year [ ] 5 year
+2.2. Related Degree Programs
+All coursework required for completion of the certificate or advanced certificate program must be applicable to a currently
+registered degree program at the institution (with the possible exception of post-doctoral certificates in health-related fields).
+Indicate the registered degree program(s) by title, award and five-digit SED Inventory of Registered Programs (IRP) code to
+which the credits will apply: Accounting, Master of Science.
+2.3. Program Description, Purposes and Planning
+
+a)
+
+What is the description of the program as it will appear in the institution’s catalog?
+
+The Advanced Certificate in Accounting is a 15 credit-hour program that may be completed in one academic year (Fall,
+Spring, Summer) and is designed for students that want to expand their portfolio of skills by pursuing advanced study in
+accounting, but who may not yet be ready to commit to a full graduate program. It is meant for those that already have an
+undergraduate degree in accounting, but may also be undertaken by those with an undergraduate degree in a different
+discipline upon completion of specified prerequisites prior to beginning the certificate program.
+The focus of the program is to provide a more in-depth exposure to areas of accounting than students may have received at
+the undergraduate level, such as Advanced Auditing and Assurance, Accounting Information Systems, Financial Reporting
+and Analysis, International Accounting and Reporting, and Fraud Examination.
+The courses within the certificate program can be used toward partially fulfilling the 150-credit hour requirement for
+licensure as a Certified Public Accountant (CPA) in New York State for those interested in pursuing such licensure.
+However, this program is not registered as licensure qualifying and should not be construed as such.
+In addition, courses in the certificate program can be used by CPA’s to fulfill their continuing professional education (CPE)
+requirements. SUNY College at Old Westbury is an accredited NYS CPE sponsor (#0002067). CPA’s will receive 45 CPE
+credits in accounting for each course completed.
+b) What are the program’s educational and, if appropriate, career objectives, and the program’s primary student learning
+outcomes (SLOs)? NOTE: SLOs are defined by the Middle States Commission on Higher Education in the
+Characteristics of Excellence in Higher Education (2006) as “clearly articulated written statements, expressed in
+observable terms, of key learning outcomes: the knowledge, skills and competencies that students are expected to
+exhibit upon completion of the program.”
+The Advanced Certificate in Taxation is a 15 credit-hour program that may be completed in one academic year (Fall,
+Spring, Summer) and is designed for students that want to expand their portfolio of skills by pursuing advanced study in
+accounting, but who may not yet be ready to commit to a full graduate program. It is meant for those that already have
+an undergraduate degree in accounting, but may also be undertaken by those with an undergraduate degree in a
+different discipline upon completion of specified prerequisite prior to beginning the certificate program.
+3 of 21
+
+The Advanced Certificate in Accounting will provide access, opportunity, and training to area residents at a time when
+there is a growing demand for accounting professionals with knowledge and skills beyond those achieved at the
+undergraduate level.
+Amongst other criteria, students entering the program are expected to have an undergraduate degree from an accredited
+college or university. If the undergraduate degree is not in Accounting, then the following prerequisite courses must be
+successfully completed in order to be admitted:
+
+
+Accounting: (21 cr.) – equivalent to BU3502, BU3511, BU4500, BU4510, BU4570, BU4590,
+BU5505, BU5525, BU5540 and BU5550.
+
+
+
+Statistics: (3 cr.) – equivalent to MA2000.
+
+Students who have completed an undergraduate Business degree will have completed almost all of these
+prerequisites except for the upper-level accounting courses.
+Admission will be based on evidence of a candidate’s ability and motivation for graduate-level work, and will
+require an undergraduate GPA of 3.0. There is no GMAT requirement for application or admission to the certificate
+program. The students’ GPA in graduate-level courses must average 3.0 or higher for successful completion of the
+program. Fifteen (15) credits of graduate-level coursework must be completed in the School of Business by every
+candidate.
+The program’s primary student learning outcomes are:
+
+
+
+
+
+
+Students will demonstrate a broad and in depth knowledge and understanding of accounting principles,
+theories, & practice. This knowledge should enable students to develop solutions to complex issues utilizing
+critical thinking skills.
+Students will be prepared to become socially responsible business leaders able to recognize ethical dilemmas
+and achieve resolutions in a socially and professionally responsible manner.
+Students should demonstrate the ability to operate and lead in
+challenging positions in a competitive global financial reporting environment.
+Students will demonstrate the ability to be effective in multiple modes of communication.
+Students will demonstrate well developed research skills
+
+c) How does the program relate to the institution’s and SUNY’s mission and strategic goals and priorities? What is the
+program’s importance to the institution, and its relationship to existing and/or projected programs and its expected
+impact on them? As applicable, how does the program reflect diversity and/or international perspectives?
+The proposed Advanced Certificate in Accounting is consistent with SUNY College at Old Westbury’s mission, the longterm plans of SUNY as stipulated in the Power of SUNY and SUNY High Needs Program for 2014-2015, our Follow-Up
+Report to Middle States, and Old Westbury’s Strategic Plan, 2018 - 2023.
+Central to the Power of SUNY strategic plan is SUNY’s commitment to serve as a key engine of revitalization for New York
+State’s economy. One of the relevant fields of focus in the SUNY High Needs Program is Business/Finance, specifically,
+Accountants & Auditors.
+Old Westbury’s Strategic Plan (Strategic Plan, 2018-2023) recognizes the need to grow enrollment and to expand academic
+programs. The Advanced Certificate in Accounting contributes to the College’s Strategic Plan’s intended growth in quality,
+enrollment and new initiatives. The advanced certificate upholds the commitment to the development of programs that
+move the College forward as “a competitive, comprehensive college offering quality undergraduate and graduate degrees in
+the arts and sciences and professional areas”. By increasing the College’s academic appeal, reputation and retention of selfmotivated students, it also supports the Plan’s targeted enrollment growth to 5,000 students.
+The College at Old Westbury continues to provide access and opportunity to those having the ability, motivation, and
+4 of 21
+
+aspirations to benefit from educational programs that provide a skill set required in a highly competitive globalized
+economy. The program contains a globally-related student learning outcome, which is reinforced in several of its courses.
+The proposed program is consistent with the College’s specified goals: grow enrollment and increase revenue. Growing
+enrollment is crucial for the College to achieve economies of scale and lower its unit fixed costs. The Advanced Certificate
+in Accounting will raise the College’s visibility in the region and help continue to build an image of high quality
+undergraduate and graduate programs. By broadening our academic offerings as we continue to build our image as a
+resource for a high quality educational experience, we also meet our mission to provide access to high quality programs to
+members of our surrounding community.
+The proposed program will meet a dual purpose by enhancing enrollment in both the undergraduate and graduate programs.
+Students in the region have been attracted to the highly reputed B.S. in Accounting program, but are not always ready to
+commit to pursuing another full program upon completion of their undergraduate degree. Offering advanced coursework
+beyond what is required for an undergraduate degree will aid students in gaining entry-level positions, while putting them
+on the path to a graduate degree, and towards the 150-credit requirement for earning a CPA if they choose. It is the
+responsibility of Old Westbury to give Long Island students a cost-effective quality alternative to the more expensive
+private institutions.
+The Advanced Certificate in Accounting aligns perfectly with Old Westbury’s Mission to cultivate “critical thinking,
+empathy, creativity” as well as the College’s endeavor “to stimulate a passion for learning and a commitment to building a
+more just and sustainable world.” The Vision further calls for the College to become a competitive comprehensive college
+offering quality undergraduate and graduate degrees in professional areas, which would include forensic accounting, to
+address the needs of a growing residential and commuter student body.
+The College at Old Westbury aspires to be a comprehensive college offering a wide variety of high quality liberal arts,
+sciences, and professional programs at the undergraduate level and a select number of targeted programs at the Master’s
+level. The Advanced Certificate in Accounting, together with the existing Masters degrees offered by the Schools of
+Business, Education, and Arts and Sciences, will raise the College’s visibility in the region and help continue to build our
+reputation as an institution that offers high-quality programs.
+The School of Business, in order to increase its enrollment and enhance its visibility as the SUNY School of Business on
+Long Island is working toward AACSB International accreditation, has implemented an assessment-centered approach for
+all of its academic programs to realize quality assurance, and continues to broaden its student services in areas such as
+advisement, articulation agreements, internships, placement, tutoring, and career counseling.
+The strategies employed by the School of Business (SOB) in its drive to achieve its goals are: expand the menu of business
+offerings at the graduate level in targeted disciplines, leverage the disciplinary training of business faculty to ensure quality
+programs, maintain cost effectiveness in the delivery of all new programs, and build a brand name that conveys quality and
+professionalism. The Advanced Certificate in Accounting is an important step toward realizing these goals.
+d) How were faculty involved in the program’s design?
+The Graduate Business Admissions Council (GBAC), consisting of one accounting faculty member, the Chair of the
+Accounting Department, the Director of Graduate Business Programs, and the Dean, developed the Advanced Certificate in
+Accounting program in response to frequent inquiries about taking graduate courses without enrolling in the Master of
+Science in Accounting program. The Advanced Certificate in Accounting program will enhance students’ preparation for
+careers in accounting without requiring they formally apply to the Master of Science in Accounting program. The GBAC
+feels strongly that, upon completion of the advanced certificate program, a large percentage of certificate students will
+pursue the graduate degrees available at Old Westbury.
+e) How did input, if any, from external partners (e.g., educational institutions and employers) or standards influence the
+program’s design? If the program is designed to meet specialized accreditation or other external standards, such as the
+educational requirements in Commissioner’s Regulations for the Profession, append a side-by-side chart to show how
+the program’s components meet those external standards. If SED’s Office of the Professions requires a specialized
+form for the profession to which the proposed program leads, append a completed form at the end of this document.
+Not applicable
+5 of 21
+
+f) Enter anticipated enrollments for Years 1 through 5 in the table below. How were they determined, and what
+assumptions were used? What contingencies exist if anticipated enrollments are not achieved?
+Anticipated Headcount Enrollment
+Full-time
+Part-time
+Total
+12
+12
+17
+17
+25
+25
+30
+30
+35
+35
+
+Year
+1
+2
+3
+4
+5
+
+Estimated
+FTE*
+6
+8.5
+12.5
+15
+17.5
+
+*assumes that part-time students will be enrolled half-time
+The impact on future campus enrollment, based on the market need and demand factors will be modest in the first five
+years. The New York State Department of Labor estimates that annual job growth in the field of accounting &
+auditing will be between 10% and 20% on Long Island and in New York City. Moreover, the workforce demand for
+such openings is reinforced by the 2014-2015 SUNY High Needs Program identifying accountants and auditors as a
+high need area with annual average openings in New York State projected to reach almost 3,600. Due to its close
+proximity to New York City, Old Westbury is fortunate to be in a geographic area containing hundreds of accounting
+and financial institutions with a demand for employees trained in accounting.
+The College at Old Westbury, with its high-quality School of Business, is perfectly situated – by location (Nassau
+County), quality faculty, and tuition costs – to provide essential, high quality graduate business education to all
+students with the ability, the ambition, and the diligence.
+There is only one other advanced certificate program in accounting on Long Island. This program is at a private
+institution and is targeted at entirely different audiences than the one being proposed by Old Westbury. It is designed
+for students who already have a graduate degree and consists of 18 credits. The proposed Advanced Certificate in
+accounting would position SUNY Old Westbury to be a leader in this fast-growing field.
+As the sole provider of this type of certificate program on Long Island, along with the need and demand for the skills
+that a program of this nature will provide, the conservative enrollments identified above should be achieved. No new
+full-time faculty members are being hired to staff the classes in the certificate program and these courses are existing
+courses in the Master of Science in Accounting program. Certificate program students will be filling available seats in
+those classes. So, in the unlikely event that enrollments fall short of those above, the courses will remain in place for
+the graduate degree programs.
+
+g) Outline all curricular requirements for the proposed program, including prerequisite, core, specialization (track,
+concentration), capstone, and any other relevant component requirements, but do not list each General Education course.
+Amongst other criteria, students entering the program are expected to have an undergraduate degree from an accredited
+college or university. If the undergraduate degree is not in Accounting, then all but two of the following prerequisite
+courses must be successfully completed in order to be admitted:
+
+
+Accounting: (21 cr.) – equivalent to BU3502, BU3511, BU4500, BU4510, BU4570, BU4590,
+BU5505, BU5525, BU5540 and BU5550.
+
+
+
+Statistics: (3 cr.) – equivalent to MA2000.
+
+Students who have completed an undergraduate Business degree will have completed almost all of these
+prerequisites except for the upper-level accounting courses.
+6 of 21
+
+Admission will be based on evidence of a candidate’s ability and motivation for graduate-level work, and will
+require an undergraduate GPA of 3.0. There is no GMAT requirement for application or admission to the certificate
+program. The students’ GPA in graduate-level courses must average 3.0 or higher for successful completion of the
+program. 15 credits of graduate-level coursework must be completed in the School of Business by every candidate.
+
+To qualify for the Advanced Certificate in Accounting, students must complete the following requirements totaling
+15 credits that are part of the professional core for the MS in Accounting program.
+Professional Core (15 credits)
+
+BU 7545 Financial Reporting, Analysis & Ethics ( credits)
+BU 7547 International Accounting & Reporting (3 credits)
+BU 7555 Accounting Information Systems ( credits)
+BU 7556 Advanced Auditing and Assurance Services ( credits)
+BU 7560 Fraud Examination (3 credits)
+
+Course Title
+Professional core courses
+
+Credits
+15
+
+Course Title
+
+Credits
+
+Total required credits: 15
+h) Program Impact on SUNY and New York State
+h)(1)
+
+Need: What is the need for the proposed program in terms of the clientele it will serve and the educational and/or
+economic needs of the area and New York State? How was need determined? Why are similar programs, if any,
+not meeting the need?
+
+According to the New York State Department of Labor, annual job growth in the field of accounting and auditing is
+expected to be between 10% and 20% on Long Island and in New York City with a subsequent workforce demand of
+1670 annually on Long Island alone. A primary goal of the SUNY mission is to provide access to a quality education
+for the communities that we serve as a road to financial security, and a region as large and diverse as Long Island
+needs local public graduate programs to serve its residents, Old Westbury’s Advanced Certificate in Accounting will
+provide an on-site, affordable, accessible, regional alternative for the talented, moderate-income residents of Long
+Island and metropolitan New York City. Due to its close proximity to New York City, Old Westbury is fortunate to be
+in a geographic area containing hundreds of accounting and financial institutions with a demand for employees trained
+in accounting and taxation.
+Affordable graduate education in business-related fields such as accounting serves the region’s population
+economically, by helping to ease the financial burden the acquisition of such certificates places on talented but less
+affluent students in this region. An affordable and accessible Advanced Certificate will benefit Long Island residents
+who earn this certificate and there will also be a benefit for New York State’s economy.
+There is only one other advanced certificate program in accounting on Long Island. This program is at a private
+institution and is targeted at entirely different audiences than the one being proposed by Old Westbury. It is designed
+for students who already have a graduate degree and consists of 18 credits. The proposed Advanced Certificate in
+Accounting would position SUNY Old Westbury to be a leader in this fast-growing field.
+
+7 of 21
+
+h)(2)
+
+Employment: For programs designed to prepare graduates for immediate employment, use the table below to list
+potential employers of graduates that have requested establishment of the program and describe their specific
+employment needs. If letters from employers support the program, they may be appended at the end of this form.
+As appropriate, address how the program will respond to evolving federal policy on the “gainful employment” of
+graduates of certificate programs whose students are eligible for federal student assistance.
+Need: Projected positions
+Employer
+In initial year
+In fifth year
+
+Although not designed to satisfy any particular employer’s needs, this program will provide candidates for those
+organizations needing individuals with the skills and abilities we will provide.
+Training in this highly specialized area of Accounting/Auditing will equip students with the skills to pursue economic
+opportunities in public and private accounting . According to the New York State Department of Labor, Employment
+Prospects to 2020 Report, the employment prospects for Accountants & Auditors (SOC #13-2111) is very favorable
+with annual average openings projected to be 3,600.
+Based upon the New York State Department of Labor, annual job growth in the field of accounting and auditing is
+expected to be between 10% and 20% on Long Island and in New York City. Due to its close proximity to New York
+City, Old Westbury is fortunate to be in a geographic area containing hundreds of accounting and financial institutions
+with a demand for employees trained in taxation.
+h)(3)
+
+Similar Programs: Use the table below to list similar programs at other institutions, public and independent, in
+the service area, region and state, as appropriate. Expand the table as needed. NOTE: Detailed program-level
+information for SUNY institutions is available in the Academic Program Enterprise System (APES) or Academic
+Program Dashboards. Institutional research and information security officers at your campus should be able to
+help provide access to these password-protected sites. For non-SUNY programs, program titles and degree
+information – but no enrollment data – is available from SED’s Inventory of Registered Programs.
+Institution
+Program Title
+Degree
+Enrollment
+Hofstra University
+Advanced Certificate in Accounting
+N/A
+
+There is only one other advanced certificate program in Accounting on Long Island/New York City area. This
+program is at a private institution and is targeted at entirely different audiences than the one being proposed by Old
+Westbury. It is designed for students who already have a graduate degree and consists of 18 credits. The proposed
+Advanced Certificate in Taxation would position SUNY Old Westbury to be a leader in this fast-growing field.
+h)(4)
+
+Collaboration: Did this program’s design benefit from consultation with other SUNY campuses? If so, what
+was that consultation and its result?
+
+The Advanced Certificate in Accounting program did not benefit from consultation with other SUNY campuses.
+
+h)(5)
+
+Concerns or Objections: If concerns and/or objections were raised by other SUNY campuses, how were they
+resolved?
+
+No concerns and/or objections were raised by other SUNY campuses.
+
+8 of 21
+
+2.4. Admissions
+
+a) What are all admission requirements for students in this program? Please note those that differ from the institution’s
+minimum admissions requirements and explain why they differ.
+
+Initially students will apply to enter the program each fall, but a small number of qualified students (based on completed
+prerequisites) may be admitted each spring. All applications must include: transcripts of undergraduate and any graduate
+work with evidence of degree(s) conferred. A minimum undergraduate GPA of 3.0 is required.
+The Graduate Business Admissions Committee will make the final decision on admission of all applicants after
+appropriate files are complete and reviewed. Every student admitted will meet with an advisor (the Assistant Dean) to
+have transcripts evaluated, develop a plan for completion of the certificate, and select courses for the first semester.
+Admission will be based on evidence of a candidate’s ability and motivation for graduate-level work. The students’
+GPA in graduate-level courses for the Advanced Certificate in Accounting must average 3.0 or higher for successful
+completion of the program. A minimum of fifteen (15) credit hours in graduate-level work must be completed in the
+School of Business by every candidate.
+b) What is the process for evaluating exceptions to those requirements?
+c) How will the institution encourage enrollment in this program by persons from groups historically underrepresented in the
+institution, discipline or occupation?
+We would anticipate the diversity of this new graduate program to be similar to that in our current graduate business
+programs. The NYC metropolitan area contains a very diverse population that would be attracted to a certificate program
+offered by a reasonably priced public institution versus more expensive private alternatives.
+
+2.5. Academic and Other Support Services
+Summarize the academic advising and support services available to help students succeed in the program.
+Academic advisement services are provided to all School of Business majors, undergraduate and graduate, by a full-time
+Assistant Dean and a full-time Secretary and the Director of Graduate Business Programs. All transcripts are evaluated by
+the Assistant Dean to, among other things, ascertain that prerequisite requirements in terms of content and credit hours are
+met. Each admitee meets face-to-face with the Assistant Dean before entry into the School of Business and receives a
+complete written advisement report which notes all requirements for the certificate. This report is the basis for all future
+advisement sessions because it specifies all the requirements for the certificate. The progress of students is monitored by the
+Director of Graduate Business Programs, and by the Graduate Business Academic Standings Committee. Issues that arise
+regarding any student or program in the School of Business may be handled by one of two department chairs (Accounting
+and Marketing, Management & Finance), the Assistant Dean, the Director of Graduate Business Programs or the Dean, or all
+of the above if such is required.
+Academic Advising: When a student is accepted to the program they are provided with an advisement sheet detailing the
+requirements necessary to complete the program. At the end of each semester, after grades are posted, the advisement
+sheet is updated to reflect completed requirements. Currently, many students have opted to have advising done by
+telephone and email. Based on their intended time to completion and the frequency of class offerings, a recommended
+schedule will be noted on their advisement sheet, scanned and emailed to the student.
+Academic Support: The College subscribes to Pearson/Smarthinking Online Tutoring service which has 24/7 “drop in”
+support in basic subjects, “drop in” tutoring with more restricted hours in many other common subjects including
+Statistics, Economics, and various levels of Accounting; and scheduled support for advanced topics like
+9 of 21
+
+Government/Nonprofit Accounting and Auditing. Access to this service is through a “Tutoring Center” organization in
+our Blackboard LMS.
+Course registration, financial aid, bursar: All of these offices utilize online procedures routinely, so students that prefer to
+perform these routine tasks online can interact fully with them to utilize their services via computer or phone.
+Alternatively, a student may come to campus for these services.
+Library: The library has an extensive web presence, so that all its catalogs and reference databases can be accessed online.
+Furthermore, most of its research materials are now online as databases, online periodicals, and e-books.
+Technology Support: The College’s internal Tech Support utilizes an online ticketing system and maintains an online
+FAQ section. The Help Desk, located on the ground floor of the NAB, can be visited for tech support as well.
+Career Services: The Career Services office has created an extensive set of resources online via the College website, and it
+is currently implementing a dedicated career services management system, Purple Briefcase. In addition, it has contracted
+for the online interviewing system Interview Stream.
+Support for Students with Disabilities: Our Office of Services for Students with Disabilities (OSSD) can receive disability
+documentation by mail, fax or digitally and speak to students via telephone or e-mail to establish them as a student
+registered with the OSSD. The most common accommodation needed is for students to have extra time to complete
+assignments, which the OSSD routinely works with faculty to arrange via email. If there are accommodations requested
+involving assistive technology for an online course, the Director works directly with the student, professor and IT to
+provide those on a case by case basis.
+
+2.6. Prior Learning Assessment
+If this program will grant credit based on Prior Learning Assessment, describe the methods of evaluating the learning and the
+maximum number of credits allowed, or check here [ X ] if not applicable.
+2.7. Program Assessment and Improvement
+
+Describe how this program’s achievement of its objectives will be assessed, in accordance with SUNY policy, including the
+date of the program’s initial assessment and the length (in years) of the assessment cycle. Explain plans for assessing
+achievement of students’ learning outcomes during the program and success after completion of the program. Append at
+the end of this form, a plan or curriculum map showing the courses in which the program’s educational and, if appropriate,
+career objectives – from Item 2.3(b) of this form – will be taught and assessed. NOTE: The University Faculty Senate’s
+Guide for the Evaluation of Undergraduate Programs is a helpful reference.
+The program will undergo periodic internal review, guided by the Director of Graduate Business Programs, in
+compliance with the College’s Five-Year Program Review process, including the hiring of an external reviewer,
+conducted by the Curriculum and Academic Planning Committee.
+Furthermore, the Director of Graduate Business Programs will ascertain that the proposed program is in compliance
+with applicable standards of the Middle States Commission on Higher Education.
+As discussed in section 2.3(b), the program’s primary student learning outcomes are:
+
+10 of 21
+
+
+
+
+
+
+
+Students will demonstrate a broad and in depth knowledge and understanding of taxation principles, theories,
+and practice. This knowledge should enable students to develop solutions to complex issues utilizing critical
+thinking skills.
+Students will be prepared to become socially responsible business leaders able to recognize ethical dilemmas and
+achieve resolutions in a socially and professionally responsible manner.
+Students should demonstrate the ability to operate and lead in challenging positions in a competitive global
+financial environment.
+Students will demonstrate the ability to be effective in multiple modes of communication.
+Students will demonstrate well developed research skills.
+
+To ensure continuity within the program, there will be an annual meeting of current and scheduled faculty to discuss
+courses, requirements, and standards every spring. A curriculum map indicating in which courses the student learning
+outcomes will be taught and assessed is attached as Appendix 1. The School of Business is in the process of seeking
+AACSB accreditation, therefore it has an established Assurance of Learning Program in which at least some of this
+certificate’s learning outcomes will be assessed each year. After students’ graduation from the program, their success
+will be assessed through alumni surveys.
+
+Section 3. Program Schedule and Curriculum
+Complete the SUNY Program Schedule for Certificate and Advanced Certificate Programs to show how a typical
+student may progress through the program.
+NOTE: For an undergraduate certificate program, the SUNY Program Schedule for Certificate and Advanced
+Certificate Programs must show all curricular requirements and the number of terms required to complete them.
+Certificate programs are not required to conform to SUNY’s and SED’s policies on credit limits, general education,
+transfer and liberal arts and sciences.
+EXAMPLE FOR ONE TERM: Program Schedule for Certificate Program
+Term 2: Fall 20xx
+Course Number & Title
+Cr
+ACC 101 Principles of Accounting
+4
+MAT 111 College Mathematics
+3
+CMP 101 Introduction to Computers
+3
+HUM 110 Speech
+3
+ENG 113 English 102
+3
+Term credit total: 16
+
+New
+
+Prerequisite(s)
+MAT 110
+
+X
+
+NOTE: For a graduate advanced certificate program, the SUNY Sample Program Schedule for Certificate and
+Advanced Certificate Programs must include all curriculum requirements. The program is not required to conform with
+the graduate program expectations from in Regulation 52.2 http://www.highered.nysed.gov/ocue/lrp/rules.htm.
+
+a) If the program has fewer than 24 credit hours, or if the program will be offered through a nontraditional
+schedule (i.e., not on a semester calendar), what is the schedule and how does it impact financial aid
+eligibility? NOTE: Consult with your campus financial aid administrator for information about
+nontraditional schedules and financial aid eligibility.
+The Advanced Certificate in Accounting is a 15 credit-hour program that may be completed in one academic year (Fall,
+Spring, Summer) and is designed for students that want to expand their portfolio of skills by pursuing advanced study in
+accounting, but who may not yet be ready to commit to a full graduate program. It is designed for those that already have an
+undergraduate degree in accounting, but may also be undertaken by those with an undergraduate degree in a different
+discipline upon completion of specified prerequisites prior to beginning the certificate program.
+In order for a student to be eligible for financial aid, the guidelines state, in part:
+11 of 21
+
+At a school that qualifies as a public or private nonprofit institution of higher education, the following types of programs are
+eligible for FSA purposes: (#1 and 2 are intentionally omitted):
+3. a program of at least one academic year in duration that leads to a certificate or other nondegree recognized credential
+and prepares students for gainful employment in a recognized occupation.
+One academic year is typically defined as 24 credits. This certificate has less than 24 credits. Accordingly, this program
+would not qualify a student for financial aid.
+b) For each existing course that is part of the proposed undergraduate certificate or the graduate advanced certificate,
+append, at the end of this form, a catalog description.
+See Appendix 2
+c) For each new course in the certificate or advanced certificate program, append a syllabus at the end of this document.
+Not applicable
+d) If the program requires external instruction, such as clinical or field experience, agency placement, an internship,
+fieldwork, or cooperative education, append a completed External Instruction form at the end of this document.
+Not applicable
+
+12 of 21
+
+SUNY Program Schedule for Certificate and Advanced Certificate Programs
+Program/Track Title and Award:______________Accounting, Advanced Certificate _______________________________________
+
+
+
+
+Indicate academic calendar type: [ X ] Semester [ ] Quarter [ ] Trimester [ ] Other (describe):
+Label each term in sequence, consistent with the institution’s academic calendar (e.g., Fall 1, Spring 1, Fall 2)
+Use the table to show how a typical student may progress through the program; copy/expand the table as needed. Complete all columns that apply to a course.
+
+Term 1: Fall 1
+Course Number & Title
+BU 7555 Accounting Information
+Systems
+BU 7556 Advanced Auditing and
+Assurance Services
+
+Term credit totals:
+Term 3: Summer 1
+Course Number & Title
+BU 7545 Financial Reporting, Analysis
+& Ethics
+
+Program Totals (in credits):
+
+Credits
+3
+
+New (X)
+
+Co/Prerequisites
+
+3
+
+Term 2: Spring 1
+Course Number & Title
+BU 7560 Fraud Examination
+BU 7547 International Accounting &
+Reporting
+
+6
+Credits
+3
+
+Term credit totals:
+New (X)
+
+Co/Prerequisites
+
+Term 4:
+Course Number & Title
+
+Total
+Credits: 15
+
+13
+
+Credits
+3
+3
+
+New (x)
+
+Co/Prerequisites
+
+6
+Credits
+
+New (X) Co/Prerequisites
+
+Section 4. Faculty
+a) Complete the SUNY Faculty Table on the next page to describe current faculty and to-be-hired (TBH) faculty.
+b) Append at the end of this document position descriptions or announcements for each to-be-hired faculty member.
+Not applicable
+NOTE: CVs for all faculty should be available upon request. Faculty CVs should include rank and employment status,
+educational and employment background, professional affiliations and activities, important awards and recognition,
+publications (noting refereed journal articles), and brief descriptions of research and other externally funded projects.
+New York State’s requirements for faculty qualifications are in http://www.highered.nysed.gov/ocue/lrp/rules.htm.
+c) What is the institution’s definition of “full-time” faculty?
+Service, scholarship, and teaching of three (3) courses a semester.
+
+14
+
+SUNY Faculty Table
+Provide information on current and prospective faculty members (identifying those at off-campus locations) who will be expected to teach any course in the
+graduate program. Expand the table as needed. Use a separate Faculty Table for each institution if the program is a multi-institution program.
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+% of Time
+Dedicated
+to This
+Program
+
+Program
+Courses Which
+May Be Taught
+(Number and
+Title)
+
+Highest and Other
+Applicable Earned
+Degrees (include
+College or
+University)
+
+Discipline(s) of
+Highest and Other
+Applicable Earned
+Degrees
+
+Additional Qualifications: List
+related certifications, licenses and
+professional experience in field
+
+LLM NYU
+LLM
+LLM
+
+Taxation
+Taxation
+Taxation
+
+CPA
+
+PhD
+PhD
+
+Accounting
+Accounting
+
+CPA, CFE
+CPA,CVA,CFP
+
+Faculty Member Name and
+Title/Rank
+(Include and identify Program
+Director with an asterisk)
+PART 1. Full-Time Faculty
+Joel Lanz
+Kenneth Winkelman
+Jeffrey D’Amico
+
+50%
+33%
+33%
+
+David Glodstein
+* Cary Lang,
+
+33%
+5%
+
+BU7571
+BU7570, BU7573
+BU7574, BU7575
+BU7581, BU7576
+BU7560
+
+Part 2. Part-Time Faculty
+
+Part 3. Faculty To-Be-Hired (List as
+TBH1, TBH2, etc., and provide
+title/rank and expected hiring date)
+
+15
+
+Section 5. Financial Resources and Instructional Facilities
+a) What is the resource plan for ensuring the success of the proposed program over time? Summarize the
+instructional facilities and equipment committed to ensure the success of the program. Please explain new
+and/or reallocated resources over the first five years for operations, including faculty and other personnel, the
+library, equipment, laboratories, and supplies. Also include resources for capital projects and other expenses.
+Since all the courses in the Advanced Certificate in Accounting are already offered in Master of Science in
+Taxation/Accounting programs there are no additional resources required.
+b) Complete the five-year SUNY Program Expenses Table, below, consistent with the resource plan summary.
+Enter the anticipated academic years in the top row of this table. List all resources that will be engaged
+specifically as a result of the proposed program (e.g., a new faculty position or additional library resources).
+If they represent a continuing cost, new resources for a given year should be included in the subsequent
+year(s), with adjustments for inflation or negotiated compensation. Include explanatory notes as needed.
+
+SUNY Program Expenses Table
+(OPTION: You can paste an Excel version of this schedule AFTER this sentence, and delete the table below.)
+Expenses (in dollars)
+Program Expense Categories
+
+Before
+Start
+
+Academic
+Year 1:
+
+Academic
+Year 2:
+
+Academic
+Year 3:
+
+Academic
+Year 4:
+
+Academic
+Year 5:
+
+-0-
+
+-0-
+
+-0-
+
+-0-
+
+-0-
+
+-0-
+
+(a) Personnel (including
+faculty and all others)
+(b) Library
+(c) Equipment
+(d) Laboratories
+(e) Supplies
+(f) Capital Expenses
+(g) Other (Specify):
+(h) Sum of Rows Above
+
+Section 6. Library Resources
+NOTE: This section does not apply to certificate or advanced certificate programs.
+Section 7. External Evaluation
+NOTE: This section does not apply to certificate or advanced certificate programs.
+Section 8. Institutional Response to External Evaluator Reports
+NOTE: This section does not apply to certificate or advanced certificate programs.
+
+16
+
+Section 9. SUNY Undergraduate Transfer
+NOTE: This section does not apply to certificate or advanced certificate programs.
+
+17
+
+Section 10. Application for Distance Education
+a) Does the program’s design enable students to complete 50% or more of the course requirements through
+distance education? [ X ] No [ ] Yes. If yes, append a completed SUNY Distance Education Format
+Proposal at the end of this proposal to apply for the program to be registered for the distance education
+format.
+b) Does the program’s design enable students to complete 100% of the course requirements through distance
+education? [ ] No [ X] Yes
+
+Section MPA-1. Need for Master Plan Amendment and/or Degree Authorization
+NOTE: This section does not apply to certificate or advanced certificate programs.
+List of Appended Items
+Appended Items: Materials required in selected items in Sections 1 through 5 and Section 10 of this form should
+be appended after this page, with continued pagination. In the first column of the chart below, please number the
+appended items, and append them in number order.
+Number
+Appended Items
+Reference Items
+For multi-institution programs, a letter of approval from partner
+N/A
+Section 1, Item (e)
+institution(s)
+For programs leading to professional licensure, a side-by-side chart
+showing how the program’s components meet the requirements of
+N/A
+Section 2.3, Item (e)
+specialized accreditation, Commissioner’s Regulations for the
+Profession, or other external standards
+For programs leading to licensure in selected professions for which the
+N/A
+SED Office of the Professions (OP) requires a specialized form, if
+Section 2.3, Item (e)
+required by OP
+OPTIONAL: For programs leading directly to employment, letters of
+N/A
+Section 2, Item 2.3 (h)(2)
+support from employers, if available
+1
+
+2
+N/A
+N/A
+N/A
+N/A
+
+For all programs, a plan or curriculum map showing the courses in which
+the program’s educational and (if appropriate) career objectives will be
+taught and assessed
+For all programs, a catalog description for each existing course that is
+part of the proposed program
+For all programs, syllabi for all new courses in the proposed program
+For programs requiring external instruction, External Instruction Form
+and documentation required on that form
+For programs that will depend on new faculty, position descriptions or
+announcements for faculty to-be-hired
+For programs designed to enable students to complete at least 50% of
+the course requirements at a distance, a Distance Education Format
+Proposal
+
+18
+
+Section 2, Item 7
+
+Section 3, Item (b)
+Section 3, Item (c)
+Section 3, Item (d)
+Section 4, Item (b)
+Section 10
+
+Appendix 1 - Curriculum Map for the Advanced Certificate in Accounting
+in progress
+
+Legend
+P: Practiced/Reinforced
+A: Assessed
+
+Course Name and Number
+
+BU 7545 Financial Reporting, Analysis
+& Ethics
+BU 7547 International Accounting &
+Reporting
+BU 7555 Accounting Information
+Systems
+BU 7556 Advanced Auditing and
+Assurance Services
+BU 7560 Fraud Examination
+
+Excellence
+Professionalism
+Goal 1
+Students will demonstrate a
+broad and in depth
+knowledge and
+understanding of taxation
+principles, theories and
+practice. This knowledge
+should enable students to
+develop solutions to
+complex issues utilizing
+critical thinking skills.
+
+School of Business Values and Learning Goals
+Socially Responsible
+Multiculturalism
+Excellence
+Citizenship
+Professionalism
+Professionalism
+Goal 2
+Goal 3
+Goal 4
+Students will be prepared
+Students should
+Students will
+to become socially
+demonstrate the
+demonstrate the
+responsible business
+ability to operate
+ability to be
+leaders able to recognize
+and lead in
+effective in
+ethical dilemmas and
+challenging
+multiple modes of
+achieve resolutions in a
+positions in a
+communication.
+socially and
+competitive global
+professionally
+financial reporting
+responsible manner.
+environment.
+
+P
+
+Excellence
+Professionalism
+Goal 5
+Students will
+demonstrate well
+developed research
+skills.
+
+P,A
+
+P
+
+P,A
+
+P
+
+P
+
+P
+
+P
+
+P
+
+19
+
+P
+
+Appendix 2 - Course Descriptions
+BU 7545 Financial Reporting, Analysis, and Ethics
+
+3 cr.
+
+An advanced examination of Generally Accepted Accounting Principles (GAAP) underlying financial
+statement preparation and disclosure, with an emphasis on the analysis and use of financial information
+in making business decisions. The course provides students with the technical underpinnings of GAAP
+and its relationship to decision making, as well as an understanding of the ethical responsibilities created
+by the reliance of various sectors of society upon financial statements. Topics include: the income
+statement, balance sheet, statement of cash flows, earnings quality, financial instruments, leases, income
+taxes, and pensions. A term project is required. Offered once a year. Prerequisite: BU6520 or equivalent.
+BU 7547 International Accounting and Reporting
+
+3 cr.
+
+This course familiarizes students with international accounting and reporting issues including a critical
+analysis of International Financial Reporting Standards (IFRS) versus U.S. GAAP. The course examines
+how national standards have developed historically and how standards differ among types of countries,
+including those of developed versus emerging countries. Issues relating to international transactions,
+foreign currency translation and hedging practices are covered. The analysis of international financial
+statements, accounting for changing prices and taxation issues in international firms are also discussed.
+Offered once a year. Prerequisite: BU6520 or equivalent. 15
+BU 7555 Accounting Information Systems
+
+3 cr.
+
+The course provides an overview of the interaction of accounting professionals with computer-based
+information systems (CBIS) and the use of information technology (IT). Developments such as the
+Internet, e-commerce, databases, and artificial intelligence have transformed the way business
+organizations conduct their activities. The course stresses the necessity for accountants to participate in
+the design of information systems, to be able to measure and evaluate the performance of information
+systems, and to assess the quality of information processing. Offered every semester. Prerequisite:
+BU6520 or equivalent.
+BU 7556 Advanced Auditing and Assurance Services
+
+3 cr.
+
+Building on the foundation created in an introductory course, this course enhances the understanding of
+fundamental concepts of auditing and provides in-depth exposure to the auditor’s legal liability and
+professional responsibilities and to specific topics within the auditing process (e.g., analytical review
+procedures, internal control issues, fraud detection, statistical and non-statistical sampling methods, and
+the use of computers in auditing). It also provides exposure to the emerging value-added assurance
+services decision makers are increasingly demanding in the information age. Topics are covered using
+text material, real-world case studies, current articles, a research project, and interactive assurance
+service projects utilizing Internet links. Offered every semester. Prerequisite: BU6550 or equivalent.
+
+20
+
+BU 7560 Fraud Examination
+
+3 cr.
+
+A study of the accountant’s role in the examination of fraud allegations and fraud prevention, including:
+the recognition and detection of fraud, use of controls to prevent fraud, and limited engagements related
+to fraud, errors and irregularities. Offered every semester. Prerequisites: BU 6520 and BU6550 or
+equivalents.
+
+21

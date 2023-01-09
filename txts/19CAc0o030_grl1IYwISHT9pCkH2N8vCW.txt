@@ -1,0 +1,125 @@
+Resolution in Support of Increased Communication and Transparency from
+The SUNY Old Westbury’s IT Department with Faculty, Staff, and Students
+WHEREAS​ the SUNY Old Westbury’s IT Department is responsible for conducting routine updates to
+the College Connect Portal, system changes, software conversions, and on campus and remote campus
+accessibility options for Mac, PC, and thin client applications; and
+WHEREAS ​the Faculty, Staff, and Students are users of these IT Department responsibilities; and
+WHEREAS ​we appreciate all the work the IT Department does and has done for the College during these
+challenging times; and
+WHEREAS​ in the winter and summer months there is a pattern of reoccurring weather events (i.e.,
+including, but not limited to snow storms, heat waves, and other inclement weather) resulting in power
+outages, and dropped, disconnected, or downed system connectivity to the campus servers; and
+WHEREAS​ these issues occur during critical time-periods of classes, new/transfer student orientations
+and advising, and faculty research and grant writing activities; and
+WHEREAS ​communication from the IT Department is either absent, delayed, or occurs too far in
+advance without contemporaneous reminders as to when such updates and system changes are scheduled
+to occur; and
+WHEREAS ​system changes and updates should not occur during times where such access is needed for
+all campus constituents’ work related purposes and when classes occur (i.e., between 6am – 11pm) and
+not during the days right before a semester begins; and
+WHEREAS​ the SUNY Old Westbury’s IT Department has either inconsistent or absent services for
+addressing IT related issues during the evenings on the weekdays and the weekends; and
+WHEREAS ​when any power outages, downed systems, or other network and/or server related issues
+occur, Faculty, Staff, and Students have no alternative mechanism to submit service requests to the IT
+Department; and
+WHEREAS​ when any updates and systems changes are instituted and require Faculty, Staff, and
+Students to refresh their browsers, change browsers, clear their history browsing data, clear their cache,
+and/or need to restart their computers in order for such changes to synchronize, they are not being
+communicated; and
+WHEREAS,​ that SUNY Old Westbury IT Department requires increased resources and budget to hire
+more staff to address the aforementioned areas of concern raised by Faculty, Staff, and Students for
+working, teaching, and research related activities.
+THEREFORE, BE IT RESOLVED​ that the SUNY Old Westbury’s IT Department adopt new best
+practices to communicate by email and text alerts to all Faculty, Staff, and Students any future routine
+updates to the College Connect Portal, systems changes, software conversions, and on campus and remote
+campus accessibility options for Mac, PC, and thin client applications well in advance with another
+reminder the day prior to these scheduled events; and
+
+1
+
+Information Technology Services, ITS, will provide, as best practice, notifications for scheduled updates
+via text alert and email, to all Faculty, Staff and Students, 5 business days prior to the scheduled event
+and outage and 1-day reminder prior to the date. Should the outage window be prolonged, or
+restoration of services not successful additional notifications are sent with an approximate ETA of
+restoration of service.
+BE IT RESOLVED​, that the SUNY Old Westbury’s IT Department email and text alert Faculty, Staff,
+and Students well in advance and the day prior to changing any critical operating systems, email systems,
+thin clients, on campus and remote learning accessibility, and ensure Faculty, Staff, and Students are
+provided enough time/forewarning to save, backup, and upload to the cloud any teaching, research, and
+other important files to prevent loss; and
+On IT Governance committee’s recommendation to Facilities and ITS, and in order to speed up the
+notification process, if and when major interruptions occur that do adversely affect Teaching and
+Learning, Facilities or ITS will send a quick notification, foregoing detailed assessment and resolution
+estimated time, to all impacted constituencies.
+BE IT RESOLVED​, that the SUNY Old Westbury’s IT Department proactively plan accordingly for
+threats to the availability of the system (i.e., including winter snow storms, summer heat waves, inclement
+weather, and power outages) to safeguard all data containing servers and IT relates systems on campus;
+and
+Data housed in the College’s data center are being backed up locally. Data housed in the ITEC data
+center is being backed up at that location.
+BE IT RESOLVED​, that the SUNY Old Westbury’s IT Department immediately contact Faculty, Staff,
+and Students of any power outages, downed systems, or other network and/or server related issues for
+communicating when such problems occur with another follow up communication when such problems
+are resolved; and
+In collaboration and coordination with Facilities Department and ITS, notifications regarding power
+outages, downed systems, fiber cuts, HVAC adversely impacted, will be communicated via phone, cell,
+email and text within a reasonable period after occurrence of the event. Notification window is directly
+related and dependent on the nature and complexity of the even. ​See above regarding quick notification
+process.​ Upon assessments of systems and services affected the ITS emergency notification process is
+put on effect via email and text. The ITS emergency notification process is comprised of several tiers of
+checks and balances and it is managed by many departments; B&F, Facilities, Communications to name
+but a few.
+BE IT RESOLVED​, that the SUNY Old Westbury’s IT Department come up with separate, prioritized
+options for faculty to submit service request tickets. These options should include as a backup alternatives
+in case of power outages, downed systems, or other network and/or server related issues arise with
+step-by-step instructions on how to submit such requests when needed; and
+ITS Department provides a very simple option to submit service request tickets; email to
+servicedesk@oldwestbury.edu​ or call x3098, 516-876-3098. In case of power outage, downed system or
+other network related issues, both email and phone services might be unavailable. Direct links to cloud
+
+2
+
+and hosted applications will be included in the body of the notification, i.e. Blackboard, Microsoft Office
+(email). A notification tree with Cell Numbers has been established in case of phone service interruption.
+BE IT RESOLVED​, that the SUNY Old Westbury’s IT Department immediately email and text all
+Faculty, Staff, and Students to refresh their browsers, change browsers, clear their history browsing data,
+clear their cache, and/or restart their computers in order for any changes that were made to be
+synchronized; and
+Notifications to Faculty, Staff and students will include instructions as proposed where relevant and
+applicable. These instructions can be found in the Service Desk area on our Portal and are saved and
+updated as Knowledge Base Articles. Know issues with browser compatibility are also posted on the
+Blackboard portal.
+BE IT RESOLVED, ​that system changes and updates should occur during off hours (i.e., 11pm-6am)
+and 3 weeks prior the start of every semester; and
+All scheduled system changes to the College’s Technical Infrastructure are scheduled and occur, as a
+standard practice, during off hours. Emergency updates and changes occur as needed and required to
+restore service. Systems housed and maintained by ITEC, OpenSUNY, and application vendors, fall
+outside ITS’s purview; however, all scheduled changes by externally maintained systems take place
+during off hours with the notable exception of emergency updates and service interruptions.
+BE IT RESOLVED,​ the SUNY Old Westbury’s IT Department hires staff to work during the evenings
+on weekdays from 5pm-10pm and on the weekends from 9am-4pm; and
+ITS provides coverage via staggered schedule, flex hours, during Academic Semesters, when classes are
+in session. Staff hiring are directly correlated to budget availability and Cabinet approval.
+THEREFORE BE IT FURTHER RESOLVED,​ that SUNY Old Westbury Administration support the
+IT Department by helping providing them with the necessary resources and budget to hire more staff to
+address the aforementioned areas of concern raised by Faculty, Staff, and Students to ensure that they
+have the required assess to IT systems on campus and through the remote campus for working, teaching,
+and research related activities.
+ITS recognizes and finds value in this resolution. The abrupt transition to an expanded remote learning
+platform, along with the increased utilization of educational and student support software and services,
+clearly demonstrate the importance of investing more in technology resources to assist the College in
+achieving its mission. The administration has reacted positively and provided additional resources to ITS. In
+FYE 2012, ITS had a staff of 19.5 FTEs and a budget of $3.5 million. Since then, the College has
+acknowledged the increasing importance of technology in teaching and learning by investing significant
+resources in this area. Currently, ITS has 25.0 FTEs and a budget of $5.1 million, a 45% increase in resources
+since 2011. It is the administration’s intent to further strenthen its investment in technology
+to ensure that faculty, staff and students have secure access to a sound technology infrastructure (Old
+Westbury’s Digital Campus) for working, teaching and research related activities.
+Resolution Submitted​ to the Faculty Senate Executive Committee on 09, 21, 2020
+Sponsored by:​ The Psychology Department – School of Arts & Sciences
+
+3
+
+Endorsed by:​ XX
+
+4

@@ -1,0 +1,267 @@
+SUNY Old Westbury Draft Policy on Open Access (11/25/2019)
+I.
+
+Overview
+
+The Faculty of the College at Old Westbury State University of New York is committed to an
+environment that cultivates critical thinking, empathy, creativity, and intercultural understanding.
+Old Westbury endeavours to stimulate a passion for learning and a commitment to building a
+more just and sustainable world. The College is committed to disseminating its research,
+scholarship and creative works, and has therefore created this Policy on Open Access. This
+document outlines policies and guidelines regarding the submission of content to the SUNY Old
+Westbury Digital Repository, including submission criteria and procedures, author and user
+rights, procedures for removing posted content, and administration of the Repository.
+Hosted through a SUNY-wide platform, DSpace, the SUNY Old Westbury Digital Repository
+collects, preserves, and provides online access to selected scholarship produced at SUNY Old
+Westbury. Our repository contains special collections documents, faculty research, master’s
+theses, and faculty sponsored student research projects.
+For each work voluntarily (opt-in) deposited in the institutional repository, the author grants to
+The College at Old Westbury, State University of New York, nonexclusive permission to make
+that article (research/artwork, etc.,) available for open access. The Old Westbury Library will
+make the work available to the public in an open access repository, adhering to all embargoes
+and restrictions by the primary academic publisher.
+The Old Westbury Library will be responsible for resolving disputes concerning interpretation
+and application of the policy and recommending changes to the policy to the faculty. The Old
+Westbury Library provides the day-to-day services to assist the Old Westbury community to
+utilize the SUNY Old Westbury Digital Repository.
+II.
+Submission
+To best represent the spectrum of Old Westbury’s scholarly communications, the SUNY Old
+Westbury Digital Repository maintains an inclusive collection policy based on the principle of
+open access, which emphasizes broad electronic dissemination of scholarly works. Faculty of the
+OW community interested in submitting materials should review the policies and guidelines
+below prior to submission. Detailed submission criteria and procedures can be found under
+“Submitting Work” on the Open Access LibGuide, www.libguides.oldwestbury.edu/oa
+A. Content Type
+
+
+The work must be creative, scholarly in nature, research oriented, or of institutional
+significance.
+
+
+
+The work should have lasting value for the college’s history, mission, or body of
+scholarly work.
+
+
+
+It is the responsibility of the submitter to ensure the submitted material complies with
+human subject protection requirements, animal use, biosafety and other ethical
+1
+
+standards outlined by the guidelines developed by the United States Department of
+Health and Human Services’ Office of Human Research Protections (OHRP) and via
+communication of the College’s Institutional Review Board (IRB).
+
+
+Examples of qualified content include:
+
+
+Published articles or preprints when copyright and/or license allow
+
+
+
+Books or book chapters when copyright and/or license allow
+
+
+
+Journals produced by the Old Westbury community
+
+
+
+Conference papers
+
+
+
+Technical reports
+
+
+
+Honors projects, master’s theses, and other student works presented at
+external conferences, symposiums and scholarly meetings.
+
+
+
+Datasets
+
+
+
+Institutional or organizational newsletters, reports, and related materials
+
+
+
+Image collections or audiovisual materials, either primary or supplementary
+
+B. Contributors
+ The work must be original, produced and submitted, or sponsored by, a full-time
+faculty or staff member, organization or department of SUNY Old Westbury.
+
+
+Contributors may include non-affiliated scholars if they are co-authoring with Old
+Westbury authors, are affiliated closely with the college, or are submitting via an Old
+Westbury-sponsored publication, conference, or event.
+
+
+
+For co-authored material, approval of all contributors is required.
+
+
+
+Content produced by students requires the approval of all the students involved in the
+creation of the work. Student work must be submitted by faculty or staff mentor.
+C. Copyright
+ The author must own the copyright to all components and content within the work, or
+have received and shown permission to have the material available in the SUNY Old
+Westbury Digital Repository.
+
+
+The author or representative of the organization or department must accept the terms
+and conditions that are presented upon submission prior to material being uploaded to
+the repository, granting SUNY Old Westbury the right to distribute and preserve the
+material via the SUNY Old Westbury Digital Repository, unless subsequently
+requested to be withdrawn. Refer to the “Submitting Work” tab and subsection
+“Withdrawal” in the Open Access LibGuide for further information.
+
+D. Format
+2
+
+
+
+The work must be in digital form, including supplementary materials.
+
+
+
+The file formats accepted are vast. Please consult with the Digital Librarian
+concerning format and file size. The Library will work with authors to ensure
+appropriate file types are used.
+
+
+
+The repository will not link out to content that exists on other websites or through
+subscription databases. However, when work is available on other repositories it may
+be acceptable to link to that content.
+
+The following content is not permitted for submission/publication:
+
+
+FERPA-protected information, including student email addresses.
+
+
+
+HIPAA-regulated information (protected health information), including any information
+related to the past, present or future physical or mental health of an individual, except
+only if the individual has authorized release of his or her information in writing, and such
+release is in the hands of the publisher.
+
+
+
+Content barred by law or regulation from publication.
+
+
+
+Intellectual property for which the submitter does not have permission to submit and
+distribute.
+
+
+
+Non-public, personally identifiable financial or contact information of any kind,
+including, but not limited to, social security numbers, credit/debit card numbers, account
+numbers, account balances, and private residential addresses, except only where such
+records pre-exist as legitimate publicly accessible records outside the college.
+
+
+
+Photographic depictions of individuals in areas where a reasonable expectation of privacy
+exists, except only if all individuals depicted have given written consent to publication of
+their image.
+
+
+
+Records protected by state privacy laws. Please note that privacy laws vary by state, and
+protect their residents even when they are out of state.
+
+III.
+
+Author’s Rights & Responsibilities
+The author retains the copyright for all works submitted. SUNY Old Westbury strongly
+advocates using the Creative Commons Licenses to clarify how the work that will be
+submitted can be used. License guidelines are made available in the LibGuide.
+
+
+
+
+
+The author is free to reuse the content, but it is his or her responsibility to check the
+terms of the publication agreement if a document published in the SUNY Old Westbury
+Digital Repository is published elsewhere.
+
+
+
+The author may update and add to existing works.
+
+3
+
+
+
+Since the author maintains copyright of their works published in the SUNY Old
+Westbury Digital Repository, works may be submitted for publication elsewhere. It is
+the author’s responsibility to notify the publisher that the work has been previously
+published in an institutional repository.
+
+
+
+The author must adhere to the State University of New York Copyright and Patent
+Policy.
+
+
+
+Although most content is open access, some material may be the subject of a publishing
+embargo for a fixed period.
+User’s Rights & Responsibilities
+All users must respect the intellectual property rights of the copyright holder.
+
+IV.
+
+
+
+For previously published works (journal articles, book chapters, etc.) for which the
+publisher retains copyright, permission has been granted (where necessary) to post this
+material in the SUNY Old Westbury Digital Repository. For any use which exceeds
+personal use or fair use under U.S. copyright law, permission may be required by the
+copyright owner of the material.
+
+
+
+For previously unpublished scholarly or creative works, the right to download or print
+any portion of this material is granted by the copyright owner only for personal or
+educational use. The author/creator retains all proprietary rights, including copyright
+ownership.
+
+
+
+Material may not be copied, distributed, displayed, altered, or used for commercial
+purposes, unless specified by Creative Commons License or explicit written permission
+of the copyright owner.
+
+
+
+Except as provided above, or for any other use that is allowed by fair use (Title 17, §107
+U.S.C.), you may not reproduce, republish, post, transmit or distribute any material from
+this repository in any physical or digital form without the permission of the copyright
+owner (not necessarily the author) of the material.
+
+V.
+
+
+Administration of the Repository
+The SUNY Old Westbury Digital Repository is administered at the local level by the
+Old Westbury Library. Please refer to the LibGuide for contact information. The
+SUNY-wide DSpace digital repository is administered by SUNY’s Office of Library and
+Information Service (OLIS).
+
+The OW College Library would like to thank the SUNY College of Environmental Science and
+Forestry Research, SUNY College of Brockport, and the SUNY New Paltz Libraries for
+permission to adapt their Digital Commons @ ESF, Digital Repository and Student Research
+Symposium DSpace Submission, respectively, policies and guidelines.
+
+4

@@ -1,0 +1,548 @@
+Program Revision Proposal:
+
+                            Creating New Program(s) from Existing Program(s)
+                                                                  EPP Form N
+
+This form should be used to seek SUNY’s approval to create one or more new
+programs from existing, registered programs.  A campus is not required to
+submit a Program Announcement (PA) or a Letter of Intent (LI) for these
+types of new programs.   The Chief Executive or Chief Academic Officer
+should submit a signed cover letter and this completed form to the SUNY
+Provost at program.review@suny.edu.
+
+|Section 1.  General Information                                                |
+|a)       |Institution Name: SUC Old Westbury                                   |
+|Instituti|Institution’s 6-digit SED Institution Code: 234000                   |
+|onal     |Institution’s Address:                                               |
+|Informati|                                                                     |
+|on       |                                                                     |
+|         |Additional Information:  Specify each campus and its 6-digit SED     |
+|         |Institution Code where the program is registered and where the       |
+|         |proposed changes would apply:                                        |
+|b)       |Name and title:                                                      |
+|Contact  |                                                                     |
+|Person   |                                                                     |
+|for This |Telephone:         E-mail:                                           |
+|Proposal |                                                                     |
+|c)       |Signature affirms that the proposal has met all applicable campus    |
+|CEO (or  |administrative and shared governance procedures for consultation, and|
+|designee)|the institution’s commitment to support the program as revised.      |
+|Approval |Name and title:                                                      |
+|         |Signature and date:                                                  |
+|.        |                                                                     |
+|         |If the revised program will be registered jointly[1] with one more   |
+|         |other institutions, provide the following information for each       |
+|         |partner institution.  The signature confirms support of the changes. |
+|         |Partner institution’s name:                                          |
+|         |Name and title of partner institution’s CEO:                         |
+|         |Signature of partner institution’s CEO:                              |
+
+                                                          Version 2013-10-17
+
+|Section 2.  Multi-Award and Multi-Institution Programs                         |
+
+ Check one.
+
+[  X  ]     This proposal is for a multi-award program  that  leads  to  two
+      separate awards  (e.g.,  A.S./B.A.,  B.S./M.S.).   Complete  Part  2A,
+      below.    NOTE:  Such programs generally  involve  special  admissions
+      for students who have the capacity to complete all awards,  curricular
+      integration between the component  programs,  and  shortened  time  to
+      degree compared to taking the programs separately.
+
+ [    ]     This proposal is for a multi-institution program (also called  a
+      “jointly registered program”) to be offered jointly  by  two  or  more
+      institutions.  Complete Part B, below.   NOTE:  Such programs  involve
+      a formal agreement between two or more institutions to  offer  courses
+      leading to an award.
+
+[    ]      This proposal is for a  multi-institution,  multi-award  program
+      to be offered jointly by more two or more institutions and lead to two
+      separate  awards.   Provide  a  single,  consolidated  response   that
+      reflects all the items in Parts 2A and 2B, below.
+
+PART 2A – Multi-Award Program
+
+a) Program Title: Combined B.A. /M.A.T. in Chemistry Adolescence Education
+
+b) Program Awards ((e.g., B.A./M.S.) from existing  programs):  Bachelor  of
+   Arts in Chemistry/ Master of  Arts   in  Teaching  Chemistry  Adolescence
+   Education
+
+c) Proposed HEGIS Code: 1905.01
+
+d) Required Number of Credits:  Minimum    [  156     ]       If  tracks  or
+   options, largest minimum [      ]
+
+e) Format:  [ X ] Day    [X  ] Evening  [  ] Weekend     [  ]
+   Evening/Weekend     [  ] Not Full-Time
+
+f) Mode:    [ X ] Standard   [  ] Independent Study   [  ] External   [ ]
+   Accelerated
+
+      [  ]  Distance Education  (If 50% of more of the program can be
+   completed via distance education,
+
+      append a Distance Education Format Proposal at the end of this form.)
+
+
+
+g)   Other:    [  ] Bilingual  [  ] Language Other Than English   [  ]
+   Upper Division Program   [  ] Cooperative
+
+   4.5 year    [ X ] 5 year
+
+h)    List registered programs at the institution identified  in  Section  1
+   whose courses will contribute to this program.  Add rows as needed.
+|         |Program Title                    |Award     |SED Program Code |
+|Program 1|Bachelor of Arts in Chemistry    |B.A.      |80229            |
+|Program 2|Master of Arts  in Teaching      |M.A.T     |32468            |
+|         |Chemistry Adolescence Education  |          |                 |
+
+
+i) List all the courses required for each  existing  program,  and  indicate
+   which ones will be counted toward both awards.  See attachment 1
+j) What is the length of time students will have to  complete  the  proposed
+   program? 5 years
+k) k)     What are the admissions requirements for the new program, and  how
+are they related to student success?
+   Candidates must apply for the program by the end of Junior year.  They
+   must have 12 credits of residency. All candidates must have completed
+   four lab science courses and show a GPA of 3.25 overall and 3.25 in the
+   courses required for the Chemistry B.A. degree.  An interview is
+   required.
+   Transfer students ‘GPA must meet Old Westbury’s GPA requirements and
+   transfer courses must be calculated along with Old Westbury grades for
+   admission to this program.
+
+
+   Candidates must submit an application that includes
+   •  An essay
+   •  GRE scores
+   •  Two letters of reference from faculty
+   •  All college transcripts
+   Highly qualified candidates will complete the program in  five  years  by
+   accelerating undergraduate coursework, and moving on to graduate study in
+   the fourth year.   Candidates must maintain a GPA of 3.25 (overall and in
+   the major) in each semester of study.  Additionally, no grades of  D  are
+   permitted for any required courses, and candidates must meet requirements
+   of the Chemistry major.  Those whose GPA falls below 3.25will  be  placed
+   on probation and will  have  one  semester  to  bring  up  their  grades.
+   Candidates  who  fail  to  complete  the  five-year   program   will   be
+   administratively transferred into the Chemistry major, and will  graduate
+   with the B.A. degree.
+
+
+   Complete a SUNY Sample Program Schedule to show how students will be able
+   to schedule all required courses to complete the multi-award program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Attachment 1
+
+|Program 1 Courses                                   |Credits  |Counted     |
+|                                                    |         |Toward Both |
+|                                                    |         |Awards      |
+|                                                    |         |√           |
+|Code         |Title                                 |         |            |
+|CP2120       |Principles of Chem 1                  |4        |            |
+|CP2130       |Principles of Chem 2                  |4        |            |
+|CP3300       |Organic Chem 1                        |5        |            |
+|CP3310       |Organic Chem 2                        |5        |            |
+|CP3400       |Analytical Chem                       |5        |            |
+|CP4510       |Biochem 1                             |3        |            |
+|CP4520       |Biochem Lab                           |2        |            |
+|CP4700       |Physical Chem 1                       |3        |            |
+|CP4710       |Physical Chem 2                       |3        |            |
+|MA2310       |Calc 1                                |4        |            |
+|MA2320       |Calc 2                                |4        |            |
+|CP2240       |Physics 1                             |4        |            |
+|CP2250       |Physics 2                             |4        |            |
+|CP5920       |Chem Seminar 1                        |1        |            |
+|CP5921       |Chem Seminar 2                        |1        |            |
+|             |     Chem Elective                    |3        |            |
+|             |Free Electives                        |19       |            |
+|FY1000       |First Year Exp                        |4        |            |
+|CE1000       |Community Engagement                  |2        |            |
+|EL1XXX       |English Comp 1                        |4        |            |
+|EL22XX       |English Comp 2                        |4        |            |
+|             |Creativity                            |4        |            |
+|             |Western Traditions                    |4        |            |
+|             |American Experience                   |4        |            |
+|             |Major Cultures                        |4        |            |
+|             |Foreign Language                      |4        |            |
+|             |Humanities                            |4        |            |
+|             |Diversity                             |4        |            |
+|PY2010       |Intro Psych                           |4        |            |
+
+
+
+|Program 2 Courses                                   |Credits  |Counted     |
+|                                                    |         |Toward Both |
+|                                                    |         |Awards      |
+|                                                    |         |√           |
+|Code         |Title                                 |         |            |
+|ED6000       |Foundations of Education              |3        |            |
+|ED6001       |Human Growth & Development            |3        |            |
+|ED6002       |Foundations of Literacy               |3        |            |
+|ED6003       |The Exceptional Learner               |3        |            |
+|ED6082       |Methods of Teaching Science           |3        |            |
+|ED6250       |The Nature and Development of Science |3        |            |
+|ED6092       |Literacy & Technology / Science       |3        |            |
+|ED6900       |Student Teaching                      |6        |            |
+|CP6560       |Topics in Molecular Biology           |3        |            |
+|CP6700       |Topics in Chemistry I                 |3        |√           |
+|CP6710       |Topics in Chemistry II                |3        |√           |
+|CP6590       |Environmental Science                 |3        |            |
+|CP6740       |Earth & Space Science                 |3        |            |
+SUNY Undergraduate Sample Program Schedule OPTION:  You can paste an Excel
+version of this schedule AFTER this line, and delete the rest of this
+page.)
+Program/Track Title and Award: Combined B.A. /M.A.T. in Chemistry
+Adolescence Education - Bachelor of Arts in Chemistry
+a) Indicate academic calendar type: [ X ] Semester   [  ] Quarter   [  ]
+   Trimester   [  ] Other (describe):
+b) Label each term in sequence, consistent with the institution’s academic
+   calendar (e.g., Fall 1, Spring 1, Fall 2)
+c) Name of SUNY Transfer Path, if one exists:
+   _Chemistry______________________________________  See Transfer Path
+   Requirement Summary for details.
+d) Use the table to show how a typical student may progress through the
+   program; copy/expand the table as needed.  Complete all columns that
+   apply to a course.
+|Term 1: Fall 1                                                                                                  |
+SUNY Graduate Sample Program Schedule OPTION:  You can insert an Excel
+version of this schedule AFTER this line, and delete the rest of this
+page.)
+Program/Track Title and Award: Combined B.A. /M.A.T. in Chemistry
+Adolescence Education - Master of Arts  in Teaching Chemistry Adolescence
+Education
+a) Indicate academic calendar type: [X  ] Semester   [  ] Quarter   [  ]
+   Trimester   [  ] Other (describe):
+b) Label each term in sequence, consistent with the institution’s academic
+   calendar (e.g., Fall 1, Spring 1, Fall 2)
+c) Use the table to show how a typical student may progress through the
+   program; copy/expand the table as needed.
+d) Complete the last row to show program totals and comprehensive,
+   culminating elements.  Complete all columns that apply to a course.
+|                                                     | |Term 8:Spring 4                                        |
+|Course Number & Title                                |C|New                                                    |
+|                                                     |r|                                                       |
+|                                                     |e|                                                       |
+|                                                     |d|                                                       |
+|                                                     |i|                                                       |
+|                                                     |t|                                                       |
+|                                                     |s|                                                       |
+|Course Number &     |Credits     |New                                                                          |
+|Title               |            |                                                                             |
+|New: X  if new course    Prerequisite(s): list prerequisite(s) for the noted courses                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|For programs leading to initial certification, list all pedagogical courses in the|
+|proposed program in the Pedagogical Core Courses table below.   The Pedagogical   |
+|Core Courses Table is designed for a program leading to a single certificate or   |
+|multiple certificates. See example on Pedagogical Core Courses Table for an       |
+|inclusive childhood education program leading to Childhood Education 1-6 (Cert    |
+|Code: 02) and Teaching Students with Disabilities 1-6 (Cert Code: 06).            |
+|                                                                                  |
+|Step 1:                                                                           |
+|In the first four columns, identify each pedagogical course by course number,     |
+|title, number of credits, required (R) or elective (E), and the                   |
+|instructor(s)/status (full-time or part-time). See example on Pedagogical Core    |
+|Courses Table.                                                                    |
+|                                                                                  |
+|Step 2:                                                                           |
+|Use the Certification Area Codes listed immediately below to identify the         |
+|certificate area(s) the program leads to and insert the certificate area number   |
+|code(s) in the Cert Code column(s). For example, if a program prepares candidates |
+|for certification in Childhood Education 1-6 and Teaching Students with           |
+|Disabilities Childhood 1-6, mark 02 and 06 in the Cert Code columns. See example  |
+|on Pedagogical Core Courses Table.                                                |
+|                                                                                  |
+|Certification Area Code                                                           |
+|01. Early Childhood Education                                                     |
+|                                                                                  |
+|                                                                                  |
+|02. Childhood Education                                                           |
+|                                                                                  |
+|                                                                                  |
+|03. Middle Childhood Education                                                    |
+|                                                                                  |
+|                                                                                  |
+|04. Adolescence Education                                                         |
+|                                                                                  |
+|                                                                                  |
+|05. Teaching a Special Subject                                                    |
+|                                                                                  |
+|                                                                                  |
+|06. Teaching Students with Disabilities in Early Childhood and Childhood          |
+|                                                                                  |
+|                                                                                  |
+|07. Teaching Students with Disabilities 7-12 Generalist                           |
+|                                                                                  |
+|                                                                                  |
+|08. Teaching Students Who are Deaf and Hard of Hearing                            |
+|                                                                                  |
+|                                                                                  |
+|09 Teaching Students Who are Blind or Visually Impaired                           |
+|                                                                                  |
+|                                                                                  |
+|10. Teaching Students with Speech and Language Disabilities                       |
+|                                                                                  |
+|                                                                                  |
+|11. Teaching English to Speakers of Other Languages                               |
+|12. Literacy                                                                      |
+|                                                                                  |
+|                                                                                  |
+|13. Teaching the Career Field                                                     |
+|                                                                                  |
+|                                                                                  |
+|14. Teaching a Specific Career and Technical Subject                              |
+|                                                                                  |
+|                                                                                  |
+|15. Library Media Specialist                                                      |
+|                                                                                  |
+|                                                                                  |
+|16. Educational Technology Specialist                                             |
+|                                                                                  |
+|                                                                                  |
+|17. Bilingual Education Extensions*                                               |
+|                                                                                  |
+|                                                                                  |
+|18. Bilingual Education Extensions**                                              |
+|                                                                                  |
+|                                                                                  |
+|19. Grades 5 and 6 Extensions                                                     |
+|                                                                                  |
+|                                                                                  |
+|20. Grades 7 through 9 Extensions                                                 |
+|                                                                                  |
+|                                                                                  |
+|21. Gifted Education Extensions                                                   |
+|                                                                                  |
+|                                                                                  |
+|22. Coordination of Work-Based Learning Programs Extensions                       |
+|                                                                                  |
+|                                                                                  |
+|24. Teaching Students with Severe or Multiple Disabilities Extensions             |
+|                                                                                  |
+|                                                                                  |
+|* Bilingual education extensions for all with exception of library media          |
+|specialist and educational technology specialist.                                 |
+|** Bilingual education extensions for library media specialist and educational    |
+|technology specialist.                                                            |
+|                                                                                  |
+|                                                                                  |
+|Step 3:                                                                           |
+|Using the Roman numerals embedded in the Certification Area Codes above, identify |
+|the general and program-specific pedagogical core requirements addressed by the   |
+|course and insert the Roman numerals corresponding to the requirements in the     |
+|appropriate columns. See example on Pedagogical Core Courses Table. The general   |
+|and program-specific requirements can be found by clicking on the link to each    |
+|certification area. NOTE: The Roman numerals found in the Certification Area Codes|
+|(e.g., ii, vi, vii,) reflect the regulatory requirements for each certificate     |
+|title.  However, the Roman numerals used in the table and found in the links do   |
+|not always align with the Roman numerals in Section 52.21.  For purposes of       |
+|completing the Pedagogical Core Courses table, please use only the Roman numerals |
+|found within the Certification Area Codes above.                                  |
+|Step 4:                                                                           |
+|Provide a description of each existing pedagogical course for this program as it  |
+|appears in the college catalog by pasting it below, insuring that the description |
+|reflects alignment with the regulatory requirements:                              |
+|Step 5:                                                                           |
+|Attach syllabi for each new course.  Syllabi should include a course description  |
+|and identify course credit, objectives, topics, student outcomes, texts/resources |
+|and the basis for determining grades.                                             |
+|                                                                                  |
+
+
+Pedagogical Core Courses Table
+
+|Course Number   |Credit|R/E  |Instructor(s) /   |Pedagogical Core Requirements (PCR) |
+|and Title       |      |     |Status            |Addressed                           |
+|                |      |     |                  |General    |Program-Specific PCR    |
+|                |      |     |                  |PCR*       |                        |
+|Section 4. Faculty                                                              |
+
+a) Complete the SUNY Faculty Table on the next page to describe current
+   faculty and to-be-hired (TBH) faculty.
+
+
+b) Append at the end of this document position descriptions or
+   announcements for each to-be-hired faculty member.
+
+
+NOTE:  CVs for all faculty should be available upon request.  Faculty CVs
+should include rank and employment status, educational and employment
+background, professional affiliations and activities, important awards and
+recognition, publications (noting refereed journal articles), and brief
+descriptions of research and other externally funded projects.    New York
+State’s requirements for faculty qualifications are in Part 52.2(b) of the
+Regulations of the Commissioner of Education.
+
+
+c) What is the institution’s definition of “full-time” faculty?  Service,
+   scholarship and teaching of 3 courses a semester.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUNY Faculty Table
+Provide information on current and prospective faculty members (identifying
+those at off-campus locations) who will be expected to teach any course in
+the graduate program. Expand the table as needed.  Use a separate Faculty
+Table for each institution if the program is a multi-institution program.
+
+|Faculty Member Name and    |% of   |Program Courses Which May |Highest and   |Discipline(|Additional       |
+|Title/Rank                 |Time   |Be Taught                 |Other         |s) of      |Qualifications:  |
+|(Include and identify      |Dedicat|(Number and Title)        |Applicable    |Highest and|List related     |
+|Program Director with an   |ed to  |                          |Earned Degrees|Other      |certifications,  |
+|asterisk.)                 |This   |                          |(include      |Applicable |licenses and     |
+|                           |Program|                          |College or    |Earned     |professional     |
+|                           |       |                          |University)   |Degrees    |experience in    |
+|                           |       |                          |              |           |field.           |
+|Judith Lloyd               |33%    |CP6590  Environmental     |Ph.D.  Ohio   |Physical   |                 |
+|                           |course |Science                   |State         |Chemistry  |                 |
+|                           |load   |CP6700 Topics in Chemistry|University    |           |                 |
+|                           |when   |1                         |              |           |                 |
+|                           |teachin|CP6710 Topics in Chemistry|              |           |                 |
+|                           |g      |2                         |              |           |                 |
+|Robert Hoyte               |33%    |CP6700 Topics in Chemistry|Ph.D. Rutgers |Organic    |                 |
+|                           |course |1                         |University    |Chemistry  |                 |
+|                           |load   |CP6710 Topics in Chemistry|              |           |                 |
+|                           |when   |2                         |              |           |                 |
+|                           |teachin|                          |              |           |                 |
+|                           |g      |                          |              |           |                 |
+|Konrad Wu                  |33%    |CP6700 Topics in Chemistry|Ph.D.  SUNY   |Physical   |                 |
+|                           |course |1                         |Albany        |Chemistry  |                 |
+|                           |load   |CP6710 Topics in Chemistry|              |           |                 |
+|                           |when   |2                         |              |           |                 |
+|                           |teachin|                          |              |           |                 |
+|                           |g      |                          |              |           |                 |
+|Youngjoo Kim               |33%    |CP6560 Molecular Biology  |Ph.D. Oregon  |Biochemistr|                 |
+|                           |course |CP6700 Topics in Chemistry|Health and    |y          |                 |
+|                           |load   |1                         |Science       |           |                 |
+|                           |when   |CP6710 Topics in Chemistry|University    |           |                 |
+|                           |teachin|2                         |              |           |                 |
+|                           |g      |                          |              |           |                 |
+|Ruomei Gao                 |33%    |CP6700 Topics in Chemistry|Ph.D.         |Analytical |                 |
+|                           |course |1                         |University of |Chemistry  |                 |
+|                           |load   |CP6710 Topics in Chemistry|Science and   |           |                 |
+|                           |when   |2                         |Tech. of China|           |                 |
+|                           |teachin|                          |              |           |                 |
+|                           |g      |                          |              |           |                 |
+|Steve Samuel               |33%    |CP6700 Topics in Chemistry|Ph.D. Clark   |Organic    |                 |
+|                           |course |1                         |University    |Chemistry  |                 |
+|                           |load   |CP6710 Topics in Chemistry|              |           |                 |
+|                           |when   |2                         |              |           |                 |
+|                           |teachin|                          |              |           |                 |
+|                           |g      |                          |              |           |                 |
+|Bright Emenike             |33%    |CP6700 Topics in Chemistry|Ph.D. Miami of|Organic    |                 |
+|                           |course |1                         |Ohio          |Chemistry  |                 |
+|                           |load   |CP6710 Topics in Chemistry|              |           |                 |
+|                           |when   |2                         |              |           |                 |
+|                           |teachin|                          |              |           |                 |
+|                           |g      |                          |              |           |                 |
+|Julio Gonzalez             |17%    |ED6001 Human Growth &     |Ed.D.         |Child &    |State of         |
+|                           |       |Development               |University of |Families   |Massachusetts,   |
+|                           |       |                          |Massachusetts-|Studies    |Certification    |
+|                           |       |                          |Amherst       |Program    |special Education|
+|                           |       |                          |              |           |(1-12)           |
+|Stephanie Schneider        |       |ED6002: Foundations of    |Ph.D. Hofstra |Literacy   |NYSED            |
+|                           |17%    |Literacy                  |University    |Studies    |Certification    |
+|                           |       |                          |              |           |(7-12) Social    |
+|                           |       |                          |              |           |Studies/ Special |
+|                           |       |                          |              |           |Education        |
+|Sanja Cale                 |17%    |ED6003:Except Learner     |Ph.D. Stony   |Clinical   |Board Certified  |
+|                           |       |                          |Brook         |Psychology |Behavior Analyst |
+|                           |       |                          |University    |           |                 |
+|Part 2.  Part-Time Faculty |       |                          |              |           |                 |
+|Kenneth Male               |       |ED6900 Student Teaching   |Masters,      |Sociology &|NYSED            |
+|                           |       |                          |Teacher       |Education  |Certification    |
+|                           |       |                          |College, New  |           |(7-12) Social    |
+|                           |       |                          |York          |           |Studies. NYCDOE  |
+|                           |       |                          |              |           |Teacher ofscience|
+|                           |       |                          |              |           |and social       |
+|                           |       |                          |              |           |studies (grade   |
+|                           |       |                          |              |           |5-9) from 1968 to|
+|                           |       |                          |              |           |2003             |
+|Part 3.  Faculty           |       |                          |              |           |                 |
+|To-Be-Hired (List as TBH1, |       |                          |              |           |                 |
+|TBH2, etc., and provide    |       |                          |              |           |                 |
+|title/rank and expected    |       |                          |              |           |                 |
+|hiring date.)              |       |                          |              |           |                 |
+|                           |       |                          |              |           |                 |
+
+-----------------------
+[1] If the partner institution is non-degree-granting, see SED CEO Memo 94-
+04. .

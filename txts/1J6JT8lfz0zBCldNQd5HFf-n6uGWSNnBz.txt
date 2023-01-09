@@ -1,0 +1,313 @@
+ARPT Process in Interfolio
+This document presents an overview of the electronic RPT process as it will be implemented for Spring 2021 files. The ARPT
+Manual (2020) remains the definitive guide for policies and processes related to Appointment, Reappointment, Promotion, and
+Tenure; the Interfolio workflow has been developed to reflect those policies and processes. The “Instructions” presented below
+are specific to the Interfolio process and will be visible by selecting the Case Details tab (top right of screen) at each step. The
+“Requirements” listed are the documents/forms that must be completed within Interfolio at each step. Additional policy/process
+requirements not specific to Interfolio are described in detail in the ARPT Manual.
+Pre-Launch: Candidate Notifies ARPT of Committee Members
+Candidates are asked to complete the form included (by hyperlink) in ARPT Notification Letters to report their Evaluation
+Committee Chair and Membership. Candidate files will be activated on/around December 15 (for Spring Reviews) and July 15
+(for Fall Reviews), and the process is facilitated by having this information up front.
+Step Zero 1: Candidate Uploads Documents
+Candidates receive an email notification when their case is initialized in Interfolio and can begin uploading their documents
+into the system as they are available.
+Instructions to Candidate
+Candidates up for review must upload and submit the following "Candidate Documents" in order for the review process to
+begin. Please refer to the "ARPT Manual" for additional information regarding each document/subfile (which may be uploaded
+in any electronic file format):
+·
+Self-Evaluation
+·
+Current Curriculum Vitae
+·
+Peer Classroom Observation Reports
+·
+Student Evaluations Subfile
+·
+Syllabi and Examinations Subfile
+·
+Documentation of Service Subfile
+·
+Documentation of Professional Activity Subfile
+·
+Previous Department and ARPT Recommendations Subfile (if applicable)
+After uploading, previewing, and editing documents (you may change the names or order of documents), select "Submit" to
+lock the Candidate Packet and send the case forward to the next step: Evaluation Committee Review.
+Once submitted, the candidate will need their Evaluation Committee Chair to "unlock" (and then re-lock) the candidate
+documents if modifications to these sections are required at the next step. Interfolio is intended as a tool to move "final"
+documents through the review process. Please circulate drafts (e.g. to your Evaluation Committee Chair for feedback) outside
+of Interfolio.
+Notes
+- Internal (Section 6b) and External (Section 11, when included) Letters of Evaluation will be solicited by the Evaluation
+Committee (typically the Chair), and then uploaded by the Evaluation Committee Chair in the next step within Interfolio. (See
+ARPT Manual pages 27-30.)
+- Because the system labels each of the sections listed above, the Table of Contents Requirement in the ARPT Manual is
+fulfilled by the Interfolio template design. No separate table of contents is required (but if you think some listing of contents
+would be useful to readers, please do so). Please name your files clearly to reflect contents.
+
+1
+
+This file preparation and upload step is unnumbered in Interfolio.
+
+ARPT Interfolio Guidance December 2020
+
+Step 1: Evaluation Committee Review 2
+After the candidate uploads their documents and clicks submit, the file moves to the first review step: Evaluation Committee
+(EC) Review. The EC Chair uploads any internal/external letters at the start of this step.
+Instructions to Evaluation Committee
+Each Department will set up an evaluation committee of at least three members. In small Departments, the entire Department
+minus the candidate being evaluated may serve in this capacity, or a member may be invited to serve from outside the
+Department. Please see the ARPT Manual for details regarding the Candidate’s rights with respect to the constitution of the
+Evaluation Committee.
+The Evaluation Committee will be responsible for (a) overseeing the collection of the information listed in Section 2 (The
+Preparation of Files); (b) evaluating the materials collected; (c) discussing its findings with, and eliciting any additional relevant
+data from, the candidate prior to submitting a written report to the Department (the Evaluation Committee Report), a copy of
+which will be available to the candidate, along with any Minority Reports originating within the EC.
+Requirements at this Step
+Evaluation Committee
+Chair
+
+Evaluation Committee
+Members
+
+1. Upload Internal/External Letters to corresponding sections,
+2. Upload the Committee Report (and any Minority Reports) when complete (add to Department
+Evaluation Subfile),
+3. Complete Form: Indicate whether any minority reports have been appended to
+Evaluation Committee Report
+4. Send Case forward to Department Review (after documents uploaded/forms completed)
+1. Review the file (no sign off required)
+
+The candidate is able to view the file at this step. If modifications to the candidate documents are required the Evaluation
+Committee Chair must "unlock" - and then re-lock - the packet.
+Upon completion of this step the Evaluation Committee Chair should select "Send Case" at the top of the screen to send the
+case forward to the next step: Department Review.
+
+2
+
+Note that the template has been modified for candidates in the Library, which uses a slightly different process.
+ARPT Interfolio Guidance December 2020
+
+Step 2: Department Review
+After the Evaluation Committee completes its report and sends the case forward to the next step, voting members of the
+department will receive an email notification indicating that the case is available for review.
+Instructions to Department
+Department members will have one week to review the candidate file and Evaluation Committee Report (including any
+Minority Reports originating in the EC) prior to the department review meeting. During this time, the candidate may submit a
+response to the Evaluation Committee Report. Department members must complete Sign Off form for file review prior to
+review meeting.
+Following the department review meeting, the Evaluation Committee Chair will report the department vote tally by completing
+a required form (please also report vote tally in Procedures), upload the final Department Evaluation and Procedures
+Statement to the Department Evaluation Subfile (when complete, including any Minority Reports), and indicate whether any
+Minority Reports have been appended to the Department Evaluation. The candidate will have five days to respond to the
+Department Evaluation prior to ARPT Deposit (unless the candidate waives the right to respond).
+Requirements at this Step (all requirements must be completed prior to ARPT Deposit)
+Voting Department
+Members
+
+1. Prior to Department Review Meeting, Complete Form: Sign Off 1 of 2 – Confirm File Review
+2. Following Department Review Meeting, Complete Form: Sign Off 2 of 2 – Confirm Department
+Evaluation Review
+
+Evaluation Committee
+Chair
+
+1. Confirm faculty (including self) have signed off on file prior to Department Review Meeting
+(view forms under “Case Details”),
+2. Complete Form: Report Vote Tally (after Department Review Meeting),
+3. Upload Department Evaluation and Procedures (when available),
+4. Complete Form: Indicate any Minority Reports (and upload if applicable),
+5. Confirm faculty have signed off on department evaluation (completed form 2 of 2) and
+Candidate has completed two required forms, and
+6. Send Case forward to ARPT Review (after documents uploaded/forms completed).
+
+Candidate
+
+1. Prior to Department Review Meeting, Complete Form: Indicate Response to Evaluation
+Committee Report
+2. Following Department Review Meeting, Complete Form: Indicate Response to Department
+Evaluation
+3. If applicable: Upload any responses at this step to Department Evaluation Subfile
+
+Upon completion of this step the Evaluation Committee Chair should select "Send Case" at the top of the screen to send the
+case forward to the next step: ARPT Review. ARPT Deposit has not been fulfilled until the case is sent forward to ARPT Review.
+Notes
+- The file will not be viewable to department members (including EC chair) after ARPT Deposit.
+- Please do not complete Interfolio forms until the corresponding tasks have been completed in real life (e.g. don’t sign off on
+the Department Evaluation until you have reviewed the Department Evaluation. Form completion is date/time stamped.)
+- The department review meeting itself is conducted outside of Interfolio, which does not offer a conferencing or adequate
+voting tool. Please include how your review meeting and voting were conducted in the Procedures Statement.
+- It will not be possible (without administrator assistance) to send the case forward to the next step if required forms (listed
+under “Case Details”) are not completed. The Evaluation Committee Chair can check form completion under “Case Details”
+and in the Department Evaluation Subfile. Please contact ARPT if you require assistance.
+- Because the system has been setup to follow requirements of the ARPT Manual, the workflow requires that all materials from
+the Department Review process (including Minority Reports and Candidate Responses) are uploaded to the file prior to ARPT
+Deposit. Any past exceptions to this process will not be treated as precedent.
+ARPT Interfolio Guidance December 2020
+
+Steps 3-10
+Steps 3-10 in Interfolio reflect stages in the review process subsequent to Department Review per the ARPT Manual and are
+listed here. In addition to their access through the Department Review process (Steps 0, 1, and 2), candidates will have the
+opportunity to review the file (and submit responses as appropriate) in Steps 4, 7, and 10, marked with an asterisk (*) below.
+Step 3: ARPT Committee Review
+Step 4*: Human Resources – Candidate Reviews File (Required Form to indicate review)
+Step 5: Dean/Director Review
+Step 6: Provost Review
+Step 7*: Candidate Reviews File, Provides Response (if any) and Academic Affairs Forwards
+Step 8: President’s Office Review
+Step 9: Human Resources Marks Review Complete & Returns File to Candidate
+Step 10*: Candidate Receives Closed Out File (download or copy to Dossier materials that might be needed in future)
+
+ARPT Interfolio Guidance December 2020
+
+Candidate File in Interfolio
+This document presents an overview of the layout of Candidate Files within Interfolio. The ARPT Manual (2020) remains the definitive
+guide for policies and processes related to Appointment, Reappointment, Promotion, and Tenure; the Interfolio file template and
+workflow has been developed to reflect these.
+Organization of the Candidate File
+Interfolio uses sections (which are effectively folders) to organize review materials. These sections can be expanded or collapsed for
+easier viewing under the “Case Materials” tab, or contents may be accessed by selecting “Read Case” toward the top of the screen.
+For your reference, the sections you will find in the candidate files (which Interfolio calls “Cases”) are as follows:
+Candidate Documents
+The section labelled “Candidate Documents” includes all materials uploaded by the candidate. Anything uploaded here will by default
+be copied to the candidate’s Interfolio Dossier account and available for use in future review processes. Candidate Documents
+includes the following sub-sections, corresponding to those described in Part II of the ARPT Manual.
+4. Self-Evaluation
+5. Current Curriculum Vitae
+6a. Peer Classroom Observation Reports
+7. Student Evaluations Subfile
+8. Syllabi and Examinations Subfile
+9. Documentation of Service Subfile
+10. Documentation of Professional Activity Subfile
+12. Previous Department and ARPT Recommendations Subfile (if applicable)
+Internal Case Sections
+Following the Candidate Documents are five “Internal Case Sections” for documents uploaded by individuals other than the Candidate
+(e.g. Evaluation Committee Chair, ARPT). Numbers correspond to the sections listed in the ARPT Manual. Sections are organized to
+reflect the order in which they are (typically) used, and include the following (marked in bold):
+6b. Internal Letters
+Includes sample solicitation letter and all internal peer evaluation letters received, uploaded by Evaluation Committee Chair.
+11. External Evaluations Subfile
+While External Letters are required only for Tenure and Promotion reviews, candidates may include external letters in other
+review processes. Includes both 11a (Community Service) and 11b (Professional Activity). Includes sample solicitation letter
+and all external letters received, uploaded by Evaluation Committee Chair.
+3. Department Evaluation Subfile
+All materials related to the Department Review Process (including the Evaluation Committee) should be added by the
+Evaluation Committee Chair to the Department Evaluation Subfile, including:
+Evaluation Committee Report and Minority Reports (if any),
+Department Evaluation and Minority Reports (if any), and
+Procedures Statement (if separate), and
+Candidate Responses to any of the above documents (if any).
+Note: Completed Interfolio forms (e.g. sign offs) corresponding to department review will be viewable here.
+ARPT Recommendation
+Inside Front Pocket
+This section is a virtual "Inside Front Pocket" for the candidate file. It is the repository for materials added to the file during
+or after the ARPT Review, as well as any materials the candidate adds to the file after Department Review, including:
+Dean/Director Recommendation, Provost Recommendation, President's Determination, and
+any materials added to the file after Department Review, including candidate responses to ARPT or Academic Affairs
+Recommendations (if any).
+ARPT Interfolio Guidance December 2020
+
+Interfolio RPT Frequently Asked Questions
+General Questions
+
+Q. What? Where do I find Interfolio? How do I login?
+The easiest way to access Interfolio is from the Faculty Portal by scrolling to the list of “Faculty Tools” at the bottom right side of the
+screen.
+Q. I tried logging in but it’s not working. Help!
+Possible Problem: You entered your email address. Use your userid without the @oldwestbury.edu extension.
+Possible Problem: You tried logging in from an internet search without first selecting “Partner Institution” as your login mode. See above.
+Possible Problem: You need to clear your cache (or use a private browser). Some browsers require faculty to clear their
+cache to login to the OW Portal. If this is you, you may need to do the same to login to Interfolio.
+Q. I logged in, but I don’t see anything.
+You will only be able to view a candidate file when it is in a Step that includes you (e.g. Evaluation Committee Review, Department
+Review). Candidates will receive an email notification when their cases are activated and can begin uploading materials as available.
+Q. Can candidates make changes to the file after Candidate Documents are submitted?
+Interfolio is intended as a tool to move final documents through the review process. Drafts of materials (e.g. the self-evaluation) should
+be circulated for feedback outside of Interfolio prior to upload. If necessary the Evaluation Committee Chair can "unlock" the Candidate
+Documents if modifications are required. Changes to the file are recorded with date/time stamps.
+Q. I hate reading things on the screen. Can I print this entire thing out and read it on the beach?
+Yes. Interfolio offers download functions for the case as a whole and for individual documents. Please respect candidate materials and
+ARPT process confidentiality as you have done in the past, and keep the trees in mind.
+
+Candidate Questions
+Q. How long is this gonna take?
+Most of the work of file preparation (e.g. writing the self evaluation, selecting/locating/organizing materials) happens outside of
+Interfolio. If you organize your materials in advance, uploading them into this system is generally a series of simple drag and drop
+functions. You can upload multiple documents at once, or even full folders.
+Q. Can people see this once I upload materials?
+Not until you allow them to. Only you can view your file (which Interfolio refers to at various points as your “packet” or “case”) until you
+hit submit at the top of the screen. Once you do so, your file will be shared with your Evaluation Committee membership, based on the
+names you provided to ARPT. You will be able to view the complete file up until ARPT Deposit is made, and later will have opportunities
+to review and respond. (See Process Overview, Steps 3-10; ARPT Manual p6)
+Q. Can I modify these documents after I upload them?
+Yes. You can make changes to your file freely prior to clicking the “submit” button at the top of your packet. Once you hit submit the file
+will be “locked” and sent to the next step (Evaluation Committee Review). At that point you will need your EC Chair to “unlock” (and then
+re-lock) the candidate documents for you to make modifications to these sections. Interfolio is intended as a tool to move "final"
+documents through the review process. Please circulate drafts for feedback outside of Interfolio.
+Q. There isn’t a spot for my Table of Contents. Do I need one?
+No. Because the system labels sections that correspond to the contents, the Table of Contents Requirement in the ARPT Manual is
+fulfilled by the Interfolio template design. Please help others find your materials by naming files to clearly reflect their contents.
+Q. It says I can upload any type of file or hyperlinks. Can I just post a link to materials on my webpage?
+No. Please post the documents themselves rather than external links. If media (e.g. videos) make up a significant portion of your file you
+can post external links, but please also include a screen shot and description (like you might have for a paper file).
+Q. I tried uploading a document but it keeps generating an error. Is there a problem with the file?
+Usually not. This error is often generated when uploading multiple files at once. Try uploading just this one file. If the problem persists,
+note that Interfolio will not upload document files that have macros enabled.
+Q. Can I reorder the files once I upload them?
+Yes. When uploaded as a batch, files typically are listed in order by size (smaller files upload first). You can re-order them under Case
+Materials by hovering over the file name and dragging. There is no icon to indicate this movement, and it is sometimes glitchy, but it is
+possible. Alternatively, you can upload one file at a time in the order you prefer.
+ARPT Interfolio Guidance December 2020
+
+Q. Does it matter how I name my files?
+The ARPT Manual does not include guidelines for file naming, but please keep file presentation in mind. Reviewers will be able to see
+your file names, and the clearer they are, the simpler your file is to review. A numbering system that corresponds to the sections listed in
+the ARPT Manual is often useful, as are titles that indicate content.
+Q. It says I have a form to fill out but I can’t find it.
+Instructions for each step and all required forms can be located by clicking the “Case Details” tab at the top of the screen.
+Q. Can I save my materials from one review to the next?
+Each document you upload will be added to your Dossier account for long-term storage (unless you opt out). Your file will also complete
+the review process with its return to you, so you’ll have access to all materials uploaded as part of the review process. Files stored in
+Dossier will also be available for other processes that use Interfolio, like the Excellence in Teaching, Service, Scholarship & Creative
+Activities awards, promotion to distinguished rank, etc. Documents will needs to be moved into a new “case” for future reviews.
+
+Evaluation Committee Chair Questions
+Q. How do I solicit letters?
+We are not using Interfolio to solicit Internal or External Letters; please solicit letters as you have done in the past. You will have the
+opportunity to upload letters received after the candidate submits their documents, at which time you will receive an email notification.
+Q. How do we vote?
+Interfolio does not provide an anonymous voting tool. Votes should be conducted outside of Interfolio using a polling tool of your choice.
+Please include voting results and specify how voting was conducted in the Procedures Statement, and report the vote tally via the
+corresponding Interfolio form.
+Q. How do I upload review materials?
+Only the Evaluation Committee Chair and the Candidate can upload documents to the file at the Evaluation Committee/Department
+Review stages. Do so under “Case Materials” by clicking “Add File” beside the appropriate section (see section descriptions and ARPT
+Manual). Most files you upload should be added to the Department Evaluation Subfile (including the Evaluation Committee Report and
+any Candidate Responses at this stage). Internal and External Letters should be added to the corresponding sections.
+Q. I uploaded stuff but can’t view it. Help!
+If you are having a hard time viewing sub-sections or uploaded materials, check to make sure you have expanded all of the sections of the
+file. You can do this either by clicking the carrots (>) beside section names (Candidate Documents; Internal Sections), or by selecting
+“Expand All” on the blue bar in the middle of the page. Remember that the “Internal Sections” (including the Department Subfile) come
+at the bottom of the page, below the Candidate Documents.
+Q. How do I check to see if my colleagues have completed the Required Forms?
+You can view responses to forms under “Case Materials” in the Department Evaluation Subfile, below materials. You can get a quick
+overview of who has submitted a response by clicking “Manage Respondents” beside the name of the form under “Case Details.”
+
+Department Member Questions
+Q. How do I “sign off” on the file?
+When the file is available for department for review you will receive an email notification that provides direct access. You can review the
+file contents either by selecting the “Case Materials” tab or the clicking the “Read Case” button at the top of the screen (each provides a
+different view, but the content is the same). Once you have reviewed the file, select the “Case Details” tab to locate the Required Forms
+for this step, and complete form 1 of 2, a sign off sheet to confirm that you reviewed the file. As in the past, this form must be completed
+prior to the Department Review meeting.
+Q. How do I “sign off” on the Department Evaluation?
+You will find a second form in the same location, under the “Case Details” tab, listed under Required Forms. Complete form 2 of 2 to
+“sign off” on the Department Evaluation. Please do not complete this sign-off prior to reviewing the Department Evaluation (i.e. please
+don’t complete both “sign off” forms at the same time; form completion is date/time stamped).
+Q. How do I add a Minority Report?
+Only the Evaluation Committee Chair and Candidate can upload files. If you have chosen to submit a minority report, you can email it to
+either of them and they will add it to the Department Evaluation Subfile on your behalf. The department will be able to view the
+document once uploaded. This addition must be completed prior to the ARPT Deposit, at which point it will no longer be possible to
+make additions to the Department Evaluation Subfile.
+ARPT Interfolio Guidance December 2020

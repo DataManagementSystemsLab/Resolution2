@@ -1,0 +1,1142 @@
+New Program Proposal:
+                                                Undergraduate Degree Program
+                                                                     Form 2A
+
+This form should be used to seek SUNY’s approval and the State Education
+Department’s (SED) registration of a proposed new academic program leading
+to an associate’s and/or bachelor’s degree.  Approval and registration are
+both required before a proposed program can be promoted or advertised, or
+can enroll students.  The campus Chief Executive or Chief Academic Officer
+should send a signed cover letter and this completed form (unless a
+different form applies[1]), which should include appended items that may be
+required for Sections 1 through 6, 9 and 10 and MPA-1 of this form, to the
+SUNY Provost at program.review@suny.edu.  The completed form and appended
+items should be sent as a single, continuously paginated document.[2]   If
+Sections 7 and 8 of this form apply, External Evaluation Reports and a
+single Institutional Response should also be sent, but in a separate
+electronic document.  Guidance on academic program planning is available at
+http://www.suny.edu/provost/academic_affairs/app/main.cfm.
+.
+
+Table of Contents
+NOTE:  Please update this Table of Contents automatically after the form
+has been completed.  To do this, put the cursor anywhere over the Table of
+Contents, right click, and, on the pop-up menus, select “Update Field” and
+then “Update Page Numbers Only.” The last item in the Table of Contents is
+the List of Appended and/or Accompanying Items, but the actual appended
+items should continue the pagination.
+
+Section 1. General Information    2
+Section 2.  Program Information   3
+      2.1. Program Format    3
+      2.2. Diploma Program   3
+      2.3. Program Description, Purposes and Planning    3
+      2.4. Admissions  9
+      2.5. Academic and Other Support Services     10
+      2.6. Prior Learning Assessment    11
+      2.7. Program Assessment and Improvement 11
+Section 3.  Sample Program Schedule and Curriculum 11
+Section 4.  Faculty    18
+Section 5.  Financial Resources and Instructional Facilities  21
+Section 6.  Library Resources     21
+Section 7.  External Evaluation   22
+Section 8.  Institutional Response to External Evaluator Reports    22
+Section 9.  SUNY Undergraduate Transfer 22
+Section 10.  Application for Distance Education    23
+Section MPA-1.  Need for Master Plan Amendment and/or Degree Authorization
+23
+List of Appended and/or Accompanying Items   24
+
+
+|Section 1. General Information                                                     |
+|Item        |Response (type in the requested information)                           |
+|a)          |Date of Proposal:         |2/9/15                                     |
+|Institutiona|                          |                                           |
+|l           |                          |                                           |
+|Information |                          |                                           |
+|            |Institution’s 6-digit SED |234000                                     |
+|            |Code:                     |                                           |
+|            |Institution’s Name:       |SUNY Old Westbury                          |
+|            |Address:                  |P.O. Box 210 Old Westbury, NY 11568        |
+|            |Dept of Labor/Regent’s    |Long Island                                |
+|            |Region:                   |                                           |
+|b)          |List each campus where the entire program will be offered (with each   |
+|Program     |institutional or branch campus                                         |
+|Locations   |6-digit SED Code):                                                     |
+|            |List the name and address of off-campus locations (i.e., extension     |
+|            |sites or extension centers) where courses will offered, or check here [|
+|            |X  ] if not applicable:                                                |
+|c)          |Program Title:            |Hispanic and Latin American Cultural       |
+|Proposed    |                          |Studies                                    |
+|Program     |                          |                                           |
+|Information |                          |                                           |
+|            |Award(s) (e.g., A.A.,     |Bachelor of Arts                           |
+|            |B.S.):                    |                                           |
+|            |Number of Required        |Minimum [   48  ]   If tracks or options,  |
+|            |Credits:                  |largest minimum  [      ]                  |
+|            |Proposed HEGIS Code:      |1105                                       |
+|            |Proposed 6-digit CIP 2010 |16.0908                                    |
+|            |Code:                     |                                           |
+|            |If the program will be accredited, list the accrediting agency and     |
+|            |expected date of accreditation:                                        |
+|            |If applicable, list the SED professional licensure title(s)[3] to which|
+|            |the program leads:                                                     |
+|d)          |Name and title: Dr. Barbara Hillery, Dean, School of Arts and Sciences |
+|Contact     |516-876-3915  hilleryb@oldwestbury.edu                                 |
+|Person for  |                                                                       |
+|This        |                                                                       |
+|Proposal    |                                                                       |
+|e)          |Signature affirms that the proposal has met all applicable campus      |
+|Chief       |administrative and shared governance procedures for consultation, and  |
+|Executive or|the institution’s commitment to support the proposed program.          |
+|Chief       |E-signatures are acceptable.                                           |
+|Academic    |Name and title: Patrick O’Sullivan, Provost and Senior Vice President  |
+|Officer     |for Academic Affairs                                                   |
+|Approval    |Signature and date:                                                    |
+|            |If the program will be registered jointly[4] with one or more other    |
+|            |institutions, provide the following information for each institution:  |
+|            |Partner institution’s name and 6-digit SED Code:                       |
+|            |Name and title of partner institution’s CEO:                           |
+|            |Signature of partner institution’s CEO (or append a signed letter      |
+|            |indicating approval of this proposal):                                 |
+
+
+                                                          Version 2013-10-15
+
+
+|Section 2.  Program Information                                                     |
+
+
+
+|2.1. Program Format                                                                 |
+
+Check all SED-defined format, mode and other program features that apply to
+the entire program.
+
+a) Format(s):  [X  ]Day   [  ]Evening   [  ]Weekend      [
+   ]Evening/Weekend    [  ]Not Full-Time
+
+b)   Modes:   [ X ]Standard   [  ]Independent Study   [  ]External   [
+   ]Accelerated   [  ]Distance Education
+   NOTE: If the program is designed to enable students to complete 50% or
+   more of the course requirements through distance education, check
+   Distance Education, see Section 10, and append a Distance Education
+   Format Proposal.
+
+c)    Other: [ X ] Bilingual [  ] Language Other Than English [  ] Upper
+   Division [  ] Cooperative [  ] 4.5 year [  ] 5 year
+
+
+|2.2. Diploma Program                                                                |
+
+
+NOTE: This section is not applicable to a program leading to an associate’s
+or a bachelor’s degree.
+
+
+| Program Description, Purposes and Planning                                          |
+
+
+   a) What is the description of the program as it will appear in the
+      institution’s catalog?
+
+
+The Modern Languages Department bilingual B.A. Degree in Hispanic and Latin-
+American Cultural Studies proposes to offer both innovation and rigor in a
+field of academic research, which has grown considerably in importance and
+relevance. The bilingual nature of the proposed program of study, as well
+as its trans-disciplinary organization, make it equally pertinent and
+suitable to a large spectrum of students, with varied cultural and ethnic
+backgrounds.
+
+In contrast with the other major offered by the Department, this degree
+focuses on the exploration of culture, its meaning, interpretation and
+critique. It aims to prepare students who plan to seek employment in
+government, social services or political and human rights organizations, as
+well as those who intend to enter graduate school.
+
+Students seeking this B.A. can choose between two clearly defined options.
+Option One is bilingual and entails mastery of the Spanish language. Option
+Two is designed for students seeking to complete the degree in English. In
+both options, students are introduced to three interconnected academic
+disciplines: Hispanism, Latin American Cultural Studies and Decolonial
+Theory. The structure of the degree reflects a progress from development of
+linguistic skills, in the Core Courses, to introduction to area studies and
+exploration of specific fields or perspectives, in the Major Requirements,
+to the capstone course on Methods of Research and Analysis in Cultural
+Studies.
+
+
+b)  What are the program’s educational and, if appropriate, career
+objectives, and the program’s primary student learning outcomes (SLOs)?
+NOTE:  SLOs are defined by the Middle States Commission on Higher Education
+in the Characteristics of Excellence in Higher Education as “clearly
+articulated written statements, expressed in observable terms, of key
+learning outcomes: the knowledge, skills and competencies that students are
+expected to exhibit upon completion of the program.”
+
+    • Students will understand the theoretical foundations of Cultural
+      Studies and how they are applied to the understanding of ethnic
+      studies in general and Spanish, Latin-American, and Latino Studies in
+      particular.
+    • Students will demonstrate knowledge of the Spanish speaking world’s
+      linguistic diversity through the comprehension of Spanish in a variety
+      of situations, discursive modes and historical, regional or social
+      variations.
+    • Students will interpret, understand and engage literary and art works
+      within cultural, social, and historical contexts.
+    • Students will demonstrate cultural awareness with respect to the
+      diversity of cultural products and manifestations produced in the
+      Spanish speaking world: Spain, Latin America, the United States and
+      other countries in which there is a cultural production in Spanish.
+    • Students will have a deep understanding of indigenous cultures and
+      movements in Latin America, understanding them within the current
+      local and global sociopolitical contexts.
+    • Students will achieve a working knowledge of Decolonial Theory trends
+      to analyze, describe, and criticize Hispanic cultural representations
+      and historical interpretations.
+
+c) How does the program relate to the institution’s and SUNY’s mission and
+strategic goals and priorities?  What is the program’s importance to the
+institution, and its relationship to existing and/or projected programs and
+its expected impact on them?  As applicable, how does the program reflect
+diversity and/or international perspectives?
+
+The proposed BA degree in Hispanic and Latin-American Cultural Studies will
+uphold all aspects of Old Westburyʼs mission.
+
+It will foster academic excellence and stimulate a passion for learning
+through a rigorous program of study, which will include interdisciplinary
+approaches to language, literature, cinema and popular culture, and will
+stress research activities.
+
+It will weave the values of integrity, community engagement and global
+citizenship into its curriculum as its main purpose is to study cultural
+phenomena of the Hispanic world from a post- colonial perspective, and as
+one component will be an internship in the Hispanic community.
+
+It will cultivate both critical thinking and creativity by considering
+Hispanism and Hispanic Studies, not as a defined and closed discipline, but
+as an open and controversial area of study.
+
+Intercultural understanding is obviously the basic goal of such a degree,
+with its bilingual structure. Through their examination of the dynamics of
+cultural production in our societies, students will be encouraged to
+envision, and inspired to contribute to building, a more just and
+sustainable world.
+
+
+
+d)  How were faculty involved in the program’s design, and describe input
+by external partners, if any (e.g., employers and institutions offering
+further education?
+
+The impetus for the program dates to the 5-Year Review, which was completed
+in the AY 2011-2012, in which both Modern Language Faculty and the outside
+evaluators concurred on the need to expand the Department’s curriculum to
+accommodate the ever growing need to design rigorous study of Hispanic
+cultural studies.
+
+
+To cite Ana Maria Hernandez,
+In view of the rapid growth of the Spanish-speaking population both in the
+United States, and worldwide, and the resultant global impact of Latin
+American culture and language on the arts and commerce, it is essential
+that the modern language department devote the majority of our course
+offerings to support the Spanish Major.
+
+
+In response to the demand for a cultural studies curriculum, in the fall of
+2012, Department Chair, Dr. Zeniada Madurka, together with Dr. Fernando
+Guerrero launched a department-wide initiative to develop the program as a
+separate Bachelor’s Degree that would enhance the department’s major in
+Spanish Language, Hispanic Literature and Culture by attracting students
+from throughout the College interested in pursuing careers in arts and
+commerce and graduate education that require a sensitivity to the Hispanic
+cultures of New York City apart from the teacher education track for those
+who want to pursue careers other that teaching.
+
+The proposed program fills two needs according to current trends in
+undergraduate education:  first, it allows students to complete their
+studies in Hispanic culture although they may not possess an advanced level
+command of Spanish.  The proposed major would afford the option of
+completing the upper level courses in English with the requirement of as
+little as one semester of Spanish at the intermediate level.  And second,
+it shifts the emphasis of the humanities degree to provide more
+commercially marketable training to cultural studies, which student demand
+has shown in preference to the degree in literature.
+
+During the fall of 2012 and spring of 2013, the Modern Language faculty
+worked together to determine the curriculum of the proposed major.  We
+agreed that most of the courses currently taught in the Modern Languages
+Department would fulfill the requirements for the major, with only four or
+five new courses necessary to complement the cultural studies component.
+But, in order to expand our outreach, the Department worked out an
+interdisciplinary curriculum that included courses taught in English that
+would bring the Hispanic cultural studies major to students who lack
+sufficient Spanish language and written expression skills to succeed in a
+Spanish-only program.
+
+To this end, during the spring of 2013, the Modern Languages Department
+requested a new faculty line in Hispanic Cultural Studies. With the
+retirement of Distinguished Teaching Professor, Jesse Fernandez (Spring
+2013), which coincided with Dr. Ruben Gonzalez’ return to teaching with the
+Modern Languages department, Department faculty agreed that the candidate
+for the position should be a specialist in Hispanic Cultural Studies.  The
+Modern Language Department hired Dr. Angel Lara on a one-year visiting
+contract in the AY 2013-14 and was hired full-time as Assistant Professor
+of Hispanic Cultural Studies effective Fall 2014.
+
+The faculty collaborated to work out the curriculum for the major to
+include recommendations of Dr. Lara to bring courses related to digital
+media studies into the curriculum. (See below).
+
+Dr. Sonia Assa teaches:  ML3200 Translation Workshop; ML 4750 Fiction into
+Film ML3500 Critical Writing, ML 4750 Fiction into Film and ML4510
+Civilizations and Cultures of Spain.
+
+Dr. Ruben Gonzalez: In addition to the courses that make up the existing
+core and elective courses, Dr. Gonzalez HI3210 Hispanic Heritage (in
+English), Ml3401 Latino Writers in the US (in English) as well as ML3362
+Advanced Grammar and Composition
+
+Dr. Fernando Guerrero: In addition to the core courses and literature
+electives, Dr. Guerrero teaches ML4510 Civilization and Culture of Spain,
+ML3300 Artistic Expressions of Spain (Study Abroad course)
+
+Dr. Angel Lara: Dr. Lara comes to the Department with a wealth of knowledge
+of the Cultural Studies curriculum.  He has already taught three of the
+courses that he has proposed for the curriculum since his arrival in the
+Fall of 2013.  These include the 2 courses:  ML2550 Intro to Hispanic
+Cultural Studies (in English); and ML2500 Hispanic Language and Culture,
+which can serve as the intermediate course for those wishing to complete
+the program predominantly in English.  He has also taught ML3310 Topics in
+Chicana/o Cultural Studies.  And he developed courses in ML3310 Topics in
+Decolonial Theory, ML3510 Creative Writing and ML3500 Fiction Writing for
+Spanish Television.
+
+Dr. Zenaida Madurka:  In addition to the core courses and major electives,
+Dr. Madurka teaches ML3650 Latin American and Peninsular Cinema; ML4545
+Civilization and Culture of Latin America. She has also developed and
+taught ML3300 Artistic Expressions of Spain as a study abroad course taught
+during the summer.
+
+Dr. Kathleen O’Connor-Bater.  In addition to the core courses and electives
+from the present curriucla, Dr. O’Connor-Bater will teach the ML 3310
+Topics in Sociolinguistics in conjunction with a COIL partnership with the
+Instituto Tecnologico de Monterrery (Campus Chihuahua) in the Spring of
+2016.  She also teaches HI3110 Latin American Cultures (in English), ML4630
+Latin American Literature (in English) and ML3800 Masterpieces of Hispanic
+Literature (in English). She is currently adapting the course ML4800
+Modernisms and Modernity, whose focus has traditionally been one of
+literature, into a course in cultural studies and literature in which
+various critical, artistic, and commercial expressions of modernity are
+explored.
+
+
+
+e)  How did input, if any, from external partners (e.g., educational
+institutions and employers) or standards influence the program’s design?
+If the program is designed to meet specialized accreditation or other
+external standards, such as the educational requirements in Commissioner’s
+Regulations for the profession, append a side-by-side chart to show how the
+program’s components meet those external standards.  If SED’s Office of the
+Professions requires a specialized form for the profession to which the
+proposed program leads, append a completed form at the end of this
+document.
+
+f)  Enter anticipated enrollments for Years 1 through 5 in the table below.
+ How were they determined, and what assumptions were used?  What
+contingencies exist if anticipated enrollments are not achieved?
+
+Estimated FTE = FT headcount + PT headcount/3.  This formula is a standard
+formula used in IPEDS reporting (Integrated Postsecondary Education Data
+System) by the National Center for Education Statistics, which has been
+adopted by SUNY.
+
+|         |Anticipated Headcount Enrollment |Estimated   |
+|Year     |                                 |FTE         |
+|         |Full-time |Part-time |Total      |            |
+|1        |15        |8         |23         |18          |
+|2        |20        |10        |30         |23          |
+|3        |25        |11        |36         |29          |
+|4        |35        |12        |47         |39          |
+|5        |40        |15        |55         |45          |
+
+
+
+g)  Outline all curricular requirements for the proposed program, including
+prerequisite, core, specialization (track, concentration), internship,
+capstone, and any other relevant component requirements, but do not list
+each General Education course.
+
+Majors must complete 48 credits in Spanish Language, and Hispanic and Latin-
+American Cultural Studies.
+
+Option I  (Bilingual; up to six courses may be taken in English)
+
+Prerequisite:
+
+ML2100 Intermediate Spanish Conversation I
+
+Core Courses (20 credits):
+
+1. Three courses in Spanish language (communication skills, grammar and
+linguistics)
+2. Introduction to Hispanic Cultural Studies (one course)
+3. One Writing course
+Major Requirements  (24 credits)
+Two 3000-level courses (topics in Cultural Studies)
+Four 4000 or 5000-level courses (specific fields or perspectives)
+Capstone Course (4 credits)
+Methods of Research and Analysis in Hispanic Cultural Studies (including
+fieldwork and thesis)
+
+Option II (all courses in English, except language courses)
+
+ Prerequisite:
+
+ML1110 Basic Spanish Conversation II
+
+Core Courses (24 credits):
+
+1. Two courses in Spanish language (communication skills, grammar and/or
+linguistics)
+2. Introduction to Hispanic Cultural Studies (one course)
+3. Three 3000-level courses (topics in Cultural Studies)
+
+Major Requirements  (20 credits)
+Five 4000 or 5000-level courses (specific fields or perspectives)
+Capstone Course (4 credits)
+Methods of Research and Analysis in Hispanic Cultural Studies (including
+fieldwork and thesis)
+
+
+
+h)  Program Impact on SUNY and New York State
+
+h)(1)       Need: What is the need for the proposed program in terms of the
+      clientele it will serve and the educational and/or economic needs of
+      the area and New York State?  How was need determined?  Why are
+      similar programs, if any, not meeting the need?
+
+As described in section 2.3-a, the new B.A. degree in Hispanic and Latin-
+American Cultural Studies was developed as a response to a demographic
+reality and to the relevance of Spanish language and Latino cultures in the
+socio-cultural life of the United States. In our campus, the percentage of
+Hispanic students has grown significantly. However, the bilingual and trans-
+disciplinary nature of the proposed program make it equally pertinent and
+suitable to a large spectrum of students.
+The new B.A. degree in Hispanic and Latin-American Cultural Studies
+understands culture as one of the most complicated words in any language.
+Therefore the new degree responds to the need of exploring Latino, Hispanic
+and Latin American cultures by demystifying and extending the meaning of
+the word “culture” beyond a “canon” of great works of art and literature.
+Our proposed program will abandon the traditional split between high and
+low culture that opposes serious art to popular or mass culture; it will
+substitute the vertical relationship (high/low) with a horizontal one; it
+will recognize that nowadays not only culture but scholars and students are
+subject to market pressures (our subjectivity is being rehearsed and
+reinvent in this process); it will approach the topic of media in all its
+historical, technical and theoretical complexity; it will abandon the idea
+of culture as avant-garde and that elite culture will play a role in
+political and social transformation (humanistic discourse), and it will
+look instead how mass culture and cultural practices link to political and
+economic discourses in specific instances.
+Further, the degree in Hispanic and Latin-American Cultural Studies
+responds to the desire expressed by our students on numerous occasions, to
+be offered a curriculum which would reflect the way they experience and
+consume culture(s) and would also provide them with a set of tools and
+skills to interpret culture(s) within our global economic system.
+
+
+
+
+h)(2)       Employment: For programs designed to prepare graduates for
+      immediate employment, use the table below to list potential employers
+      of graduates that have requested establishment of the program and
+      state their specific number of positions needed.  If letters from
+      employers support the program, they may be appended at the end of this
+      form.
+|                                           |Need:  Projected positions    |
+|Employer                                   |                              |
+|                                           |In initial year |In fifth year|
+|This is a liberal arts major which is not  |                |             |
+|intended as a pre-professional degree      |                |             |
+|                                           |                |             |
+|                                           |                |             |
+
+
+h)(3)       Similar Programs: Use the table below to list similar programs
+      at other institutions, public and independent, in the service area,
+      region and state, as appropriate.  Expand the table as needed. NOTE:
+      Detailed program-level information for SUNY institutions is available
+      in the Academic Program Enterprise System (APES) or Academic Program
+      Dashboards.  Institutional research and information security officers
+      at your campus should be able to help provide access to these password-
+      protected sites.  For non-SUNY programs, program titles and degree
+      information – but no enrollment data – is available from SED’s
+      Inventory of Registered Programs.
+|Institution        |Program Title               |Degree   |Enrollment   |
+|                   |                            |         |             |
+|                   |                            |         |             |
+|                   |                            |         |             |
+
+
+
+h)(4) Collaboration:  Did this program’s design benefit from consultation
+      with other SUNY campuses?  If so, what was that consultation and its
+      result?
+
+h)(5) Concerns or Objections: If concerns and/or objections were raised by
+      other SUNY campuses, how were they resolved?
+
+
+h)(6)       Undergraduate Transfer: The State University views as one of
+      its highest priorities the facilitation of transfer for undergraduate
+      students.  To demonstrate adequate planning for transfer under SUNY’s
+      student mobility policy, Section 9 of this form on SUNY Undergraduate
+      Transfer must be completed for programs leading to Associate in Arts
+      (A.A.) and Associate in Science (A.S.) and for baccalaureate programs
+      anticipating transfer enrollment.
+
+
+|2.4. Admissions                                                                     |
+
+
+a)  What are all admission requirements for students in this program?
+Please note those that differ from the institution’s minimum admissions
+requirements and explain why they differ.
+
+b)  What is the process for evaluating exceptions to those requirements?
+
+c)  How will the institution encourage enrollment in this program by
+persons from groups historically underrepresented in the institution,
+discipline or occupation?
+
+
+
+
+   |2.5.  Academic and Other Support Services                                           |
+
+
+Summarize the academic advising and support services available to help
+students succeed in the program.
+Each Hispanic and Latin American Cultural Studies major will have a full
+time faculty advisor who will be responsible for coordinating program
+requirements. Academic advising is an essential component of each of the
+Modern Languages department programs.  The advisor will serve as a primary
+source of information and support during the students’ tenure in the
+program. The advisor serves as a mentor in relation to career planning,
+plans for future study, academic progress and other issues that impact
+students’ performance in the program. Majors will be expected to meet
+regularly with advisors during each semester. Such meetings will provide
+opportunities for both in-depth discussion of personal experiences,
+including the application of theory to practice and the implications of
+research methods and analysis in cultural studies.
+
+All students have access to the full range of services provided by the
+college. The Center for Academic Advising, for example, assists students in
+understanding and meeting the College's academic requirements for
+graduation.  Whenever necessary, the staff explains the General Education
+curriculum to students.  They also assist with online degree evaluation,
+particularly to transfer students who need to understand how their previous
+coursework has been evaluated.
+
+The department of Modern Languages is located in a new 147,000 square feet
+academic building. The Computing Services Division, located in this
+building, provides all campus-wide technology services in terms of
+installation, maintenance and upgrade of hardware and software.  All majors
+are issued e-mail accounts and server space to store data and files on the
+campus network.  Similarly, faculty members are issued email accounts and
+server space to store data and files that can be shared at will on the
+campus network.
+
+The college houses a Writing Center where assistance and non-credit
+workshops are provided to students.  Services at the Writing Center have
+been particularly beneficial to some Modern Languages Majors whose first
+language is not English and who take literature and history courses offered
+in English.  On-line tutoring is also available for any student who might
+need help with writing assignments.
+
+A dedicated computer lab for language study is available for all students
+taking courses within the department programs.  The lab is heavily used by
+students taking language courses, as most of these courses require lab
+attendance and lab work.
+
+Every semester three or four seniors majoring in Modern Languages volunteer
+to tutor other students who may need help with aspects of Spanish grammar
+or the content of a particular course.  Tutoring services within the
+department are coordinated by the Chairperson and the department’s
+secretary.
+
+The department of Modern Languages participates in the SUNY Learning
+Network (SLN).  Faculty teaching online courses participate in a series of
+workshops run by the SLN in the semester before their first offering. In
+the spring of 2010 the college launched a “hybrid initiative” to foster the
+development of courses combining online and classroom instruction.  The
+following year online only courses were added to this initiative. Faculty
+developing online and hybrid courses receive a stipend for course
+development.  In addition to support offered by the SLN, the staff of the
+Student Computing Center supports online as well as computer lab-based
+instruction via a help desk overseen by two lab managers, who also run
+faculty development workshops on Blackboard, work with faculty one-on-one
+to help them develop online course components in Blackboard, and create and
+disseminate “how-to” instructions on Blackboard.  The Online Initiative is
+run by a faculty member who serves as Director of Distance Learning.  The
+department of Modern Languages offers about five online courses per
+semester and will increase that number with the addition of the bachelor in
+Hispanic and Latin American Cultural Studies.
+
+
+
+
+|2.6. Prior Learning Assessment                                                      |
+
+
+If this program will grant credit based on Prior Learning Assessment,
+describe the methods of evaluating the learning and the maximum number of
+credits allowed, or check  here [ x   ] if not applicable.
+
+
+|2.7. Program Assessment and Improvement                                             |
+
+Describe how this program’s achievement of its objectives will be assessed,
+in accordance with SUNY policy, including the date of the program’s initial
+assessment and the length (in years) of the assessment cycle.  Explain
+plans for assessing achievement of students’ learning outcomes during the
+program and success after completion of the program.  Append at the end of
+this form, a plan or curriculum map showing the courses in which the
+program’s educational and, if appropriate, career objectives – from Item
+2.3(b) of this form – will be taught and assessed.  NOTE:  The University
+Faculty Senate’s Guide for the Evaluation of Undergraduate Programs is a
+helpful reference.
+
+
+|Section 3.  Sample Program Schedule and Curriculum                                  |
+
+
+Complete the SUNY Undergraduate Sample Program Schedule to show how a
+typical student may progress through the program.  Either complete the
+blank Schedule that appears in this section, or complete an Excel
+equivalent that computes all sums for you, and can be found at
+http://www.suny.edu/provost/academic_affairs/app/forms.cfm.  Terms 5-8 may
+be deleted for programs leading to associate’s degrees.
+
+
+NOTES:  The Undergraduate Schedule must show all curricular requirements
+and demonstrate that the program conforms to SUNY’s and SED’s policies.
+ • It must show how a student can complete all program requirements within
+   SUNY credit limits, unless a longer period is selected as a format in
+   Item 2.1(c):  two years of full-time study (or the equivalent) and 64
+   credits for an associate degree, or four years of full-time study (or the
+   equivalent) and 126 credits for a bachelor’s degree.  Bachelor’s degree
+   programs should have at least 45 credits of upper division study, with 24
+   in the major.
+ • It must show how students in A.A., A.S. and bachelor’s programs can
+   complete, within the first two years of full-time study (or 60 credits),
+   no fewer than 30 credits in approved SUNY GER courses, with at least 3
+   credits each in Basic Communication and Mathematics, plus no fewer than
+   three credits each in at least 5 of the following 8 categories:  Natural
+   Science, Social Science, American History, Western Civilization, Other
+   World Civilizations, Humanities, the Arts and Foreign Languages.
+ • It must show how students can complete Liberal Arts and Sciences (LAS)
+   credits appropriate for the degree.
+ • When a SUNY Transfer Path applies to the program, it must show how
+   students can complete the number of SUNY Transfer Path (TPath) courses
+   shown in the Transfer Path Requirement Summary within the first two years
+   of full-time study (or 60 credits), consistent with SUNY’s Student
+   Seamless Transfer policy and MTP 2013-03.
+ • Requests for a program-level waiver of SUNY credit limits, SUNY GER
+   and/or a SUNY Transfer Path require the campus to submit a Waiver Request
+   – a different form – with compelling justification(s).
+
+      EXAMPLE FOR ONE TERM:  Undergraduate Sample Program Schedule TAKEN
+      FROM PA
+|Term 2:   Fall 20xx    |Credits per             |
+|                       |classification          |
+|Course Number & Title                   |C|GER                                     |
+|                                        |r|                                        |
+|Course Title                   |Credits | |Course Title                   |Credits  |
+|General Education Courses      |        | |Area Topics                    |         |
+|EL1000  English Composition I  |4       | |ML3310 Topics in Chicano and   |4        |
+|                               |        | |Caribbean Cultural             |         |
+|MA1020 or MA2000 (Math         |4       | |ML3xxx Decolonial Theory       |4        |
+|proficiency)                   |        | |                               |         |
+|                               |        | |ML3XX Spanish Sociolinguistics |4        |
+|GE: Western Traditions  (ML2550|4       | |Upper Division Major Electives |         |
+|Hisp. Culture)                 |        | |(4 required)                   |         |
+|GE: Foreign Language: completed|4       | |HI3110 Latin American Culture  |4        |
+|with major                     |        | |                               |         |
+|GE elective                    |4       | |AS3640 Hist and Culture of     |4        |
+|                               |        | |Latinos                        |         |
+|GE elective                    |4       | |ML3650 Latin American and      |4        |
+|                               |        | |Peninsular Cinema              |         |
+|GE elective                    |4       | |ML4410 Latinos in the US       |4        |
+|GE elective                    |4       | |PE4690 Politics of Latin       |4        |
+|                               |        | |America and the Caribbean      |         |
+|Total Gen Ed                   |32      | |ML4545 Civ and Culture of Latin|4        |
+|                               |        | |America                        |         |
+|College Liberal Arts           |        | |ML4510 Civ and Culture of Spain|4        |
+|Requirements                   |        | |                               |         |
+|FY1000 Freshman Seminar        |4       | |ML4750 Fiction into Film       |4        |
+|(Diversity)                    |        | |                               |         |
+|EL22xx English Composition II  |4       | |ML4xxx Digital Media           |4        |
+|General Liberal Arts Electives |10      | |ML5450 Trends in Latin American|4        |
+|                               |        | |Thought                        |         |
+|Total                          |18      | |ML5400 Contemp Lit Theory      |4        |
+|Core Language Requirements (3  |        | |Capstone                       |         |
+|required)                      |        | |                               |         |
+|ML2110 Interim II  Spanish     |4       | |ML5xxx Methods of Res. & Anal. |4        |
+|                               |        | |in Cultural Studies            |         |
+|ML3100 Advanced Spanish        |4       | |Total Upper Division Major     |28       |
+|ML3362 Adv Span Grammar and    |4       | |                               |         |
+|Comp.                          |        | |                               |         |
+|ML3200 Translation             |4       | |General Electives              |30       |
+|ML3250 Linguistics             |4       | |                               |         |
+|ML3500 Critical Writing        |4       | |                               |         |
+|ML3510 Creative Writing        |4       | |                               |         |
+|Total Language Required        |12      | |                               |         |
+|                               |        | |Total degree requirements      |120      |
+
+Special Cases for the Sample Program Schedules:
+ • For a program with multiple tracks or with multiple schedule options
+   (such as full-time and part-time options), use one Program Schedule for
+   each track or schedule option.  Note that licensure qualifying and non-
+   licensure qualifying options cannot be tracks; they must be separate
+   programs.
+ • When this form is used for a multi-award and/or multi-institution program
+   that is not based entirely on existing programs, use the schedule to show
+   how a sample student can complete the proposed program.  NOTE: A
+   different form (for program revisions) should be used for new multi-award
+   and/or multi-institution programs that are based entirely on existing
+   programs.
+ • SUNY policy governs the awarding of two degrees at the same level.
+ • Minors require neither SUNY approval nor SED registration.
+
+
+a)  If the program will be offered through a nontraditional schedule (i.e.,
+not on a semester calendar), what is the schedule and how does it impact
+financial aid eligibility?  NOTE:  Consult with your campus financial aid
+administrator for information about nontraditional schedules and financial
+aid eligibility.
+
+b)  For each existing course that is part of the proposed undergraduate
+major (including cognates and restricted electives, but not including
+general education), append a catalog description at the end of this
+document,.
+
+
+c)  For each new course in the undergraduate program, append a syllabus at
+the end of this document.  NOTE:  Syllabi for all courses should be
+available upon request.  Each syllabus should show that all work for credit
+is college level and of the appropriate rigor.  Syllabi generally include a
+course description, prerequisites and corequisites, the number of lecture
+and/or other contact hours per week, credits allocated (consistent with
+SUNY policy on credit/contact hours), general course requirements, and
+expected student learning outcomes.
+
+
+d)  If the program requires external instruction, such as clinical or field
+experience, agency placement, an internship, fieldwork, or cooperative
+education, append a completed External Instruction form at the end of this
+document.
+
+SUNY Undergraduate Sample Program Schedule (OPTION:  You can paste an Excel
+version of this schedule AFTER this line, and delete the rest of this
+page.)
+Program/Track Title and Award:_B.A Degree in Hispanic and Latin American
+Cultural Studies
+a) Indicate academic calendar type: [ x ] Semester   [  ] Quarter   [  ]
+   Trimester   [  ] Other (describe):
+b) Label each term in sequence, consistent with the institution’s academic
+   calendar (e.g., Fall 1, Spring 1, Fall 2)
+c) Name of SUNY Transfer Path, if one exists:
+   _______________________________________
+d) Use the table to show how a typical student may progress through the
+   program; copy/expand the table as needed.  Complete all columns that
+   apply to a course.
+
+A) Typical full-time student progress for Option I
+|Term 1:                                                                                                         |
+Descriptions of new courses:
+ML2550 Intro to Spanish, Latin American and Latino Cultural Studies
+This course aims at three culminating goals: development of critical
+thinking and interdisciplinarity, deconstruction of preconceptions about
+culture, power, and social relations applied to Spanish, Latin-American,
+and Latino cultures. We will study the presence of Spanish and Latin-
+American cultures, as well as the influence they have had, across their
+national homelands and on a global scale. Through lectures, discussion,
+practical research and writing, class members will critically investigate
+the varied dimensions of Spanish, Latin American, and Latino cultures,
+learning to understand them in their broader social, cultural, ethical and
+political contexts. Students will examine the effect that social and
+cultural models associated with colonialism, nation building, and Western
+modernity have had on the formation and development of Spanish, Latin-
+American, and Latino identities and cultures. This course will also provide
+students with a basic theoretical and methodological toolbox for
+problematizing Hispanism as both an academic discipline and a power
+mechanism.
+
+ML3310 Topics in Chicana/o Cultural Studies
+This course serves as an introduction to the field of Chicana/o Cultural
+Studies. Students will be guided into developing an understanding of the
+historical development of Chicanas/os, their Mesoamerican roots, cultural
+identification, political activities, and contemporary roles and influence
+in United States culture, society and economy. A substantial part of the
+course is dedicated to the study of Chicano art, its major influences,
+themes and styles, from its emergence in the 1960s to the present time. We
+will examine the historical, social and cultural context of the Chicano/a
+art movement and the major forces that shape artistic creation in this
+field. We will also study Chicana feminist scholarship and cultural
+representations, border issues, resistance to patriarchy, and Chicanas’
+search for empowerment.
+
+
+ML3--- Introduction to Decolonial Thinking
+The primary aim of this course is to give students an introduction to the
+growing body of thought coming out of Latin America under the heading of
+Decolonial Theory. Decolonial thinking focuses on understanding modernity
+in the context of a form of critical reasoning applied to cultural studies,
+by confronting, and delinking from, the dominant epistemologies and world
+views applied to the study and understanding of reality. Key words and
+concepts in this course include: Coloniality; Geopolitics of knowledge;
+Colonial globality and global designs; Border theory; Modernity and
+Transmodernity; Indigenous cultures and movements in Latin America.
+
+ML3-- Spanish Sociolinguistics
+Spanish Sociolinguistics: (Course taught in Spanish) In this course we will
+examine all aspects of Spanish language variation worldwide with a
+particular view to topics of both “emic” and “etic” language variation.
+Topics to be considered include attitudes towards language and dialect,
+standard language and language change, gramaticalization, social
+implications of age (aging), gender, class; regional variation by language
+in contact with English, Portuguese, Catalan; regional variation by contact
+with Indigenous languages: Quechua, Guaraní and Mexican Languages; Spanish
+speakers and language variation in United States Spanish; and language
+planning and language policy.  All of these topics are to be examined
+through the lens of sociological considerations such as language and
+identity, attitudes, bilingualism, historical linguistics and ideology.  
+
+ML4--- Digital Media and Convergence Culture in the Spanish World
+This course explores the relationships between media technologies,
+institutions, cultural forms and audiences within contemporary convergence
+culture in the Spanish world. We will examine how traditional forms of mass
+media texts have been impacted by new technologies and how such shifts are
+reconfiguring media audiences/consumers in Latin America, Spain and Latino
+US. Emphasis will be placed on understanding how existing media
+institutions and textual forms have changed within convergence culture in
+ways that challenge and uphold existing structures of media ownership and
+rethink questions of active audience engagement. Students will be exposed
+to a variety of forms of mass media in Spanish that emerged as a result of
+such convergence. They will acquire familiarity with digital culture and
+new media narratives so that they may become active and critically aware
+participants and producers of media and cultural contents and practices
+within the Spanish world.
+
+
+
+|Section 4. Faculty                                                                   |
+
+a) Complete the SUNY Faculty Table on the next page to describe current
+   faculty and to-be-hired (TBH) faculty.
+
+
+b)  Append at the end of this document position descriptions or
+   announcements for each to-be-hired faculty member.
+
+
+NOTE:  CVs for all faculty should be available upon request.  Faculty CVs
+should include rank and employment status, educational and employment
+background, professional affiliations and activities, important awards and
+recognition, publications (noting refereed journal articles), and brief
+descriptions of research and other externally funded projects.    New York
+State’s requirements for faculty qualifications are in Part 55.2(b) of the
+Regulations of the Commissioner of Education.
+
+
+c) What is the institution’s definition of “full-time” faculty?
+
+
+SUNY Faculty Table
+Provide information on current and prospective faculty members (identifying
+those at off-campus locations) who will be expected to teach any course in
+the major.  Expand the table as needed.  Use a separate Faculty Table for
+each institution if the program is a multi-institution program.
+
+|(a)                        |(b)     |(c)        |(d)            |(e)           |(f)                       |
+|Dr. Ruben Gonzalez,        |1/2     |HI3102     |Ph.D.          |Literature    |                          |
+|Professor                  |        |ML3410     |               |              |                          |
+|Dr. Fernando Guerrero,     |1/2     |ML4545     |Ph.D.          |Literature    |                          |
+|Associate Professor        |        |ML2500     |               |              |                          |
+|                           |        |ML3300     |               |              |                          |
+|Dr. Angel Lara, Assistant  |2/3     |ML2550     |Ph.D.          |Sociology     |                          |
+|Professor                  |        |ML3310     |               |              |                          |
+|                           |        |ML2500     |               |              |                          |
+|Dr. Zenaida Madurka,       |1/2     |ML4545     |Ph.D.          |Literature    |                          |
+|Associate Professor        |        |ML4350     |               |              |                          |
+|Dr. Kathleen               |1/2     |HI3110     |Ph.D.          |Linguistics   |Master of Liberal Arts:   |
+|O’Connor-Bater, Associate  |        |ML/EL4630  |               |              |History of Ideas          |
+|Professor                  |        |ML3310     |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|Part 2.  Part-Time Faculty |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|Part 3.  Faculty           |        |           |               |              |                          |
+|To-Be-Hired (List as TBH1, |        |           |               |              |                          |
+|TBH2, etc., and provide    |        |           |               |              |                          |
+|title/rank and expected    |        |           |               |              |                          |
+|hiring date.)              |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+|                           |        |           |               |              |                          |
+
+
+
+|Section 5.  Financial Resources and Instructional Facilities                 |
+
+a) What is the resource plan for ensuring the success of the proposed
+   program over time?  Summarize the instructional facilities and equipment
+   committed to ensure the success of the program.  Please explain new
+   and/or reallocated resources over the first five years for operations,
+   including faculty and other personnel, the library, equipment,
+   laboratories, and supplies.  Also include resources for capital projects
+   and other expenses.
+
+b) Complete the five-year SUNY Program Expenses Table, below, consistent
+   with the resource plan summary.   Enter the anticipated academic years in
+   the top row of this table.  List all resources that will be engaged
+   specifically as a result of the proposed program (e.g., a new faculty
+   position or additional library resources).  If they represent a
+   continuing cost, new resources for a given year should be included in the
+   subsequent year(s), with adjustments for inflation or negotiated
+   compensation.   Include explanatory notes as needed.
+
+SUNY Program Expenses Table
+(OPTION:  You can paste an Excel version of this schedule AFTER this
+sentence, and delete the table below.)
+|                    |Expenses (in dollars)                                   |
+|                    |                                                        |
+|Program Expense     |                                                        |
+|Categories          |                                                        |
+|                    |Before    |Academi|Academic|Academic |Academic |Academic|
+|                    |Start     |c      |        |Year 3:  |Year 4:  |        |
+|                    |          |Year 1:|Year 2: |         |         |Year 5: |
+|Library             |          |       |        |         |         |        |
+|Laboratories                                                                    |
+
+
+   a) Summarize the analysis of library collection resources and needs for
+      this program by the collection librarian and program faculty.  Include
+      an assessment of existing library resources and accessibility to those
+      resources for students enrolled in the program in all formats,
+      including the institution’s implementation of SUNY Connect, the SUNY-
+      wide electronic library program.
+
+   b) Describe the institution’s response to identified collection needs and
+      its plan for library development.
+
+
+
+
+|Section 7.  External Evaluation                                                 |
+
+
+SUNY requires external evaluation of all proposed bachelor’s degree
+programs, and may request an evaluation for a proposed associate degree or
+certificate program in a new or emerging field or for other reasons.
+
+Is an external evaluation required?   [   ] No   [   ] Yes
+
+If yes, list below all SUNY-approved evaluators who conducted evaluations
+(adding rows as needed), and submit a separate electronic document to
+accompany this form that contains each original, signed External Evaluation
+Report as well as the single Institutional Response to all reports, as
+described in Section 8.  NOTE:  To select external evaluators, a campus
+sends 3-5 proposed evaluators’ names, titles and CVs to the assigned SUNY
+Program Reviewer, expresses its preferences and requests approval.
+
+|Evaluator #1                        |Evaluator #2                        |
+|Name:                               |Name:                               |
+|Title:                              |Title:                              |
+|Institution:                        |Institution:                        |
+
+|Section 8.  Institutional Response to External Evaluator Reports            |
+
+
+As applicable, send a single Institutional Response to all External
+Evaluation Reports in the same file that contains the verbatim, signed
+External Evaluation Reports.
+
+
+
+   |Section 9.  SUNY Undergraduate Transfer                                         |
+
+
+The State University views as one of its highest priorities the
+facilitation of transfer.
+
+a) For a proposed Associate in Arts (A.A.) or an Associate in Science
+   (A.S.) degree, demonstrate that the program’s graduates will be able to
+   transfer into at least two parallel SUNY baccalaureate programs and
+   complete them within two additional years of full-time study, per SUNY
+   policy, by listing the transfer institutions below and appending at the
+   end of this document:
+    –      two completed SUNY Transfer Course Equivalency Tables, one for
+      each transfer institution; and
+    –      a letter from the Chief Academic Officer of each transfer
+      institution asserting acceptance of the completed Transfer Course
+      Equivalency Table.
+|Baccalaureate Degree         |Baccalaureate Program SED Code and|Degree   |
+|Institution                  |Title                             |         |
+|                             |                                  |         |
+|                             |                                  |         |
+
+
+b) For a proposed baccalaureate program, document articulation with at
+   least two parallel SUNY associate degree programs for seamless transfer,
+   by appending documentation of articulation, such as SUNY Transfer Course
+   Equivalency Tables and/or letters of support from Chief Academic Officers
+   at associate degree institutions or their designees.  If transfer does
+   not apply to this program, please explain why.
+|   Associate Degree          |Associate Program SED Code and    |Degree   |
+|Institution                  |Title                             |         |
+|                             |                                  |         |
+|                             |                                  |         |
+
+
+NOTE:  Transfer course equivalency tables are needed, despite SUNY Transfer
+Paths, to ensure that all courses in an A.A. or A.S. program will be
+accepted for transfer.  Official SED program titles and codes can be found
+on NYSED’s Inventory of Registered Programs at
+http://www.nysed.gov/heds/IRPSL1.html.
+
+|Section 10.  Application for Distance Education                           |
+
+a)  Does the program’s design enable students to complete 50% or more of
+the course requirements through distance education?  [  ] No    [  ] Yes.
+If yes, append a completed SUNY Distance Education Format Proposal at the
+end of this proposal to apply for the program to be registered for the
+distance education format.
+
+b)  Does the program’s design enable students to complete 100% of the
+course requirements through distance education?  [  ] No    [  ] Yes
+
+
+
+|Section MPA-1.  Need for Master Plan Amendment and/or Degree Authorization   |
+
+
+a) Based on Guidance on Master Plan Amendments, please indicate if this
+   proposal requires a Master Plan Amendment.
+   [  ] No     [  ] Yes, a completed Master Plan Amendment Form is appended
+   at the end of this proposal.
+
+b) Based on SUNY Guidance on Degree Authorizations (below), please indicate
+   if this proposal requires degree authorization.
+
+
+   [  ] No    [  ] Yes, once the program is approved by the SUNY Provost,
+   the campus will work with its Campus Reviewer to draft a resolution that
+   the SUNY Chancellor will recommend to the SUNY Board of Trustees.
+
+
+
+
+   SUNY Guidance on Degree Authorization
+   Degree authorization is required when a proposed program will lead to a
+   new degree (e.g., B.F.A., M.P.H.) at an existing level of study (i.e.,
+   associate, baccalaureate, first-professional, master’s, and doctoral) in
+   an existing disciplinary area at an institution.  Disciplinary areas are
+   defined by the New York State Taxonomy of Academic Programs.  Degree
+   authorization requires approval by the SUNY Provost, the SUNY Board of
+   Trustees and the Board of Regents.
+
+
+| List of Appended and/or Accompanying Items                                    |
+
+a) Appended Items: If materials required in selected items in Sections 1
+   through 4 and Sections 9, 10 and MPA-1 of this form apply to this
+   proposal, they should be appended as part of this document, after this
+   page, with continued pagination.  In the first column of the chart below,
+   please number the appended items, and append them in number order.
+
+
+   |Number  |Appended Items                                    |Reference Items    |
+|        |For multi-institution programs, a letter of       |Section 1, Item (e)|
+|        |approval from partner institution(s)              |                   |
+|        |For programs leading to professional licensure, a |Section 2.3, Item  |
+|        |side-by-side chart showing how the program’s      |(e)                |
+|        |components meet the requirements of specialized   |                   |
+|        |accreditation, Commissioner’s Regulations for the |                   |
+|        |profession, or other applicable external standards|                   |
+|        |For programs leading to licensure in selected     |Section 2.3, Item  |
+|        |professions for which the SED Office of           |(e)                |
+|        |Professions (OP) requires a specialized form, a   |                   |
+|        |completed version of that form                    |                   |
+|        |OPTIONAL: For programs leading directly to        |Section 2, Item 2.3|
+|        |employment, letters of support from employers, if |(h)(2)             |
+|        |available                                         |                   |
+|        |For all programs, a plan or curriculum map showing|Section 2, Item 7  |
+|        |the courses in which the program’s educational and|                   |
+|        |(if appropriate) career objectives will be taught |                   |
+|        |and assessed                                      |                   |
+|        |For all programs, a catalog description for each  |Section 3, Item (b)|
+|        |existing course that is part of the proposed      |                   |
+|        |undergraduate major (including cognates and       |                   |
+|        |restricted electives)                             |                   |
+|        |For all programs with new courses in the major,   |Section 3, Item (c)|
+|        |syllabi for all new courses in a proposed         |                   |
+|        |undergraduate major                               |                   |
+|        |For programs requiring external instruction, a    |Section 3, Item (d)|
+|        |completed External Instruction Form and           |                   |
+|        |documentation required on that form               |                   |
+|        |For programs that will depend on new faculty,     |Section 4, Item (b)|
+|        |position descriptions or announcements for faculty|                   |
+|        |to-be-hired                                       |                   |
+|        |For all A.A. and A.S. programs, Transfer          |Section 9          |
+|        |Equivalency Tables and letters of support from at |                   |
+|        |least two SUNY baccalaureate institutions;  for   |                   |
+|        |baccalaureate programs that anticipate transfer   |                   |
+|        |student enrollment, documentation of seamless     |                   |
+|        |transfer with at least two SUNY two-year programs |                   |
+|        |For programs designed to enable students to       |Section 10         |
+|        |complete at least 50% of the course requirements  |                   |
+|        |at a distance, a Distance Education Format        |                   |
+|        |Proposal                                          |                   |
+|        |For programs requiring an MPA, a Master Plan      |Section MPA-1      |
+|        |Amendment Form                                    |                   |
+
+b) Accompanying Items - External Evaluations and Institutional Response: If
+   Sections 7 and 8 of this form indicate that external evaluation is
+   required as part of this proposal, please send a separate electronic
+   document to program.review@suny.edu that contains the original, signed
+   External Evaluation Reports and a single Institutional Response to all
+   reports.  The file name should indicate the campus, program title, award
+   and content of the file (e.g., BuffaloU-English-PhD-ExEval).
+
+                           -----------------------
+[1]Use a different form if the proposed new program will lead to a graduate
+degree or any credit-bearing certificate; be a combination of existing
+registered programs (i.e. for a multi-award or multi-institution program);
+be a breakout of a registered track or option in an existing registered
+program; or lead to certification as a classroom teacher, school or
+district leader, or pupil personnel services professional (e.g., school
+counselor).
+[2]This email address limits attachments to 25 MB.  If a file with the
+proposal and appended materials exceeds that limit, it should be emailed in
+parts.
+[3] If the proposed program leads to a professional license, a specialized
+form for the specific profession may need to accompany this proposal.
+[4] If the partner institution is non-degree-granting, see SED’s CEO Memo
+94-04.

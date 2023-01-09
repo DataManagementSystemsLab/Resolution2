@@ -1,0 +1,284 @@
+Interfolio FAQs
+Prepared by ARPT – Revised/Updated Fall 2021
+see December 2020 FAQs for additional information
+General Questions
+The case won’t load; Interfolio is slow.
+Sometimes this happens. Logging out of Interfolio, refreshing the browser, and then logging back in usually works.
+Otherwise just try giving it a few minutes. System slowness sometimes seems to be linked to the number of users accessing
+the system at once. If it helps, remember that you can download file materials for offline access.
+Wait, I can download the file?
+Yes. File materials may be downloaded for offline access via either the Case Materials tab or the “Read Case” viewer.
+Please remember that faculty-candidates have the right to a confidential review process, and faculty-reviewers have an
+obligation to ensure the integrity of the process and to respect the intellectual property of our colleagues. Please treat
+downloaded materials with the same care as you did the paper binder, and delete downloaded materials following review.
+I’m supposed to complete this form but it won’t load.
+Try switching browsers. Interfolio is not compatible with Internet Explorer, although different users have reported success
+by switching to a variety of browsers (e.g. Firefox) and/or disabling ad-blocking. If this doesn’t work, see note about system
+slowness above, and try logging out/refreshing/logging back in.
+I need assistance. Who can help me?
+Questions about Interfolio or requests for technical assistance should be directed to the Interfolio Administrator, currently
+Barbara Hillery. Questions about ARPT procedures more generally – or about where to direct questions – should be
+directed to ARPT. You can also help yourself by reviewing the provided support materials.
+
+Process Questions
+When can I start working on my file?
+Candidate files in Interfolio (i.e. “cases”) will be initialized at the end of Fall semester for Spring reviews, and at the end of
+June for Fall reviews. Notification emails are sent from “SUNY College at Old Westbury” <noreply@interfolio.com>. The
+contents of the file in Interfolio follow the guidelines described in the ARPT Manual, so you can start preparing your
+materials any time.
+My file was submitted but I haven’t heard anything. Did I miss something?
+Probably not. Please review the table at the end of this document for an overview of how files move through the process
+and when you can expect to be notified. In short: the review process takes time.
+Will I get file materials back?
+At the end of the review process your complete electronic file is returned to you. Original files that you uploaded into the
+system are also stored via “Your Packets” in Interfolio, and in Dossier if you chose to duplicate them there.
+I got my file back, now what?
+Download copies of your Department Evaluation and ARPT Recommendation for easy access; you’ll need these for future
+reviews. You may also download the full file (.pdf or .zip) for archiving. Review cases will eventually be closed in Interfolio,
+at which point you will maintain access to the original materials that you uploaded (via your Packet and Dossier), but will
+lose access to materials uploaded by others. The Interfolio Administrator will communicate the timeline for this process.
+I am starting to prepare my next file, but haven’t received my last file back yet. What do I do?
+Contact Human Resources for assistance.
+
+Candidate Questions
+I want to get feedback on my materials before I “submit” my “packet.” Is there a way to do that?
+Once the candidate packet is submitted it can be cumbersome to modify, so Interfolio should generally be treated as a tool
+to move final versions of materials through the review process. Faculty have reported sharing early drafts of materials via
+email or external electronic folders (e.g. OneDrive).
+Interfolio can also facilitate this process through its “Dossier” system. As you upload materials to your packet, they will be
+duplicated to Dossier by default. Navigate to Dossier (at the top right of your Interfolio page) and add the appropriate
+materials to a “collection.” Collections can be shared electronically by email link. Users will not be able to download from
+this link, but they can review and add comments. Note that the materials in Dossier are not automatically sorted into the
+appropriate sections, but if you named files well it should be enough to get a sense of your file. Alternatively, create
+multiple “collections” corresponding to sections of your file.
+I highlight my name in the .pdf, and it redacts it in Interfolio. Argh.
+Highlight your name, print the file to a new .pdf, and upload that (secondary) version. Alternatively, modify the .pdf by
+putting a symbol in the margin, rather than over the text.
+I can’t see the Peer/Internal Letters that my EC Chair uploaded.
+Make sure you are accessing your file through the “Cases” tab on the Navigation Panel at the left of the Interfolio home page
+(rather than as your “Packet,” which only includes the documents you upload yourself). Once there, scroll down below the
+Candidate Materials to find the section for Internal Letters, as well as the other sections of your file to which folks will be
+adding materials throughout the review process.
+If you don’t see your letters in the corresponding folder, check with your chair to make sure they were added to the right
+place. Documents can be moved or re-uploaded if necessary.
+My file has been submitted to the Evaluation Committee, but I need to modify <some document>.
+Only the Evaluation Committee Chair and Candidate – designated as “Committee Managers” – are able to add, remove, or
+edit files in the case, and only at steps that include them (File Submission, Evaluation Committee Review, Department
+Review). 1
+To make modifications to the “Candidate Documents” section, the Candidate should:
+- Access the file via Cases on the Navigation Panel
+- Click the green “Unlock” button at the top of the Candidate Documents section
+- Navigate to “Your Packets” on the Navigation Panel, select the appropriate/current packet
+- Expand the Candidate Documents section and scroll to the section/document you want to modify
+- Click “Edit” and then “Replace,” and upload a new file.
+(Alternatively click remove and then add. It is not necessary to click “Submit” again.)
+- Once you have uploaded the final document, navigate back to your file via the Cases tab, make sure it showed up
+as expected, and click “Lock.”
+Files added to the “Internal Sections” (e.g. Department Evaluation Subfile) cannot be removed from a case once the case has
+been sent forward to the next review step. Please keep ARPT guidelines about required review periods in mind when
+attempting to modify file contents.
+
+Effective Fall 2021 the Candidate has “Committee Manager” status at both the Evaluation Committee and Department Review
+stages.
+
+1
+
+Evaluation Committee (EC) Chair Questions
+I want to confirm that my department faculty all got the file for review as expected.
+The list of voting faculty for each department is confirmed prior to the launch of a candidate’s file, usually by reaching out to
+the Department chair. Modifications to this list should be directed to the Interfolio Administrator.
+Faculty can view who has access to the file at the current step under the “Case Details” tab by scrolling to the bottom and
+expanding the list of “Committee Members.” Everyone listed here has access to the file at this step. The candidate’s access is
+set up separately and is not listed with other voting faculty.
+Some of my colleagues are listed as “Temporary” on that committee list. Is that okay?
+Because of some restrictions on how Interfolio “committees” function, a subset of faculty must be added to reviews on a
+case-by-case basis. The “temporary” tag is a reflection of this setup, but is irrelevant for your department’s process.
+A member of my department is on leave and changed their mind about participating in this review. How do they get access to
+the file?
+In some cases (depending on setup specifics) the EC chair may be able to update voting faculty access to the file directly.
+Open the candidate’s case, select Case Details, scroll down to Committee Members, and select Edit to modify who has access
+to the file. Select “∅” to recuse a faculty member from this file, “+” to add back in a recused faculty member. Un-toggling
+manager will take away your manager privileges (so don’t do that); toggling a second manager will duplicate some forms (also
+not advised). In cases where these functions are not visible to you, or for assistance, contact the Interfolio Administrator.
+A voting member of my department had an emergency and participated in the review but can’t complete the final sign-off.
+How can I send the case forward with this outstanding requirement?
+Under Case Details, the EC Chair (designated as Committee Manager) can select “Manage Respondents” beside the name of
+the form. Selecting “Omit Requirement” beside the name of the person who is unable to sign will typically allow you to send
+the case forward without the completed form. If a signature will not be included in the file, an explanation must be included
+in the Procedures Statement, so be sure to add one. Note that this solution may not be allowed by the system for faculty
+members labelled as “temporary.” For assistance contact the Interfolio Administrator.
+I uploaded the Internal/Peer Letters for the candidate to the wrong place. How can I move them?
+Locate your original upload, click “Edit  Edit Settings” beside the name of the specific file, and – in the case of Peer Letters –
+select “6b. Internal Letters” as the Section. Documents can only be moved within Internal Sections (not Candidate
+Documents), and in the step in which they were uploaded. Alternatively you can restrict document visibility and re-upload, or
+contact the Interfolio Administrator for assistance.
+How do we remove the Evaluation Committee Report, since that’s just a draft of our Department Evaluation?
+Documents added to the “Internal Sections” (e.g. the Evaluation Committee Report) cannot be removed once the case has
+been sent forward to the next review step. Candidates have the right to respond to written Evaluation Committee Reports,
+and this document is shared with the Department for review. As such, even if it serves as a draft of the Department
+Evaluation (as it typically does), it should be included in the file sent forward to ARPT. Naming documents accurately enables
+ARPT to review them appropriately.
+A faculty member completed the form to sign off on the final Department Evaluation before it was available. Now what?
+Form completion is date/time stamped in Interfolio. Faculty should not complete the form to sign off on the finalized
+Department Evaluation prior to reviewing the final version of this document (so, at least after the Department Review
+Meeting). In cases where this error occurs, faculty members may select “Edit Submission” to re-submit the form, but doing so
+does not (currently) update the original date recorded. As such, the EC Chair should add a note to the Procedures statement
+explaining the discrepancy in dates and specify whether the faculty member reviewed the final document as required. It is
+not necessary to name the faculty member(s).
+
+Overview of File Review Process in Interfolio
+For information regarding the actions at each review stage and the candidate’s rights, see the ARPT Manual.
+Review
+Stage/File
+Jurisdiction
+File
+Preparation
+
+Department
+Review
+
+ARPT Review
+
+HR
+
+Interfolio Step
+
+Who can see the file?
+
+Candidate
+has/gains access to
+file at this step?
+
+By when can I expect this to
+happen?
+Interfolio cases are initialized midDecember (for spring reviews)
+and end of June (for fall reviews)
+
+Candidate Uploads File
+
+Candidate
+
+Yes
+
+Evaluation Committee
+Review
+
+Candidate and Evaluation
+Committee
+
+Yes
+
+Department Review
+
+Voting Members of
+Department and Candidate
+
+Yes – Interfolio forms
+required
+
+ARPT Committee Review
+
+ARPT
+
+No
+
+As Scheduled
+
+Yes – Interfolio form
+required
+
+Typically by the end of winter
+break (fall reviews) or early
+summer (spring reviews) for
+positive recommendations.
+
+Human Resources –
+Candidate Reviews File
+
+HR Representative and
+Candidate
+
+Work backward from ARPT deposit
+date to allow required review
+periods; see manual.
+
+Earlier in cases of negative
+recommendations.
+
+Dean/Director Review
+
+Appropriate Dean or
+Director
+
+No
+
+**
+
+Provost Review
+
+Provost and Administrative
+Support
+
+No
+
+**
+
+Candidate
+Reviews/Responds,
+Academic Affairs
+Forwards
+
+Provost, Academic Affairs
+Administrative Support,
+Candidate
+
+Yes – currently no
+Interfolio form
+required; email
+requested
+
+**
+
+President’s
+Office
+
+President’s Office Review
+
+President and
+Administrative Support
+
+No
+
+**
+
+HR (for
+Processing)
+
+Human Resources
+
+HR Representative and
+Academic Affairs
+Administrative Support
+
+No
+
+**
+
+Academic
+Affairs
+
+Review
+Complete
+
+**
+Candidate
+
+Candidate
+
+Yes
+
+By notification deadline for nonrenewals (only).
+
+** Timing of these steps depends on the work of your Dean/Director, the Provost, President’s Office, and Human Resources – and is beyond the
+scope of ARPT authority. In cases of non-renewal, the candidate must be notified by the deadline (per Article 32 of UUP CBA). We recommend
+talking with colleagues/mentors about their experiences. Questions about file processing post-ARPT review should be directed to HR.

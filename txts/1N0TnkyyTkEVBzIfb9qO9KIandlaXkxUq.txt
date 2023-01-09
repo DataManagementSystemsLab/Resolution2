@@ -1,0 +1,2598 @@
+Program Revision Proposal:
+
+Creating New Program(s) from Existing Program(s)
+
+EPP Form N 
+
+
+
+	This form should be used to seek SUNY’s approval to create one or more new programs from existing, registered programs.  A campus is not required to submit a Program Announcement (PA) or a Letter of Intent (LI) for these types of new programs.   The Chief Executive or Chief Academic Officer should submit a signed cover letter and this completed form to the SUNY Provost at program.review@suny.edu.   
+
+		
+
+Section 1.  General Information
+
+a)
+
+Institutional
+
+Information
+
+
+
+Institution Name: SUC Old Westbury
+
+Institution’s 6-digit SED Institution Code: 234000
+
+Institution’s Address:
+
+PO Bos 210
+
+Old Westbury, NY  11568
+
+
+
+Additional Information:  Specify each campus and its 6-digit SED Institution Code where the program is registered and where the proposed changes would apply: 
+
+b)
+
+Contact Person for This Proposal
+
+Name and title: Dr. Patrick O’Sullivan, Provost and Senior Vice President for Academic Affairs
+
+
+
+	
+
+Telephone:  516-876-3135				E-mail: osullivanp@oldwestbury.edu
+
+
+
+c)
+
+CEO (or designee) Approval 
+
+
+
+.
+
+Signature affirms that the proposal has met all applicable campus administrative and shared governance procedures for consultation, and the institution’s commitment to support the program as revised.
+
+
+
+Name and title: Dr. Patrick O’Sullivan, Provost and Senior Vice President for Academic Affairs
+
+
+
+Signature and date:                                                       August 18, 2015
+
+
+
+
+
+
+
+
+
+If the revised program will be registered jointly with one more other institutions, provide the following information for each partner institution.  The signature confirms support of the changes.
+
+
+
+Partner institution’s name:
+
+Name and title of partner institution’s CEO:
+
+Signature of partner institution’s CEO:
+
+
+
+		Version 2013-10-17
+
+
+
+
+		Section 2.  Multi-Award and Multi-Institution Programs
+
+	
+
+	 Check one.  
+
+	
+
+	[  X  ]	This proposal is for a multi-award program that leads to two separate awards (e.g., A.S./B.A., B.S./M.S.).  Complete Part 2A, below.    NOTE:  Such programs generally involve special admissions for students who have the capacity to complete all awards, curricular integration between the component programs, and shortened time to degree compared to taking the programs separately.  
+
+	
+
+	 [    ]	This proposal is for a multi-institution program (also called a “jointly registered program”) to be offered jointly by two or more institutions.  Complete Part B, below.   NOTE:  Such programs involve a formal agreement between two or more institutions to offer courses leading to an award. 
+
+ 
+
+[    ] 	This proposal is for a multi-institution, multi-award program to be offered jointly by more two or more institutions and lead to two separate awards.  Provide a single, consolidated response that reflects all the items in Parts 2A and 2B, below.  
+
+
+
+PART 2A – Multi-Award Program
+
+
+
+Program Title: Combined B.A. /M.A.T. in Chemistry Adolescence Education
+
+Program Awards ((e.g., B.A./M.S.) from existing programs): Bachelor of Arts in Chemistry/ Master of Arts  in Teaching Chemistry Adolescence Education
+
+Proposed HEGIS Code: 1905.01
+
+Required Number of Credits:  Minimum   [ 156    ]      If tracks or options, largest minimum [      ]
+
+Format:  [ X ] Day	  [X  ] Evening 	[  ] Weekend  	[  ] Evening/Weekend	[  ] Not Full-Time
+
+Mode:    [ X ] Standard   [  ] Independent Study   [  ] External   [ ] Accelerated   
+
+    	[  ]  Distance Education  (If 50% of more of the program can be completed via distance education,   
+
+	append a Distance Education Format Proposal at the end of this form.)  
+
+g)   Other:    [  ] Bilingual  [  ] Language Other Than English   [  ] Upper Division Program   [  ] Cooperative   
+
+4.5 year    [ X ] 5 year 
+
+h) 	List registered programs at the institution identified in Section 1 whose courses will contribute to this program.  Add rows as needed. 
+
+	
+
+	Program Title
+
+	Award
+
+	SED Program Code
+
+	Program 1
+
+	Bachelor of Arts in Chemistry
+
+	B.A.
+
+	80229
+
+	Program 2
+
+	Master of Arts  in Teaching Chemistry Adolescence Education
+
+	M.A.T
+
+	32468
+
+
+
+List all the courses required for each existing program, and indicate which ones will be counted toward both awards.  See attachment 1
+
+What is the length of time students will have to complete the proposed program? 5 years
+
+
+
+k)     What are the admissions requirements for the new program, and how are they related to student success?  
+
+Candidates must apply for the program by the end of Junior year.  They must have 12 credits of residency. All candidates must have completed four lab science courses and show a GPA of 3.25 overall and 3.25 in the courses required for the Chemistry B.A. degree.  An interview is required. The GRE is mandatory for all applicants. It is used as part of a holistic review of the candidate's application. Therefore, there is no minimum acceptable score. GRE scores will be evaluated along with other components of the candidate's dossier.  
+
+Transfer students’ GPA must meet Old Westbury’s GPA requirements and transfer courses must be calculated along with Old Westbury grades for admission to this program.
+
+
+
+Candidates must submit an application that includes
+
+•	An essay
+
+•	GRE scores
+
+•	Two letters of reference from faculty
+
+•	All college transcripts
+
+Highly qualified candidates will complete the program in five years by accelerating undergraduate coursework, and moving on to graduate study in the fourth year.   Candidates must maintain a GPA of 3.25 (overall and in the major) in each semester of study.  Additionally, no grades of D are permitted for any required courses, and candidates must meet requirements of the Chemistry major.  Those whose GPA falls below 3.25will be placed on probation and will have one semester to bring up their grades.    Candidates who fail to complete the five-year program will be administratively transferred into the Chemistry major, and will graduate with the B.A. degree.
+
+
+
+Complete a SUNY Sample Program Schedule to show how students will be able to schedule all required courses to complete the multi-award program.
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attachment 1
+
+
+
+Program 1 Courses
+
+Credits
+
+Counted Toward Both Awards
+
+√
+
+Code
+
+Title
+
+
+
+
+
+CP2120, 2121
+
+Principles of Chem 1 
+
+4
+
+
+
+CP2130, 2131
+
+Principles of Chem 2 
+
+4
+
+
+
+CP3300, 3302
+
+Organic Chem 1 
+
+5
+
+
+
+CP3310, 3312
+
+Organic Chem 2 
+
+5
+
+
+
+CP3400
+
+Analytical Chem 
+
+5
+
+
+
+CP4510
+
+Biochem 1  or another 4000 level course
+
+3
+
+
+
+CP4520 or 4720
+
+Biochem Lab  or Physical Chem Lab
+
+2
+
+
+
+CP4700
+
+Physical Chem 1 
+
+3
+
+
+
+CP4710
+
+Physical Chem 2  
+
+3
+
+
+
+MA2310
+
+Calc 1 
+
+4
+
+
+
+MA2320
+
+Calc 2 
+
+4
+
+
+
+CP2220 or 2240 and CP 2221 or 2241
+
+Physics 1 
+
+4
+
+
+
+CP2230 or 2250 and 2231 or 2251
+
+Physics 2 
+
+4
+
+
+
+CP5920
+
+Chem Seminar 1 
+
+1
+
+
+
+CP5921
+
+Chem Seminar 2 
+
+1
+
+
+
+BS 2240
+
+CP 3450
+
+     Biological Sciences I  
+
+4
+
+
+
+
+
+Free Electives   
+
+6
+
+
+
+FY1000
+
+First Year Exp 
+
+4
+
+
+
+CE1000  
+
+Community Engagement  
+
+2
+
+
+
+EL1XXX
+
+English Comp 1 
+
+4
+
+
+
+EL22XX
+
+English Comp 2 
+
+4
+
+
+
+
+
+Creativity 
+
+4
+
+
+
+CP 2050
+
+Nature & Development of Science (WT) 
+
+4
+
+
+
+
+
+American Experience 
+
+4
+
+
+
+
+
+Major Cultures 
+
+4
+
+
+
+
+
+Foreign Language 
+
+4
+
+
+
+
+
+Humanities 
+
+4
+
+
+
+ED 5925
+
+Diversity 
+
+4
+
+
+
+PY2010
+
+Intro Psych
+
+4
+
+
+
+
+
+
+
+
+
+Program 2 Courses
+
+Credits
+
+Counted Toward Both Awards
+
+√
+
+Code
+
+Title
+
+
+
+
+
+ED 6000
+
+Foundations of Education
+
+3
+
+√
+
+ED6001
+
+Human Growth & Development
+
+3
+
+
+
+ED6002
+
+Foundations of Literacy 
+
+3
+
+
+
+ED6003
+
+The Exceptional Learner
+
+3
+
+
+
+ED6082
+
+Methods of Teaching Science
+
+3
+
+√
+
+ED6092
+
+Literacy & Technology / Science 
+
+3
+
+
+
+ED6900         
+
+Student Teaching  
+
+6
+
+
+
+CP6700
+
+Topics in Chemistry 
+
+3
+
+√
+
+CP6560
+
+Topics in Biochemistry 
+
+3
+
+√
+
+CP6590
+
+Topics in Environmental Science 
+
+3
+
+
+
+CP6740            
+
+Topics in Earth & Space Science
+
+3
+
+
+
+
+
+
+Program/Track Title and Award:__ Combined B.A. /M.A.T. in Chemistry Adolescence Education- Bachelor of Arts in Chemistry 
+
+Term 1: Fall 1
+
+See KEY.
+
+
+
+
+
+Term 2:Spring 2
+
+See KEY.
+
+
+
+Course Number & Title
+
+Cr
+
+GER
+
+LAS
+
+Maj
+
+TPath
+
+New
+
+Co/Prerequisites
+
+
+
+Course Number & Title
+
+Cr
+
+GER
+
+LAS
+
+Maj
+
+TPath
+
+New
+
+Co/Prerequisites
+
+First Year Exp (FY1000)
+
+4
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+Community Engag.(CE1000)
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+English Comp 1 (EL1XXX)
+
+4
+
+BC
+
+4
+
+
+
+
+
+
+
+
+
+
+
+English Comp 2 (EL22XX)
+
+4
+
+
+
+4
+
+
+
+
+
+
+
+
+
+Principles of Chem 1 (CP2120/2121) 
+
+4
+
+NS
+
+4
+
+4
+
+4
+
+
+
+
+
+
+
+Principles of Chem 2 (CP2130/2131)
+
+4
+
+
+
+4
+
+4
+
+4
+
+
+
+
+
+Calc 1 (MA2310)
+
+4
+
+M
+
+4
+
+4
+
+4
+
+
+
+
+
+
+
+Calc 2 (MA 2320)
+
+4
+
+
+
+4
+
+4
+
+4
+
+
+
+
+
+Foreign Language 1
+
+4
+
+FL
+
+4
+
+
+
+
+
+
+
+
+
+
+
+Intro Psych (PY2010 )
+
+4
+
+SS
+
+4
+
+
+
+
+
+
+
+
+
+Term credit totals:
+
+20
+
+12
+
+20
+
+8
+
+8
+
+
+
+
+
+Term credit totals:
+
+18
+
+4
+
+16
+
+8
+
+8
+
+
+
+Term 3: Fall 2
+
+See KEY.
+
+
+
+
+
+Term 4: Spring 3
+
+See KEY.
+
+
+
+Course Number & Title
+
+Cr
+
+GER
+
+LAS
+
+Maj
+
+TPath
+
+New 
+
+Co/Prerequisites 
+
+
+
+Course Number & Title
+
+Cr
+
+GER
+
+LAS
+
+Maj
+
+TPath
+
+New
+
+Co/Prerequisites
+
+Organic Chem 1 (CP 3300)
+
+
+
+5
+
+
+
+5
+
+5
+
+5
+
+
+
+
+
+
+
+Organic Chem 2 (CP 3310)
+
+5
+
+
+
+5
+
+5
+
+5
+
+
+
+
+
+Physics 1 (CP 2240)
+
+4
+
+
+
+4
+
+4
+
+4
+
+
+
+
+
+
+
+Physics 2 (CP 2250)
+
+4
+
+
+
+4
+
+4
+
+4
+
+
+
+
+
+Creativity 
+
+4
+
+AR
+
+4
+
+
+
+
+
+
+
+
+
+
+
+Western Tradition (CP 2050)
+
+4
+
+SOE
+
+
+
+
+
+
+
+4
+
+
+
+American Experience 
+
+4
+
+AH
+
+4
+
+
+
+
+
+
+
+
+
+
+
+Biological Sciences 1 (BS2240)
+
+4
+
+
+
+4
+
+
+
+
+
+
+
+
+
+Term credit totals:
+
+17
+
+8
+
+17
+
+9
+
+9
+
+
+
+
+
+Term credit totals:
+
+17
+
+8
+
+17
+
+9
+
+9
+
+
+
+Term 5: Fall 3
+
+See KEY.
+
+
+
+
+
+Term 6:Spring 4
+
+See KEY.
+
+
+
+Course Number & Title
+
+Cr
+
+GER
+
+LAS
+
+Maj
+
+TPath
+
+New
+
+Co/Prerequisites
+
+
+
+Course Number & Title
+
+Cr
+
+GER
+
+LAS
+
+Maj
+
+TPath
+
+New
+
+Co/Prerequisites
+
+Physical Chem. 1 (CP 4700)
+
+3
+
+
+
+3
+
+3
+
+
+
+
+
+
+
+
+
+Physical Chem. 2 (CP4710)
+
+3
+
+
+
+3
+
+3
+
+
+
+
+
+
+
+Biochem 1 (CP 4520)
+
+3
+
+
+
+3
+
+3
+
+3
+
+
+
+
+
+
+
+Major Cultures
+
+4
+
+
+
+4
+
+
+
+
+
+
+
+
+
+Biochem/Phys. Chem Lab (CP 4520/4720)
+
+2
+
+
+
+2
+
+2
+
+
+
+
+
+
+
+
+
+Free Electives
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analytical Chem (CP 3400)
+
+5
+
+
+
+5
+
+5
+
+5
+
+
+
+
+
+
+
+Chem. Seminar 1 (CP 5920)
+
+1
+
+
+
+1
+
+1
+
+
+
+
+
+
+
+Diversity (ED 5925S)
+
+4
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+Foundations of Education (ED 6000)
+
+3
+
+
+
+3
+
+
+
+
+
+
+
+
+
+Term credit totals:
+
+17
+
+
+
+17
+
+12
+
+
+
+
+
+
+
+Term credit totals:
+
+13
+
+
+
+15
+
+4
+
+
+
+
+
+Term 7: Fall 4
+
+
+
+
+
+
+
+Term 8: Spring 5
+
+See KEY.
+
+
+
+Course Number & Title
+
+Cr
+
+GER
+
+LAS
+
+Maj
+
+TPath
+
+New
+
+Co/Prerequisites
+
+
+
+Course Number & Title
+
+Cr
+
+GER
+
+LAS
+
+Maj
+
+TPath
+
+New
+
+Co/Prerequisites
+
+Chem. Seminar 2 (CP 5921)
+
+1
+
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GE Humanities
+
+4
+
+H
+
+4
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Free Electives
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics in Chem 1 (CP 6700)
+
+3
+
+
+
+3
+
+3
+
+
+
+
+
+
+
+
+
+Methods of Teaching (ED 6082)
+
+3
+
+SOE
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+Topics in Chem 2 (CP 6710)
+
+3
+
+
+
+3
+
+3
+
+
+
+
+
+
+
+Term credit totals:
+
+12
+
+4
+
+8
+
+8
+
+
+
+
+
+
+
+Term credit totals:
+
+6
+
+
+
+3
+
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term 9: Summer 5     
+
+
+
+Term 10: Fall 5
+
+Course Number & Title
+
+Credits
+
+New
+
+Co/Prerequisites
+
+
+
+Course Number & Title
+
+Credits
+
+New
+
+Co/Prerequisites
+
+Human Growth & Dev. (ED 6001)
+
+3
+
+
+
+
+
+
+
+Literacy & technology (ED 6092)
+
+3
+
+
+
+
+
+Found. Of Lit. (ED 6002)
+
+3
+
+
+
+
+
+
+
+Environmental Science (BS 6590)
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics in Earth & Space (CP 6740)
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exceptional Learner (ED 6003)
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term credit total:
+
+      6
+
+
+
+
+
+Term credit total:
+
+      12
+
+
+
+
+
+Term 11: Spring 6     
+
+
+
+Term 10: Spring 6
+
+Course Number & Title
+
+Credits
+
+New
+
+Co/Prerequisites
+
+
+
+Course Number & Title
+
+Credits
+
+New
+
+Co/Prerequisites
+
+Student Teaching
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term credit total:
+
+      6
+
+
+
+
+
+Term credit total:
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Step 5:
+
+Attach syllabi for each new course.  Syllabi should include a course description and identify course credit, objectives, topics, student outcomes, texts/resources and the basis for determining grades.  
+
+
+
+Pedagogical Core Courses Table
+
+	Course Number and Title
+
+	Credit
+
+	R/E
+
+	Instructor(s) / Status
+
+	Pedagogical Core Requirements (PCR) Addressed 
+
+	
+
+	
+
+	
+
+	
+
+	General PCR*
+
+Program-Specific PCR  
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Cert
+
+	Code 
+
+	Cert 
+
+	Code 
+
+	Cert 
+
+	Code   
+
+	Cert 
+
+	Code 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	04
+
+	
+
+	
+
+	
+
+ED6000: Foundations of Ed 
+
+	3
+
+	R
+
+	Kenneth Card (part-time)
+
+	(i) (ii)(vii) (viii)
+
+	
+
+	
+
+	
+
+	
+
+ED6001: Human Growth & Devel 
+
+	3
+
+	R
+
+	Julio Gonzalez (full-time)
+
+	(i) (ii)
+
+	
+
+	
+
+	
+
+	
+
+ED6002: Foundations of Literacy 
+
+	3
+
+	R
+
+	Stephanie Schneider (full-time)
+
+	 (iv)
+
+	
+
+	
+
+	
+
+	
+
+ED6003:Except Learner 
+
+	3
+
+	R
+
+	Sanja Cale (full-time)
+
+	(i) (ii) (iii)(vi)
+
+	
+
+	
+
+	
+
+	
+
+ED6082:Methods of Teaching Science
+
+	3
+
+	R
+
+	Fernando Espinoza (full-time)
+
+	(i) (ii) (v) (vii) (viii) (ix) (x) (xi)(xii)(xiii)
+
+	
+
+	
+
+	
+
+	
+
+ED6092: Literacy & Technology / Science
+
+	3
+
+	R
+
+	Fernando Espinoza (full-time)
+
+	(i) (iv) (v) (vi) (vii) (ix)
+
+	
+
+	
+
+	
+
+	
+
+ED6900Student Teaching  
+
+	6
+
+	R
+
+Renee Markowicz (part-time)
+
+	(i)(ii)(v)(vi)(vii) 
+
+	
+
+	
+
+	
+
+	
+
+*Based on regulations, General Pedagogical Core Requirements (PCR) are applicable to all programs with exception of a) programs leading exclusively to initial certificates valid for teaching a specific career and technical subject; and b) programs leading exclusively to extensions/annotations.
+
+
+
+The curriculum of the graduate courses offered by the School of Education has been updated to better prepare our candidates for the new certification requirements: Educating All Students Test (EAS), Academic Literacy Skill Test (ALST) and EdTPA. While ED6000: Foundation of Education offers a survey of all the new tests, ED6001: Human Growth and Development and ED6003: The Exceptional Learner focus more on the EAS test. The requirements for ALST are covered in ED6002: Foundation of Literacy and ED6092: Literacy, Research and Technology in Science. Candidates are instructed in how to prepare for the EdTPA in all their education courses, but more specific training occurs in ED6082: Method s and Materials of Teaching Science, ED6092: Literacy, Research and Technology in Science and of course in ED6900: Student Teaching. In this last course, candidates are provided an overview of all the NYSED certification requirements and attend several workshops that cover each test specifically. 
+
+
+
+
+
+ED6000 Historical, Social, and Philosophical Foundations of Education: 3 credits 
+
+This course examines the historical development of American education in the context of the nation’s social and philosophical traditions. Special attention will be given to the major social forces and movements that have shaped, and continue to shape, educational practice. We will explore the relationship between schools and society in the colonial period to the origins of the public (common) school to contemporary trends in constructivist ways of knowing. 
+
+An important feature of this course is to understand and interpret the contribution that both social movements and the discipline of philosophy have contributed to the origin and development of modern education and schooling. We will pay particular attention to the conflicting interpretations regarding the role of schools in society, and how the various social movements and philosophical traditions that we will study struggled to address issues of cultural diversity in American education.
+
+
+
+ED6001 Human Growth and Development: 3 credits
+
+This course focuses on the development of learners from birth through adolescence, their phases of learning, their intellectual, social, and emotional growth, character development, individual differences, interests, attention, and motivation. The teacher candidates will understand how these aspects of human growth and development relate and influence the teaching/learning process. 
+
+
+
+
+ED6002 Foundations of Literacy: 3 credits
+
+This course examines literacy as an evolving language process. Theories of language acquisition will be addressed as 
+
+a primary aspect of communication. The focus of this course will be communication aspects of literacy which includes listening, speaking (oral language), reading, and writing. These aspects are consistent with the NYS ELA Standards. 
+
+An integral part of this course will be the elements of critical thinking. (Emphasis will be placed on topics such as: constructing meaning to convey information, the role of explicit instruction, vocabulary enhancement, assessing language, and the importance of literature enrichment.) 
+
+
+
+ED6003 The Exceptional Learner: 3 credits
+
+This course provides an introduction to the categories of exceptionality and the rules and regulations concerning the provision of special education and related services. There will be a focus on advanced professional, legal, and ethical standards. Advocacy and student services advocacy, and the application of computer-based technologies specific to working with students with disabilities will also be addressed. 
+
+
+ED 6082: Methods and Materials of Teaching Science: 3 credits
+
+Introduction to the main issues involved in teaching science at the secondary school level. The course has a focus on inquiry-driven methods consistent with current standards in science education, uses of technology and relevant software, teaching strategies, assessment, and inclusion of special student populations. The course is structured to enhance the development of science literacy, critical thinking, and problem solving with an emphasis on the teacher-as-learner. The course includes several mandatory on campus workshops covering the topics of child abuse prevention, school violence prevention and prevention of   harassment, bullying, cyberbullying and discrimination in schools.  Fieldwork under supervision.
+
+
+
+
+ED6092 Literacy, Research, & Technology in Science: 3 credits
+
+Introduction to research and practice in the analysis of syntax (rules and structure) and semantics (what is meant) within specific disciplines; reasons why many modern textbooks have removed logical connectives in order to improve readability; science learning involves words of increasing level of abstraction such as giving familiar objects new names, and giving new names to unfamiliar objects; process words like evaporation, distillation, condensation, evolution; concept words like work, energy, power, heat, force, an area where most learning difficulties are encountered; mathematical language as it applies to scientific measurements with an emphasis on graphical understanding of the uses of microcomputer-based laboratory techniques. The course includes field experience in the secondary schools. Fieldwork under supervision.
+
+
+ED6900 Student Teaching –Science: 6 credits
+
+In this course, students have school-based teaching experiences under the guidance of a cooperating teacher and a college supervisor at each school. Seventy-five days of mentored teaching will prepare student teachers to teach effectively both at the middle and high school levels. The mentoring teacher and the university supervisor will observe regularly and provide ongoing formative evaluations in close collaboration with the student. Student teachers will meet with the university supervisor in a weekly seminar throughout the semester. Prerequisites: Completion of all pedagogy and content courses.
+
+
+	For programs leading to Initial certification, each requirement for field experience, student teaching and practica must meet the following regulatory requirements:  
+
+	
+
+It is consistent with the program's philosophy, purposes and objectives and carefully selected and planned by program faculty, with learning outcomes specified and their achievement regularly evaluated;
+
+
+
+It is accompanied by coursework or seminars and supervised by one or more faculty who participate actively in the program and in program development, and who have training and skills in supervision and the expertise to provide supervision related to content and pedagogy. Full-time faculty shall participate in supervising students during their student-teaching or practica experiences; and
+
+
+
+It provides candidates with experiences in a variety of communities and across the range of student developmental levels of the certificate, experiences practicing skills for interacting with parents or caregivers, experiences in high need schools, and experiences with each of the following student populations: socioeconomically disadvantaged students, students who are English language learners and students with disabilities. 
+
+	
+
+	List Courses that Require Field Experiences*
+
+	Course Number
+
+	Course Title
+
+	Instructor
+
+	Grade Level
+
+	Clock Hours
+
+ED6082 
+
+Methods of Teaching Science
+
+	Fernando Espinoza (full-time)
+
+7-12
+
+60
+
+ED6092
+
+Literacy & Technology / Science
+
+	Fernando Espinoza (full-time)
+
+7-12
+
+40
+
+	*Based on regulations, field experiences are not applicable to programs leading exclusively to the following extensions: 1) 5-6 extensions; 2) 7-9 extensions; and 3) coordination of work-based/discipline-specific and diversified learning programs extensions. 
+
+
+
+SUNY policy for student teaching requires that candidates complete a minimum of 75 days in classrooms and schools in two separate experiences, at least one of which is in a high-need school.  In the table below, list the courses that require college-supervised student teaching.
+
+	
+
+	List Courses that Require College-Supervised Student-Teaching Experiences*
+
+	Course Number
+
+	Course Title
+
+	Instructor
+
+	Grade 
+
+	Level
+
+	No. of Full School Days
+
+ED6900
+
+Student Teaching  
+
+Renee Markowicz (part-time)
+
+7-12
+
+75
+
+	*Based on regulations, student-teaching experiences are not applicable to programs leading exclusively to extensions/annotations.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Section 4. Faculty
+
+
+
+	Complete the SUNY Faculty Table on the next page to describe current faculty and to-be-hired (TBH) faculty.   
+
+
+
+	Append at the end of this document position descriptions or announcements for each to-be-hired faculty member.  
+
+
+
+NOTE:  CVs for all faculty should be available upon request.  Faculty CVs should include rank and employment status, educational and employment background, professional affiliations and activities, important awards and recognition, publications (noting refereed journal articles), and brief descriptions of research and other externally funded projects.    New York State’s requirements for faculty qualifications are in Part 52.2(b) of the Regulations of the Commissioner of Education.
+
+
+
+	What is the institution’s definition of “full-time” faculty?  Service, scholarship and teaching of 3 courses a semester.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUNY Faculty Table
+
+Provide information on current and prospective faculty members (identifying those at off-campus locations) who will be expected to teach any course in the graduate program. Expand the table as needed.  Use a separate Faculty Table for each institution if the program is a multi-institution program.  
+
+
+
+Faculty Member Name and Title/Rank
+
+(Include and identify Program Director with an asterisk.)
+
+% of Time Dedicated to This Program
+
+Program Courses Which May Be Taught
+
+(Number and Title)
+
+Highest and Other Applicable Earned Degrees (include College or University)
+
+Discipline(s) of Highest and Other Applicable  Earned Degrees
+
+Additional Qualifications: List related certifications, licenses and professional experience in field.
+
+PART 1.  Full-Time Faculty
+
+
+
+
+
+
+
+
+
+
+
+Fernando Espinoza*, Professor
+
+100%
+
+ED6082  Methods of Teaching Science
+
+ED6092 Literacy, Research and Technology / Science
+
+ED6250 Nature of Science
+
+CP6740  Earth and Space Science
+
+
+
+Ed. D. Columbia University
+
+Science Education
+
+High school physics teaching; Coordinator of Science Education at Old Westbury
+
+Judith Lloyd, Professor
+
+33% course load when teaching
+
+CP6590  Environmental Science
+
+CP6700 Topics in Chemistry 1
+
+CP6710 Topics in Chemistry 2
+
+Ph.D.  Ohio State University
+
+Physical Chemistry
+
+
+
+Robert Hoyte, Distinguished Teaching Professor 
+
+33% course load when teaching
+
+CP6700 Topics in Chemistry 1
+
+CP6710 Topics in Chemistry 2
+
+Ph.D. Rutgers University
+
+Organic Chemistry
+
+
+
+Konrad Wu,  Professor
+
+33% course load when teaching
+
+CP6700 Topics in Chemistry 1
+
+CP6710 Topics in Chemistry 2
+
+Ph.D.  SUNY Albany
+
+Physical Chemistry
+
+
+
+Youngjoo Kim, Associate Professor
+
+33% course load when teaching
+
+CP6560 Molecular Biology 
+
+CP6700 Topics in Chemistry 1
+
+CP6710 Topics in Chemistry 2
+
+Ph.D. Oregon Health and Science University
+
+Biochemistry
+
+
+
+Ruomei Gao,  Associate Professor
+
+33% course load when teaching
+
+CP6700 Topics in Chemistry 1
+
+CP6710 Topics in Chemistry 2
+
+Ph.D. University of Science and Tech. of China
+
+Analytical Chemistry
+
+
+
+Steve Samuel, Associate Professor
+
+33% course load when teaching
+
+CP6700 Topics in Chemistry 1
+
+CP6710 Topics in Chemistry 2
+
+Ph.D. Clark University
+
+Organic Chemistry
+
+
+
+Bright Emenike, Assistant Professor
+
+33% course load when teaching
+
+CP6700 Topics in Chemistry 1
+
+CP6710 Topics in Chemistry 2
+
+Ph.D. Miami of Ohio
+
+Organic Chemistry
+
+
+
+	Lori Zaikowski, Professor
+
+33% course load when teaching
+
+CP6700 Topics in Chemistry 1
+
+CP6710 Topics in Chemistry 2
+
+Ph.D. Stony Brook University
+
+Organic Chemistry
+
+NYSED Certification Grades 7-12 Biology, Chemistry, Physics, General Science
+
+	Julio Gonzalez, Associate Professor
+
+17%
+
+ED6001 Human Growth & Development
+
+Ed.D. University of Massachusetts-Amherst
+
+Child & Families Studies Program
+
+State of Massachusetts, Certification special Education (1-12)
+
+	Stephanie Schneider, Assistant Professor
+
+	
+
+
+
+17%
+
+ED6002: Foundations of 
+
+Literacy 
+
+Ph.D. Hofstra University
+
+Literacy Studies
+
+NYSED Certification (7-12) Social Studies/ Special Education
+
+	Sanja Cale 
+
+17%
+
+ED6003:Except Learner 
+
+Ph.D. Stony Brook University
+
+Clinical Psychology
+
+Board Certified Behavior Analyst
+
+Part 2.  Part-Time Faculty
+
+
+
+
+
+
+
+
+
+
+
+	Kenneth Card, Adjunct
+
+100%
+
+ED6000 Historical, Social, and Philosophical Foundations of Education
+
+Ed.D Dowling College
+
+Educational Administration Leadership and Technology
+
+	NYSED Certification District Administrator
+
+Renee Markowicz, Adjunct
+
+100%
+
+ED6900 Student Teaching
+
+DVM; Advanced Cert. SUNY Old Westbury
+
+Veterinary Science & Education
+
+NYSED Certification (7-12) Biology
+
+Part 3.  Faculty To-Be-Hired (List as TBH1, TBH2, etc., and provide title/rank and expected hiring date.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1

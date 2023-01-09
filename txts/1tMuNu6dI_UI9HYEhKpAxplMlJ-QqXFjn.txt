@@ -1,0 +1,205 @@
+SUNY Graduate Sample Program Schedule (OPTION: You can insert an Excel version of this schedule
+AFTER this line, and delete the rest of this page.)
+
+Program/Track Title and Award: Masters of Science in Data Analytics
+a)
+Indicate academic calendar type: [ x ] Semester [ ] Quarter [ ] Trimester [ ] Other (describe):
+b)
+Label each term in sequence, consistent with the institution’s academic calendar (e.g., Fall 1, Spring 1,
+Fall 2)
+
+c)
+Use the table to show how a typical student may progress through the program; copy/expand the
+table as needed.
+d)
+Complete the last row to show program totals and comprehensive, culminating elements. Complete all
+columns that apply to a course.
+Term 1: Fall 1
+Course Number &
+Title
+
+Term 2: Spring 1
+Credits
+
+MA 6510: Statistics
+I
+CS 6010:
+Algorithms and
+Programming
+Techniques
+CS 6020:
+Introduction to
+Databases
+Term credit total:
+
+New Co/Prerequisites
+
+Acceptance to
+program
+
+MA 6520:
+Statistics II
+
+3
+
+x
+
+MA 6510
+
+3
+
+x
+
+Acceptance to
+program
+
+CS 6030: Data
+Warehousing
+
+3
+
+x
+
+CS 6020
+
+x
+
+Acceptance to
+program and
+concurrent with
+CS 6010
+
+CS 6110: Data
+Analytics I
+
+3
+
+x
+
+CS 6020 and MA
+6510
+
+3
+
+Term credit
+total:
+
+9
+
+Credits
+
+New Co/Prerequisites
+
+Course
+Number &
+Title
+
+Credits
+
+CS 7520:
+Project
+Management
+CS 7920:
+Analytics
+Project II
+
+x
+
+CS 6110
+
+CS 7510:
+Communication and
+Presentation
+
+3
+
+x
+
+CS 6110
+
+CS 7910: Analytics
+Project I
+
+3
+
+x
+
+CS 6110, CS
+6530 and MA
+6520
+
+Total
+Credits:
+36
+
+9
+
+Term 4: Spring 2
+
+3
+
+Program
+Total:
+
+New Co/Prerequisites
+
+x
+
+CS 6010: Data
+Analytics II
+
+Term credit total:
+
+Credits
+
+3
+
+Term 3: Fall 2
+Course Number &
+Title
+
+Course
+Number &
+Title
+
+CS 7800:
+Internship
+Term credit
+total:
+
+9
+
+New Co/Prerequisites
+
+3
+
+x
+
+CS 6110
+
+3
+
+x
+
+CS 7910, CS
+7510 and CS
+6120
+
+3
+
+x
+
+CS 6110 and MA
+6520
+
+9
+
+Identify the required comprehensive, culminating element(s), such as a thesis or
+examination, including course number(s), if applicable: CS 7910: Analytics Project
+1 and CS 7920: Analytics Project 2.
+
+New: X if new course
+
+Prerequisite(s): list prerequisite(s) for the listed courses
+
+15
