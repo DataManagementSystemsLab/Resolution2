@@ -23,7 +23,7 @@ def ocr(input, output, ocring):
     return True, txt                     
 
 # Load the list of filenames from empty.json
-with open('empty.json') as f:
+with open('empty2.json') as f:
         filenames = json.load(f)
         empty2=[]
         # Set the source and destination directories
@@ -54,7 +54,7 @@ with open('empty.json') as f:
 
         print(empty2)
         # Open a file for writing
-        with open('empty2.json', 'w') as f2:
+        with open('empty22.json', 'w') as f2:
             # Write the list to the file in JSON format
             json.dump(empty2, f2)
         print('Finished OCR files!')
