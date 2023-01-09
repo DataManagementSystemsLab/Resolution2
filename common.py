@@ -2,6 +2,7 @@ import textract
 import json
 import textract
 import os
+import trackback
 def isPdf(f):
 	if 'mimeType' in f:
 		if f['mimeType']=='application/pdf':
@@ -118,6 +119,7 @@ def get_resolutions( files, dir="/Users/User/Desktop/resolution/files/"):
 def   save_txt(filename,txt):
 		base, extension = os.path.splitext(filename)
 		txtfilename="../txts/"+base+".txt"
+                print( "File" +txtfilename)
 		with open(txtfilename, 'w') as tmpf:
 			tmpf.write(txt)    
 
@@ -140,14 +142,15 @@ def get_resolutions2( files, dir="/Users/User/Desktop/resolution/files/"):
 				if len(txt)==0:
 					empty.append(filename)
 				else:
-					save_txt(f,txt)	
+					save_txt(filename,txt)	
 					if 'resolution' in txt:
 						print ("found in " +filename)
 						print(get_title(files,base))
 						resolutions.append(filename)
 			except:
 				print("Exception "+base) 
-				failed.append(filename)	
+				failed.append(filename)
+                                traceback.print_exc()
 		else:
 			print ("skipping "+base) 
 	return resolutions,failed,empty
