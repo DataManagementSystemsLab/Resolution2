@@ -115,6 +115,14 @@ def get_resolutions( files, dir="/Users/User/Desktop/resolution/files/"):
 			print ("skipping "+k)	
 	return resolutions,failed	
 
+def   save_txt(filename,txt):
+		base, extension = os.path.splitext(filename)
+		txtfilename="../txts/"+base+".txt"
+		with open(txtfilename, 'w') as tmpf:
+			tmpf.write(txt)    
+
+
+
 def get_resolutions2( files, dir="/Users/User/Desktop/resolution/files/"):
 	resolutions=[]
 	failed=[]
@@ -131,10 +139,12 @@ def get_resolutions2( files, dir="/Users/User/Desktop/resolution/files/"):
 				txt=txt.strip()
 				if len(txt)==0:
 					empty.append(filename)
-				elif 'resolution' in txt:
-					print ("found in " +filename)
-					print(get_title(files,base))
-					resolutions.append(filename)
+				else:
+					save_txt(f,txt)	
+					if 'resolution' in txt:
+						print ("found in " +filename)
+						print(get_title(files,base))
+						resolutions.append(filename)
 			except:
 				print("Exception "+base) 
 				failed.append(filename)	
