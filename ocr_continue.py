@@ -36,10 +36,10 @@ with open('empty.json') as f:
                     # Construct the full path to the destination location
                     dst_path = os.path.join(dst_dir, filename)
                     # Create the destination directory if it doesn't exist
-                    f,txt=ocr(src_path,dst_dir,False)
+                    f,txt=ocr(src_path,dst_path,False)
                     txtfilename="txts/"+base+".txt"
                     if f==False:
-                        f,txt=ocr(src_path,dst_dir,True)
+                        f,txt=ocr(src_path,dst_path,True)
                         if f:
                             with open(txtfilename, 'w') as tmpf:
                                 tmpf.write(txt)
