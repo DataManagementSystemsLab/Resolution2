@@ -7,6 +7,7 @@ import common as c
 
 def ocr(input, output, ocring):
     if (ocring):
+            print("OCR "+ input)
             ocrmypdf.ocr(input, output, deskew=True)
     if (os.path.exists(output)):
             txt=c.convert(output)
@@ -24,12 +25,13 @@ with open('empty.json') as f:
         empty2=[]
         # Set the source and destination directories
         src_dir = 'files'
-        dst_dir = 'files3'
+        dst_dir = 'files1'
 
         # Iterate through the list of filenames
         for filename in filenames:
                     # Construct the full path to the file in the source directory
                     base, extension = os.path.splitext(filename)
+                    print("========="+ base +"=======")
                     src_path = os.path.join(src_dir, filename)
                     # Construct the full path to the destination location
                     dst_path = os.path.join(dst_dir, filename)
