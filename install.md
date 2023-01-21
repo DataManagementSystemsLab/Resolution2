@@ -5,4 +5,4 @@
   pip3 install pdf2txt
   need to install rust
 
-  I am not sure we need all the packages
+  I am not sure, which  packages that are needed.

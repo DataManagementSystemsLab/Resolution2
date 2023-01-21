@@ -44,6 +44,7 @@ def convert(filename):
                 return None     
         return txt
 
+#-- old function
 def get_contents(dir,fs,lst):
         contents={}
         i=0
@@ -75,6 +76,20 @@ def get_contents(dir,fs,lst):
                 json.dump(contents, contents_file)
                 contents_file.close()
 
+def get_str_title(fs, id):
+        l=[]
+        if id not in fs: 
+                return []
+        o=fs[id]
+        parent_title=[]
+        if 'parents' in o:
+                if len(o['parents']) >= 1:
+                        pid=o['parents'][0]['id']
+                        parent_title=get_str_title(fs,pid)
+                l= parent_title
+        l.append( o['title'])
+        return l 
+
 def get_title(fs, id):
         l=[]
         if id not in fs: 
@@ -87,7 +102,7 @@ def get_title(fs, id):
                         parent_title=get_title(fs,pid)
                 l= parent_title
         l.append( o['title'])
-        return l 
+        return l         
 
 # find files that has resolution word into it
 def get_resolutions( files, dir="/Users/User/Desktop/resolution/files/"):
@@ -107,7 +122,7 @@ def get_resolutions( files, dir="/Users/User/Desktop/resolution/files/"):
                                 txt=convert(filename)
                                 if 'resolution' in txt.lower():
                                         print ("found in " +k)
-                                        print(get_title(files,k))
+                                        print(get_str_title(files,k))
                                         resolutions.append(k)
                         except:
                                 print("Exception "+k)   
@@ -146,7 +161,7 @@ def get_resolutions2( files, dir="/Users/User/Desktop/resolution/files/"):
                                         save_txt(filename,txt)  
                                         if 'resolution' in txt:
                                                 print ("found in " +filename)
-                                                print(get_title(files,base))
+                                                print(get_str_title(files,base))
                                                 resolutions.append(filename)
                         except:
                                 print("Exception "+base) 
